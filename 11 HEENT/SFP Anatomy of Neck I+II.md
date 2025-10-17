@@ -58,13 +58,23 @@ investing fascia will surround the whole neck
 - the nerves that will eventually go out to innervate stuff **emerge in this vertebral compartment region, which will then go between the anterior and middle scalene**
 	- these are roots + trunk of the BP, making the axillary sheath . 
 
+![[deep cervical fascia compartments.png]]
+2 vascular copmartments holding the internal jugular v thruout the entire length of it 
+above C4 (common carotid bifurcation)
+- internal carotid is in the vascular comapartment - **external carotid is not in the vascular compartment**
+- vagus nerve is part of the carotid sheath 
+
+fascial spaces - the numbered regions - 1, 2, 3 
+- pretracheal space, retropharyngeal , and prevertebral 
+- pretracheal - sontinuoous into the thorax, to the superior mediastinum + anterior mediastinum 
+- retropharyngeal = posterior mediastinum 
+- prevertebral= posterior mediastnum , but all the way down to diaphragm 
+- so if you have a thyroid en
 
 
-i-blason ares flip 
 
-supcase ub grip
 
-uag trooper 
+
 
 
 i also forced myself to face my sexuality around a time i had a massive crush, which i shortly learned it would never happen. crushing and falling in love with people is so rare, so when it doesn't work out, or you're in a limbo of desperation and always thinking about one motherfucker all the time it is kinda excruciating. i only got to survive once i went a little outside my own body and told myself that this happens to everyone. same shit for breakups. i'm not a failure or im not unloveable this is just what happens
