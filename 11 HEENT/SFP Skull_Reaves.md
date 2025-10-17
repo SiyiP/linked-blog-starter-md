@@ -70,7 +70,7 @@ posterior cranial fossa
 middle cranial fossae
 has many parts 
 
-![[Screenshot 2025-10-13 at 1.25.52 PM.png]]
+![[middle cranial fossae.png]]
 - middle meningeal a - impressions seen on both sides, seen arching off the sides of each bone
 	- this is a br off the maxillary artery 
 - carotid canal -  not seen that well that will travel into the brain with the internal carotid a 
@@ -195,7 +195,7 @@ temporomandibular joint
 - mandibular fossa in the middle with articular disk + tubercle
 - ligaments are named here 2 of these 
 
-![[Screenshot 2025-10-13 at 11.32.19 PM.png]]![[Screenshot 2025-10-13 at 11.32.35 PM.png]]![[Screenshot 2025-10-13 at 11.32.50 PM.png]]![[Screenshot 2025-10-13 at 11.33.06 PM.png]]
+![[landmarks and foramina skull.png]]![[landmarks and foramina lateral view.png]]![[landmarks of skull bottom up view.png]]![[foramina of skull.png]]
 
 air densities - nasal cavity, paranasal sinuses
 water desnitties, bone desntieis too 

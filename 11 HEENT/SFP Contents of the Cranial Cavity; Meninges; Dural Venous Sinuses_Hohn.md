@@ -44,7 +44,7 @@ mandibular division V3 -> auriculotemporal n, supplies just behind the anterior 
 
 C2 - lesser occipital n  from Ventral rami = giving behind ear + to the posterolateral 
 - greater occipital n from dorsal rami - majority of posterior scalp to midline
-![[Screenshot 2025-10-14 at 10.34.45 AM.png]]
+![[arteries of skull.png]]
 arteries of scalp - rather superficial 
 - from br of external carotid , and from common carotid is from brachiocephalic trunk on either side from that aortic arch. 
 	- gives all the branchs in neck and face 
@@ -145,7 +145,7 @@ dural sinuses.
 - facial vein via **superior oppthalamic vein will connect the 2**
 - that infection will spread perfusely bc of the connectios t ot he sup/inf petrosal sinus + pterygoid plexus
 
-![[Screenshot 2025-10-14 at 11.02.35 AM.png]]
+![[veins and sinuses of skull.png]]
 
 vascular dura supply 
 - getting all blood largley from middle meningeal a, a br of maxillary a . 

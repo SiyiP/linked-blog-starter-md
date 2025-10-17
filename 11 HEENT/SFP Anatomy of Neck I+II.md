@@ -63,6 +63,33 @@ investing fascia will surround the whole neck
 above C4 (common carotid bifurcation)
 - internal carotid is in the vascular comapartment - **external carotid is not in the vascular compartment**
 - vagus nerve is part of the carotid sheath 
+- vascular compartment - which **contains the carotid sheath**
+	- internal jugualr vein + vagus n from entire distance
+	- inf to C4, common carotid a 
+	- superior ot C4 = interal carotid a
+	- carotid system 
+		- either way common carotid is from the **level of sternoclavicular joint**
+		- common carotid a from the **right comes from brachiocephalic trunk**
+		- common carotid a from the **left is from arch of aorta**
+		- as it ascends in the sheath, it will be crossed by omohyoid tendon, and then bifurcates at C4, external and internal carotid
+			- external carotid will leave the sheath , major supplier 
+			- external carotid branches will come off below the posterior digastric belly? -> basically descends into that carotid triangle 
+				- 8 brs in total : 
+					- superior thyroid - first br coming out , tiny br to the **thyroid gland**
+					- ascending pharyngeal - ascends to give msucles along pharynx , same level just more posterior
+					- lingual  - artery go deep to the digastric belly, supplies oral cavity floor 
+					- facial - goes deep to digastric muscle, wrapping around the jaw, and crosses over the jaw into the facial msucles , making a little groove. 
+						- sometimes the lingual + facial comes from a common stem off the external... 
+					- occipital - posterior to the facial - ascends deep to posterior digastric, wrapping around to the occipital region 
+					- posterior auricular - ascends superior to stylohyoid muscle
+						- giving rise to postrior auricular artery 
+					- superfcal temporal - terminal br, going into the scalp 
+					- maxillary - infratemporal region
+		-  **as it bifurcates - we see the dilated portion carotid sinus in the carotid triangle, at C4** = a baroreceptor measuring the BP
+![[arteries of neck.png]]
+
+
+			- 
 
 fascial spaces - the numbered regions - 1, 2, 3 
 - pretracheal space, retropharyngeal , and prevertebral 
@@ -93,11 +120,171 @@ sensory branches all emerge from at the sternocleidomastoid on top of it, for th
 - great auricular - straight to the ear lobe 
 - transverse cervical - crosses anterior aspect of neck 
 - supraclavicular n - drapes over the clavicle 
+nerves of these are from cervical plexus !!
+- note the spinal accessory nerve from the skull will run deep to SCM and crosses posterior triangle. 
+any of the cervical plexus nerves from C5 and below -> emerge between anterior + middle scalene. 
+**superiorly C1-> 4 = emerge anterior to the middle scalene , not sandwiched.** 
+
+muscular floor of the posterior triangle 
+- splenius capitis
+- levator scapulae
+- scalene muscles (3 of thm, posterior, middle, and anterior)
+- omohyooid from scapular notch with 2 heads and intermeddiate tendon deep to SCM 
+	- makes the subclavian triangle with the SCM and the clavicle . - **if you apply compression you block the subclavian vessels.**
+
 they are all closely associated with the external jugular vein, piercing the deep fascia at the SCM lateral edge 
 - anterior jugular vein tributaries get here under the chin, disappearing into SCM, and then the communicating br to the external jugular. 
 
+![[superficial neck veins.png]]
+- posterior division + posterior auricular will make the 
+- retromandibular v divides -> ant/post division 
+	- post division of retromandibular + posteiror auricular will make external jugular v 
+	- this will pierce deep fascia, joining subclavian v 
+- anterior jugular will drain into external jugular 
+- fasical vein + retromandibular anterior division -> common facial vein -> deep internal jugular vein - if we have heart related issues - **external jugular vein will dilate CVP!!!**
+
+things deep to platysma
+ - motor nn - cervical + marginal mandibular br of 7
+ - cutnaeous nerves = transverse cervical nn, great auricular, supraclavicular 
+ - veins - ant + external jugular veins
+
+posterior tri
+- bt SCM posterior edge and anterior edge of trapezius m 
+- anterior triangle - bt SCM 
+
+SCM muscle
+- from 2 heads
+	- from manubrium 
+	- other one from medial 1/3 clavicle 
+- will both insert onto the mastoid process + nuchal line 
+- CN 11 supplies it; the accessory n 
+- tilds the head to the shoulder of same side. rotates head toward opposite side. 
+
+2 prevertebral muscles
+- longus capitus 
+	- from occipital bone -> C3-C6 transverse processes
+	- action for both - flex head. + neck _> **rotation!_**
+	- nerve supply - ventral primary rami of cervical nn
+- longus coli - from C5->T3 bodies, and insertion into the C3-C5 transverse process  coming up 
+
+scalene muscles - from side 
+anterior 
+- from C3-6 trans processes -> 1st rib 
+middle 
+- c1-6 trans processes -> 1st rib, posterior to the anterior scalene. ; broader origin , 
+posterior 
+- from lower cervical vert, trans processes -> 2nd rib ; 
+- they all rotate and flex neck, nerve supply - VPR of cervical nerves 
+
+VPR of cervical nerves 
+- note - C5 and below which make the cervical plexus emerge between anterior + middle scalene 
+- C1+2+3 + 4 come out and simply run down restng on the middle scalene 
+
+cervical plexus \
+![[cervical plexus.png|484x356]]
+loops formed between 1+2, 2+3, and 3+4 - not named
+hypoglossal - CNXII close to C1. 
+spinal accessory nerve crossses that posterior triangle 
+C1  makes circle and also **hikes with the hypoglossal nerve**
+- they **leave the hypoglossal nerve - to make a loop called the ansa cervicalis**
+- ansa cervicalis - will loop over the carotid sheath 
+- other C1 fibers continue + leave the hypoglossal nerve making nerves to the hyoid (genio and thyrohyoid )
+- C3 +2 will complete the ansa cervicalis 
+	- these will go on to the sternothyroid, sternohyoid, omohyoid 
+phrenic nerve, C3,4,5 -> descends **on the anterior scalene muscle**
+- pinneed down to the anterior scalene via **transverse cervical + suprascapular a**
+C2,C3 loop = making most of the sensory branches. 
+- C3+4 -> loop of the supraclavicular n descending 
+- C2-4 = are all giving proprioceptive fibers from the CN IX accessory n 
+
+brachial plexus + subclavian arteries
+- basically that **anterior scalene muscle** separates subclavian vein (more anterior) from subclavian a 
+- first part of subclavian a - medial of the anterior scalene muscle, having the thyrocervical trunk -> which gives out that transverse cervical a and subclavian artery eventually 
+
+pathology 
+1. torticollis - contraction of cervical muscles producing twisting of neck + slanting of head
+	1. see muscular commonly - children congenital
+		1. might require PT or surgical intervention 
+		2. can be acquired due to infection or trauma
+		3. we see fibrous tissue tumor in SCM , injury from birth, or hematoma + fibrotic mass entrappign CN XI, denervating SCM!!
+	2. spasmodic 
+		1. cervical dystonia , 
+		2. happens in adults, might combine with trapezius 
+		3. somethings's wrong with the nerve transiently 
+		4. sustained malpositioning, and shoulder can be elevate + anteriorly displaced. 
+2. subclavian a comprression 
+	1. pressure in subclavian triangle 
+	2. superior to clavicle, inf/anterior to the inferior belly of omohyoid m
+	3. main arterial supply to upper limb 
 
 
+
+---
+anterior cervical triangle = points apex **inferiorly instead!**
+bounds - 
+- posteriorly, SCM m 
+- superiorly - inf border of **mandible**
+- anterior = **midline of neck**
+- apex = the jugular notch of manubrium
+have to reflect the SCM
+- looks like there's curtains near midline - the infrahyoid muscles
+visceral compartment = larynx, esophagus, trachea, glands
+- see carotid sheath - common carotid a, int jugular vein and internal carotid a 
+
+subdivisions of anterior triangle- bounds divided by muscles, 
+- muscles - supahyoid mm, infrahyoid mm - they all ascend to insert on that bone 
+- suprahyoid mm (4)- > elevate hyoid bone 
+	- mylohoid - origin from myohyoid lines (interior aspect of mandible)
+		- from the mylohyoid line from inner mandible 
+		- makes a seam fuses together near midline, making an upside down tent supporting oral cavity 
+		- insertion into body of hyoid + fibers of muscle on opposite side 
+		- nerve to mylohyoid is from CNV3 
+	- stylohoid m - from styloid process of hyoid 
+		- insertion to body + greater horn of hyoid 
+		- **pierced by tendon of digastric muscle, running thru it**
+		- innvervation by nerve to stylohoid from CN 7 
+	- geniohyoid m - from genial tubercle of anterior inferior mandible 
+	- digastric m - 2 bellies, one from mastoid process, other from mandible + intermediate tendon bound to hyoid bone
+		- posterior belly from mastoid process -> interediate tendon which pierces stylohoid 
+			- nerve to stylohyoid CN7 
+		- anterir belly from lower mandible and then to intermediate tendon 
+			- since it's sitting on mylohyoid it's innervated by nerve to mylohyoid CN 5  
+		- intermediate tendon - **tied to hyoid with loop of fascia**
+		- we make a submandibular AKA digastric triangle - with the mandible + anterior + posterior bellies of digastric m 
+			- submandibular glands in this area too 
+		- submental triangle - the medial most border of the anterio belly of digastric m + midline + hyoid bone - 
+- infrahyoid msucles - 4 - make a **strap**
+	- omohyoid m from superior scapula border
+		- superior belly -> from intermediate tendon up to the hyoid bone 
+		- inferior belly -> runs from **below the clavicle** to the intermediate tendon 
+			- ansa cervicalis supplies these 2 
+	- sternohyoid m - attach to the - longest from internal surface of menubrium to the lower surface of hyoid bones
+		- in bt these two, the pretracheal fascia is there 
+		- nerve - C1,2,3 = ansa cervicalis branches 
+	- sternothyroid m - attach to the thyroid? - under sternohyoid 
+		- from interior aspect of sternum , from the posterior surface of manubrium -> oblique line of lamina of thyroid cartilage
+		- Ansa cervicalis 
+		- this muscle makes **pockets where the thyroid gland can insert into, they can't extend further than this so it limits its extension superiorly**
+	- tyrohyoid m - under sternohyoid 
+		- from the oblique line of thyroid lamina insertion into lower border of hyoid bone 
+		- n<mark style="background: #FFF3A3A6;">erve to thyrohyoid - c1 travelling on hypoglossal CN 12 </mark>
+
+carotid triangle 
+- inferiorly formed by anterior border of SCM, 
+- superiorly the posterior belly of digastric
+- anteriorly superior belly of omohyoid 
+- this is where you feel that carotid pulse, so you can press vessels against the cervical vertebae processes. 
+muscular triangle - forget about it :P 
+
+
+
+
+
+
+
+
+
+---
 
 
 
