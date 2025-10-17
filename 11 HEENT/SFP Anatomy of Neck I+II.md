@@ -67,9 +67,34 @@ above C4 (common carotid bifurcation)
 fascial spaces - the numbered regions - 1, 2, 3 
 - pretracheal space, retropharyngeal , and prevertebral 
 - pretracheal - sontinuoous into the thorax, to the superior mediastinum + anterior mediastinum 
+	- - so if you have a thyroid elargement or tumor it'll move down to the heart. and 
+	- similarly if you have an issue with mediastinum it can move up to the neck. 
 - retropharyngeal = posterior mediastinum 
+	-  infection spread is huge here 
 - prevertebral= posterior mediastnum , but all the way down to diaphragm 
-- so if you have a thyroid en
+	- infection spread is huge here 
+
+skin + platysma 
+- muscle of fascial expression, ennervation by facial nerve 
+- innervated by cervical br of facial n CN 7 
+- we will see the lower portion of carotid gland there too, lowest br cervical branch 
+ppl as they age get bands in their neck - the remnants of platysma just fyi 
+
+cutaneous innervation of HEENT
+![[cutaneous nn of scalp.png]]
+
+- dermatomes are C2, and then at middle of neck = C3, and then at the root or base of neck more down it's C4!!! 
+- posteriorly. these nerves are coming from the dorsal rami 
+- and ventral rami + the cervical plexus who is made by the ventral rami supply the front. 
+
+sensory branches all emerge from at the sternocleidomastoid on top of it, for the posterior triangle - they all come from the same or similar points, outside the deep fascia. 
+- lesser occipital n - ascending to behind the ear 
+- greater occipital nerve 
+- great auricular - straight to the ear lobe 
+- transverse cervical - crosses anterior aspect of neck 
+- supraclavicular n - drapes over the clavicle 
+they are all closely associated with the external jugular vein, piercing the deep fascia at the SCM lateral edge 
+- anterior jugular vein tributaries get here under the chin, disappearing into SCM, and then the communicating br to the external jugular. 
 
 
 
