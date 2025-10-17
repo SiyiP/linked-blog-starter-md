@@ -100,6 +100,9 @@ internal jugular vein
 	-
 -  along the **neck path of internal jugular = lymph nodes are there, deep cervical lymph nodes collecting from the skull AND superficial lymph nodes (along the external jugular v)**
 - then the lymph either joins the thoracic duct or goes into the brachiocephalic vein independently 
+- superficial cervical nodes. - skin of neck -> external jugular vein 
+- regional nodes submandibular node,s parotid nodes, mastoid nodes + occipital nodes , all drain down to the deep cervical nodes. 
+- deep nodes drain via jugular trunks to venous system 
 
 
 fascial spaces - the numbered regions - 1, 2, 3 
@@ -301,7 +304,67 @@ visceral compartment of the pretracheal fascial creation
 - recurrent larygneal br  of vagus - inside that **tracheal esophageal groove,**
 - we see sup + inf thyroid aa 
 
+blood supply to thyroid gland
+- having superior thyroid a + v = from the **external carotid to the upper portion of thyroid lateral lobes**
+- inferior thyroid a = from the thyrocervical trunk, pt 1 of the subclavian 
+- thyroid ima = some ppl have a 3rd artery ascending to the area of the isthmus ; not often. 
+- superior vein = going nto internal jugular v 
+- middle thyroid v =  also going nto internal jugular v ; **there is no artery counterpart- will be on the practical!**
+- inferior thyroid veins - drain inferiorly to brachiocephalic veins and might merge into each other. 
 
+inferior thyroid a - cross posterior to carotid sheath 
+- to remove the thyroid - 
+	- ligate both inf/sup thyroid ar
+	- ligate superior thyroid a- **careful of the external laryngeal n**
+	- ligate inf thyroid a- carful of it crisscrossing the recurrent laryngeal n 
+- 2 glands on each lobe itself embedded
+	- superior parathyroid + inferior parathyroid glands. 
+
+parathyroid - never see this, back of trachea, thyroid glands are well-connected, 
+- superior parathyroid - on superior pole, posterior of the thryoid 
+	- consistent placement - from the 4th brachial pouch embryology - quick lateral trip moves over 
+- inferior parathyroid gland - consider it being next to the recurrent laryngeal nerve
+	- from the third pouch with the **thymus**- 
+
+not uncommon to see the **inferior parathyroid gland not  where we expect, as far down as the mediastinum!!!**
+- the inferior from the third pouch will migrate w the thymus... but **if it sticks with the thymus it will go to the mediastinum/..**
+
+
+the root of neck - inlet of thorax, above the interior surface of rib1, medial clavicle in that region 
+- formation of brachiocephalic veins, 
+- thoracic duct running posterior to carotid sheath 
+- subclavian v + arteries (separated by anterior scalene muscles
+- roots of BP emerging superior to subclavian a 
+- part 1 of the subclavian a - branches coming off medial to the anterior scalene muscle 
+
+recall subclavian artery 3 parts
+- part 1  - medial to anterior scalene 
+	- vertebral a -> ascends in 3 parts
+		- pt 1 , cervical portion - from first part of foramen into the transverse process foramen , entering C6 , 
+		- pt 2 , vertebral portion - proceeds upwards thru last foramen at C1 in canal 
+		- pt 3, - suboccipital part, swings out and then enters skull in **foramen magnum, and intracranial portion, making basilar artery making circle of willis**
+		![[vertebral a angiogram.png|240x188]]
+	- thyrocervical trunk
+		- 2nd br, gives rise to the **transverse cervical a + suprascapular a**
+			- will pin the phrenic n against anterior scalene muscle 
+		- inf thyroid br will ascend higher than it needs to and then loops back to the thyroid, having relationshps with the recurrent laryngeal n 
+	- int thoracic a descends 
+- part 2 - DEEP to anterior scalene 
+	- costocervical trunk 
+- part 3 - lateral to anterior scalene 
+
+brachiocephalic vein - made in the gap bt manubrial + clavicular head of SCM 
+- internal jugular v goes down + joinged by subclavian 
+- basically a supraclavicular canuula can be used to access this large vein 
+- and an infraclavicular appraoch can be used too - 
+- supervicial subclavian v is important for ports 
+
+
+thoracic duct 
+- posterior to carotid sheath 
+- this will ascend left of esophagus transverse process of C7 
+- in the mediastinum, travels to l side -> crossing all the branches of the **first part of the subclavian a**
+- and then descends to drain into the brachiocephalic vein !
 
 
 
@@ -320,10 +383,14 @@ pathology
 	1. pressure in subclavian triangle 
 	2. superior to clavicle, inf/anterior to the inferior belly of omohyoid m
 	3. main arterial supply to upper limb 
-3. thyroid gland - develops from a downgrowth from a thyroglossal duct 
+3. aberrant thyroid tissue = thyroid gland - develops from a downgrowth from a thyroglossal duct 
 	1. some ppls thyroid glands fail to move down, having thyroglossal duct, it being below the tongue
 	2. other ppl might drop little dips of tissue, whch might be continuous = a **pyramidal lobe**
 	3. aberrant thyroid tissue = **always superior to the isthmus, where t's supposed to drop down. diff from thyroid overgrowth**
+4. aberrant parathyroid; tumor while its in the mediastinum 
+	1. bone breakdown, hgih ca levels
+	2. if in embryological dev, the 3rd brachial pouch continues to migrate together down with the thymus 
+	3. will be in the mediastinum- we need good imaging 
 
 
 
