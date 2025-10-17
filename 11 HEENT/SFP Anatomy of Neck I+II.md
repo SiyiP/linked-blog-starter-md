@@ -88,8 +88,19 @@ above C4 (common carotid bifurcation)
 		-  **as it bifurcates - we see the dilated portion carotid sinus in the carotid triangle, at C4** = a baroreceptor measuring the BP
 ![[arteries of neck.png]]
 
+internal jugular vein 
+- in the sheath ultmately joinign subclavian to make **brachiocephalic v**
+![[veins and sinuses of skull.png]]
+- recall its making a whole lot of sinuses , coming out of the skull + are formed, sigmoid sinus will go down joined by another sinus making the internal jugular vein leaving the jugular foramen
+- superficial temporal vein - joined by the maxilary vein making that retromandibular vein 
+	- has post + ant division
+	- joined by posterior auricular -> external jugular 
+	- anterior division -> joined by common facial v draining into the internal jugular v 
+	- superior + middle thyroid vein + common vfascial will join into the internal jugular v 
+	-
+-  along the **neck path of internal jugular = lymph nodes are there, deep cervical lymph nodes collecting from the skull AND superficial lymph nodes (along the external jugular v)**
+- then the lymph either joins the thoracic duct or goes into the brachiocephalic vein independently 
 
-			- 
 
 fascial spaces - the numbered regions - 1, 2, 3 
 - pretracheal space, retropharyngeal , and prevertebral 
@@ -201,21 +212,6 @@ brachial plexus + subclavian arteries
 - basically that **anterior scalene muscle** separates subclavian vein (more anterior) from subclavian a 
 - first part of subclavian a - medial of the anterior scalene muscle, having the thyrocervical trunk -> which gives out that transverse cervical a and subclavian artery eventually 
 
-pathology 
-1. torticollis - contraction of cervical muscles producing twisting of neck + slanting of head
-	1. see muscular commonly - children congenital
-		1. might require PT or surgical intervention 
-		2. can be acquired due to infection or trauma
-		3. we see fibrous tissue tumor in SCM , injury from birth, or hematoma + fibrotic mass entrappign CN XI, denervating SCM!!
-	2. spasmodic 
-		1. cervical dystonia , 
-		2. happens in adults, might combine with trapezius 
-		3. somethings's wrong with the nerve transiently 
-		4. sustained malpositioning, and shoulder can be elevate + anteriorly displaced. 
-2. subclavian a comprression 
-	1. pressure in subclavian triangle 
-	2. superior to clavicle, inf/anterior to the inferior belly of omohyoid m
-	3. main arterial supply to upper limb 
 
 
 
@@ -274,9 +270,60 @@ carotid triangle
 - superiorly the posterior belly of digastric
 - anteriorly superior belly of omohyoid 
 - this is where you feel that carotid pulse, so you can press vessels against the cervical vertebae processes. 
+	- inside the vascular structures of this area:
+	- hypoglossa n swinging down, X branches are inside, and accessory nerve descending too 
+	- making ansa cervicalis right under... 
 muscular triangle - forget about it :P 
 
+vagus nerve X 
+- leaves thru jugular foramen to exit out of skull -
+- only this one out of the rest of the CNs exiting from jugular foramen - stay in the sheath - out of 9,10,11 
+- X travels thru neck , posterior to vessels, and somewhat in between artery supply of internal + common carotid + internal carotid v 
+	- **gives offf superior laryngeal nerve leaving the sheath**, which splits: 
+		- internal laryngeal n - sensation to laynx down to vocal fold levels
+		- external laryngeal - innervates cricothyoid muscle to tense the vocal folds, traveling with the superior thyroid artery, so this is dangerous to look out for in thyroidectomy 
+	- pharyngeal nerve
+	- recurrent laryngeal n - sensory to all the levels *below* the vocal folds , will operate all the muscles below too - **loss of voice if u dmg this one**
 
+other CN in NECK
+1. CN 9 , leaves via jugular foramen , bt internal jugular v + internal carotid a 
+	1. deep to the stylohyoid m 
+	2. **one thing to recall - sensory brs from carotid sinus + carotid body traveling back to CN9**
+2. CN 11 accompanies, structures bt internal jugular v + int carotid a , leaves jugular foramen, and deep to SCM, 
+3. CN 12 - hypoglossal canal leaves!! this is medial to internal jugular vein 
+	1. will **sweep down and crosses many br of external cartoid artery, the occipital artery, external carotid, and both lingula + facial br going deep to digastric + stylohoid**
+
+visceral compartment of the pretracheal fascial creation 
+- thyroid glands have the isthmus covering C2-4 tracheal rings 
+- 2 lobes from isthmus will be ascending 
+- recall that the thyroid gland ascendence is stopped by the sternothyroid muscles 
+	- see the expansion be inferior in case of goiter
+- recurrent larygneal br  of vagus - inside that **tracheal esophageal groove,**
+- we see sup + inf thyroid aa 
+
+
+
+
+
+pathology 
+1. torticollis - contraction of cervical muscles producing twisting of neck + slanting of head
+	1. see muscular commonly - children congenital
+		1. might require PT or surgical intervention 
+		2. can be acquired due to infection or trauma
+		3. we see fibrous tissue tumor in SCM , injury from birth, or hematoma + fibrotic mass entrappign CN XI, denervating SCM!!
+	2. spasmodic 
+		1. cervical dystonia , 
+		2. happens in adults, might combine with trapezius 
+		3. somethings's wrong with the nerve transiently 
+		4. sustained malpositioning, and shoulder can be elevate + anteriorly displaced. 
+2. subclavian a comprression 
+	1. pressure in subclavian triangle 
+	2. superior to clavicle, inf/anterior to the inferior belly of omohyoid m
+	3. main arterial supply to upper limb 
+3. thyroid gland - develops from a downgrowth from a thyroglossal duct 
+	1. some ppls thyroid glands fail to move down, having thyroglossal duct, it being below the tongue
+	2. other ppl might drop little dips of tissue, whch might be continuous = a **pyramidal lobe**
+	3. aberrant thyroid tissue = **always superior to the isthmus, where t's supposed to drop down. diff from thyroid overgrowth**
 
 
 
