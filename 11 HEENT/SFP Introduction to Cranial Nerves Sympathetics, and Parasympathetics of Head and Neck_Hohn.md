@@ -80,9 +80,13 @@ CN nuclei
 - CN 7 - has **lacrimal *superior aspect of the superior salivatory nucleus* and the superior salivatory nucleus,** synapsing in the **pterygopalatine and submandibular ganglion**
 	-  postganglionic parasympathetic ones -> lacrimal, nasal, palatine glands + submandibular + sublingual glands 
 - CN 9 glossopharyngeal - has parasymp fibers from the inferior salivatory nuc -> ganglia of the otic ganglia 
-	-  postganglionic parasympathetic ones -> parotid gland 
-- CN 10 vagus nerve - has fibers from the nucleus ambiguus and dorsal motor nuc and going to the terminal ganglia near heart or other tissues 
+	- inferior salivatory nuc -> preganglionic parasympathetic fibers -> **lesser petrosal nerve** (br of glossopharyngeal n), which will convey parasympathetic nerves to the **otic ganglion in the infratemporal fossa** 
+	- -> postganglionic parasympathetic ones travel thru **auriculotemporal nerve, which is CNV3** -> parotid gland 
+		- note - the auriculotemporal n aka CNV3 will drop those parasympathetic nerves off as it ascends to supply the scalp 
+		- runs with the auriculotemporal n = the **superficial temporal a**
+- CN 10 vagus nerve - has fibers from the nucleus ambiguus and dorsal motor nuc and going to the terminal ganglia near heart or other tissues (pharynx, larynx, thoracic viscera, abdominal viscera of foregut + midgut)
 	-  postganglionic parasympathetic ones -> heart lungs GI tract (to first 2/3 of transverse colon)
+
 
 general pathways of CNs... memorize 
 functional components of CNS
@@ -110,16 +114,39 @@ sensory ganglia for CNs with sensory compoennt - 5 of the CNs with sensory compo
 		- somatic sensory - skin of face, anterior 2/3 of tongue, and oral cavity + face via auriculotemporal nerve bc it's on lateral aspect 
 		- somatic motor - look below 
 - facial n -> geniculate ganglion 
-	- visceral motor: 
-	- CN 7 travels thru the **internal acoustic meatus**, travels thru and then makes the **greater petrosal nerve from the geniculate ganglion**
-	- greater petrosal nerve travels thru temporal bone -> joins the **deep petros**
-	- facial sensory: 
+![[facial nerve paths.png]]
+	- parasymp: visceral motor of lacrimal glands:: nucleus; **superior salivatory nucleus!!!!**
+	-  CN 7 travels thru the **internal acoustic meatus**, travels thru and then makes the **greater petrosal nerve from the geniculate ganglion**
+	- greater petrosal nerve travels thru temporal bone -> joins the **deep petrosal nerve** -> nerve of pterygoid canal 
+		- keep in mind - the greater petrosal nerve has preganglionic parasympathetic fibers
+		- and deep petrosal nerve = conveying / riding along plexus on internal carotid artery - so it's a postganglionic sympathetic fiber!!!
+		- therefore:  nerve of pterygoid canal is a **mixed nerve**
+		- this nerve travels thru the pterygoid canal -> **pterygopalatine ganglion** fossa where preganglionic parasympathetic fibers **synapse!!!!**
+		- postganglionic parasympathetic fibers will eventually reach lacrimal gland to supply parasympathetic innovation to the lacrimal glands. 	
+	- parasymp: visceral motor of other glands submandibular + sublingual:: 
+	- CN 7 **superior salivatory nuc** -> cordae tympani superior to stylomastoid foramen -> traverses spac in cheek called **infratemporal fossa** -> ultimately 
+	- joins the **lingual nerve, which is CNV3**!! - 
+	- -> lingual nerves convey those nerves down to the **submandibular ganglion of the oral cavity**
+	- postganglionic parasympathetics distributed to the submandibular + sublingual glands 
+	**- facial sensory:** 
 	-  taste of anterior 2/3 of tongue -> travels back thru the **lingual nerve (br of CN V3!)** 
 	- and then -> the corda tympani, br of CN 7, and then 
 	- -> brainstem... 
-- vestibulochochlear n CN8 -> vestibular ganglion + spiral ganglion 
+- vestibulochochlear n CN8 -> vestibular ganglion + spiral ganglion  = this is special sensory hearing + equilibrium 
+	- 2 part nerve, enters thru the internal acoustic meatus
+		- will go into cochlear nerve = hearing , -> spiral ganglion
+		- vestibular nerve = equilibrium -> vestibular ganglion
 - glossopharyngealn -> superior + inferior ganglia 
+	- parasympathetic!!! 
+	- also supplies taste special sensation to the posterior 1/3 of tongue 
+	- somatic sensory -> oropharynx 
+	- visceral sensory to carotid body + sinus 
 - vagus n -> superior + inferior ganglia 
+	- parasympathetic too 
+	- also supplies: sensory inforamtion, somatic + visceral 
+		- somatic = larynx + laryngopharynx
+			- parts of ear 
+		- visceral = from the aortic body chemoreceptors, aortic arch baroreceptors, thoracic viscera, abdominal viscera of foregut + midgut 
 - sensory ganglia of CNs = super similar to **dorsal root ganglia of spinal nerves, where sensory cell bodies are located**
 
 9 CNs with motor component ; fibers from the motor nuclei traveling past those CNs
@@ -155,10 +182,20 @@ sensory ganglia for CNs with sensory compoennt - 5 of the CNs with sensory compo
 		- preganglionic fibers are **from** the **superior salivatory nucleus** and travels thru the intermediate nerve which **joins facial nerve**
 		- parasympathetic take one or 2 paths
 			- innervate: submandibular, sublingual, lacrimal and mucosal of nasal cavity + palate 
-
-- nucleus ambiguus -> glossopharyngeal n and vagus n 
+- nucleus ambiguus -> glossopharyngeal n 
+	- somatic motor innnervation to just **stylopharyngeus m**, more on pharynx thing 
+- nucleus ambiguus -> vagus n 
+	- somatic motor innervation to the pharynx muscles and soft palate (talk more abt it next week), and the palatoglossus m of tonue, and all larynx muscles 
 - ventral horn of gray matter of cervical spinal cord -> spinal accessory n 
-- hypoglossal nuc 
+	- will give motor somatic innervation to trapezius + SCM m 
+	- this is a union of the first 5-6 Cervical spinal nerves 
+	- only motor 
+- hypoglossal nuc -> only mootr to tongue msucles 
+	- somatic motor fibers from the hypoglossal nuc -> hypoglossal n ->
+		- intrinsic muscles of tongue
+		- styloglossus , hyoglossus m , genioglossus n 
+	- recall - some of the **C1** fibers travel **with the hypoglossal nerve CN12 on their way to the geniohyoid + thyrohoid muscles**
+		- and we drop off the C1 fibers with the ansa cervicalis , loop which sends to the infrahyoid muscles
 
 note that sensory + sympathetic fibers can **pass thru parasympthetic ganglia without synapsing**
 - recall that the sacral preganglionic parasympathetic fibers originate and then use the sympathetic system like plexuses as a highway, traveling **thru the prevertebral ganglia** adn then don't synapse! 
@@ -167,3 +204,10 @@ note that sensory + sympathetic fibers can **pass thru parasympthetic ganglia wi
 	- there's ciliary ganglion (CN3), and preganglionic sympathetic fibers from plexus around interal carotid and then travel thru there
 	- and then synapse in the sympathetic chain ganglia 
 	- sensory fibers afferents do the same thing. 
+
+pathology 
+1. horner syndrome , can be on affected side 
+	1. lesion of cervical sympathetic trunk -> sympathetic dysfunction 
+	2. anhidrosis(no sweating), ptosis(droop upper eyelid), miosis(small pupils, paralysis of dilator pupillae muscles, unopposed action of the sphincter muscles CN3 ), enophthalmos(sinking in of eye)
+	3. causes can be smth operative trauma to the inferior cervical/stellate ganglion 
+	4. pressure on the inf cervical ganglion or sympathetic trunk - enlarged cervical nodes, upper mediastinal tumor, carotid aneurysm or mass in neck. 
