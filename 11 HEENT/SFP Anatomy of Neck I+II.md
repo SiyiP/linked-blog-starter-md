@@ -413,3 +413,7 @@ had a few people come up to me at twitchcon to say the same thing, and it was a 
 
 
 prezoh - placing importance on whether my looks match what you personally find attractive is demonic and you should just watch porn or something. i look different from three years ago because i don't present myself to maximize my fuckability according to gooners, or people obsessed with skinniness or youth
+
+![[foramina of skull.png]]
+
+![[skull foramen combined.png]]
