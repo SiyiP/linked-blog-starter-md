@@ -77,7 +77,7 @@ CN nuclei
 - preganglioninc parasymp fibers come from nuclei in brainstem
 - CN3 - has **parasymp fibers from edinger-westphal nucleus**, synapsing in **ciliary ganglion**
 	- postganglionic parasympathetic ones -> sphincter pupillae muscle + ciliary muscle of accommodation 
-- CN 7 - has **lacrimal *superior aspect of the superior salivatory nucleus* and the superior salivatory nucleus,** synapsing in the **pterygopalatine and submandibular ganglion**
+- CN 7 - has **lacrimal nuc, aka *superior aspect of the superior salivatory nucleus* and the superior salivatory nucleus,** synapsing in the **pterygopalatine and submandibular ganglion**
 	-  postganglionic parasympathetic ones -> lacrimal, nasal, palatine glands + submandibular + sublingual glands 
 - CN 9 glossopharyngeal - has parasymp fibers from the inferior salivatory nuc -> ganglia of the otic ganglia 
 	- inferior salivatory nuc -> preganglionic parasympathetic fibers -> **lesser petrosal nerve** (br of glossopharyngeal n), which will convey parasympathetic nerves to the **otic ganglion in the infratemporal fossa** 
