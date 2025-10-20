@@ -112,21 +112,7 @@ glands inf to oral cavity
 
 ---
 
-pathology 
-1. pain distribution in CN V, usually V2. 
-	1. more in women than men 
-	2. pain in skin, teeth, tongue, mouth, nose 
-	3. inc incidence with age, 
-	4. MS , 
-	5. TREAT: alc/glycerol injection thru foramen OVALE for injection into the ganglion 
-	6. insertion of small balloon sometimes to stretch that semilunar ganglion = percutaneous rhizotomy 
-2. if we get an inujury at the lacrimal gland, near the N to stapedius
-	1. injury right outside the internal acoustic meatus , -> dry eye loss of parasympathetic innervation to lacrimal glands
-	2. hyperacusis - paralysis of stapedius muscle between the ganglion + stapedius bc inhibits the quality of sound 
-	3. lesion at chorda tympani - loss of taste in 2/3rds of tongue + also **loss of submandibular + sublingual salivary glands**
-	4. lesion right before exiting the stylomstoid foramen => paralysis of facial expression muscle 
 
-![[Screenshot 2025-10-20 at 12.46.54 AM.png]]
 
 major facial a - all bilateral 
 - supraorbital - lateral 
@@ -156,4 +142,74 @@ pulse points = aa crossing bones
 
 facial veins - 
 - superior opthalamic vein- emerges at the superior orbitla fissure connects with the one in the inferior orbital fissure
-- key ; **no valves + veins in the face <mark style="background: #FFF3A3A6;">know there's no valves to shut it off bc the veins will spread infection fast - danger triangle thrombophlebitis of deep veins</mark>**
+- key ; **no valves + veins in the face <mark style="background: #FFF3A3A6;">know there's no valves to shut it off bc the veins will spread infection fast - danger triangle thrombophlebitis of deep veins of head</mark>**
+
+lymphatics of face
+- key - pattern the blood supply - don't rlly see 
+- but konw they have **names for areas**
+- submental nodes - central low lip/chin 
+- submandibular nodes - **anterior face**
+- partid nodes - **lateral** face
+- deep cervical nodes = **along int jugular v**
+
+parotid gland - near the **zygomatic arch posterior end, anterior to mastoid, border o ramus mandible**
+- facial nerve -**passes thru not innervating but branches will emerge under its anterior + superior portions be careful**
+
+we have 2 parotid lobes
+- superficial 
+	- - most tumors are benignly and from here. 
+- deep lobes
+	- thi sis bt mastoid process + ramus of mandible 
+in surgery careful due to CN7 
+
+
+thru the gland is 
+- facial n 
+- retromandibular v + 2 tributaries
+- ext carotid a + 2 terminal brs!!!
+near it 
+- masseter m - crosses this inf to transverse facial A , inf to the zygomatic arch  + turns medially @ anterior edge of masseter m 
+- SCM m - 
+- deep to it - medial pterygoid m , digastric m posterior , stylohyoid m 
+- carotid sheath 
+- this will **pierce buccinator m near anteiror border of masseter m**
+the duct will open on buccal mucosa in vestibule of oral cavity - can feel the duct - the opening, lateral to upper 2nd molar!! - feel with yuor tongue!
+
+parotid has: 
+parasympathetic innervation via CN 9, the glossopharyngeal n - **lesser petrosal n**
+1. inferior salivatory nucleus -> 
+2. CN9 entering thru the jugular foramen 
+3. -> tympanic br of CN 9 
+4.  preganglionic parasympathetic fibers
+5. tympanic plexus in the **middle ear!**
+6. lesser petrosal N passes **thru the foramen ovale, which is where CNV3 also travels thru**
+7. synapses on otic ganglion -> 
+8. **hitches a ride on auriculotemporal n from CNV3 to rop those off!!!**
+	1. note the middle meningeal A is surrounded by these! 
+notes from [[SFP Introduction to Cranial Nerves Sympathetics, and Parasympathetics of Head and Neck_Hohn]] : 
+ has parasymp fibers from the inferior salivatory nuc -> ganglia of the otic ganglia 
+	- inferior salivatory nuc -> preganglionic parasympathetic fibers -> **lesser petrosal nerve** (br of glossopharyngeal n), which will convey parasympathetic nerves to the **otic ganglion in the infratemporal fossa** 
+	- -> postganglionic parasympathetic ones travel thru **auriculotemporal nerve, which is CNV3** -> parotid gland 
+		- note - the auriculotemporal n aka CNV3 will drop those parasympathetic nerves off as it ascends to supply the scalp 
+		- runs with the auriculotemporal n = the **superficial temporal a
+
+
+
+pathology 
+1. pain distribution in CN V, usually V2. 
+	1. more in women than men 
+	2. pain in skin, teeth, tongue, mouth, nose 
+	3. inc incidence with age, 
+	4. MS , 
+	5. TREAT: alc/glycerol injection thru foramen OVALE for injection into the ganglion 
+	6. insertion of small balloon sometimes to stretch that semilunar ganglion = percutaneous rhizotomy 
+2. if we get an inujury at the lacrimal gland, near the N to stapedius
+	1. injury right outside the internal acoustic meatus , -> dry eye loss of parasympathetic innervation to lacrimal glands
+	2. hyperacusis - paralysis of stapedius muscle between the ganglion + stapedius bc inhibits the quality of sound 
+	3. lesion at chorda tympani - loss of taste in 2/3rds of tongue + also **loss of submandibular + sublingual salivary glands**
+	4. lesion right before exiting the stylomstoid foramen => paralysis of facial expression muscle 
+![[Screenshot 2025-10-20 at 12.46.54 AM.png]]
+3. Bell's palsy - viral or inflammation -> swelling of nerve coverings
+	1. you get one side of face paralyzed 
+	2. this is due to impaired nerve conduction or injury due to restricted face
+	3.  Treat - prednisone, coritcosteroids, antiinflammatory, most recover fully 
