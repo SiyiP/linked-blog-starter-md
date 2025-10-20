@@ -162,7 +162,9 @@ sensory ganglia for CNs with sensory compoennt - 5 of the CNs with sensory compo
 		- -> then postganglionic parasympathetic fibers conveyed thru short ciliary nerves to sphincter pupillae - constriction of pupil 
 		- -> OR  postganglionic parasympathetic fibers conveyed to ciliary muscles for lens accomodation to make lens more rounded 
 - trochlear nuc - motor to the superior oblique muscle
-	- from trochlear nuc -> thru trochlear n running thru lateral wall of cavernous sinus -> enters into orbit for superior oblique muscle 
+	- **from trochlear nuc -> thru trochlear n running thru lateral wall of cavernous sinus -> enters into orbit for<mark style="background: #FFF3A3A6;"> superior oblique muscle**</mark> 
+		- [[SFP Orbital Cavity and the Eye_Visconti]]
+		- **intort** the eye, <mark style="background: #FFF3A3A6;">depression</mark>, **abduction**
 - motor nuc of trigeminal n = largest, primary supplier of sensory information 
 	- CNV3 - somatic motor
 		- muscle to chew - mastication 
