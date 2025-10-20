@@ -38,7 +38,7 @@ infratemporal fossa
 - anterior - body of maxilla 
 - posterior - styloid process + mandibular condyle 
 	- "bony box with no bottom"
-	- ![[Screenshot 2025-10-20 at 1.17.54 AM.png]]
+	- ![[infratemporal fossa as a box.png]]
 - we see pterygomaxillary fissue due to incomplete fusion between maxillary bone + this portion of sphenoid bone - access to **more internal pterygoid palatine fossa**
 - foramen ovale - lets v3 pass from the middle cranial fossa into infratemporal one
 - foramen spinosum - middle meningeal a+v and meningeal br of V3 -> **from that infratemporal fossa upwards**

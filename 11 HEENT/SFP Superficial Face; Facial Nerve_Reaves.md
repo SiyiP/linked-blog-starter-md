@@ -208,7 +208,7 @@ pathology
 	2. hyperacusis - paralysis of stapedius muscle between the ganglion + stapedius bc inhibits the quality of sound 
 	3. lesion at chorda tympani - loss of taste in 2/3rds of tongue + also **loss of submandibular + sublingual salivary glands**
 	4. lesion right before exiting the stylomstoid foramen => paralysis of facial expression muscle 
-![[Screenshot 2025-10-20 at 12.46.54 AM.png]]
+![[facial nerve route and lesions.png]]
 3. Bell's palsy - viral or inflammation -> swelling of nerve coverings
 	1. you get one side of face paralyzed 
 	2. this is due to impaired nerve conduction or injury due to restricted face

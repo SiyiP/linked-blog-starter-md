@@ -125,7 +125,7 @@ nasociliary n - br of V1 , br to the long ciliary nerve!!!
 - long ciliary nn sensory innnervation 
 - anterior + posterior ethmoidal nerves
 - infratrochlear n 
-
+![[extraocular muscles innervation chart.png]]
 
 oculomotor n 
 - superior division -> **levator palpebrae superioris + superior rectus m**
