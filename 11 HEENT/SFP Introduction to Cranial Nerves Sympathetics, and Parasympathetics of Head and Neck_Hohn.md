@@ -213,3 +213,13 @@ pathology
 	2. anhidrosis(no sweating), ptosis(droop upper eyelid), miosis(small pupils, paralysis of dilator pupillae muscles, unopposed action of the sphincter muscles CN3 ), enophthalmos(sinking in of eye)
 	3. causes can be smth operative trauma to the inferior cervical/stellate ganglion 
 	4. pressure on the inf cervical ganglion or sympathetic trunk - enlarged cervical nodes, upper mediastinal tumor, carotid aneurysm or mass in neck. 
+
+--
+amboss: 
+### [Cranial](https://next.amboss.com/us/article/xo0EVS#Z2eb72d2494721debd42b3e4d3e6b9bad) outflow
+- Four bilateral autonomic [ganglia](https://next.amboss.com/us/article/560ilS#Z6294d6fa1c5c81f5f7a565e8cb39567c) in the head and neck:
+    - Edinger-Westphal nucleus → [oculomotor nerve](https://next.amboss.com/us/article/tR0XKf#Zf93de13b5536af7dcc148ee0b926bc14) ([CN III](https://next.amboss.com/us/article/tR0XKf#Zf93de13b5536af7dcc148ee0b926bc14)) → ciliary ganglion → [sphincter pupillae](https://next.amboss.com/us/article/cp0aoS#Z45591d4af9cde7dee17eae2dd79ab02f) ([miosis](https://next.amboss.com/us/article/qO0CtT#Z0e51d0270de0f8ebe0a316768eda24de)) and [ciliary muscle](https://next.amboss.com/us/article/cp0aoS#Z2b20f1280ed735d318048a004b743a55) ([accommodation](https://next.amboss.com/us/article/qO0CtT#Zb3580413cf3f4be89de63a8959f97143))
+    - Superior salivatory nucleus → [facial nerve](https://next.amboss.com/us/article/tR0XKf#Z657a181608b1681ed7c968df03a136a4) → pterygopalatine ganglion and submandibular ganglion → [lacrimal gland](https://next.amboss.com/us/article/cp0aoS#Z7153469175de301855745bd28e5cde1b), glands of the mucosa of the oral and nasal cavity, [pharynx](https://next.amboss.com/us/article/es0xFh#Z61098294cf9e5aaed6147d1314d02199), and sinuses
+    - Inferior salivatory nucleus → [glossopharyngeal nerve](https://next.amboss.com/us/article/tR0XKf#Zde3eeca9b0a95fa5dd1f78523e5f9f52) → otic ganglion → salivation of [parotid gland](https://next.amboss.com/us/article/jp0_6S#Zc58ff2ebf3c021803ad1a76e5b9c5c39)
+- Dorsal nucleus of the vagus nerve → [CN X](https://next.amboss.com/us/article/tR0XKf#Zb3c852a1700aa69159459049286042ee) → several [ganglia](https://next.amboss.com/us/article/560ilS#Z6294d6fa1c5c81f5f7a565e8cb39567c) close to/or within the walls of the [gastrointestinal tract](https://next.amboss.com/us/article/M60MlS#Zf0833058b7152af8b5653b79f76fb153) and [lungs](https://next.amboss.com/us/article/ap0QLS#Z5a964768554f93e7967999032fda236f)
+- ![[cranial PNS outflow.png]]

@@ -44,3 +44,65 @@ preserve platysma muscle on at least one side 0: be careful!!!
 	4. suprascapular a - after crossing posterior triangle floor supplies supraspinatus + infraspinatus muscles 
 
 
+---
+face scalp parotid region 
+note - skin is very shallow 
+
+1. shallow vertical incision apex to naison inferiorly 
+2. midline incision inferior  
+
+id + clean parotid duct crossing lateral surface of masseter muscle located on lateral aspect of face, near angle of mandible
+
+blunt dissect parotid duct anteriorly as it crosses the anterior border of masseter muscle to pierce buccinator as it turns medially into cheek 
+try to id the margin of hte parotid gland following it posteriorly 
+parotid sheath - the CT 
+
+---
+
+buccal br of facial = anterior margin of parotid gland ... runnign parallel to the parotid duct
+
+buccal brach follow into the parotid 
+alternatively rflect the gland 
+- this will begin the parotid plexus  
+
+follow the parotid plexus out and up for temporal branches 
+id temporal br toward periphery as it crosses zygomatic arch 
+id the zygomatic br crossing that zygomatic bone **between temporal + buccal br**
+- like the cheekbone ball looking thing 
+
+id the mandibular br running parallel to the mandible inf to the buccal br 
+- this crosses over the facial artery 
+
+cervical br as it crosses angle of mandible ot ener the neck 
+- inferior to mandibular branch - innervation of the **platysma muscle**
+
+the nerves all converge into the facial nerve deep at the earlobe !!! 
+
+BVs of face + scalp 
+- tortuous facial a from deep to submandibular gland + crosses inf border of mandible 
+- facial vein = posterior to facial artery as it crosses inf border of mandible superficial to submandibular gland 
+- superficial temporal a = terminal br of external carotid, running anterior to ear + to the scalp 
+	- supplies the temporalis m 
+
+id: thin frontalis muscle deep to skin of forehead
+id and clean orbicularis oculi muscle encircling eyelids 
+id and clean zygomaticus - from the zygomatic arch to angle of mouth 
+clean orbicularis oris m superior + inf portions circumerence around oral cavity 
+
+
+supraorbital? - br of opthalmic division V1 as it passes thru supraorbital foramen deep to frontal occipitofrontalis belly 
+- reflect portion of frontalis muscle up top .... 
+
+
+infraorbital n = br of maxillary V2 as it passes deep to levator labii superioris m 
+- this exits the infraorbital foramen witht the vessels
+- this is deep to the levator labii superioris 
+
+mental nerve - br of V3 mandibular as it exits mental foramen deep to depressor anguli oris muscle 
+- must transect this muscle to see it 
+- 
+
+buccal nerve V3 on lateral buccinator muscle as it **emerges deep to masseter ...**
+- 
+
+auriculotemporal nerve V3 from posterior to parotid gland crossing superiorly over posterior zygomatic artch + anterior to external acoustic meatus 
