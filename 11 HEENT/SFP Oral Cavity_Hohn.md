@@ -126,8 +126,99 @@ floor -
 	- the mandibular foramen = the inferior alveolar nerve will go thru this on the side!<mark style="background: #FFF3A3A6;"> will give rise to  nerve to **mylohyoid** **before** the inferior alveolar nerve enters the foramen!!!!</mark>
 - paired geniohyoid deep to the diaphragm/superior to it 
 	- from inf mental spine on mandible to hyoid 
-	- elevates hyoi
+	- elevates hyoid + depress mandible 
+	- innervation = **ventral ramus of C1 spinal nerve as it is via the hypoglossal n*
+		- this hypoglossal nerve supplies **all muscles of tongue except palatoglossus m*
+		- know that the C1 would hitch a ride and leave as:
+			- <mark style="background: #FFF3A3A6;">superior root of ansa cervicalis </mark> to supply the infrahyoid STREP muscles!
+			- nerve to thyrohyoid 
+			- nerve to geniohyoid 
 - tongue superior to that geniohyoid mm 
+	- tongue covered with striated muscle covered with mucosa 
+	- anterior 2/3 of oral cavity = terminal sulcus divider
+	- pharyngeal = posterior 1/3rd o tongue bc project onto the oropharynx 
+	- intrinsic and extrinsitc muscles = they count as both! bulk of it are paired muscles! 
+		- intrinsic muscles 
+			- **longitudinal, transverse, and vertical = all 3 orientations**
+			- helps to do precise movements to speech, eat, etc 
+			- innervation by **hypoglossal nerve**
+		- extrinsic muscles
+			- from structures from outside of tongue in origin 
+			- protrude, retract, depress + elevate tongue 
+			- genioglossus m CN 12
+				- seen first, fan of the tongue 
+				- fan shaped attaching into the **superior mental spine of mandible, blending posteriorly with the other tonogue fibers**
+				- protruds the tONgue **anteriorly!!!**
+				- <mark style="background: #FFF3A3A6;">test this! by sticking out your tongue! and stay at midline... but if there's injury it'll deviate to the injured hypoglossal side </mark>
+			- hyoglossus CN 12
+				- lateral aspect, rectangle. + flat 
+				- attaches to teh body + greater hyoid bone horn and superiorly with tongue muscles ... 
+				- **depresses** + **retracts the tongue!**
+				- important landmark in the oral cavity floor!
+				- **lingual artery enters toongue DEEP to hyoglossus m**
+				- **CN12 and lingual nerve (br of CN V3) enter tongue on external surface of this hyoglossus m**
+			- styloglossus CN 12
+				- blends into lateral aspect of tongue 
+				- from the styloid of temporal bone and blends anteriorly with tongue fibers
+				- retracts and **draws up tongue for swallowing**
+			- palatoglossus CN X
+				- note the innervation = **from soft palate inserting into the tongue laterally!!!!**
+				- **from palatine aponeuosis / soft palate** - basically layer of soft palate blending laterally 
+				- elevates **posterior tongue + depresses soft palate!!! draws the root of tongue superiorly + posteriorly**
+				- when it's **covered by mucosa.... we call it the paatoglossal fold!!!!**, making the lateral boundaries of the oropharyngeal isthmus!!!!
+				- ![[Screenshot 2025-10-21 at 7.40.22 PM.png]]
+				- if the mucosa's intact it's the palatoglossal fold but if it's gone its the palatoglossus muscle 
+	- features of tongue: 
+		- terminal sulcus dividing anterior posterior parts
+		- pharyngeal parts = lymphoid tissues on posterior 1/3 called **lingual tonsils**
+		- along the terminal sulcus - the remnant of thyroglossal duct = **foramen cecum**
+		- folliate papillae = no taste buds !! most numerous and have nerv endings 
+		- fungiform  papillae - rounder, 
+		- vallate papillae - fewest but largest - in shape of terminal sulcus 
+		- foliate papillae - found on lateral aspect of tongue 
 salivary glands + ducts : sublingual gland completely in oral cavity + submandibular glands.. has external part 
 
 in the face = is the parotid gland 
+
+blood supply of tongue 
+- receives majorly the **lingual artery**
+	- which is a branch of the **external carotid artery**
+	- next to the tip of greater horn of hyoid bon
+	- travels bt hyoglossus + genioglossus muscles to apex of tongue 
+	- also supplies the sublingual gland, gingiva + oral mucosa in floor of oral cavity 
+
+innervation of tongue 
+- all muscles are innervated by hypoglossal n except palatoglossus which gets X 
+- general sensory 
+	- anterior 2/3rd is by lingual n V3 , coming 
+		- V3 emerges out of the foramen ovale ->
+		- lingual nerve -> infratempooral fossa , and got both motor + sensory information with it 
+	- posterior 1/3 is by the glossopharyngeal n CN IX !!!
+		- also helps out posteriorly with some taste
+- special sensory taste 
+	- anterior 2/3 of tongue - **chorda tympani - br of the CN 7, facial nerve!!!** the chorda tympani's **joining that lingual nerve -> giving taste**
+	- posterior 1/3 glossopharyngeal n CN IX 
+
+floor of that oral cavity - salivary glands 
+- they are large - except the parotids which are outside
+- submandibular(portion is external) and sublingual are there. - these are large and paired ones 
+- digetstion, lubrication, taste, prevent tooth decay 
+- sublingual gland
+	- smallest, in the sublingual fossa against medial surface of mandible 
+	- superior to the mylohyoid + lateral to the submandibular duct 
+	- drains into the oral cavity via ducts opening into **crest of the sublingual fold.** from gland itself
+- submandibular gland - hook shaped 
+	- superficial part = outside of oral cavity, bt myohyoid muscle + mandible 
+	- deep part - hooking **around myohyoid muscle, lateral to root of tongue**
+	-  the submandibular DUCT emerges from medial side of deep part, passes right OVER **lingual nerve**  - lingual nerve **loops under this submandibular duct**
+		- also will pass thru the floor of the oral cavity , opening on the **sublingual caruncle** - this is just lateral to the frenulum of the tongue 
+
+parasympathetic innervation of salivary glands - 
+sublingula + submandibular glands get singals 
+- origination from CN 7, br of chorda tympani -> joining the **preganglionic parasympathetic fibers to the LINGuAL nerve V3, which carries that information from the inratemporal fossa into the oral cavity**
+- gangliono - is in the oral cavity as the **submandibular ganglion**
+	- the ganglion would then send postganglionic parasympathetics to the submandibular and sublinguals. 
+
+lymphatic drainage - from tip of tongue to **submental nodes**
+remaining parts =. **the lateral tongue + back tongue drain to the submandibular nodes**
+**palate = drain to deep cervical nodes directly**
