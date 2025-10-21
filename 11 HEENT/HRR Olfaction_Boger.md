@@ -64,3 +64,40 @@ when u bind odorant molcules
 		3. they're interneurns which regulate which signals they can send out to the mitral cells 
 5. mitral and tufted cells have **granule cells which will also regulate the signals**
 6. and centrifugal **fibers that come back thru the lateral olfactory tract which can inhibit the olfactory bulb.**
+
+primary olfactory tract projectsion .... 
+- piriform cortex = primary olfactory processing center, on the medial side of temporal role... uncus is the medial outjutting of that temporal lobe. 
+- olfactory tubercle - odor processing + links to limbic system, 
+- will also send directly to amygdala - odor sesnory **emotional**  recall.
+- entorhinal cortex = **gateway** to hippoocampus for memory recalll of a smell ; memory recall 
+![[Screenshot 2025-10-21 at 5.59.01 PM.png]]
+
+downstream targets from the olfactory bulb primary targets:
+- to the orbitofrontal cortex via the thalamus  for conscious perception of odor, integrate it taste with other food-related cues = **lots of integration**
+- hypothalamus - regulate that emotional response to the smell like with amygdala 
+- brainstem reticular formation - autonomic rxn to smell 
+
+from the olfactory bulb there can be **some connection between the contralateral = anterior comissure!**
+- to help with smell localization = where is the smell 
+
+trauma affecting olfactory system 
+1. anosmia - ability to discriminate odors = can happen due to age or trauma like shearing the nerves from the cribriform plate in brain swaying and the stroke? 
+2. chronic rhinitis, smoking, overuse of vasoconstrictors, poppers, cocaine, anything you huff spray paint etc can be dangerous 
+3. olfactory epithelium dmg with inhalation of toxic chems, metabolic like thiamine def, adrenal/thyroid def 
+4. central dz = **parkinson's, alzheimers, huntingons to stop it**
+5. and temporal lobe epilepsy 
+
+aging and olfaction - odor discrim decreases with the age. 
+- significant nutritinoal impacts bc they add too much sodium 
+
+1. agnosia - inability to id and name a perceived sensation 
+2. parosmia - distortion of odor perception 
+3. olfactory hallucinations - common in psych , smell smth that's not there 
+4. aura - longlasting lingering smell - **seizure activity beginning in temporal lobe**
+
+early sign of covid
+- lss of smell and taste
+so the SARS-CoV-2 enters human cells by binding to ACE2 receptor proteins, which are:
+- expressed in **support cells** and certain stem cells and BV cells but not in the olfactory sensory cells
+- note - **olfactory sensory neurons aren't part of the vulnerable population, so infection of nonneuronal cell types mighgt be responsible for the anosmia instead**
+- the cell that can grow into the olfactory sensory neurons are impacted
