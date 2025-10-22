@@ -1,11 +1,11 @@
-first look at and palpate scalp
+1. first look at and palpate scalp
 - touch all the way to the back, ask them to look down 
-then the face
+2. then the face
 - touch bilaterally forehead, cheeks, and chin 
-place hands bilaterally onto the cheeks and then they'll activated jaw 
-light touch on face , feel the same? in the beginning
-"i would like to take a look at your eyes"
-pupillary response - look into the distance or the wall, and then i'll shine a light in each eye. 
+1. place hands bilaterally onto the cheeks and then they'll clench jaw 
+2. light touch on face , feel the same? in the beginning
+3. "i would like to take a look at your eyes" - can u open and close them? 
+4. pupillary response - look into the distance or the wall, and then i'll shine a light in each eye. 
 - shine light in eye twice with **penlight?**, once to look at the eye on that side the other time to look at other eye. moving it wiht your wrist, getting the light to travel to their eye
 field of vision - imagine urself holding a big massage ball ; pay attention to my nose
 - start off with hands near their ears, 

@@ -70,7 +70,7 @@ primary olfactory tract projectsion ....
 - olfactory tubercle - odor processing + links to limbic system, 
 - will also send directly to amygdala - odor sesnory **emotional**  recall.
 - entorhinal cortex = **gateway** to hippoocampus for memory recalll of a smell ; memory recall 
-![[Screenshot 2025-10-21 at 5.59.01 PM.png]]
+![[olfactory gross anatomy.png]]
 
 downstream targets from the olfactory bulb primary targets:
 - to the orbitofrontal cortex via the thalamus  for conscious perception of odor, integrate it taste with other food-related cues = **lots of integration**

@@ -62,7 +62,7 @@ retina = fundus camera img
 - optic disk = a white part, without a dark dot bc you have n axons moving thru 
 
 signal processing in retina
-- ![[Screenshot 2025-10-22 at 11.01.52 AM.jpeg]]
+- ![[layers of eyeball and retina.jpeg]]
 light enters from bottom up, and that information needs to get all the way back into the photoreceptor layers, the the light is passed as a structure to the nerve fiber layer to exit
 - pigment = **for us to have that protection and prevent them from having so much cells bounc around**
 - pigment epithelium 
@@ -140,4 +140,134 @@ in LIGHT:
 	1. small , large receptive field, **connected to cones obligatory, so they do color**
 
 intrinsically photosensitive ganglion cells!!! 
-- special p
+<mark style="background: #FFF3A3A6;">- not only can photoreceptors on their own respond well to light but these do too!!! and can change how they act based on light </mark>
+- small % of these exist, **contains <mark style="background: #FFF3A3A6;">melanopsin</mark>, in the retina, intrinsically light sensitive**
+	- this is huge for **non-image forming light functions , like things we're unconscious about like circadian entrainment , changing hormones, sleep reg, reflex circuits**
+
+---
+neural output from the retinal ganglion cell axons -> optic nerve -> optic chiasm etc. some portions cross.. 
+they go to hypothalamus  for circadian rhythms 
+and **pretectum which connects to edinger westphal reflex control**
+and superior colliculus - for orienting the movements of head + eyes (saccades etc)
+
+but image making pathway -> **to synapse int he LATERAL geniculate nucleus!!! LGN**
+
+in contrast to the auditory system's synapsing nucleus being the medial geniculate nucleus! MGN [[HRR Auditory System I+II_Penrod-Martin]]
+
+so from the LGN... axons of cells in thalamus -> will give out the optic radiations or axons -> striate cortex 
+
+visual field information  + retinal fields
+we need a coherent map of all img-making lights! 
+visual field in relation to retinal fields. 
+- define the 4 quadrands as:
+	- superior
+	- inferior
+	- temporal = lateral to eye 
+	- nasal = close to the nose 
+- binocular visual field = the middle or near the middle of the 4 quadrants... meaning both eyes see it
+	- key reason we cross at chiasm - keeping that information together. retinotopy !!! 
+- **monocular porition of visual field** = meaning j one eye sees this information 
+- - when we make that same img we see in the retina, it's upside down !!!! 
+	- **superior retinal field -> inferior field**
+	- AND!!! temporal switches with nasal fields!!! like a flip and then another flip the other way  
+different points of each retina - which portions of the field are we sampliing??
+- monocular portions = extreme lateral portions of the field like temporal-wise 
+	- **these are being detected by the extreme edge of nasal retina** of the ipsilateral eye.... 
+	- R visual field in **biocular version -> sampled by the ** temporal retina of L eye, Nasal retina of right eye
+	- L visual field in binocular region -> 
+		- sample by the L eye nasal retina 
+		- and the R eye temporal retina 
+- axons that reflect that same location is physically separated... 
+- we need axons to reflect that same visual space together... 
+![[visual to retinal field location.png]]
+to keep the topographic visuals kosher, all the axons that carry information in one location are together. 
+- retinotopy is maintained in L + R and upper lower!!!
+<mark style="background: #FFF3A3A6;">	- nasal retina **axons in one eye need to meet up with the temporal retina axons from the other because they are reflecting the same spac!!!**</mark> - this is for the **binocular areas**
+- optic radiations will terminate in superior and inferior visual cortex!!! depending ... 
+	- radiations exiting the **lateral geniculate nucleus coding for superior** retina / lower  visual field in the actual world -> to superior visual cortex 
+	-  **lateral geniculate nucleus coding for** inferior retina aka upper visual field in the actual word -> inferior visual cortex, which is closer to the back of head 
+
+more on the **optic chiasm**
+- temporal retina / lateral + nasal retina have distinct field representation
+- so that tempora retina of one eye + nasal of other eye **must overlap to make a full field**
+- this is done by **crossing at optic chiasm...**
+- important diagnostically look into the lesions 
+1. lesion of optic nerve b4 chiasm: monocular deficit = all info from **one eye lost**; no depth perception 
+2. lesion at chiasm : **bitemporal / bilateral deficit**; info lost from both fields 
+3. lesion post-chiasm - homonymous deficit, meaning same portion of field is gone in both eyes 
+![[optic chiasm crossover.png]]
+
+- in the case of post-chiasm lesions, if we lesion one side / red side post-chiasm, we get lack of red in both eyes visual field! 
+
+LGN - of the thalamus - 
+- at that point on either side of brain - we only have one portion of information from the visual field, but also axons from different eyes. 
+- they are organized in the LGN by which eye it's coming from. 
+- layers 1-6  - each layer **getting axon from one eye or the other... no layer will get axons from both eyes**
+- different types of retinal ganglin cells terminate on sublayers and each other layer of the LGN. 
+- **highly organized by still isolated - information isn't mixed yet.** retinotopy still maintained 
+
+optic radiations maintain that retinopathy - with : 
+- superior retinal quadrants -> superior visual cortex 
+- fibers representing inferior retinal quadrants. 
+	- inferior path = **the meyer's loop, inferior retinal field aka superior visual field**
+	- if only the inferior portion's cut: contralateral homonymous superior quadrantanopia = 
+		- we lose one quadrant of the visual field to contralateral visual field. 
+1. if both dorsal and ventral are cut off on one side or hemisphere of brain... you lose 1 half of your visual field, the same on both sides opposite side of dmg. 
+
+calcarine fissure - separate inf + superior visual cortex!!! 
+**now striate cortex** 
+- binocular portion of visual field + monoocular portion as well 
+	- binocular portion on the inside folds? 
+- upper and lower visual field 
+this is also in layers; defined by projection + input patterns 
+fibers coming from LGN 
+sublayers too all organized 
+- K ganglion cell / konocellular input - synapse in layer 2/3 
+- parasol + midget - termination in 4C of the cortex 
+main idea - **as u terminate in the striate cortex, we have a map but no integration yet!**
+- once we're **in** the cortex, we make cortical columns, within the cortex beyond the layers..
+- we record via electrodes, in a vertical straight line. = cells in this position = shares a receptive field + tuning properties of lines + edges
+
+striate cortex - orientation selectivity 
+- we got portions of every visual field where we have cells that are sensitive to EVERY orientation to make a complete img. 
+
+striate cortex - binocular input: 
+- input from layer 4... inside the cortex we finally combine monocular + binocular!!
+- **ocular dominance columns, from this portion on, there's a column that's strongly monocular favoring one eye then strongly binocular and so on, like ur making stripes!**
+- now you have a range of cells = **portions that are more sensitive to binocular and others that are more sensitive to monocular**
+- ocular dominance column that's only sensitive to contralateral eye input next to a column of equal input sensitivity next to column only sensitive to the ipsilateral eye ! 
+- this grading is huge for **depth perception**
+1. amblyopia = condition where u have imbalance of information given by the 2 eyes -> permenant reduction in effectiveness of one eye to drive cortical neurons - worse binocular vision and ocular dominance columsn flop 
+
+orientation selectivity - 
+- 
+
+hypercolumns - don't worry about this 
+- orientation colummsn and cular dominance columns are overlaid to make hypercolumns of cells
+- this type of crosstalk is super ipmortant - a blend of every orientation and position = to really reflect being able 
+
+-
+streopsis - depth perception 
+- it's still slightly offset in spite of the binocular stuff in the columns 
+- this makes depth!!! based on binocular disparities 
+- objs in front or behind fixation point will be in slightly diff positions on the 2 retinas 
+- amblyopia - reduces acuity due to pathological plasticity from prolonged ocular dominance imbalance -> depth perception 
+
+extrastriate cortex - secondary areas 
+- know that diff visual processing thigns are in diff extrastriate pathways
+- ventral what stream - V1->V2->V4 (**temporal lobe**) = info about color. obj identity on size, shape color 
+- dorsal where stream V1-> V2 -> middle temporal level , **parietal lobe** -> selective fr motion, position, direction 
+
+visual disturbances
+1. negative phenomenon- loss of info like lesions
+2. poz phenomenon - added info, like visual hallucinations in ventral stream, or rando ligts
+3. look into location in field
+4. monocular or biocular 
+![[lesions along the visual pathways.png]]
+any cuts to any of the **optic radiations or myers loop = produces contralateral superior quadrantopia or iferior quadrantopia**
+
+
+"macular sparing lesion"
+- fovea having a larger rep for its size at all levels of the visual system
+- **so even with lossing in visual field u get the sparing of the macula aka cetner of field**
+- note the MCA + PCA can still give collateral flow to macular area of primary visual cortex 

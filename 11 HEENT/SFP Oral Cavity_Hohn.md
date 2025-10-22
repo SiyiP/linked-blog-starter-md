@@ -59,7 +59,7 @@ no premolars and no 3rd molar.
 
 blood supply of teeth + gingivae - from **maxillary artery, wiht the external carotid artery ascending and then going into the scalp and the other branch going into the maxillary artery hooking into the infratemporal fossa in the cheek!!!**
 - maxillary artery = 
-![[Screenshot 2025-10-21 at 7.01.19 PM.png]]
+![[vessels in maxillary and mandibular face.png]]
 these maxillary teeth will be supplied
 posterior and superior alveolar a => supplies the premolars and the molar teeth . 
 
@@ -84,7 +84,7 @@ innervation of teeth + gingivae
 	- not interested in the gingival specific stuff 
 - **mandibular gingivae - brs of CN V3** 
 	- not interested in the gingival specific stuff 
-![[Screenshot 2025-10-21 at 7.07.40 PM.png]]
+![[V2 and V3 innervation of face.png]]
 
 rooof of oral cavity 
 - hard cavity = floor of the nasal cavity, boney plate covred above + below by mucosa 
@@ -166,7 +166,7 @@ floor -
 				- **from palatine aponeuosis / soft palate** - basically layer of soft palate blending laterally 
 				- elevates **posterior tongue + depresses soft palate!!! draws the root of tongue superiorly + posteriorly**
 				- when it's **covered by mucosa.... we call it the paatoglossal fold!!!!**, making the lateral boundaries of the oropharyngeal isthmus!!!!
-				- ![[Screenshot 2025-10-21 at 7.40.22 PM.png]]
+				- ![[palatal muscles.png]]
 				- if the mucosa's intact it's the palatoglossal fold but if it's gone its the palatoglossus muscle 
 	- features of tongue: 
 		- terminal sulcus dividing anterior posterior parts
