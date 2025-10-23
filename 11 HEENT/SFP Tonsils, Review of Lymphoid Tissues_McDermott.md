@@ -42,11 +42,35 @@ lymphoreticular system
 			- 2ndary nodules - germinal centers with proliferiaing b lymphoblasts 
 			- follicular associated epithelium - FAE - m cells that cover lymphoid nodules
 			- reticular cells + fibers 
-		- peyer's patches in ileum - aggregates of lymphoid nodules in mucosa of ileum 
+		- peyer's patches in ileum - aggregates of lymphoid nodules in mucosa of **ileum** 
 		- appendix - aggregates of lymphoid nodules in mucosa that make a **complete ring of lymphoid around entire lumen**
-		- these are to **secrete IgA into lumen to protect against microbes, and **transcytose antigens via M cells to underlying lamina propia + oral tolerance dvelpmnt 
-	- tonsils - 
-		- pharyngeal, palatine, lingual  
+			- alll around it is all that lymphoid tissue, around that lamina propia. 
+			- M cells = at that junction of the epithelium will take things from that lumen all the way into the lamina propria where the lymphoid tissue is 
+		- GALT are to **secrete IgA into lumen to protect against microbes, and **transcytose antigens via M cells to underlying lamina propia + oral tolerance dvelpmnt 
+		- and good for oral tolerance to prevent hypersensitivity!
+	- tonsils - this is MALT!!!
+		- pharyngeal tonsil - 1 midline in posterior nasopharynx above soft palate
+			- these are **adenoids - thin capsule separating remainder of capsule + epithelium**
+			- pseudostratified ciliated columnar epithelium = shallow invaginations = mucosal clefts
+			- small clefts of mucosa = - for the breathing in with cilia to trap things in, and there's **M cells which can transport them into the tonsilar tissues...**
+			- many nodules with secondary lymppoid - a lot of HEVs bc circulating lymphocytes can bring stuff in 
+			- **loose capsule/CT**
+		- palatine, - 2 otnsils in lateral walls of oropharynx BELOW soft palate
+			- **instead of clefts, they have deep crypts!!!!**
+			- ofc crypts are non-keratinized stratified squamous epithelium - NKSEE
+			- things like M cells can allow entrance to the tonsils. and the follicular associated epithelium or FAE contains those 
+			- pus on the outside of tonsils - bc although the  non-keratinized stratified squamous epithelium is a good barrier for some places they become **reticulated, leaving big open spaces in between**
+			- **partial capsule - dnse CT**
+		- lingual  - small and numerous tonsils in posterior tongue portion 
+			- crypts lined by non-keratinized stratified squamous epithelium - NKSEE but more **shallow than palatine**
+			- LN - lymphoid nodule aggregates are primary + secondary ones with germinal centers with FAE having M cells. 
+			- **no capsule** 
+		- form a ring of MALT in pharyngeal wall = **WALDEYER RING** = monitors bacterial mucosa 
+		- position of ring at entrance of digestive + respiratory tracts facilitates immune functions by exposure to antigens + pathogens that enter during breathing/eating 
+		- similar to GALt, epithelium lining crypts/clefts have M cells that take up antigens in endocytic vessels to transcytose to lamina propria 
+		- APCs presenting T and B lymphocytes or initiation of immune response 
+		- B lymph poroliverations 
+- HEVs = have L selectins, which will bind to lymphocyts in the blood, and then form contact with integrins, etc and squeeze out after **slowing down due to L selectins.**
 
 mononuclear phagocyte system 
 - precursor of monocytes that develop in the **bone marrow = monoblasts + promonocytes**
