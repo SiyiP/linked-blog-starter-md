@@ -1,2 +1,63 @@
 #HEENT 
 
+lymphoreticular system 
+- primary central = site of antigen independent proliferation + lymphocyte differentiation - the seeding ones antigen independent maturing 
+	- thymus - 
+		- stroma of capsules, septa dividing it into lobules
+		- which has cortex of develpping t cells 
+		- and important celltypes **epithelial reticular cells conneced by desmosomes**
+		- in cortex - poz selection checking for CD4/CD8 
+			- t lymphocytes = thymocytes present it 
+		- and then will do negative selection in the medulla = negative selection to make sure no reaction with self 
+			- in medulla - maturing t lymphocytes + hassalls corpuscles (dead epithelial reticulocells)
+	- bone marrow 
+- secondary peripheral - site of **antigen dependent** proliferation + diff , clonal differentiation etc 
+	- lymph nodes
+		- stroma - capsule pierced by **afferent lymphatic vessels.**
+		- lymph flows thru the afferent lymphatics, piercing the capsule, flowing from subcapsular to trabecular to the medullary sinuses and out eh efferent lymphatic 
+		- cortex - t + b lymphocytes, APC, follicular dendritic cells + macrophages. these 
+		- outer cortex = ndules with germinal centers are here 
+		- 2ndary nodules - have the b lymphoblasts 
+		- underneath that = the paracortex in the very middle = **t lymphocytes + APCs**
+		- medulla continues down into the medullary cords = lots of plasma cells + macrophages, and they'll migrate down as the b cells mature -> plasma clls. 
+		- hilum = wher things leave
+		- they filter lymph + prevent pathogen response + facilitates immune responses -> for antibodies
+		- high endothelial venules = **help your T lymphocytes enter the paracortex of a lymph node - squamous paracortex cells going from bv into the lymph nodes** 
+	- spleen 
+		- stroma: capsule , trabeculae , and meshwork of reticular cells + fibers
+		- white pulp - **central artery+arteriole surrounded by the periarterial lymphatic sheath PALs= which has t lymph, apcs, macrophages**
+			- the lymphoid nodules = b lymph, follicular dendritic, apcs
+			- secondary nodules - germinal centers with prolif b lymphoblasts= 
+		- red pulp =  surrounds the WP? - cords = cords of billroth , t lymphocytes + b ones too, macrophages, plasma cells, erythrocytes
+		- sinusoids around it too - endothelial stave cells with discontinuous basal lamina surrounded by reticular fibers
+			- red cells need to squeeze into circulation via circulatiion 
+			- if they get misshapen they get stuck in spleen . splenomegaly and all that stuff   
+		- marginal zone + sinuses = region where red + white pulp interact ! 
+			- very active, all the things in the area dumped by the arterioles 
+		- primary function - filtering of blood etc. 
+	- MALT - mucosa assoociated 
+	- GALt - gut associated 
+		- diffuse galt - T+B lymphs, APCs, plasma cells in mucosa  = purple on surface, lots of wbcs. 
+		- solitary lymphoid nodules - t/b lymph, apc, folibcular denritics, plasmas
+			- 2ndary nodules - germinal centers with proliferiaing b lymphoblasts 
+			- follicular associated epithelium - FAE - m cells that cover lymphoid nodules
+			- reticular cells + fibers 
+		- peyer's patches in ileum - aggregates of lymphoid nodules in mucosa of ileum 
+		- appendix - aggregates of lymphoid nodules in mucosa that make a **complete ring of lymphoid around entire lumen**
+		- these are to **secrete IgA into lumen to protect against microbes, and **transcytose antigens via M cells to underlying lamina propia + oral tolerance dvelpmnt 
+	- tonsils - 
+		- pharyngeal, palatine, lingual  
+
+mononuclear phagocyte system 
+- precursor of monocytes that develop in the **bone marrow = monoblasts + promonocytes**
+- circulating monocytes 
+- then types of macrophages 
+- tissue macrophages = in CT + lymphoid
+- alveolar macrophages = alveoli 
+- peritoneal macrophages = peritoneal cavity 
+- **kupffer = sinusoids of liver**
+- osteoclasts = compact + spongey bone
+- microglia = brain + SC
+- langerhands. = epidermis of skin 
+- mesangial cells = glomerulus of kidney 
+- 
