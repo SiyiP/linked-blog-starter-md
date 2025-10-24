@@ -143,7 +143,7 @@ transverse arytenoid muscles
 - posterior surface of arytenoid cartilage -> posterior surface of opposite arytenoid cartilage to **pull arytenoids closer adduction to close vocal folds**
 - - innervated by recurrent  laryngeal n CN X 
 
-![[Screenshot 2025-10-23 at 5.13.52 PM.png]]
+![[muscls acting on arytenoids.png]]
 
 innervations - vagus all innervation!
 CN X branches
@@ -162,7 +162,7 @@ CN X branches
 	- ascends in tracheoesophageal groove to -> larynx deep to inferior pharyngeal constrictor 
 	- will pass below thyroid gland, entering into the larynx deep to that muscle 
 - vagus n 
-- ![[Screenshot 2025-10-23 at 5.17.40 PM.png]]
+- ![[laryngeal nerves from vagus branches.png]]
 
 blood supply of larynx - 
 superior 1/2 = superior laryngeal a 
