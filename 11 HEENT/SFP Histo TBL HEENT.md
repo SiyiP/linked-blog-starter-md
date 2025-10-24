@@ -98,5 +98,20 @@ The ACA provides blood to most medial aspects of the brain including medial fron
 The PCA provides blood to most of the posterior aspect of the brain, such as the occipital lobe.
 
 The MCA provides blood to most lateral aspects of the brain including temporal lobe, insular cortex, somatosensory and motor cortices corresponding to body regions above the leg.
+- The MCA has a deep branch that provides blood to the insular cortex (aka insular branch of the MCA). The branch can be seen by carefully opening the lateral sulcus.
+- 
 
 ![[arteries of brain belly.png]]
+
+
+anterior Anterior communicating artery  
+2. Anterior cerebral artery  
+3.   
+4. Middle cerebral artery  
+5. Posterior communicating artery  
+6. Posterior cerebral artery  
+7. Superior cerebellar artery  
+8. Basilar artery  
+9. Anterior inferior cerebellar artery  
+10. Vertebral artery  
+11. Posterior inferior cerebellar artery
