@@ -16,7 +16,7 @@ common: famiy practice
 	5. **primary herpetic gingivostomatitis** - diffuse involvement across oral cavity, association with illness + can be all over soft palate. 
 	6. inside the vesicle in the blister phase 
 		1. we see grnaulation tissue, acantholytic cells + blister lumen - viral inclusions 
-		2. **glassy inclusion = multinucleated polykaryon!**
+		2. **glassy inclusion = multinucleated <mark style="background: #FFF3A3A6;">polykaryon</mark>!**
 3. candidiasis - curd-like plauqes ith erythematous base. 
 	1. abundance ovoid bud yeast forms ; pseudophyphae
 	2. little punctate hemorrhage sites underneath the plaque on clinical exam 
@@ -52,7 +52,8 @@ premalignant conditions
 malignant epithelial conditions of oral cavity 
 1. squamous cell carcinoma of the lip = sun dmg, crust in the lower lip 
 	1. lip carcinoma - invasive squamous - we see a rolled edge, perineural invasion means surgery is harder to do ): 
-	2. limp draining ot submental and **upper lip to the preauricular node** 
+	2. overall think of this as a retromolar pad or a pad of something 
+	3. limp draining ot submental and **upper lip to the preauricular node** 
 2. tongue carcinoma initial dx is 50% have pooz rgiona lymp nodes. 
 	1. young females under 40 no risks are seen 
 	2. tongue cancers - depth of invasion 1.5 will give lymph node dissection risk ): 
@@ -110,5 +111,22 @@ symptomes of:
 		1. **unique pattern:** <mark style="background: #FFF3A3A6;">think pposterior triangle referred pain!</mark>
 	6. very undifferentiated type of tumor, no keratin production and messy cells 
 
-upper resp tracts 
+5. laryngeal polyps - benign soft tissue swellings
+	1. chronic irritation aka singer's nodule - what adele had
+	2. hoarsness is common symptom 
+	3. see some bump on the vocal cords. and some are larger and need it removed. 
+	4. histologically they have some BVs maybe = some issues with bleeding 
+	5. other one - has a myxoid pattern , many different patterns
+6. Laryngeal papilloma
+	1. benign epithelial neoplasm assocated with HPV 6/11 both juvenile or adult
+	2. in kids = think of getting it via vaginal delivery 
+	3. looks like papillary trees
+	4. issue - this is recurrent, they need removal to speak and breathe. virus doesnt get cleared. 
+	5. basically this looks like a bumpy white fruit inside the larynx... can go into the pulm parenchyma ): 
+	6. there's some transformations too sometimes malignant! if they smoke or do something else they get compound infection 
+	7. symptoms of dysphonia, dysphagia, respiratory problems + referred pain to the otalgia - the ear 
+	8. in true cord - can treat with just radiation 
+	9. but if superglottic in rich lymphatic field, there's a lot of metastases, so we ned to scope it out 
+	10. also ppl with reflux - risk of chronic irritation therefore this.  
+
 
