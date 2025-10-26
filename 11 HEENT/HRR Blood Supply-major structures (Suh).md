@@ -51,7 +51,7 @@ arterial supply to the CNS
 		- brainstem branches 
 - just know - each cerebral artery has penetrating branches that supply deeper structures
 	- diencephalon, basal nuclei, internal capsule 
-	- **internal capsule = there's many different portions ; MCA involved for it all** 
+<mark style="background: #FFF3A3A6;">	- **internal capsule = there's many different portions ; MCA involved for it all** </mark>
 		- anterior limb => 
 			- upper -> lenticulostriate from the MCA
 			- lower -> lower recurrent a of the huebner - from the ACA ; think of it as "it does the opposite... even tho it's lower, it's supplied by the anterior"
@@ -104,4 +104,7 @@ what supplies the thalamus?
 - more to the back/occipital lobe  
 - and it's gonna be supplied by the PCA 
 
-sup
+note about ACA/MCA and pca distrib
+- watershed areas? distal areas where it all meets?
+- those are first areas affected bc thy're **distal areas , where that blood flow terminates**
+	- these are prone to dmg when your bp is low bc blood doesn't get to those areas 
