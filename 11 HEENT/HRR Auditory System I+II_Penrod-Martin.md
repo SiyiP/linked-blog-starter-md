@@ -27,11 +27,11 @@ middle ear - ossicles + tympanic membrane transmit to sensory organ
 - loss of sound wave energy in fluid, but this energy loss is **compensated by by having that middle ear gain 20-25 dB for ALL freq to compensate via acoustic impedance matching**
 	- tympanic membrane entrance, 20x larger than the oval window which is way smaller and it leaving, basically concentration of that sound from a 20x larger drum into a -> tiny oval window/stapes. 
 	- lever action = ossicles will amplify the force by pushing it !! incus and stapes and lalleus 
-	- stapes = assciation with oval window, putting that sound info into that cochlear fluid 
-	- 2 muscles - help make sure we don't get too much sound 
+	- stapes = association with oval window, putting that sound info into that cochlear fluid 
+<mark style="background: #FFF3A3A6;">	- 2 muscles - help make sure we don't get too much sound </mark>
 		- tensor tympani  - malleus, CN V 
-		- stapedius - stapes, SN VII = protect inner ear by stiffening the ossicular chain to dcrease sound 
-			- paralysis => hyperacusis , which means **sensitivity to sound if these muscles are paralysed**
+		- stapedius - stapes, SN VII = protect inner ear by **stiffening the ossicular chain to dcrease sound** 
+			- paralysis => hyperacusis , which means **sensitivity to sound if these muscles are paralysed** [[SFP Disorders of the Ear I+II_Dixon]]
 	- eustachian tube = this compares the air to **nasopharynx , basically meaning multiple ear infections from upper respiratory infection** happens all the time 
 
 inner = sensory organs transduce to neural signals 

@@ -172,5 +172,19 @@ patho
 	7. surgical repair + plug this dehiscence. 
 	8. also we can see the CT scan showing the bone be super small but no symptoms, this can be incidental with no symptoms. 
 5. vestibular migrane 
-	1. 
+	1. F>M in adulthood but more males pre-puberty 
+	2. common cause of episodic dizziness, which can last any amount of time, **oral fullness, vertigo, motion sensitivity, brain fog.**
+	3. huge headaches n association with episodes + light/sound sensitivity/nausea!!!
+	4. pulsatile unilateral severe headache with nausea + photophobia - this is typical. 
+	5. migraine - the pahtology underlying the headache. 
+	6. migraine trigger threshold - anyone could have a migraine just enough triggers would cause it - food preservatives, pressure changes, missed meals, late nights stress etc. all that threshold is raised/lowered by genetic factors + meds
+	7. triggers = caffeine, alc, food preservatives. for some ppl they have too many triggers - so we'd try to raise that threshold with many medications - anticonvulsants, b-blockers, ssris etc. 
+	8. migrant can happen without headaches. 
 6. post circular strokes 
+	1. emergency!!! vertigo not going away 
+	2. 2 culprit vessels: the PICA or AICA. 
+	3. ppl don't **just have vertigo, they got paralysis, ataxia, dysphagia etc.**
+	4. looking for all these neuropathies that aren't only the vertigo 
+	5. pica = dysphagia, dysphonia, diminished gag reflex - **nucleus ambiguus**
+	6. AICA - the hearing loss, tinittis, facial paralysis = in facial nucleus/CN VII
+	7. try to do MRI please 
