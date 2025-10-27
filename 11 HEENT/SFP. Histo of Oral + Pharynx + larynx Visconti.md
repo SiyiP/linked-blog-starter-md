@@ -7,18 +7,18 @@ lip H+E
 - thinner epithelium - vermillion border so lamina propia more visible 
 
 tongue 
-- posterior 1/3 is lingual tonsils like valleate papilla + palatotonsil between the palatoglossal and pharyngeal folds
-- filiform papilla all over the anterior(SSKE), fungiform papilla, red + over tongue, follate papilla = **lateral posterior margin in anterior tongues**
-- circumvallate = the back of tongue , anterior to that sulcus terminalis 
-	- associated are von ebner serous glands which will secrete serous into the moats or spaces in between which keep taste buds current or clear the palate 
+- <mark style="background: #FFF3A3A6;">posterior 1/3 is lingual tonsils like valleate papilla + palatotonsil between the palatoglossal and pharyngeal folds</mark>
+- <mark style="background: #FFF3A3A6;">filiform papilla all over the anterior(SSKE)</mark>, fungiform papilla, red + over tongue, <mark style="background: #FFF3A3A6;">follate papilla = **lateral posterior margin in anterior tongues**</mark>
+- <mark style="background: #FFF3A3A6;">circumvallate = the back of tongu</mark>e ,<mark style="background: #FFF3A3A6;"> anterior to that sulcus terminalis </mark>
+	- associated are<mark style="background: #FFF3A3A6;"> von ebner serous glands</mark> which will secrete <mark style="background: #FFF3A3A6;">serous into the moats</mark> or spaces in between which keep taste buds current or clear the palate 
 - taste buds are on the lateral sufaces o the papillae 
 - skeletal msucle is multiple directions and orientations 
 taste buds - 
 - 3 cells
-- **supporting clls, sensory cells both extending to apex  + basal cells not to the apical surface**
+<mark style="background: #FFF3A3A6;">- **supporting cells, sensory cells both extending to apex  + basal cells not to the apical surface**</mark>
 - taste pore up top on the apical side, and then microvilli too 
 
-3 pairs of major salivary glands= secretes 1/3 L to 1 1/2 liters saliva... **90% of all saliva comes from here**
+3 pairs of **major** salivary glands= secretes 1/3 L to 1 1/2 liters saliva... **90% of all saliva comes from here**
 - paired parotids outside o face
 	- all serous 
 - submandibular also outside ... 
@@ -31,8 +31,8 @@ minor salivary glands = other 10% saliva thruout the day
 
 ---
 hard + soft palate separates 
-- gingiva + raphe = no submucosa, these places are attached to bone
-- in all other cases adipose seen under mucosa more anterior and more posterior we see mostly glands 
+<mark style="background: #FFF3A3A6;">- gingiva + raphe = no submucosa, these places are attached to bone</mark>
+- in all other cases<mark style="background: #FFF3A3A6;"> adipose seen under mucosa more anterior and more posterior we see mostly glands </mark>
 - in posterior part of palate - tensor + levator veli palatini m 
 keratinized epithelium = loss of organelles + nuclei in the **superior layer** and we see keratohyalin granule contianing cells in the most superficial epithelium ... 
 
@@ -41,7 +41,7 @@ parakeratinized = not much keratin layer but we still see **cellularity in the m
 
 vestibule = entrance to nasal cavity as you remember
 - middle + inferior concha = **covered with respiraotry mucosa**
-- **superior concha = covered by olfactory mucosa!!!** - specialized for smell 
+- <mark style="background: #BBFABBA6;">**superior concha = covered by olfactory mucosa!!!** - specialized for smell</mark> 
 anterior nasal cavity. =the hairs + brusae, capillaries to surface, SSK epithelium with vibrissae + sweat + sebaceous glands 
 
 vestibulae, inferior + middle concha - resp epithelium PCCE
