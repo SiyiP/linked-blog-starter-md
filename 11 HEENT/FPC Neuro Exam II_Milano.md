@@ -88,40 +88,23 @@ CN
 		1. bsically - there's one tiny pupil and you can't sweat! and your eyelids droop low asf 
 4. CN3 - use H not an A with drawing with your finger 
 	1. superior rectus, inf rectus, inf obliq, med rectus 
-5. Trochlear. -superior oblique
-6. abducens - lateral rectus 
+5. <mark style="background: #FFF3A3A6;">Trochlear n -superior oblique</mark>
+6. <mark style="background: #FFF3A3A6;">abducens - lateral rectus </mark>
 7. trigeminal nerve - touch face on lateral forehead, cheek, and next to mouth 
-8. fascial nerve - fasical movement + taste on **anterior tongue**
-	1. bells palsy - lower motor neuron - whole one face droops
+8. fascial nerve - <mark style="background: #FFF3A3A6;">fascal movement + taste on **anterior tongue**</mark>
+	1. <mark style="background: #FFF3A3A6;">bells palsy - lower motor neuron - whole one face droops</mark>
 	2. but upper motor neuron issue = **just the lower face drooped/paralysis bc the upper face is innervated bilaterally**
 	3. have them smile tight
-9. acoustic and vestibular nerve
-	1. weber - smile - more midline put it on, bang it and see if they hear it on both sides while u put it on their top of head.
-		1. conductive hearing loss = something with their canal, they still hear it thru bone no matter what 
-		2. sensorineural hearing loss - can't hear it either way 
+9. <mark style="background: #FFF3A3A6;">acoustic and vestibular nerve</mark>
+	1. <mark style="background: #FFF3A3A6;">weber</mark> - more midline put it on, bang it and see if they hear it on both sides while u put it on their top of head.
+		1. <mark style="background: #FFF3A3A6;">conductive hearing loss = something with their canal, they still hear it thru bone no matter what </mark>
+		2. <mark style="background: #FFF3A3A6;">sensorineural hearing loss - can't hear it either way </mark>
 	2. rhine test - put it on bone behind their ear
 	3. vestibular function - nystagmus 
-10. glossopharyngeal  - have them say "ah and watch to see if palate raises"
+10. g<mark style="background: #FFF3A3A6;">lossopharyngeal  - have them say "ah and watch to see if palate raises" - it needs to rise symmetrically</mark>
 	1. sensory loop of gag reflex
-	2. 
 11. vagus
 	motor arm of gag reflex
 12. accessory n - trapezius + sternocleimastoid - lift their shoulders, look left + right 
-13. hypoglossal - stick tongue out and move side to side
-	1. test **dysarthria - slurred speech, cause by 5,7,9,10,12**
-
-- 1.5 HEENT 
-    - inspect scalp, face, for symmetry 
-    - touch on boney sinuses, maxillary ones 
-- 9.3 Eyes Physical Examination
-    - ask them to look up as you check scleras ask them to look up and down 
-    - shine pinlight to eyes , darken room 
-    - then after shining a light in 
-- 10.3 Ears Physical Examination
-    louder in one ear or same in both ears ? 
-- 10.5 Nose Physical Examination
-    
-- 8.3 Head and Neck Physical Examination
-    
-- 21.4 Cranial Nerves Physical Examination
-- 
+13. <mark style="background: #FFF3A3A6;">hypoglossal</mark> - <mark style="background: #FFF3A3A6;">stick tongue out and move side to side</mark>
+	- <mark style="background: #FFF3A3A6;">	1. test **dysarthria - slurred speech, cause by 5,7,9,10,12**</mark>

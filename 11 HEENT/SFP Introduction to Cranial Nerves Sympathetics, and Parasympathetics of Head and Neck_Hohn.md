@@ -1,4 +1,21 @@
-#neuro 
+ #HEENT 
+
+| 1   | **C**ome   | **C**ribiform plate          |
+| --- | ---------- | ---------------------------- |
+| 2   | **O**n     | **O**ptic Canal              |
+| 3   | **S**ofia  | **S**uperior Orbital Fissure |
+| 4   | **S**ofia  | **S**uperior Orbital Fissure |
+| 5.1 | **S**ofia  | **S**uperior Orbital Fissure |
+| 5.2 | **R**ight  | Foramen **R**otundum         |
+| 5.3 | **O**n     | Foramen **O**vale            |
+| 6   | **S**ofia  | **S**uperior Orbital Fissure |
+| 7   | **I**'m    | **I**nternal Acoustic Meatus |
+| 8   | **I**nto   | **I**nternal Acoustic Meatus |
+| 9   | **J**ust   | **J**ugular Foramen          |
+| 10  | **J**iggly | **J**ugular Foramen          |
+| 11  | **J**uggs  | **J**ugular Foramen          |
+| 12  | **H**oney  | **H**ypoglossal Canal        |
+
 
 i would draw out pathways of CNs. what foramens? and wich structures they innervate?
 focus on difficult CNs with many branches 
