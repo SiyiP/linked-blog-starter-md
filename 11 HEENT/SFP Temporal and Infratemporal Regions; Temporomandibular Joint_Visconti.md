@@ -83,38 +83,38 @@ contents of infratemporal fossa
 		- <mark style="background: #FFF3A3A6;">meningeal br = sensory , thru spinosum into middle cranial fossa </mark>
 		- n to <mark style="background: #FFF3A3A6;">medial pterygoid m , motor br </mark>
 		- <mark style="background: #FFF3A3A6;">2 brs to tensors  = 2 tensor muscles; the tensor veli palatini + tensor tympani</mark> 
-	- from anterior division  branches 
-		- masseteric n - massenter muscle 
-		- 2 deep temporal nn =- motor , 
-		- n  to lateral pterygoid m - 
-		- buccal nerve (sensory) 
+	- from <mark style="background: #FFF3A3A6;">anterior division  branches </mark>
+		- <mark style="background: #FFF3A3A6;">masseteric</mark> n - massenter muscle 
+		- 2<mark style="background: #FFF3A3A6;"> deep temporal nn =- motor , </mark>
+		- n  to<mark style="background: #FFF3A3A6;"> lateral pterygoid m - </mark>
+		- <mark style="background: #FFF3A3A6;">buccal</mark> nerve (<mark style="background: #FFF3A3A6;">sensory</mark>) 
 	- posterior division - largest of the 3 
-		- auriculotemporal n = 2 roots embracing meningeal a ;
-			- this carries **postganglionic parasympathetic fibers to the parotid gland, from the otic ganglion**
-			- giving motor to parotid glands. 
-		- lingual nerve 1= descends into the oral cavity, gets br of facial nerve called chorda tympani 
-			- runs downward + ant to inf alveolar nerve
+		- <mark style="background: #FFF3A3A6;">auriculotemporal</mark> n =<mark style="background: #FFF3A3A6;"> 2 roots embracing meningeal a ;</mark>
+			- this carries <mark style="background: #FFF3A3A6;">**postganglionic parasympathetic fibers to the parotid gland, from the otic ganglion**</mark>
+			- giving <mark style="background: #FFF3A3A6;">motor to parotid glands. </mark>
+		- <mark style="background: #FFF3A3A6;">lingual</mark> nerve 1= descends into the oral cavity, gets<mark style="background: #FFF3A3A6;"> br of facial nerve </mark>called <mark style="background: #FFF3A3A6;">chorda tympani </mark>
+			- runs <mark style="background: #FFF3A3A6;">downward</mark> +<mark style="background: #FFF3A3A6;"> ant to inf alveolar nerve</mark>
 			- will run from posterior division o the 3 and then passes forward + medial to tongue, 
-				- sensory innfervation ant 2/3 of tongue + a lot of taste!!!=
-				- chorda tympani from CN 7 joinst this ilngual n ; **chorda tympani will pass thru the petrotympanic fossa**
+				- <mark style="background: #FFF3A3A6;">sensory innfervation ant 2/3 of tongue + a lot of taste!!!=</mark>
+				- c<mark style="background: #FFF3A3A6;">horda tympani from CN 7 joinst this ilngual n ;</mark> **chorda tympani will pass thru the <mark style="background: #FFF3A3A6;">petrotympanic</mark> fossa**
 			- this gets combined with the chorda tympani CN7
 			the information will get to empty on facebook lol 
-		- inf alveolar n = 2 has motors and sensory fibes , giving off the mylohyoid n , predom sensory + **gives off the mylohyoid motor nerve!!!** and also provides inf belly of the digastric too sometimes 
+		- <mark style="background: #FFF3A3A6;">inf alveolar n = 2 has motors and sensory fibers , giving off the mylohyoid n , predom sensory + **gives off the mylohyoid motor nerve!!!** and also provides inf belly of the digastric too sometimes </mark>
 			- carries to the behind of it 
-			- sensory + motor together. 
-			- run below teeth to split into incisive br + mental nerv
+			- <mark style="background: #FFF3A3A6;">sensory + motor together. </mark>
+			- r<mark style="background: #FFF3A3A6;">un below teeth to split into incisive br + mental nerv</mark>
 			- do they need to step back 
-			- **gives off a nerve to mylohoid nerve!!!!!!!**
+			- *<mark style="background: #FFF3A3A6;">*gives off a nerve to mylohoid nerve!!!!!!!**</mark>
 			- sphenomandibular accessory helps out 
-- otic ganglion - parasympathetic ones, COPS 
+<mark style="background: #FFF3A3A6;">- otic ganglion - parasympathetic ones, COPS </mark>
 
  temporomandibular joint
  - synovial between head and neck (condyloid process of mandible + articular tubercle + nifratemporal great )
  - articular disk - makes this joint. 
  - ligaments
-	 - lteral temporomandibular ligament - reinforces the capsle 
-	 - sphenomandibular ligamnet - pierced by myohoid nerve, and then thin br will be preserved. most medial? 
-	 - stylomandibular ligament - thin band from styloid process + mandible 
+<mark style="background: #FFF3A3A6;">	 - lateral temporomandibular ligament - reinforces the capsle </mark>
+<mark style="background: #FFF3A3A6;">	 - sphenomandibular ligamnet - pierced by myohoid nerve, and then thin br will be preserved. most medial? </mark>
+	 - s<mark style="background: #FFF3A3A6;">tylomandibular ligament - thin band from styloid process + mandible </mark>
 - movements
 	- initally opning mouth - the hinge-like motion
 	- as you open more - **jaw needs to protrude more!!! the mandible slid forward on the articular tubercle**
@@ -123,5 +123,5 @@ contents of infratemporal fossa
 - masseter m 
 	- from lower border + media zygomatic arch 
 	- insertion onto lateral aspect of ramus of mandible 
-	- V3 innervation, will raise the mandible 
-	- **if there's lesion to mandibular nerve, we're only able to contract muscles on unaffected side! so rotation of jaw TOWARDS AFFECTED SIDE!**
+<mark style="background: #FFF3A3A6;">	- V3 innervation, will raise the mandible </mark>
+<mark style="background: #FFF3A3A6;">	- **if there's lesion to mandibular nerve, we're only able to contract muscles on unaffected side! so rotation of jaw TOWARDS AFFECTED SIDE!**</mark>
