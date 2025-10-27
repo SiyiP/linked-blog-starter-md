@@ -20,7 +20,7 @@ they are all aggregated dorsal to the pituitary nuclei
 - clusters that are more medial - more discrete borders + **more influence on hormonal production bc situation over that pituitary gland**
 - lateral nuclei - more disperse but next to the **medial forebrain bundle of fibers**, which will have more impact on viseral motor systems, -> reticular areas -> reticular areas of brainstem
 
-![[Screenshot 2025-10-26 at 4.07.51 AM.png]]
+![[hypothalamus pathways overview.png]]
 hippocampus -> sends information thru the fornix -> mammillary bodies!  -> mammothalamic tract output -> anterior thalamic nucleus in the thalamus 
 
 mammlillary bodies -> mamlllotegmental tract sends info to the -> tegmental area of the midbrain for -> connect to reticular areas for visceral motor responses 

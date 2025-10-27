@@ -25,7 +25,7 @@ common: famiy practice
 4. AIDs - we see Hairy leukoplakia
 	1. corrigated plaques most commonly seen in lateral tongue
 	2. little slots on the side 
-	3. ![[Screenshot 2025-10-24 at 1.46.44 PM.png|220x239]]
+	3. ![[hairy leukoplakia.png|220x239]]
 	4. need biopsy in this case. in histo: see EBV!!! clear cells underneath the surface 
 
 premalignant conditions

@@ -93,7 +93,7 @@ anterior circulation
 	- contralateral visual field loss, weakness , sensory deficits in arm more 
 	- gaze to the side of infarc 
 	- **Left MCA = aphasia in dom hemisphere**; language issues seen ; 
-		- wenicke's aphasia- trouble understanding but can talk pretty well. this is the **inferior division of the left MCA**
+		- wernicke's aphasia- trouble understanding but can talk pretty well. this is the **inferior division of the left MCA**
 		- brocas - can't make speech = this is more frontal lobe **superior division of the left MCA**
 	- R MCA = neglect in nondom hemisphere neglect 
 - ACA 

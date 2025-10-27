@@ -19,13 +19,14 @@ spinomedullary junction - with brainstem syndromes
 - loss of pain + temp in ipsilateral face and contralateral body 
 - dysphagia hoarseness , and ipsilateral horner's syndrome 
 - ipsilateral unsteadiness 
-	- AKA **lateral mdullary syndrome - WALLERNBURG: can be caused by the PICA, a br off the vertebral artery**
+	- AKA **lateral medullary syndrome - WALLENBURG: can be caused by the PICA, a br off the vertebral artery**
 
 open medulla
 - penetrating brs from ASA
 - ipsilateral tongue dviation 
 - contralateral loss of touch + position + paresis 
 - **aka MEDIAL medullary syndrome with the tongue deviation!** higher up the brainstem, 3,4,5, etc. 
+- low bc of tongue invovement 
 
 ventral pons
 - basilar occlusion -> **locked in syndrome - only have vertical eye movements**
@@ -57,6 +58,30 @@ midbrain syndromes(in the same area, but how much dmg is there?):
 - weber's -  ipsilateral CN3 palsy, , and **contralateral hemiparesis - superior cerebellar peduncle; weakness**
 
 posteroir forebrain 
-- dmg to the PCAs - dmg to the thalamus, which 
+- dmg to the **PCAs** - dmg to the thalamus, which 
 - involves contralateral loss of touch, proprioception, pain and temp from body + face!!!
-- any dmg to the one artery which supplies both thalami - artery of 
+- any dmg to the one artery which supplies both thalamus = we get consciousness lost 
+
+internal capsule arterial supply 
+- anterior limb 
+	- upper -> lenticulostriate from MCA
+	- lower -> recurrent artery of huebner from ACA
+- genu 
+	- upper -> leenticulostriate from MCA 
+	- lower -> lenticulostriate from **ICA**
+- posterior limb 
+	- upper -> lenticulostriate from MCA
+	- lower = **anterior choroidal artery from ICA**
+
+occlusion 
+of ACA
+- contralateral paralysis of legs , frontal lobe behavioral issues. 
+of PCA 
+- **vision, eyes, sensory**
+MCA:
+- L and R
+- contralateral paralysis of arms, and sensory loss there too 
+- L = language ; 
+	- - wernicke's aphasia- trouble understanding but can talk pretty well. this is the **inferior division of the left MCA**
+	-  brocas - can't make speech = this is more frontal ; much better, can still understand. 
+- R = neglect ; 
