@@ -1,3 +1,11 @@
+family medicine clerkship - 
+- we will be distributed across SC for this! 
+- regional health network for other rotations like florence IM 
+- family med with florence residency (new site some ppl go to)
+- ER in columbia
+- florence psychiatry 
+there's expectation - we'll spend 2+ weeks outside of charleston! 
+
 "student dashboard"???
 showing ur data in longitudinal views + granular views 
 - why we want to have this provided for us 

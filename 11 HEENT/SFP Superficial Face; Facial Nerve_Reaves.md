@@ -188,7 +188,7 @@ parasympathetic innervation via CN 9, the glossopharyngeal n - **lesser petrosal
 	1. note the middle meningeal A is surrounded by these! 
 notes from [[SFP Introduction to Cranial Nerves Sympathetics, and Parasympathetics of Head and Neck_Hohn]] : 
  has parasymp fibers from the inferior salivatory nuc -> ganglia of the otic ganglia 
-	- inferior salivatory nuc -> preganglionic parasympathetic fibers -> **lesser petrosal nerve** (br of glossopharyngeal n), which will convey parasympathetic nerves to the **otic ganglion in the infratemporal fossa** 
+	- inferior salivatory nuc -> preganglionic parasympathetic fibers -> **lesser petrosal nerve** (br of glossopharyngeal n), which will convey **parasympathetic nerves** to the **otic ganglion in the infratemporal fossa** 
 	- -> postganglionic parasympathetic ones travel thru **auriculotemporal nerve, which is CNV3** -> parotid gland 
 		- note - the auriculotemporal n aka CNV3 will drop those parasympathetic nerves off as it ascends to supply the scalp 
 		- runs with the auriculotemporal n = the **superficial temporal a
@@ -203,7 +203,7 @@ pathology
 	4. MS , 
 	5. TREAT: alc/glycerol injection thru foramen OVALE for injection into the ganglion 
 	6. insertion of small balloon sometimes to stretch that semilunar ganglion = percutaneous rhizotomy 
-2. if we get an inujury at the lacrimal gland, near the N to stapedius
+2. if we get an injury at the lacrimal gland, near the N to stapedius
 	1. injury right outside the internal acoustic meatus , -> dry eye loss of parasympathetic innervation to lacrimal glands
 	2. hyperacusis - paralysis of stapedius muscle between the ganglion + stapedius bc inhibits the quality of sound 
 	3. lesion at chorda tympani - loss of taste in 2/3rds of tongue + also **loss of submandibular + sublingual salivary glands**

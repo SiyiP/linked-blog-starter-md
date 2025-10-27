@@ -83,5 +83,5 @@ MCA:
 - contralateral paralysis of arms, and sensory loss there too 
 - L = language ; 
 	- - wernicke's aphasia- trouble understanding but can talk pretty well. this is the **inferior division of the left MCA**
-	-  brocas - can't make speech = this is more frontal ; much better, can still understand. 
+	-  brocas - can't make speech = this is more frontal ; much better, can still understand.  = this is the **frontal divison of the L MCA!**
 - R = neglect ; 

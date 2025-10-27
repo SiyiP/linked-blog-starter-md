@@ -1,44 +1,45 @@
 #HEENT 
-foveation - movement of eyes so foveas of both are aimed at common point of interest 
-- both fixation = on actual obj
-- saccades = ballistic type movements to survey/fix eyes on common interest - there's shift between points of interest for that fixation to actually take place. 
+<mark style="background: #FFF3A3A6;">foveation</mark> - movement of eyes so foveas of both are aimed at common point of interest 
+- <mark style="background: #FFF3A3A6;">both foveas do fixation = on actual obj</mark>
+	-<mark style="background: #FFF3A3A6;"> saccades = ballistic type movements to survey/fix eyes on common interest - there's shift between points of interest for that fixation to actually take place. </mark>
 type of eye movements
 - saccadic - scanning, fast ballistic to find the target location + change, 200 ms latency 
 	- rate is constant 
 	- duration depends on distance moved. 
-	- **conjugate eye movement s- moving simultaneous in same dierction**
-- smooth pursuit - tracking, target vector, watching river flow 
+	- **<mark style="background: #FFF3A3A6;">conjugate</mark> eye movement s- moving <mark style="background: #FFF3A3A6;">simultaneous in same direction</mark>**
+- <mark style="background: #FFF3A3A6;">smooth</mark> pursuit - tracking, target vector, <mark style="background: #FFF3A3A6;">watching river flo</mark>w 
 	- slower tracking movements, requires moving obj 
 	- speed **matches target speed**
-	- to establish this we need saccadic eye movement initially -
+	- <mark style="background: #FFF3A3A6;">to establish this we need saccadic eye movement initially</mark> -
 	- need light inputs
-	- disconjugate = vergence movements - opposite direction mving 
+	- <mark style="background: #FFF3A3A6;">disconjugate</mark> = <mark style="background: #FFF3A3A6;">vergence</mark> movements - <mark style="background: #FFF3A3A6;">opposite direction mving </mark>
 		- convergence + divergence 
-- vestibuloocularmotor - stabilizing, head acceleration
+- <mark style="background: #FFF3A3A6;">vestibuloocularmotor</mark> - stabilizing,<mark style="background: #FFF3A3A6;"> head acceleration</mark>
 	- work together with optokinetic eye movements to stabilize urself relative to external world, compensating for head movements wth the semicircular canals
-	- medial vestibular nucleus -> ascending fibers to aid in that head movement stabiization 
-	- optokinetic nystagmus - **alternatng of saccades and slow pursuit** lke looking at patterns movng , lookng at tree after tree after passing them 
-- vergence - changing target distance, as it moves aways, u diverge and when it comes close, you cross
+	- <mark style="background: #FFF3A3A6;">medial vestibular nucleus</mark> -> <mark style="background: #FFF3A3A6;">ascending fibers to aid in that head movement stabiization </mark>
+	- optokinetic <mark style="background: #FFF3A3A6;">nystagmus</mark> - **alternatng of saccades and slow pursuit** lke looking <mark style="background: #FFF3A3A6;">at patterns movng </mark>, lookng at tree after tree after passing them 
+		- mix; saccades + slow pursuit for patterns! 
+- <mark style="background: #FFF3A3A6;">vergence</mark> - <mark style="background: #FFF3A3A6;">changing target distance, as it moves aways, u diverge and when it comes close, you cross</mark> - basically convergence and divergent gazing!!!!!!
 there's ocular motor neuclei 
 - oculomotor, trochlear, and abducens 
 
 extraocular muscles - 
 - rectus moving in a cross superior nf, temporal, medial 
 - and the obliques for rotations 
-	- superior olibque intorsion , medially 
-	- inferior oblique extorsion , roll it out 
+	- superior olibque intorsion , medially and down; SUP is IN  
+	- inferior oblique extorsion , roll it out, up and lateral. 
 
 ![[extraocular muscles innervation chart.png]]
 
-superior oblique = trochlear CN 4 = contralateral superior blique muscle 
+superior oblique = trochlear CN 4 = <mark style="background: #FFF3A3A6;">contralateral</mark> superior oblique muscle 
 lateral rectus = abducens nerve - 
 
 ocular motor nerves
 - start with CN 3 = oculomotor nerve
-- from the oculomotor nucleus in the dorsomedial aspect of midbrain 
+- from the <mark style="background: #BBFABBA6;">oculomotor nucleus in the dorsomedial aspect of midbrain </mark>
 - will be more medial = motor = medial 
-- exits brainstem at **interpeduncular fossa!!!** -> 
-- innervates **ipsilateral superior , inferior , and medial rectus**
+- <mark style="background: #BBFABBA6;">CN 3 exits brainstem at **interpeduncular fossa!!!** -> </mark>
+- innervates **ipsilateral superior, inferior , and medial rectus**
 - in the more caudal midbrain, the **trochlear nucleus** which is medial in the brainstem exits on the **dorsal surface** -> **crossing to innervate the contralateral superior oblique msucle = only thing is to rotate nasally** intorsion - 
 - pontine medullary junction - has the abducens nucleus = on the **pons** -> ventral side and goes to innervate **ipsilateral lateral rectus muscl**
 	<mark style="background: #FFF3A3A6;">- **recall the oculomotor , trochlear and abducens nuclei all communicate via the medial longitudinal fasciculus -</mark>** 
