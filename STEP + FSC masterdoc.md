@@ -5,7 +5,16 @@ family medicine clerkship -
 - ER in columbia
 - florence psychiatry 
 there's expectation - we'll spend 2+ weeks outside of charleston! 
+incentive for us to go to outer places
+- no incentive for FM it's in structure
+- 1000 tuition supplement paid for by the system at the RHN (for florence!!!)
+- housing is avaliable! expectation - for some of us we can't in that case we'll reach out - review those exceptions
+housing 
+- musc new cancer hospital - 
+	- many of services of rutledge tower will move by ur 4th year off the peninsula - transportation is a bigger issue 
+	- nexton, mtp, and w. ashley 
 
+---
 "student dashboard"???
 showing ur data in longitudinal views + granular views 
 - why we want to have this provided for us 
