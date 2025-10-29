@@ -40,6 +40,7 @@ cranial nerve palsies - usually acquired as a result of strabismus
 - <mark style="background: #FFF3A3A6;">hordeolum</mark> = <mark style="background: #FFF3A3A6;">stye</mark> = infection of **gland of zeis which opens into eyelash follicle**
 	- erythema 
 	- <mark style="background: #FFF3A3A6;"> acute , concentrated around eyelash, </mark> bc the gland of zeis is an eyelash gland. 
+	- this is S. aureus and this is **painful too!!!!!**
 - chalazion - <mark style="background: #FFF3A3A6;">chronic</mark> lipgranulomatous inflammation of **meibomian gland**
 	- swelling is <mark style="background: #FFF3A3A6;">further up as the meibomian gland is more outstretched up </mark>
 	- most of the time neither is infected, but treated by warm compress, steroid creams, no antibiotics but we can use doxy , surgical drainage 
@@ -327,7 +328,7 @@ chronic htn
 	- <mark style="background: #FFF3A3A6;">vitreous hemorrhage</mark>
 - eye pain 
 - vision loss
-- amaurosis fugax
+- amaurosis fugax - 
 - red eye, 
 - will get big stroke 
 
@@ -340,6 +341,9 @@ chronic htn
 <mark style="background: #FFF3A3A6;">- exogenous - spreading into the eye from surgery, injections, corneal ulcers, trauma</mark>
 - <mark style="background: #FFF3A3A6;">endogenous</mark> - bacterial fungal endogenous chorioretinitis like spreadin<mark style="background: #FFF3A3A6;">g from heart valve </mark>
 - need antibiotics or surgery 
+- this is like - decreased vision, unlateral eye pain, conjunctival edema + leukocytes in anterior chamber
+- inflammation of vitreous from a bacterial/fungal infection 
+- most common cause postcataract surgery 
 
 <mark style="background: #FFF3A3A6;">herpes zoster ophtalamicus - V1 distributon might involve eye</mark>
 - will get invovlement with the eye surface
