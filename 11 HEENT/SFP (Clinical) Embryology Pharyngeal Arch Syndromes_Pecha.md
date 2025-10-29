@@ -89,4 +89,48 @@ embryology of cleft lip + palate
 8-12 wks = gestation - secondary palate , incisive foramen 
 ![[palatal development timeline chart.png]]
 
-- most common congen 
+- most common congen malformation after club foot 
+- 80% unilateral 20% bilateral
+- bilateral cleft lip 
+- complete - involvs the alveolus **and nasal floor**
+- incomplete - does'nt involve the nasal floor 
+classifications 
+veau classification 
+- type 1 - cleft of soft palate only 
+- type.2 = clefts of hard + soft palate restricted to secondary palate - palate posterior to incisive foramen 
+- 3 = unilateral cleft involving 2ndary + primary palate - this is atnerior to incisive foramen 
+- 4 = bilateral cleft w complete median tubercle isolation 
+orbicularis oris 
+- this will have abnormalities in here
+goals of cleft care
+- growth + development
+- social acceptance 
+- speech dev  - like hypernasal speech , too much air going thru the palate. 
+- dental + skeletal alignment - teen yars ortho ppl and bone grafft for when they're older 
+ultrasound - hard to see this 
+
+at birth - main goal is to airway, growth, feeding, and genetic eval 
+- cleft palate would have more fluid = higher risk of otitis media bc th levator will open up to the ear 
+- **avoid feeding tubes if we don't need**
+- need special cleft feeders bc we cna't mkake suction ... so high failure to thrive
+- cleft lip only = no need for it 
+- cleft lip + alveolus - possible? **attempt moms feeding method + monitor closely weight**
+- cleft palate -w/ or w/out lip - special accoms needed + cleft palate bottle need+ at risk 
+
+taping - birth -5months 
+NAM - nasoalveolar mlding - with a device where you bring out the premaxilla - surgical with taping+ lip repair . 
+
+cleft lip repair - rule of 10s
+- 10+ wks
+- 10+ pounds 
+- 10+ hgb. 
+- rules - function to repair orbicularis sphincter and do aesthetics 
+
+cleft palate repair 
+- 9-12 mons 
+- try to close + elongate the palalte to get muscles realigned for speech 
+submucous cleft palate - 
+- bifid uvula
+- zona pellucida - blue area 
+- notched hard palate 
+- 
