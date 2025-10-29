@@ -121,3 +121,9 @@ id dural infoldngs + dural venous sinuses
 - ![[image.png]]
 
 ![[image-1.png]]![[Screenshot 2025-10-28 at 2.54.55 PM.png]]
+
+floor of ant cranal fssa removed by faculty 
+
+open periorbita - membrane just deep to roof of orbit - frontal nerve mgth be visitble thru it 
+
+cut from apex to superior orbital margin 
