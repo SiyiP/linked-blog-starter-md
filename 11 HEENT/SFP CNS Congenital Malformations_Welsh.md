@@ -46,6 +46,7 @@ forebrain anomalies
 	2. lobar - pretty good hemisphere division, lobe formation, midline fusion. = see some midline fusion and some lobes... 
 	3. semilobar - pseudo division of hemisphere but no lobes
 	4. alobar - no hemi no lobe 
+	5. characterized by a monoventricle + fusion of basal ganglia on MRI! 
 3. associated - 14 genes, **recall<mark style="background: #FFF3A3A6;"> trisomy 13 and 18</mark>!!! and teratogens**
 
 migration defects- **all in common seizures**

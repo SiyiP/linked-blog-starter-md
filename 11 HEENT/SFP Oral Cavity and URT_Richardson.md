@@ -88,7 +88,7 @@ neoplasias- benign
 	2. can be in kids and adults
 	3. well circumscribed, mixed material in it 
 	4. capsule around the tumor, they try to get as much out as possible but there's a lumpy bumpy capsule so sometime they can't and make it seed instead.
-	5. recurrenc rate
+	5. recurrence rate is high 
 malignant
 3. mucoepidermoid carcinoma - most common malignant salivary gland tumor 
 	1. and children too 
