@@ -56,6 +56,47 @@ neuropath with acquired metabolic dz
 		2. dentate nucleus of infant 
 		3. in adults - pyramidal neurons CA1 - sommer's sector of hippocampus 
 			1. this is liek the jelly roll of hippocampus gyrus 
+			2. in chronic injury we see a cavity where it is, with the absence in the CA1 region. 
 	6. acute hypoglycemic brain injury - wswelling + discoloration + see hypereosinophilic neurons -<mark style="background: #FFF3A3A6;"> dead red neurons</mark> in the dentate nucleus... <mark style="background: #FFF3A3A6;">no nucleus seen  and cytoplasmic blueness lost too... </mark>
-	7. chronic hypoglycemic bain injury - **laminar necrosis - see cavitaries.... with the hole where they lost thru rarefaction. + associated gliosis** - end up with the inc white space
-2. 
+	7. chronic hypoglycemic bain injury - **laminar necrosis - see cavitaries.... with the hole where they lost thru rarefaction. + associated gliosis** - end up with the inc **white** space
+	8. any gliosis - pink cytoplasm + spider like processes = the astrocytes ! 
+2. acquired metabolic encephalopathy - liver dz 
+	1. 2/2 severe liver dz. = related to **inc ammonia levels**
+	2. completely variable depending on duration + acute v chronic 
+	3. typical - cog impairment, confusion drowsiness -> coma, asterixis, 
+	4. acute onset can be rapidly fatal 
+	5. chronic / repeated episodes cause neuropsych disturbance, ataxia, dysarthria 
+	6. alz type 2 cells or astrocytes!!! these will take on the ammonia and then take in too much water too after converting the ammonia. **water makes these white spots; not caused dementia, just named after same person**
+	7. ![[Screenshot 2025-11-03 at 10.36.43 PM.png]] 
+3. Reye syndrome - not as common nowadays  - this caused by aspirin 
+	1. core - will disrupt the mitochonrial function, causing fatty accumulation in liver and cytotoxicity edema in the brain.
+		1. when brain diffusely swells -> infarctions 
+	2. hepatic encephalopathy usually 
+	3. postviral usually 
+4. wilson dz - **aka hepatolenticular degeneration**
+	1. AR mutatioon in chromosome 13 - putative copper transport ATPase, deficient ceruloplasmiin, elevated serum copper 
+	2. copper accumulates where it shouldn't - kayser-fleischer rings 
+	3. hepatic failure/cirrhosis (nodular and pale)
+	4. dementia sytmpoms + extrapyramidal signs liek tremor, rigidity, etc 
+	5. cavitation + brownish/brick red discoloration in the **putamen**
+	6. adolescent onset 
+	7. **alzheimers type 2 astrocytes!!!!**  as well 
+
+5. CO poisoning 
+	1. CO binds hgb more strongly than o2, so o2 not delvered 
+	2. nonspecific symptoms, nausea, abd pain, fatigue, altered mental, seizures 
+	3. chronic/survivors = cog/neuropsych/mood instability, dystonia, parkinsonium, chorea ; perm brain dmg
+	4. co loves **globus pallidus - cavitation of this and necrosis, bilateral hemorrhagic infarction**
+	5. demyelination too - patches of myelin loss in white matter
+6. methanol - moonshine contaminant 
+	1. can go blind - retinal + optic nerve dmg 
+	2. hemorrhagic leukoencephalopathy - focal white matter necrosis 
+	3. bilateral putamen necrosis 
+7. iatrogenic harm to NS 
+	1. radiation therapy - causes coagulative necrosis, fibrotic/hyalined vessel walls in bvs, reactive gliosis 
+		1. 2ndary tumors too like meningiomas, sarcomas, high grade gliomas 
+	2. chemotherapy / methotrexate neurotoxicity - can end up with **white matter dmg multifocal necrotizing leukoencephalopathy**
+		1. red and yellow spots and stuff
+	3. lead toxicity - inorg lead + heavy metals
+		1. adults occupational = **hypochrmic microcytic anemia, lead colic, peripheral, neuropathy, gingival lead line**
+		2. kids = **dev delay, cerebral edema, perm delays, hypchromic microcytic anemia, epiphyseal lead line** gingival lead lines 
