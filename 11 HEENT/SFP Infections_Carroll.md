@@ -44,12 +44,12 @@ long term sequele
 	- this fibrosis also entraps circle of willis + other smaller arteries -> vascular compromise, aka strokes happen 
 
 1. tuberculous meningitis - subacute meningitis
-	1. accumulation of granulations and granulomatous inflammatory infiltarte in basal leptomeninges 
+	1. accumulation of granulations and granulomatous inflammatory infiltrate in basal leptomeninges 
 	2. acid-fast bacilli inside multinucleated giant cells 
 	3. similar to acute bacterial meninigitis 
 2. cryptococcal meningitis. - happens a lot in immunocompromised, hiv 
 	1. very pus-ish , glazed donut 
-	2. basal ganglion - has **soap bubbles, makes a vircal robins spac,e making larger space opening up to those vessels**
+	2. basal ganglion - has **soap bubbles, makes a viceral robins spac,e making larger space opening up to those vessels**
 	3. eventually get thru to the basal ganglion via those vessel connections 
 3. long term leptomeningitis complications: hydrocephalus, seizures, sensorineural deafness, focal infarcs
 

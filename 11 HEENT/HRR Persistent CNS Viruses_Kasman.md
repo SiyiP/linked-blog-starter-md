@@ -121,15 +121,15 @@ spongiform encephalopathies - they're vacuolar changes in cortex.+cerebellum
 - incubation months to decates
 - lymphoreticular system involved in replication 
 
-crueztfeld-jakob dz - infection control awareness ; CJD
-- ppl in 50/60s 
-- seen as psych disroder then rapid progression; forgetful/disoriented, dementia, gait changes, inc muscle tone, invol movemnts, seizures 
-- time to death is 4-7 mon 
-- 85% sporadic, remainder familial/nosocomial 
+<mark style="background: #FFF3A3A6;">crueztfeld-jakob dz - infection control awareness ; CJD</mark>
+- ppl in <mark style="background: #FFF3A3A6;">50/60s </mark>
+- seen as psych disorder then rapid progression; forgetful/disoriented, dementia, gait changes, inc muscle tone, invol movements, seizures 
+- **time to death is 4-7 months** 
+- 8<mark style="background: #FFF3A3A6;">5% sporadi</mark>c, remainder familial/nosocomial 
 - no recorded transmission via personal contact or resp route 
 - blood transfusion or sex. nosocomial cases 3-20 years 
 - DX: biopsy/autopsy gold standard but hazardous ): 
-	- **spongiform degeneration in brain biopsy!!! and gliosis**
+	- **<mark style="background: #FFF3A3A6;">spongiform</mark> degeneration in brain biopsy!!! and gliosis**
 	- lab dx - neuron specific enolase, S100 protein, tau , and 14-3-3 protein inc 
 	- **RT-QUIC - real time we look for sporadic shaking CSF with it!!! only done in one lab here.**
 	- EEG - triphasic periodic sharp wave complexes with freq of 1-2 hz 

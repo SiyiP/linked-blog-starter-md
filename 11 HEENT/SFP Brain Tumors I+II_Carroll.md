@@ -24,35 +24,35 @@ WHO classification of tumors of CNS - there's too many... and it's also badly ou
 
 in adults - glioblastomas GBMs are most common + best studied. 1/3 are malignant + remainder are benign. 
 1. glioblastomas - GBMs - we see a crumbly appearance , **ring-enhancing lesion - will not have contrast go into the lesion bc there's a cavity of deead tissue, a ring of necrosis!!**
-	1. rapidly growing + diffusely infiltrative, will compress normal parts of the brain 
+	1. rapidly growing +<mark style="background: #FFF3A3A6;"> diffusely infiltrative, will compress normal parts</mark> of the brain 
 	2. where do they come from derived from the glia? not neurons probably 
-		1. express GFAP = astrocyte markers .... 
+		1. express <mark style="background: #FFF3A3A6;">GFAP</mark> = astrocyte markers .... 
 		2. but idk not really settled, maybe from more progenitor than the astrocytes
 	3. primary GBMs = **de novo... the ppl in 60s/70s**
-	4. secondary GBMs - occurs in step-wise fashion , from grade 2 tumors and then will transform . these are typically in 30s/40s. 
-		1. diffuse astrocytoma - grade 2. 
+	4. secondary GBMs - occurs in s<mark style="background: #FFF3A3A6;">tep-wise fashion , from grade 2 tumors and then will transform . these are typically in 30s/40s. </mark>
+		1. <mark style="background: #FFF3A3A6;">diffuse astrocytoma - grade 2. </mark>
 			1. diffusely infiltrating astrocytoma that impacts young adults + happens in cerebral hemispheres
 			2. high degree of cellular difff, slow growing. 
-			3. lacks mitotic activity, vascular prolif + necrosis
-		2. anaplastic astrocytoma - G3 
-			1. primarly adults + found in cerebral hemispheres ... has more atypia + **brisk mitotic acitivty** but still no vascular prolif + necrosis 
-	5. brisk mitotic activity , Kii67 labeling indices are high 
-	6. are derived from normal brain, so BBB isn't a huge thing for it 
-	7. GBM - have bizzare multinucleated cells (can't divide anymore) and larger numbers of small bipolar cells (can proliferating compoenent)
-		1. bipolar cells - > secrete **excitotoxin glutamate which promotes seizures + kills neurons**
+			3. <mark style="background: #FFF3A3A6;">lacks mitotic activity,</mark> vascular prolif + necrosis
+		2. <mark style="background: #FFF3A3A6;">anaplastic</mark> astrocytoma - G3 
+			1. primarly adults + found in cerebral hemispheres ... has more atypia + **brisk mitotic acitivty** but<mark style="background: #FFF3A3A6;"> still no vascular prolif + necrosis </mark>
+	5. <mark style="background: #FFF3A3A6;">brisk mitotic activity , Kii67 labeling indices are high </mark>
+	6. are derived from normal brain, so BBB isn't a huge barrier for it 
+	7. <mark style="background: #FFF3A3A6;">GBM - have bizzare multinucleated cells</mark> (can't divide anymore) and <mark style="background: #FFF3A3A6;">larger numbers of small bipolar cells</mark> (can proliferating compoenent)
+		1. bipolar cells - > secrete **excitotoxin <mark style="background: #FFF3A3A6;">glutamate</mark> which promotes seizures + kills neurons**
 		2. the tumor cells are resistant to excess glutamate bc they got bumps so they don't die 
 		3. bipolar cells infiltrate very widely - making it **impossible to get a complete surgical resection!**
 	8. tumor cells -> grow so rapidly, killing itself, making bland infarc centers 
-	9. they make **tumor infarction, pseudopalidsading necrosis!!!**![[Screenshot 2025-11-03 at 1.48.55 AM.png]]
+	9. they make **tumor infarction, *pseudopalidsading* necrosis!!!**![[Screenshot 2025-11-03 at 1.48.55 AM.png]]
 	10. pseudopalisading - as the cells die, the tensile pressure is lost then the cells collapse upon itself 
 	11. hypoxic penumbra around that zone is crammed more and more so more VEGF is made, so **vascular endothelial proliferation glomeruloid bodies are made...**
-	12. this is why it's contrast enhancing bc of the leakiness 
+	12. this is why it's contrast enhancing bc of the **leakiness** 
 	 grading:1 is the best, 4 is the worst. this is strictly for this tumor... but we don't grade the pituitary adenomas 
 	 - this is strictly based on histo and molecular features, ignoring the clinical ones. 
 	 - GBMs - are grade 4, bc ppl typically die 12-14 mon post dx 
 	 - but staging - assesses lymph nodes. + metastases.... and extraneural metastases are very rare for GBMs. 
 
- glioma - a collective term - any nervous system tumor from astrocytes, ependymal cells or oligodendrocytes 
+ glioma - a collective term - <mark style="background: #FFF3A3A6;">any nervous system tumor from astrocytes, ependymal cells or oligodendrocytes </mark>
  - glioblastomas + astrocytomas = 75% of all gliomas in adults 
  - oligodendrogliomas, mixed gliomas or whatever are majority of other 25% 
 
@@ -140,47 +140,48 @@ in younger ones - gliomas are common**
 
 1. pilocytic astrocytoma - grade 1 
 	1. this is in the cerebellum but happen anywhere... including the optic nerves 
-	2. this is a cyst with a mural nodule 
-	3. **this is biphasic, dense and loose areas!! these don't progress unlike other astrocytomas**
-	4. rosenthal fibers (red rods) + microcytts
+	2. this is a *cyst with a mural nodule* 
+	3. **this is biphasic, dense and loose areas!! these *don't progress* unlike other astrocytomas**
+	4. <mark style="background: #FFF3A3A6;">rosenthal</mark> fibers (red rods) + <mark style="background: #FFF3A3A6;">microcysts</mark>
 	5. ![[Screenshot 2025-11-03 at 2.37.36 AM.png]]
-	6. but they do have proliferation of vascular - contrast enhance. 
+	6. but they do have proliferation of vascular - contrast enhance.  
 	7. significance - optic stuff = think NF 1 
-2. ependymomas - rare in adults common in kids
+2. <mark style="background: #FFF3A3A6;">ependymomas - rare in adults common in kids</mark> = this CAN progress 
 	1. grade 2 
-	2. from ependymal ceells which line the ventricles
+	2. from<mark style="background: #FFF3A3A6;"> ependymal cells which line the ventricles</mark>
 	3. slow growing, lack high mitotic activity, vascular endothelial prolif, and necrosis
 	4. uniform looking at a cellular level 
-	5. in central canal, obstruction of CSF flow 
-	6. can progress to anaplastic ependymoma - grade 3, unfavorable prognosis with inc cellularity, brisk mitosis,vascular endothelial prolif 
-3. embryonal tumors - high grade 4, 
-	1. medulloblastomas - from cerebellum, 75% ini vermis, sporadic- **don't memorize these genetic syndromes...**
+	5. in central canal, <mark style="background: #FFF3A3A6;">obstruction of CSF flow </mark>
+	6. can<mark style="background: #FFF3A3A6;"> progress to anaplastic ependymoma</mark> - grade 3, unfavorable prognosis with inc cellularity, brisk mitosis,vascular endothelial prolif 
+3. embryonal tumors - high grade 4 
+	1. <mark style="background: #FFF3A3A6;">medulloblastomas</mark> - from cerebellum, 75% ini vermis, sporadic- **don't memorize these genetic syndromes...**
 		1. 5% associated with genetic syndromes
-		2. extend into 4th ventricle , obstructive hydrocephalous + inc Intracranial pressure with headache, vomitting, truncal ataxia 
-		3. **solid, contrast enhancing masses**
-		4. hypercellular, super packed, and given a lot of **blastic** of cells 
-		5. one exception - **staging is here**
+		2. **Medulloblastomas** are _soft_ _friable_ brain tumors with areas of _necrosis_ that may contain MYC amplifications
+		3. *extend into 4th ventricle*, obstructive <mark style="background: #FFF3A3A6;">hydrocephalous</mark> + inc Intracranial pressure with headache, vomiting, truncal ataxia 
+		4. **solid, contrast enhancing masses**
+		5. hypercellular, super packed, and given a lot of **blastic** of cells 
+		6. one exception - **staging is here**
 			1. these can drop metastasize.. via the CSF, so we can see if there's chunks of tumors distal to where it breaks apart 
-	2. primitive neuroectodermal tumors PNETS 
-		1. from cerebral hemiispheres
-		2. well-circumscribed, **variably** contrast enhance + has cysts, calciication + hemorrhage
+	2. <mark style="background: #FFF3A3A6;">primitive neuroectodermal tumors PNETS </mark>
+		1. from cerebral hemispheres
+		2. well-circumscribed, **variably** contrast enhance + has cysts, calcification + hemorrhage
 		3. no genetic syndromes
 		4. **these are aggro ):**
 		5. this is a catch-all we need to break these into subtypes 
 syndromes of NS neoplasia - 
-4. Neurofibromatosis 1 
+4. Neurofibromatosis 1 = tumors and discoloration everywhere 
 	1. most common affecting human nervous system 
 	2. CNS neoplasms 
 	3. non CNS neoplasms  - juvenile chronic myelogeous leukemia, sarcomas 
 	4. pigmented lesons - cafe au lait etc , lisch nodules 
-	5. bony dysplasia , shortening of bone in forearm, skulls base etc. 
-	6. learning disabilities - not mental disabilities, **no qualify for the special ed ):**
-	7. neurofibromas - kids aren't born with it, they develop in puberty ; some hormone connection 
+	5. <mark style="background: #FFF3A3A6;">bony dysplasia , shortening of bone in forearm, skulls base etc. </mark>
+	6. l<mark style="background: #FFF3A3A6;">earning disabilities</mark> - not mental disabilities, **no qualify for the special ed ):**
+	7. neurofibromas - kids aren't born with it, they <mark style="background: #FFF3A3A6;">develop in puberty ; some hormone connection </mark>
 		1. dermal neurofibromas - no malignant potential 
-		2. plexiform neurofibromas - are born w/ these, occur **internally, in large nerves or nerve plexuses**
+		2. <mark style="background: #FFF3A3A6;">plexiform neurofibroma</mark>s - are born w/ these, occur **internally, in large nerves or nerve plexuses**
 			1. these CAN **transform into aggro schwann cell derived malignacies known as MPNS1s... wich are mmost common malignancy and leading cause of death in NF1 patients**
 	8. ): quality of life is bad in plexiform neurofibromas , where we can get chunks removed via surgery 
-5. Neurofibromatosis 2 - central ... 
+5. Neurofibromatosis 2 - more central ... 
 	1. schwannomas - happening - these pts are prone to deafness
 	2. schwannomas are everywehre in the brain 
 	3. AD and in 1 in 40k - 50k 
@@ -193,17 +194,18 @@ non-NF2 schwannomatosis
 - some cliniicals that overlap with NF2-associated schwannomatosis 
 - we need to test all 3 genes to fully distinguish 
 
-1. tuberous sclerosis complex TSC 
+1. <mark style="background: #FFF3A3A6;">tuberous sclerosis complex</mark> TSC 
 	1. famiilial but like 60% sporadic 
 	2. AD inheritance
 	3. 2 loci 
-		1. TSC1 = hamartin 
-		2. TSC2 = tuberin 
-		3. mutations -> hyperactivation of mTOR
-	4. seizures = most common CNS manifestation followed by intellectual disability 
+		1. T<mark style="background: #FFF3A3A6;">SC1 = hamartin </mark>
+		2. <mark style="background: #FFF3A3A6;">TSC2 = tuberin </mark>
+		3. mutations -> <mark style="background: #FFF3A3A6;">hyperactivation of mTOR</mark>
+	4. <mark style="background: #FFF3A3A6;">seizures</mark> = most common CNS manifestation followed by intellectual disability 
 	5. unpredictably distrib hamartomata - happen in many organs with brain + kidney most involved 
-	6. 2-10% of subependymal lesions in brain progress to bcome brain tumors 
+	6. 2-10% of subependymal lesions in brain progress to become brain tumors 
 	7. we see tubers - potato-like things appearing - **the seizure foci**
 	8. candle gutterings = subependymal nodules in the ventricles !!! can progress to become subependymal giant cell astrocytomas ![[Screenshot 2025-11-03 at 2.56.40 AM.png|345x296]]
-	9. SEGAs -  subependymal giant cell astrocytomas = associated with ventriculomegaly + are often calcified 
+	9. SEGAs -  <mark style="background: #FFF3A3A6;">subependymal giant cell astrocytomas = associated with ventriculomegaly</mark> + are often calcified 
+		1.  fluid-spilled spaces in a brain (ventricles) are larger than usual.
 

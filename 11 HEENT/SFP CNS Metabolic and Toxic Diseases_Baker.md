@@ -25,7 +25,7 @@ alcohol related syndromes
 	1. can happen with wernicke korsakoff
 	2. **atrophy of anterior vermis lobe** - more space between superior and anterior lobes. the **atrophy = whitened spaces between folia** 
 	3. 3 layers - the molecular layer, purkinje cell layer and internal granule cell layer
-		1. purkinje cell losses and then the smaller internal granule cell layer loss => folia spaces widn 
+		1. purkinje cell losses and then the smaller internal granule cell layer loss => folia spaces widen 
 4. osmotic demyelination syndrome - central pontine myelinolysis 
 	1. classically due to rapid reversal of **hyponatremia in alc use
 	2. pons most often impacted
@@ -76,7 +76,7 @@ neuropath with acquired metabolic dz
 4. wilson dz - **aka hepatolenticular degeneration**
 	1. AR mutatioon in chromosome 13 - putative copper transport ATPase, deficient ceruloplasmiin, elevated serum copper 
 	2. copper accumulates where it shouldn't - kayser-fleischer rings 
-	3. hepatic failure/cirrhosis (nodular and pale)
+	3. <mark style="background: #FFF3A3A6;">hepatic failure/cirrhosis (nodular and pale)</mark>
 	4. dementia sytmpoms + extrapyramidal signs liek tremor, rigidity, etc 
 	5. cavitation + brownish/brick red discoloration in the **putamen**
 	6. adolescent onset 

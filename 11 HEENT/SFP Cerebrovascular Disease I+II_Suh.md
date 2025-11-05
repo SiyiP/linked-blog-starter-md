@@ -36,8 +36,12 @@ CV prevalence of this
 
 types of edema - which one's caused by stroke 
 - vasogenic- typically ppl with tumors 
+	- inc. vessel permeability and fluid accumulation outside of brain cells leads to this 
+	- vasogenic = a type of brain edema resulting from an **accumulation** of **extracellular fluid due to disruption of the blood brain barrier.**
+	- caused by trauma, inflammation, tumors   
 - cytotoxic - caused by stroke! basically **cells no longer hold gradient and bursts and dies off**
 	- this is due to ionic gradient alterations! 
+	- this is caused by the failure of ATP-dependent transport of sodium and calcium ions across the cell membrane, causing accumulation of water and swelling 
 - hydrostatic
 - osmotic 
 risk factors
