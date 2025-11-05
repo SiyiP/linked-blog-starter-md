@@ -53,4 +53,38 @@ laceration -
 	4. on scans - see blood, superficially see some dripping into the sulci. bright areas. 
 	5. seen on autopsy, it's blood on frontal + most likely temporal tips. 
 	6. subarachnoid hemorrhage associated mainly 
-	7. **contre-coup damage = when u get hit by an obj , you get the sku**
+	7. coup injury = when u get hit by an obj , you get the skull fracture, scalp bruise etc on the same place, it all lins up 
+	8. **contre-coup**  = major dmg is in the front, and you fall backwards, so the contusion is in the back, the base of your skull. 
+		1. the skull hits floor, then the brain would bounce up and rub against the frontal bones
+	9. old contusions look very orange, flattened gyri + stained with hemosiderin 
+	10. **gliding contusions - happens along the midline**
+		1. basically brain is staying put in the falx. 
+		2. kinetic brain injury - angular acceleratiion tears the bvs. near te midline as the falx is tethered
+		3. also hemorrhagic! acute = many blood, and subacute = macrophages. in remote = cystic 
+10. intracranial hematomas 
+	1. blood ends up in the internal capsule, blood ends up inside the brain basically 
+	2. frequently we see many combinations of things. we combine the story of things 
+11. brainstem hematomas - some traumatic some not 
+	1. htn hemorrhages happen here too 
+	2. midline hemorrhages = **herniation of brain** 
+12. fat embolism 
+	1. the brain can hemorrhage petechial ones mostly in white matter due to this. 
+	2. femur long bone fracture -> basically fat will go into the brain 
+	3. seen in lungs too 
+	4. bv obstruction - they hemorrhage. 
+13. cord lesions- trauma, and some ppl fracture + dislocate due to tumors too 
+	1. hyperextension injuries, some fracture dislocation, epidural hemorrhage or abscess or something else in that space 
+14. subluxation rheumatoid arthritis 
+	1. dislocation of vertebra 
+	2. this is a fracture dislocation 
+	3. some ppl have dissections in vertebral artery with this 
+15. cord trauma
+	1. we can end up with a **post traumatic syrinx = syringomyelia - fluid filled cyst in spinal cord**
+	2. or CNS tissue just squished in the spinal cord forev 
+16. 2ndary effects of trauma
+	1. swellling/edema
+	2. loss f tissue - esp with contusions 
+	3. hydrocephalus - dementia pugilistica
+	4. brainstem hemorrhage secondary to herniation 
+RFs:
+- alc, previous head injury , seizure disorder, neuro dz 
