@@ -17,7 +17,7 @@ oral cavity proper - inner surface of anterior teeth to the **oropharyngeal isth
 - bound by superior palates, the floor of mouth under, inner surfaces of teeth antriorly etc 
 
 - oropharyngeal isthmus - made by : 
-	- - palatoglossal folds - seen anteriorly like curtains laterally (differentiate frm the palatoglossys muscle)
+	- palatoglossal folds - seen anteriorly like curtains laterally (differentiate frm the palatoglossys muscle)
 	- soft palate superiorlly bound 
 	- terminal sulcus of tongue inferiorly - depression that divides from anterior vs posterior 1/3 
 	- can be opened + closed by surrounding tissues 
