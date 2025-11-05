@@ -36,18 +36,18 @@ alcohol related syndromes
 	7. we see a **bat shaped dark triangular shadow on the pons, indicatioon of lack of myelination**
 	8. ![[Screenshot 2025-11-03 at 10.26.40 PM.png]]
 5. polyneuropathy can be caused by this too 
-6. b12 def = subactue combined degeneration 
+6. b12 def = subacute combined degeneration 
 	1. only this will cause cns issues
 	2. malaborsption of cobalamin due to either stomach or term ileum issues where IF release and B12 absorption is jacked up 
-	3. symmetrical prog lower extremity paresthesias. +weakness which begins distal -> proxmal 
+	3. symmetrical prog lower extremity paresthesias. +weakness which begins distal -> proximal 
 	4. not sure why spinal cord degen but there is... **spasticity loss of postural sensation (unsteady gait)**, and spastic paraplegia, contractures, ataxia 
-	5. the white matter of the SC will be degenerated - **usually involving th e posterior sensory and lateral motor columns .... **
+	5. the white matter of the SC will be degenerated - **usually involving the posterior sensory and lateral motor columns .... **
 		1. early demyelination with later axon loss + gliosis 
-	6. not rlly demyelinatioon process, but demyelination is secondary to this degeneration 
+	6. not rlly demyelination process, but demyelination is secondary to this degeneration 
 
 neuropath with acquired metabolic dz 
-1. diabetic hypoglycemic encephalopahty
-	1.  insulin od!!!
+1. diabetic hypoglycemic encephalopathy
+	1. insulin od!!!
 	2. neurons need constant glucose 
 	3. too much exogenous insulin - OD 
 	4. as little as 1-2 hrs **without glucose = brain dmg !!!**
@@ -58,7 +58,7 @@ neuropath with acquired metabolic dz
 			1. this is liek the jelly roll of hippocampus gyrus 
 			2. in chronic injury we see a cavity where it is, with the absence in the CA1 region. 
 	6. acute hypoglycemic brain injury - wswelling + discoloration + see hypereosinophilic neurons -<mark style="background: #FFF3A3A6;"> dead red neurons</mark> in the dentate nucleus... <mark style="background: #FFF3A3A6;">no nucleus seen  and cytoplasmic blueness lost too... </mark>
-	7. chronic hypoglycemic bain injury - **laminar necrosis - see cavitaries.... with the hole where they lost thru rarefaction. + associated gliosis** - end up with the inc **white** space
+	7. chronic hypoglycemic brain injury - **laminar necrosis - see cavity holes basically.... with the hole where they lost thru rarefaction. + associated gliosis** - end up with the inc **white** space
 	8. any gliosis - pink cytoplasm + spider like processes = the astrocytes ! 
 2. acquired metabolic encephalopathy - liver dz 
 	1. 2/2 severe liver dz. = related to **inc ammonia levels**

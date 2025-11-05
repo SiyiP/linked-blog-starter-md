@@ -5,10 +5,7 @@ lumbar buncture - many polymorphonuclear leukocytes, glucose + protein etc.
 l lower lobe infiltrate in cxray
 - this pt has - strep pneumoniae - common in chronic alc 
 - has leptomeningitis - common infiltrate of luncg -> brain 
-- the microorg reached CNS via **seeding secondary to sepsis**
-- 
-
-
+- the microrg reached CNS via **seeding secondary to sepsis**
 
 - entry thru defects in natural protective barriers
 - spread from infections close to the brain like via otitis media
@@ -22,10 +19,10 @@ special feat of cns infections
 - BBB -initial barrier to inflammatory access, so gives microorganiisms a **window of opportunity to attack without the inflammatory cells fighting it**
 - fibrosis is limited - **glial scars or gliosis does a bad job of encapsulating infections**
 
-1. leptomeningitis. - inflam of pia and arachnoid which spread thru the CSF in **subarachnoid space**
-	1. viruses - aseptic meningitis - acute and self limited, like a guy having a **headache with the flu!**
-	2. pyogenic bacteria - acute meningitis - can be deadly + very fasty progressing, headache -> go sleep and ded
-		1. pus on the surface of hte brain when the body gets to respond. 
+1. <mark style="background: #FFF3A3A6;">leptomeningitis</mark>. - inflam of pia and arachnoid which spread thru the CSF in **subarachnoid space**
+	1. viruses - aseptic meningitis - acute and self limited, like a guy having a **headache with the flu!**  
+	2. pyogenic bacteria - acute meningitis - can be deadly + very fasty progressing, headache -> go sleep and died
+		1. pus on the surface of the brain when the body gets to respond. 
 		2. we see pus into the sulci of the brain 
 		3. and then the pus will be confined to subarachnoid space, across the entire surface of brain - little to keep it from spreading
 	3. mycobacteria. + fungi - can be chronic + across a long time course 

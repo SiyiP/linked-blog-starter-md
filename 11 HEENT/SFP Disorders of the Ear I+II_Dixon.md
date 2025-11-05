@@ -71,7 +71,8 @@ infections
 	 4. SUBTYPE: without cholesteatoma - where you have a hole in the eardrum , infections get stuck there 
 		 1. debridement, topical antibiotics works 1/2 the time, surgery too 
 	 5. SUBTYPE - with cholesteatoma - related to eustation tube dysfunction , skin from the eardrum grows in the wrong space... eustachion tube doesn't open like it should as freqeutnly and then there's negative pressure buildup 
-		 1. TREAT: surgery mastoidectomy + tympanoplasty 
+		 1. _Cholesteatoma_ is an abnormal growth in your middle ear behind your eardrum
+		 2. TREAT: surgery mastoidectomy + tympanoplasty 
 
 5. otosclerosis- bone remod disorder of otic capsule - but the ear looks normal externally - everything looks good
 	1. but right at the stapes footplate, the ligament that is meant to be soft and supple for the stapes to vibrate ossifies!
@@ -83,7 +84,7 @@ infections
 	7. can also do a CT scan to see - subtle change in density of the both + otospongosis = typical of active sclerosis
 
 
-6. age related HL - hearing + cogniftive decline 
+6. age related HL - hearing + cognitive decline 
 	1. super common! 1 in 5 americans 
 	2. association with many problems - reduced QOL, loneliness, social isolation, depression, etc etc. 
 	3. bunch of health problems have this - some ppl might be able to reduce incidence of falls and cognitive decline by treating hearing loss + improve social networks ! 
@@ -98,7 +99,7 @@ infections
 neoplasms
 1. vestibular schwannomas
 	1. benign neoplasm of schwann cells on vestibular nerve
-	2. most common intracranial tumor in the fossa... **mutation of<mark style="background: #FFF3A3A6;">merlin, chromosome 22 tumor suppressor</mark>**
+	2. most common intracranial tumor in the fossa... **mutation of <mark style="background: #FFF3A3A6;">merlin, chromosome 22 tumor suppressor</mark>**
 	3. **asymmetric hearing loss!**, tinnitus, imbalance
 	4. sometimes - we see facial hypesthesia/parathesia - might compress trigmeminal or some type of adjacent nerve.
 	5. MAnage - observe usually , or radiation with gamma knife 
@@ -114,13 +115,13 @@ tinnitis  - hearing something without an external source
 		1. subjective - only the patient hears 
 		2. objective - you can hear it if you listen closely 
 	2. pulsatile vs non pulsatile 
-		1. pulsatile- vascular heart sounds, carotid bruits, murmors, aberant vascular anatomy.... intracranial sounds like intracranial hypertension, dural AVF, transverse sinnus stenosis or physiologic noises like venous hum - 
+		1. pulsatile- vascular heart sounds, carotid bruits, murmors, aberant vascular anatomy.... intracranial sounds like <mark style="background: #FFF3A3A6;">intracranial hypertension, dural AVF, transverse sinus stenosis</mark> or physiologic noises like venous hum - 
 			1. all coincides w heart rate 
 			2. audiogram +/- imaging plus hx and exam and a bunch ... 
-			3. principle of this - could be something liek aneurysm we have to treat. in vast majoriy - it's usually physiologic 
+			3. principle of this - could be something like <mark style="background: #FFF3A3A6;">aneurysm</mark> we have to treat. in vast majority - it's usually physiologic 
 		2. nonpulsatile 
-			1. all causes of hearing loss, 
-			2. post concussive, temporomandibular disfunction, stress, anxiety, irritability 
+			1. <mark style="background: #FFF3A3A6;">all causes of hearing loss, </mark>
+			2. post concussive, <mark style="background: #FFF3A3A6;">temporomandibular disfunction,</mark> aka TMJ stress, anxiety, irritability 
 			3. audiogram **but MRI ONLY if unilateral!!**
 			4. Manage: rehav hearing, masking devices, CBT 
 
@@ -135,52 +136,52 @@ many different sources of balance information - vision, inner ear, and proprioce
 - VOR = vestibuloocular reflex - keeping eyes fixed on things when u move quickly turning head side to side. 
 
 patho
-1. BPPV - the most common cause of vertgo - benign proximal positional vertigo 
+1. BPPV - the most common cause of vertgo - <mark style="background: #FFF3A3A6;">benign proximal positional vertigo </mark>
 	1. like crystals being loose - the 
 	2. **otoconia from the utricle will break off, float in the endolyph and fall into the SCC!!! mostly posterior!**
 	3. sCCs are supposed to sense angular acceleration only but with these otoconia they can now sense linear! so we get **brief seconds of rotary vertigo triggered by head movements**
 	4. brain thinks you're still moving- bc of crystals jigglying 
-	5. so brain fires off VOR making eyebalsl jiggle! - nystagmus 
+	5. so brain fires off VOR making eyeballs jiggle! - <mark style="background: #FFF3A3A6;">nystagmus</mark> 
 	6. hallmark - takes couple of seconds to start, crystals float down and stops 
 	7. dx: dix-hallpike maneuver + upbeat + torsional characteristic nystagmus 
 	8. TREAT: move their head to get the crystals back where it's meant to be ! but has a tendency to recur! or knock it loose again. = **epley maneuver**
 	9. same thing happens when u drink too much bc the fluid inner ear will be heavier **bc it gets alcohol in it** = so it's heavier and inner ear would sense the gravity!!! bc the fluid is floating thru the inner ear creating that vestibuloocular reflex! 
 
-2. vestibular neuritis - same sensation of false movement, but **sudden onset severe vertigo for multiple days - they go to the ER**
-	1. neurotropiic virus mainly impacting the inflamed vestibular nerve ... 
+2. <mark style="background: #FFF3A3A6;">vestibular neuritis </mark>- same sensation of false movement, but **<mark style="background: #FFF3A3A6;">sudden onset severe vertigo</mark> for multiple days - they go to the ER**
+	1. neurotropic virus mainly impacting the inflamed vestibular nerve ... 
 	2. or vascular , autoimmune. commonly follows URI
-	3. labyrinthitis - **involvng both the vertigo's of vestibular nerve and hearing loss by going to cochlar nerve** 
-	4. huge note - this present ssimilar to posterior circular stroke!!! so rule this out bc the membrnae could rupture with this. so give the MRI 
+	3. <mark style="background: #FFF3A3A6;">labyrinthitis</mark> - **involving both the vertigo's of vestibular nerve and hearing loss by going to cochlear nerve** 
+	4. huge note - this present similar to <mark style="background: #FFF3A3A6;">posterior circular stroke</mark>!!! so rule this out bc the membrnae could rupture with this. so give the MRI 
 	5. need treat via supportive care - fluids, vestibulosuppressants like diazepam, meclizine, zofran - supportive care like antibiotics and stuff/: , 
 	6. vestibular rehab with a PT is necessary bc permenant vestibular hypofunnction happens on one side 
 
-3. meniere's disease 
+3. <mark style="background: #FFF3A3A6;">meniere's disease </mark>
 	1. 2+ episodes of vertigo/dizziness lasting at least 20 min - 24 hrs 
-	2. audiometrically - **low medium freq heariing loss**
-	3. fluctuating symptoms like hearing + tinnitis, fullness in the affected ear - we hear maybe a whooshing etc. 
+	2. audiometrically - **low medium freq *hearing loss***
+	3. <mark style="background: #FFF3A3A6;">fluctuating symptoms like hearing + tinnitis</mark>, fullness in the affected ear - we hear maybe a whooshing etc. 
 	4. pathophys - might be hydrops? - we think it's due ot how inner ear handles fluid, avoid salt, caffiiene, etc. 
 	5. manage- avoid salt + caffene, give diuretics , betahistine, intratympanic dxamethasone 
 	6. surgically - cut and shunt the fluid pressure of the sac? or transect vestibular nerve section or labyrinthectomy??? not common 
 	7. [[HRR Vestibular Control]] throwback
-4. SSCDS - superior SSC dehiscence syndrome
+4. SSCDS -<mark style="background: #FFF3A3A6;"> superior SSC dehiscence syndrome</mark>
 	1. superior canal - will communicate with the middle fossa of brain, where there's a thin layer of bone isolating that ear from intracranial cavity .... an opening of that bone -> fistula bt Superior SSC and the intracranial cavity so dura on top of that ear!!!
 	2. normally - the cochlea unfurled, the stapes will vibrate in and out of labyrinth, vibrating in and out of the cochlea and the basilar membrane would vibrate.... fluid goes into the roundwindow. as the exit point . not into the labyrinth 
-	3. SSCDS - third window problem, now we have that capacity for the fluid wave to go into the inner ear the labyrinth , inside the balance part of it 
-	4. now **sound might make u feel dizzy! superior canal will try to fixate eyes with reflex, giving u vertigo**
+	3. SSCDS - third window problem, now we have that capacity for the <mark style="background: #FFF3A3A6;">fluid wave to go into the inner ear the labyrinth , inside the balance part of it</mark> 
+	4. now ***sound might make u feel dizzy*! superior canal will try to fixate eyes with reflex, giving u vertigo**
 	5. same thing otherway, if you **strain, raising intracranial pressure, you will give yourself PRESSURE induced vertigo, with the fluid going from dura into the labyrinth**
 	6. hear pulsations - **pulsatile tinnitis with hearing BVs of the brain pulsing!!!!**
 	7. surgical repair + plug this dehiscence. 
 	8. also we can see the CT scan showing the bone be super small but no symptoms, this can be incidental with no symptoms. 
-5. vestibular migrane 
+5. <mark style="background: #FFF3A3A6;">vestibular migrane </mark>
 	1. F>M in adulthood but more males pre-puberty 
 	2. common cause of episodic dizziness, which can last any amount of time, **oral fullness, vertigo, motion sensitivity, brain fog.**
 	3. huge headaches n association with episodes + light/sound sensitivity/nausea!!!
 	4. pulsatile unilateral severe headache with nausea + photophobia - this is typical. 
-	5. migraine - the pahtology underlying the headache. 
+	5. migraine - the pathology underlying the headache. 
 	6. migraine trigger threshold - anyone could have a migraine just enough triggers would cause it - food preservatives, pressure changes, missed meals, late nights stress etc. all that threshold is raised/lowered by genetic factors + meds
 	7. triggers = caffeine, alc, food preservatives. for some ppl they have too many triggers - so we'd try to raise that threshold with many medications - anticonvulsants, b-blockers, ssris etc. 
 	8. migrant can happen without headaches. 
-6. post circular strokes 
+6. <mark style="background: #FFF3A3A6;">post circular strokes </mark>
 	1. emergency!!! vertigo not going away 
 	2. 2 culprit vessels: the PICA or AICA. 
 	3. ppl don't **just have vertigo, they got paralysis, ataxia, dysphagia etc.**

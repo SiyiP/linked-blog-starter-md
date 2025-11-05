@@ -64,8 +64,8 @@ eye movement - abducens nerve
 if they have all the <mark style="background: #FFF3A3A6;">5,6,7,8 all impactd, they are in the cerebellopontine angle </mark>
 - most likely<mark style="background: #FFF3A3A6;"> schwannoma of CN 8 getting big and hitting all these nerves </mark>!!! think of huge tumors if many things are disrupted 
 CN
-1. olfacotry - don't test on most ppl unless thy complain
-	1. give smell coffe/ pb or something one nostril at a time
+1. olfactory - don't test on most ppl unless thy complain
+	1. give smell coffee/pb or something one nostril at a time
 	2. smoking causes this, degen parkinsins and alzheimers, and trauma - like disrupting the olfacotry bulb 
 2. optic nerve
 	1. <mark style="background: #FFF3A3A6;">fundoscopic</mark> exam - taking a light in magnifyng glass to look at back of eye
@@ -84,17 +84,17 @@ CN
 	5. make sure that both eyes will constrict - **both eyes should constrict when light shined on one eye**
 	6. <mark style="background: #FFF3A3A6;">CN 3 lesion - lone pupil doesn't constrict; **unilateral large unreactive pupi - oculomotor palsy**</mark>
 	7. <mark style="background: #FFF3A3A6;">CN2 lesion</mark>. - gonna be <mark style="background: #FFF3A3A6;">sluggishly</mark> <mark style="background: #FFF3A3A6;">constricting</mark>!! bc this is afferent reemmber - 	pupil responding to lights and sluggishly + shows<mark style="background: #FFF3A3A6;"> paradoxical dilation on swinging flashlight test </mark>
-	8. <mark style="background: #FFF3A3A6;">horner's syndrome</mark> - **unilateral pinpoint/miosis pupil, ptosis too and inability to sweat psilaterally** = injury to the<mark style="background: #FFF3A3A6;"> sympathetic nervous system (eye cann't dilate, fight and flight messed up)</mark>. mainly due to lu<mark style="background: #FFF3A3A6;">ng tumor or carotid dissecitoon </mark>
-		1. bsically - there's one tiny pupil and you can't sweat! and your eyelids droop low asf 
+	8. <mark style="background: #FFF3A3A6;">horner's syndrome</mark> - **unilateral pinpoint/miosis pupil, ptosis too and inability to sweat psilaterally** = injury to the<mark style="background: #FFF3A3A6;"> sympathetic nervous system (eye can't dilate, fight and flight messed up)</mark>. mainly due to lu<mark style="background: #FFF3A3A6;">ng tumor or carotid dissecitoon </mark>
+		1. basically - there's one tiny pupil and you can't sweat! and your eyelids droop low asf 
 4. CN3 - use H not an A with drawing with your finger 
 	1. superior rectus, inf rectus, inf obliq, med rectus 
 5. <mark style="background: #FFF3A3A6;">Trochlear n -superior oblique</mark>
 6. <mark style="background: #FFF3A3A6;">abducens - lateral rectus </mark>
 7. trigeminal nerve - touch face on lateral forehead, cheek, and next to mouth 
-8. fascial nerve - <mark style="background: #FFF3A3A6;">fascal movement + taste on **anterior tongue**</mark>
+8. facial nerve - <mark style="background: #FFF3A3A6;">facial movement + taste on **anterior tongue**</mark>
 	1. <mark style="background: #FFF3A3A6;">bells palsy - lower motor neuron - whole one face droops</mark>
 	2. but upper motor neuron issue = **just the lower face drooped/paralysis bc the upper face is innervated bilaterally**
-	3. have them smile tight
+	3. have them smile tight = facial nerve palsy 
 9. <mark style="background: #FFF3A3A6;">acoustic and vestibular nerve</mark>
 	1. <mark style="background: #FFF3A3A6;">weber</mark> - more midline put it on, bang it and see if they hear it on both sides while u put it on their top of head.
 		1. <mark style="background: #FFF3A3A6;">conductive hearing loss = something with their canal, they still hear it thru bone no matter what </mark>

@@ -7,19 +7,19 @@ bloody lumbar puncture - stable for 4 days then rapid deteriorated
 - arteries! 
 - anatomically localized: right hemiparesis, 
 - anatomic localization = the **left cerebral hemisphere...**
-chemical meningitis = **stiff neck = blood** in subarachnoid space 
+
+<mark style="background: #FFF3A3A6;">chemical meningitis</mark> = **stiff neck = blood** in subarachnoid space 
 - the bloody lumbar puncture - something arterial going on since bloods not clearing 
 
-
-understand: high pressure + low pressure bleeds - have difff anatomies, develop in dif time courses + diff consequences
+understand: high pressure + low pressure bleeds - have diff anatomies, develop in dif time courses + diff consequences
 - high pressure bleeds - arterial, rapidly evolving minutes to hours
-- low pressure bleeds - venous, develop over days to weeks or mnths 
+- low pressure bleeds - venous, develop over days to weeks or months 
 pathology - can be predicted by knowing where + how long the blood supply's disrupted
 and know - there's weak spots of brain prone to vascular injury 
 
 biggie - 3rd most common cause of death 
 - stroke - an abrupt onset of focal/global neuro symptoms caused by ischemia or hemorrhage... 24+ hr duration
-	- but this enompasses many other specific pathologies 
+	- but this encompasses many other specific pathologies 
 - only 10% of survivors return to normal activity 
 
 
@@ -27,7 +27,7 @@ brain is 2.5% body weight but 15% of arterial blood supply
 - internal carotid system - supplies above that tentorium 
 	- cerebral cortex supplied by ACA MCA, and PCA = this is in the circumferential arteries ,  
 	- short circumferential = come from **proximal parts of long circumferential aa, into the deep parts like basal ganglia**
-	- **paramedian arteries** - supplie base of brain near midline 
+	- **paramedian arteries** - supplies base of brain near midline 
 - vertebro-basilar symptoms supplies below the tentorium 
 
 case2 - hx of MI 10 yrs previously + CHF, and then collapsed, get a dense L hemiparesis with upgoing toe on left side... no spontaneous resps + idioventricular cardiac rhythm 

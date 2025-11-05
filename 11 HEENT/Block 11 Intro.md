@@ -44,3 +44,72 @@ hrr practical 15
 sfp practical 35 
 
 total 239 points 
+
+---
+ROS = 11 ROS to cover 
+head = headache
+ears = ear ache, drainage 
+eyes = change in vision, redness, eye pain, drainage
+ear = sinus pain 
+neuro = dizziness, weakness, numbness 
+
+
+
+ROS - ask about any pain in the head, ears, eyes 
+headache, 
+drainage of ear, earache
+eye - redness, drainage, floaters/anything in it, **change in vision**, **pain!!!!**
+sinus pain 
+neuro - dizziness, numbness, weakness
+
+
+<mark style="background: #FFF3A3A6;">22 things</mark>
+check scalp + face + then palpate 
+masseter muscles 
+light touch sensation 
+CN wrinkle eyes, eye shut, smile wide CN 7 
+external eye look 
+pupillary reflex 
+fundoscopic exam - red reflex seen 
+follow finger H and convergence/divergence
+field o vision test 
+external ear 
+otoscopic look into it 
+whispered numbers
+weber
+rinne
+nostril sniff 
+mouth - look into the tongue/cheeks, ahh soft palate 
+tongue protrusion + side to side 
+cN 11 against hands 
+<mark style="background: #FFF3A3A6;">**take a look at neck**</mark>
+trachea 
+thyroid 
+lymph nodes 
+
+<3 lungs and bowel 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
