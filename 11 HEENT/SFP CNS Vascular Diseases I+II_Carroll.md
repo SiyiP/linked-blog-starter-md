@@ -89,7 +89,7 @@ hydranencephaly case - abnormal flexion of neck in utero, clamping that internal
 watershed infarcts - major 
 - happen when global drop in bp for long period like someone in cardiac arrest then revived 
 - involving the distal parts of areas served by major circumferential arteries... 
-- in the global drop of bp, the blood's not getting ot those giga distal regions ... and watersheds are underperfused, which are areas that are meant to have circumfeerential arteries overlap 
+<mark style="background: #FFF3A3A6;">- in the global drop of bp, the blood's not getting ot those giga distal regions ... and watersheds are underperfused, which are areas that are meant to have circumfeerential arteries overlap </mark>
 - those places are supposed to have overlapping vessels. 
 man in a barrel syndrome - these
 
@@ -121,7 +121,7 @@ venous infarcts - less common
 case 2 
 - 60 yo htn, treated with methyldopa then loss of consciousness, fell back + hit head
 - nothing bad 
-	- initially - he got a subdural hemorrhage, which slides offf the surface of the brain... 
+	- initially - he got a<mark style="background: #FFF3A3A6;"> subdural hemorrhage</mark>, which slides offf the surface of the brain... 
 	- this is venous in origin - the **dura get torn,, the bridigng veins int he dura get torn**
 	- as ppl age, their brains atrophy. but the skull stays the same ... **veins get stretched, so bridging veins can get torn easily**
 	- they decomensate to some degree. but then no longer compensates, becoming evident. 
@@ -135,13 +135,14 @@ case 2
 	- ipsilateral blown pupil - stretched when brainstem begins to herniate out foramen magnum - and then the things would happen - 
 	- then compresses resp centers in the **brainstem!!!!**-> shuts down and they die 
 		- the small arteries would start snapping in the pons first -> making the **duret hemorrhage!!!!**
+		- rapid quick deterioration 
 
 
-subarachnoid hemorrhage - typically arterial in origin - will be **following the gyri + sulci**
+<mark style="background: #FFF3A3A6;">subarachnoid</mark> hemorrhage - typically arterial in origin - will be **following the gyri + sulci**
 - problem with this - evolves over minutes to hours 
 - this is open surface in brain and spinal cord
 - very precisely - with headache in 6:30 AM or something, and **always have headache bc of nerves in meninges**
-- blood breakdown - **nflammatioin in that space too**
+- blood breakdown - **inflammation in that space too**
 most common cause of subarachnoid hemorrhages = ruptured berry aneurysm 
 - pts with htn + genetic dz that imapact strength of vessel walls 
 - all over cerebellum + brain surface 
@@ -158,11 +159,12 @@ these berry aneurysms are very common.
 
 ---
 hypertension - 
-- ppl are prone to gettting spontaneous intaparenchymal hemorrhages 
+- ppl are prone to getting <mark style="background: #FFF3A3A6;">spontaneous intraparenchymal hemorrhages </mark>
 - 80% in the basal ganglia, 10% in pons, 10% elsewhere
 - thought to happen when **charcot-bouchard aneurysms** which are small intraparenchymal berry aneurysms rupture!!! 
 - again these are at branching point 
-- htn -> predisposition to lacunar infarcs... small lakes 
+- htn -> predisposition to<mark style="background: #FFF3A3A6;"> lacunar infarcs... small lakes </mark>
+	- most common find - incidental 
 - htn dvelop atherosclerosis -> further out in the arterial tree so small muscular arteries 
 - but malignant htn -> lose ability to regulate -> edema, herniation+ death. arterioles can no longer control them 
 

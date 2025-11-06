@@ -67,7 +67,7 @@ internal capsule arterial supply
 	- upper -> lenticulostriate from MCA
 	- lower -> recurrent artery of huebner from ACA
 - genu 
-	- upper -> leenticulostriate from MCA 
+	- upper -> lenticulostriate from MCA 
 	- lower -> lenticulostriate from **ICA**
 - posterior limb 
 	- upper -> lenticulostriate from MCA

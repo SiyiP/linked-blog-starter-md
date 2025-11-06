@@ -70,11 +70,11 @@ light touch sensation
 CN wrinkle eyes, eye shut, smile wide CN 7 
 external eye look 
 pupillary reflex 
-fundoscopic exam - red reflex seen 
+fundoscopic exam - red reflex seen - put finger in 
 follow finger H and convergence/divergence
-field o vision test 
+field of vision test 
 external ear 
-otoscopic look into it 
+otoscopic look inside ear
 whispered numbers
 weber
 rinne
@@ -113,3 +113,4 @@ lymph nodes
 
 
 
+scalp + face look + palpate 

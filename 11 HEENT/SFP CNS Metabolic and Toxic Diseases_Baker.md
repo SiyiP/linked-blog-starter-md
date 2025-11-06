@@ -21,11 +21,11 @@ alcohol related syndromes
 	6. 4th ventricles - **punctate hemorrhages around this too**
 	7. around the cerebral aqueduct or periaqueductal region - is hemorrhaged too 
 	8. microscopically - **a lot of white space in the slide, rarefaction loss of brain substance, a cavitation** + macrophages + hemosiderin maybe 
-3. cerebellar degeneration - truncal ataxia, no coordination of **lower limbs**
-	1. can happen with wernicke korsakoff
+3. c<mark style="background: #FFF3A3A6;">erebellar degeneration - truncal ataxia, </mark>no coordination of **lower limbs**
+	1. can happen with wernicke korsakoff; alcoholic cerebellar degeneration  
 	2. **atrophy of anterior vermis lobe** - more space between superior and anterior lobes. the **atrophy = whitened spaces between folia** 
-	3. 3 layers - the molecular layer, purkinje cell layer and internal granule cell layer
-		1. purkinje cell losses and then the smaller internal granule cell layer loss => folia spaces widen 
+	3. 3 layers - the molecular layer, <mark style="background: #FFF3A3A6;">purkinje</mark> cell layer and internal granule cell layer
+		1. purkinje cell losses and then the smaller internal granule cell layer loss => folia spaces widen  
 4. osmotic demyelination syndrome - central pontine myelinolysis 
 	1. classically due to rapid reversal of **hyponatremia in alc use
 	2. pons most often impacted
@@ -46,7 +46,7 @@ alcohol related syndromes
 	6. not rlly demyelination process, but demyelination is secondary to this degeneration 
 
 neuropath with acquired metabolic dz 
-1. diabetic hypoglycemic encephalopathy
+1. <mark style="background: #FFF3A3A6;">diabetic hypoglycemic encephalopathy</mark>
 	1. insulin od!!!
 	2. neurons need constant glucose 
 	3. too much exogenous insulin - OD 
@@ -54,10 +54,11 @@ neuropath with acquired metabolic dz
 	5. neuronal degeneration selective... most are most sensitivty and die first 
 		1. most vulnerable - pyramidal neurons of the cerebral cortex layers 3,5,6!!! -> laminar necrosis 
 		2. dentate nucleus of infant 
-		3. in adults - pyramidal neurons CA1 - sommer's sector of hippocampus 
+		3. in adults - <mark style="background: #FFF3A3A6;">pyramidal neurons CA1 - sommer's sector of hippocampus </mark>
 			1. this is liek the jelly roll of hippocampus gyrus 
 			2. in chronic injury we see a cavity where it is, with the absence in the CA1 region. 
-	6. acute hypoglycemic brain injury - wswelling + discoloration + see hypereosinophilic neurons -<mark style="background: #FFF3A3A6;"> dead red neurons</mark> in the dentate nucleus... <mark style="background: #FFF3A3A6;">no nucleus seen  and cytoplasmic blueness lost too... </mark>
+			3. memory injury and more 
+	6. acute hypoglycemic brain injury - swelling + discoloration + see hypereosinophilic neurons -<mark style="background: #FFF3A3A6;"> dead red neurons</mark> in the dentate nucleus... <mark style="background: #FFF3A3A6;">no nucleus seen  and cytoplasmic blueness lost too... </mark>
 	7. chronic hypoglycemic brain injury - **laminar necrosis - see cavity holes basically.... with the hole where they lost thru rarefaction. + associated gliosis** - end up with the inc **white** space
 	8. any gliosis - pink cytoplasm + spider like processes = the astrocytes ! 
 2. acquired metabolic encephalopathy - liver dz 

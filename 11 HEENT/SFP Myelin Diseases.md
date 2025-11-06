@@ -60,8 +60,8 @@ immune mediated demyelinative dz
 		1. **dawson's fingers = in older plaques, it's demylination that juts out along the veins as it's entering the plaque**
 		2. optic nerves, chiasm + tracts are involved in like 90% of MS patients gray gelatinous looking areas are **chronic plaques**
 			1. in acute lesions - **optic neuritis sequence** 
-			2. relapse - in MRI shows ehancement w/ corresponding decrease in evoked potential amplitude, indicating conduction block + vision loss 
-			3. in remission - vision improoves, MRI shows loss of enhancement = inflammation stopped. evoked potentials are delayed = demylination is still present but eh conduction block is relieved. 
+			2. relapse - in MRI shows ehancement w/ corresponding decrease in evoked potential amplitude, indicating conduction block + vision loss = **monocular vision loss, accompained by washed-out color vision, afferent pupillary defect and painful eye movements**
+			3. in remission - vision improves, MRI shows loss of enhancement = inflammation stopped. evoked potentials are delayed = demylination is still present but eh conduction block is relieved. 
 			4. remylination - secure conduction is restored! 
 		3. also in both ascending + descending tracts in brainstem 
 	- chronic periventricular plaque
@@ -71,7 +71,7 @@ immune mediated demyelinative dz
 	- pathogenic basis of MS? 
 		- many years - exclusively t-cell mediated autoimmune dz with myelin sheath attacked but htis is now an interplay with more and more immune factors + environmental factors? is there an infectious cause? 
 		- genetics - heritability is pretty high. 
-		- **HLA chromosome 6 = risk factors**!!!
+		- **HLA chromosome 6 = risk factors**!!!1
 		- functions of relevant genes are in adaptive/iinnate immunity + vitamin D metabolism 
 		- environmental factors. - alc abuse, childhood obesity, smoking + vitamin D deficiency 
 		- EBV too 
