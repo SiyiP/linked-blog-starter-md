@@ -206,6 +206,11 @@ Rabies - rhabdoviridae
 - baylisascaris procyonis = the roundworm 
 	- raccoon - from fecal oral route
 	- random migration of larvae inside humans -> many syndromes, and 
-	- **eosinophilic meningoencephalitis
-	- **
-- angiostrongylus cantonesis 
+	- **eosinophilic meningoencephalitis**
+	- no treatment 
+- angiostrongylus cantonesis = rat lungworm 
+	- in SE asia + pacific + hawaii, louisiana , carribean 
+	- cycle bt rats + mollusks with humans accidentally 
+	- ingestion of contaminatiod foods-> eosinophilic meningitis 
+	- severe headache seen with eosinophilia 
+	- supportive care with worms dying eventually 
