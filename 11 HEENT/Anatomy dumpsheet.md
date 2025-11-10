@@ -118,7 +118,7 @@ find walls and floors f cranial cavity ...
 id dural infoldngs + dural venous sinuses
 - make sure the brain is removed by the instructor. 
 - lok at the dural venous sinuses 
-- ![[image.png]]
+- ![[nucleus in medulla.png]]
 
 ![[image-1.png]]![[Screenshot 2025-10-28 at 2.54.55 PM.png]]
 

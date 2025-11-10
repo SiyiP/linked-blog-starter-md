@@ -33,3 +33,70 @@ Paralysis of bilateral hand, trunk & legs  the level of the lesion due to lo
 - Flaccid paralysis of bilateral muscles controlled by the segments with inadequate flow, due to loss ventral horn motor neurons.
 - Paralysis of bilateral hand, trunk & legs below the level of lesion due to loss of both cortico-spinal tracts.
     - Feedback: With spasticity, increased reflexes of extensors and Babinski sign). Indicative of upper motoneuron lesion
+
+lesioned lateral and dorsal on cord = the external cuneate nucleus
+Some ipsilateral arm ataxia due to loss of relay of proprioceptors to cerebellum through external cuneate nucleus
+
+
+middle medulla = on the inside of that it has 
+- hypoglossal n
+- medial lemniscus 
+- medullary pyramid 
+- hypoglossal nucleus 
+
+hypoglossal n: Tongue deviates toward the side of the lesion and will exhibit loss of muscle bulk ipsilaterally  
+  
+
+medial lemniscus: Contralateral loss of tactile and proprioception from neck down  
+  
+
+medullary pyramid: Contralateral paralysis from the neck down
+
+![[nucleus in medulla.png]]
+medial lemniscus
+Contralateral loss of tactile and proprioception from neck down due to loss of medial lemniscus.
+
+pyramid
+Contralateral paralysis from the neck down due to loss of the pyramidal tract.
+
+rostal medulla: 
+vestibular nuclei : Ipsilateral difficulty with balance  
+CN V tract: Loss of pain/temp sensation from ipsilateral face  
+inf cerebellar peduncle: Ipsilateral ataxia and cerebellar signs  
+anterolateral system: Loss of pain and temperature sensation from entire contralateral half of body
+- penetrating br of PICA -> infusing those things 
+- infusing the parts in the inf cerebellar peduncles 
+
+![[caudal pons nuclei.png]]
+
+Occlusion of penetrating branches from the anterior       inferior cerebellar artery (AICA).
+
+medial longitudinal fasciculus - Defects in coordination of movements between both eyes (internuclear ophthalmoplegia)
+medial lemniscus - loss of tactile and proprioception from entire contralateral body
+
+Medial lemniscus: Contralateral loss of tactile and proprioception from face and arm  
+- Medial lemniscus: Contralateral loss of touch, pressure, vibration
+Middle cerebral peduncle fibers: Contralateral paralysis of face and arm
+Cerebral peduncle: Contralateral paralysis from neck down
+medial geniculate nucleus - hearing 
+
+rostral midbrain occlusion - Occlusion of penetrating branches from the posterior cerebellar artery.
+
+lesion in optic tracts and lateral geniculate nucleus - : Blindness in contralateral visual field of both eyes
+- these are supplied by the middle cerebral artery 
+
+Which of the following is a result of damage to the genu and rostral posterior limb of the internal capsule?
+- contralateral paralysis of whole body 
+- rostral thalamus : Occlusion of lenticulostriate and anterior choroidal branches from the middle cerebral artery
+
+anterior cerebral a = To anterior limb of internal capsule (contains cortico-striatal connections)
+posterior cerebral a. = To caudal posterior limb of internal capsule (contains ascending somatosensory fibers)
+
+_Meyer's loop_ constitutes the most anterior extension of the optic radiation in the temporal horn
+	Blindness in upper contralateral visual field of both eyes
+	this is on the lateral and lower part of the head 
+- **wernicke's area is near the back and the broca's area is near the front**
+	Fluent aphasia
+
+on the right side of the brain, in that similar lateral area - 
+nondominant parietal cortex: Decreased spatial/ constructional skills and contralateral neglect
