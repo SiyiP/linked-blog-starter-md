@@ -98,8 +98,114 @@ humans are dead-end hosts ; all infections are acute and majority are **asymptom
 		1. thought that the zika polyprotein has high peptide overlap w/ myelin+ axons, causing this autodimmunity
 	5. encephalitis, myelitis, etc = rare in adults
 	6. in kids -> fetal = **hepatosplenomegaly, cns manifestations, retinal/optic nerve dz, arthrogryposis! congenital infections**
+	7. DX: PCR 14 days, and trioplex RT-PCR 
+3. equine encephalitis virus
+	1. togavirus
+	2. reservoir birds - transmitted by mosquitos to humans+horses as dead end hosts
+	3. in north america 
+	4. DX: serology IgM 
+	5. TREAT: nothing specific
+	6. eastern EE: 
+		1. more systmic febrile illness
+		2. fevr, headache, gi 
+		3. in 5% progression to EEE, sezures, confusion, disablity, death in 5 days 
+		4. <mark style="background: #FFF3A3A6;">CSF = neutropils and proteins up, and glucose down or normal</mark>
+	7. western EE
+		1. mostly asymptomatic... 
+		2. acute fever and small stuff
+		3. but sorse in kids - seizures, confusion, coma, etc 
+		4. <mark style="background: #FFF3A3A6;">CSF: more opening pressure, lymphocytes + proteins. and normal glucose</mark>
+4. japanese encephalitis- SE asia
+	1. Flavivirus; rainy szn 
+	2. culex mosuqitos to birds or swine
+	3. 75% infections < 14 yo 
+	4. 90% asymptomatic , 10% febrile 
+	5. 1% encephalitis - abrupt, 30% mortality, 30% perm impairment ; similar to parkinsonium 
+	6. DX: exposure hx, lab igM eliza 
+	7. **need vaccine before exposure to agricultural SEA area**
+5. st louis encephalitis virus 
+	1. flavivirus, same mosquito vectors as West nle
+	2. americas 
+	3. <1% infected show symptoms 
+	4. age 60+ = worse
+	5. if symptomatic can cuse <mark style="background: #FFF3A3A6;">SIADH -> hyponatremia... treatment with ifn-alpha can help</mark>
+	- syndrome of inappropriate antidiuretic hormone 
+6. lacrosse encephalitis virus/california virus
+	1. bunyaviruses -ssRNA, can change quickly 
+	2. mosquito aedes born 
+	3. in midwest, central + southeast us 
+	4. common in kids 1-15 yo 
+	5. most asymptomatic 
+	6. symtomatic - hyponatremia + neuroinvasive + arbovirus
+	7. DX: igM + CSF -<mark style="background: #FFF3A3A6;">normal glucose, higher lympohcyte+proteins</mark>
+7. tick borne meningoencephalitis virus
+	1. flaviviruses, fromo ticks. in europe, russia, asia
+	2. ixodes tick - **vector similar to lyme dz**
+	3. 90% asypmtomatic
+	4. biphasic
+		1. initial flu like symptoms + fever
+		2. 8 days later fever free + inc in temp afterwards
+		3. 2nd phase of fever = onset meningoencephalitis 
+^^these viruses can only be prevented 
+8. alpha gal syndrome - 
+	1. not an infection but an allergy to galactose-alpha-1,3-galactose found in most mammals but not rpimates
+	2. **associated with bites of lone star tick**
+	3. can't eat flesh or milk from mammals! including gelatin! 
+	<mark style="background: #FFF3A3A6;">4. **includes any food allergy symptoms ! some ppl are forced to become vegetarian!!!</mark>**
+		treat with antihistamines and avoiding triggers
 
+mmamals 
+1. lymphocytic choriomeningitis virus  LCMV= arenavirus 
+	1. mice mainly - 5-10% house mice are infected
+	2. transmission via infected aerosilized urine 
+	3. biphasic
+		1. 8-13 incubation
+		2. fever, myalgias, headaches, n/v for 7 days
+		3. then recovery for 1-2 days
+		4. then meningitis/encephalitis 
+	4. autumn to winter = season 
+	5. LABS: 
+		1. **phase 1 - leukopenia, thrombocytopenia, livers up**
+		2. phase 2 <mark style="background: #FFF3A3A6;">CSF protein high glucose low</mark>
+	6. DX: clinic + ELISA
+2. hantavirus- also transmitted by rodent urine
+	1. this is also biphasic with <mark style="background: #FFF3A3A6;">simiilar phase one</mark>
+	2. the difference is that this phase 2 is **hantavirus pulmonary syndrome with 30% mortality**
+	3. and this is mostly out in the west = 4 corrners region 
 
+Rabies - rhabdoviridae
+- worldwide
+- bullet shaped capside
+- host = any mammal
+- transmission via saliva. 
+- vaccines work for all strains of rabies 
+- pathogenesis 
+	- enveloped, single neg stranded rNA virus 
+	- local replication -> peripheral nerve fibers get it via the NMJ -
+		-then it goes to the spinal cord, -> brain gray matter
+	- jumps nerve to nerve til extension via autonomic nervous system
+- incubaton period long time - 1-3 months!!!
+- takes less time if bitten on face vs bitten on foot
+- **binds to Ach receptor of peripheral nerves -> migrate retrogradely along axonal microtubules using motor proteins**
+- diencephalon, hippocampus, brainstem first involved 
+	- unable to swallow, mentla status bad 
+	- once symptomatic, 100% mortality 
+- if not treated...
+	1. encephalitis furious rabies - 
+		1. autonom nervous activation - excess of motor activity, agitation, arrythmias, salivation/sweating, foaming at mouth , hallucinations
+	2. paralytic dumb rabies
+		1. progressive symmetric or focal flaccid paralysis + coma 
+		2. resp paralysis -> death 
+1. DX" only antemortem. 4 specimens needed - serum, saliva, CSF, skin 
+2. on the biopsy we see **negri body**, the eosinophilic inclusion in cytoplasm and skin - densely enervated 
+3. PEP = 
+	1. human rabies immune globulin into the bite wound 
+	2. AND human diploid cell inactivated rabies virus vaccine - **multiple doses are needed.**
 
-
-
+2 zoonotic parasites that infect CNS
+- baylisascaris procyonis = the roundworm 
+	- raccoon - from fecal oral route
+	- random migration of larvae inside humans -> many syndromes, and 
+	- **eosinophilic meningoencephalitis
+	- **
+- angiostrongylus cantonesis 
