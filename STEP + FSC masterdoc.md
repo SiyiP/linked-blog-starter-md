@@ -271,3 +271,60 @@ do one hammers, then the systems based?
 deadline - oct 15 
 
 **i have access to cofc and the citadel libraries with my MUSC badge???????**
+
+----
+loan update? - changes 
+11/10/25 - 
+changes from hr1 
+new repayment plans 
+interest rates for my direct unsub = 7.94%  
+
+CRI is mine - we want the same servicer, but if the different servicer is seen - we have to deal with it all 
+- not unusual ffor loans to be transfered. 
+- put the loan servicer in safe sender list 
+- make an account on their website too + bookmark? 
+biggest change - elimination of Grad PLUS unless we already have it. 
+no more grad PLUS for anyone as of July 1st, 2029 
+
+students under their cost of attendance w/ no grad plus - we can still take out a small Grad PLUS in subsequent years. 
+
+under direct borrowing... (new rules for first time borrowers as of july 1st 2026)
+	50k annual borrowing limit 
+	200k aggregate lim 
+	257k lifetime limit 
+
+we got 224k unsub limit 
+HR1 type plans kept 
+- time driven repayment plans - spread out over designated period of time 
+	- no impact from income, marital or tax filing status or family size
+	- payments = always cover more than monthly interest due 
+	- even with 25 yr repayment, typically, it makes a payment that's not feasible for a PGY1 resident. 
+- income driven repayment plans 
+	- for borrowers with high DTI - 
+	- payment based on **income + family size, not debt level**
+	- **borrower renews/recertifies this income annually** 
+new one: 
+- new standard plan - "great option"
+	- time driven plan, balance due at repayment spread out 
+	- payments calc at 1-10% ofo income depending on what our gross income is... with min 10$ payment. 
+	- prior year tax data is used for claculation. basically 10$ /month in PGY1 year. and 6 months of money is feeding into the PGY2 year. 
+		- 50$ deduction for each dependent 
+	- this is a generally good option. 
+	- **best part - no negative amortization - govt will cover any remaining monthly interest the minimum payment doesnt cover.**
+	- the interest is subsidized. if we go into residency with 200k in debt, we get out of it in 200k in debt 
+		- if the monthly payment isn't sufficient, it'll be subsizied 
+you can switch the payment plan anytime you like bt income + standard 
+you can overpay anytime on the student loans with no big penalty 
+what u can't do - can't pay some thru standard / income driven. they all have to be repaid 
+
+spousal income - can be excluded for married borrowers filing separately 
+file jointly - one AGI for both incomes - how much household payment -> student loans in the household 
+- including the spousal student loans
+- but there's reasons to file jointly too 
+- PSLF = might be something to consider to file separately to get lwest monthly payment. compare and contrast it 
+
+----
+PSLF - 
+- **no changes to eligibility - as in time in training still qualifies as residents!**
+- ED now has sole discretion to see if an employer qualifies or not 
+	- plans to disqualify an employer if they determine they in any way engage in "substantial illegal purposes."

@@ -1,5 +1,9 @@
 #HEENT #patho 
 
+think - age + location 
+![[primary brain tumor locations.png]]
+
+
 case 1 
 72 yo woman , 1.5 yr hx memory problems - word finding hard + confusion 
 very hesitant speech 
@@ -139,7 +143,7 @@ CNS - **this is the most common neoplasm
 in younger ones - gliomas are common**
 
 1. pilocytic astrocytoma - grade 1 
-	1. this is in the cerebellum but happen anywhere... including the optic nerves 
+	1. this is in the <mark style="background: #FFF3A3A6;">cerebellum</mark> but happen anywhere... including the optic nerves 
 	2. this is a *cyst with a mural nodule* 
 	3. **this is biphasic, dense and loose areas!! these *don't progress* unlike other astrocytomas**
 	4. <mark style="background: #FFF3A3A6;">rosenthal</mark> fibers (red rods) + <mark style="background: #FFF3A3A6;">microcysts</mark>
@@ -153,6 +157,7 @@ in younger ones - gliomas are common**
 	4. uniform looking at a cellular level 
 	5. in central canal, <mark style="background: #FFF3A3A6;">obstruction of CSF flow </mark>
 	6. can<mark style="background: #FFF3A3A6;"> progress to anaplastic ependymoma</mark> - grade 3, unfavorable prognosis with inc cellularity, brisk mitosis,vascular endothelial prolif 
+	7. we see pseudorosettes around blood vessels 
 3. embryonal tumors - high grade 4 
 	1. <mark style="background: #FFF3A3A6;">medulloblastomas</mark> - from cerebellum, 75% ini vermis, sporadic- **don't memorize these genetic syndromes...**
 		1. 5% associated with genetic syndromes
@@ -162,6 +167,7 @@ in younger ones - gliomas are common**
 		5. hypercellular, super packed, and given a lot of **blastic** of cells 
 		6. one exception - **staging is here**
 			1. these can drop metastasize.. via the CSF, so we can see if there's chunks of tumors distal to where it breaks apart 
+		7. we see **homer-wright rosettes = as in many small blue cell tumors**
 	2. <mark style="background: #FFF3A3A6;">primitive neuroectodermal tumors PNETS </mark>
 		1. from cerebral hemispheres
 		2. well-circumscribed, **variably** contrast enhance + has cysts, calcification + hemorrhage

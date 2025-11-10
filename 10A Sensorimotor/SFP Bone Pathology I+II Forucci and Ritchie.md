@@ -133,6 +133,7 @@ bone tumors
 	4. ==destructive lytic tumor extending into soft tissue, shows a **onion skin tumor**==
 	5. small ==round blue cell tumor== +/- ==homer-wright rosettes==
 		1. similar to neuroblastoma, retinoblastoma, etc = other small cell tumors, defined individually by the transoction 
+		2. medulloblastomas 
 7. ==metastatic tumors = more common than primary tumors==
 	1. direct extension growth into there
 	2. lymphatic/hematogenous dissemination 
