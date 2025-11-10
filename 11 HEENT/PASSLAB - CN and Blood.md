@@ -15,3 +15,21 @@ This tract helps coordinate head, neck, and eye movements. It crosses just dorsa
  hypoglossal nerve exit the brainstem bt medullary pyramids and olives
 
 ![[Screenshot 2025-11-09 at 2.16.47 PM.png]]
+
+recall - on the thoracic spine, any dmg to the  
+- damage to the sympathetic outflow from the intermediolateral cell column: ipsilateral Horner’s Syndrome (ptosis, miosis, enophthalmos, flushing, hypohydrosis)
+- on the front and lateral side, if u fuck that up you have decreased sympathetic thing bc that's where the sympathetic outflow is - the intermediolateral cell column 
+
+What would be the symptoms of damage in the area marked with hatch marks? - see both sides of anterior and lateral hatched
+
+Loss of pain & temperature sensation bilaterally below the level of the lesion due to damage to both anterolateral tracts. 
+
+Flaccid paralysis of bilateral muscles controlled by the segments with inadequate flow, due to loss of  horn motor neurons.
+
+Paralysis of bilateral hand, trunk & legs  the level of the lesion due to loss of both cortico-spinal tracts.
+
+- Loss of pain & temperature sensation bilaterally below the level of lesion due to damage to both anterolateral tracts. 
+    - Feedback:  (tactile and proprioception is intact - spring of dorsal columns.)
+- Flaccid paralysis of bilateral muscles controlled by the segments with inadequate flow, due to loss ventral horn motor neurons.
+- Paralysis of bilateral hand, trunk & legs below the level of lesion due to loss of both cortico-spinal tracts.
+    - Feedback: With spasticity, increased reflexes of extensors and Babinski sign). Indicative of upper motoneuron lesion
