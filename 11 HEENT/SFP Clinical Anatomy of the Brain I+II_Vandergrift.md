@@ -7,3 +7,6 @@ visual pathway
 - MCA stroke = center part of occipital lobe = very back part of pole, so we see macular central vision problem 
 - pca stroke = not really a huge central vision probelm 
 ![[lesions along the visual pathways.png]]
+2 eye problem - chiasm problem - memorize this 
+
+see - 50 y f with left proptosis + vision loss 
