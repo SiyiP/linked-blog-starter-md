@@ -1,4 +1,7 @@
 #HEENT 
+on written exams - dn't expect to know the syndrome names
+- know what causes it and why 
+
 The oculomotor nuclei (CNIII) are located just ventral to the periaqueductal gray.
 Its visceral motor division is the Edinger Westphal nucleus (parasympathetic; pupil constriction., accommodation, eyelid elevation).
 CNIII axons exit ventrally into the interpeduncular fossa.
@@ -200,3 +203,109 @@ visual processing - in the cerebrum.
 	- <mark style="background: #FFF3A3A6;">the posterior limb of the internal capsule = is provided by MCA on the other hand. this will be the same dmg</mark>
 		- but the MCA - we have more MOTOR effects, SPEECH, HEARING
 		- **we have a lot more symptoms with the MCA occlusion** 
+
+
+----
+TBL 
+Case 1 
+A 67-year-old man with a history of hypertension and coronary artery disease presents to  
+the ophthalmologist complaining that, for the past month, he has noticed **decreased vision**  
+on hi**s right side two or three times a week.** Each **episode** lasts about 20 minutes and is  
+accompanied by a **severe retro-orbital headache.**  
+During the episodes, he is unable to read and bumps into objects on his right. Yesterday,  
+he experienced the same visual loss, which has not resolved. Automated perimetry visual  
+field testing reveals the following pattern, with areas of visual loss in black.
+- TIA = transient ischemic attacks = "mini-strokes" by the genpop
+- vascular event <24 deficits, in absence of abnormal imging findings. definition has broadedened to 24 hours as a limit 
+visual loss; both fields have 
+- right side of each eye blacked out 
+- a spec of black in the lower L quadrant of the L eye 
+-> **right homonymous hemianopia**
+lesions to the 
+- left optic tract
+- left visual cortex  = macular sparing? idk 
+- left optic radiations
+- also left lateral geniculate nucleus (optic radiations give info about inferior visual field, and then meyeres get bundled into it)
+collectively the meyeres + optic radiations from lateral geniculate = optic radiations. 
+
+which BV cause these visual deficits? 
+- L PCA-> lateral geniculate nucleus and optic radiations 
+note - Meyer's loops = MCA! 
+
+lesions to the R temporal lobe 
+- meyer's loop = recall that this is in the temporal lobe -**superior visual field information for <mark style="background: #FFF3A3A6;">both</mark> eyes!!!!**
+	- L superior quandrantanopia **- pie in the sky** = contralateral superio r quadrantinopia - homonymous too. 
+
+on the other hand - contralateral inf quandrantinopia - lesion of the **optic radiations just coming out of that lateral geniculate nucleus**
+
+---
+Case #2  
+A 52-year-old woman presents to an otolaryngologist because of **left ear tinnitus and**  
+**hearing loss** over the **last seven months**, as well as episodes of **dizziness**. Initially, the  
+patient was only aware of hearing a h**igh-pitched tone in her left ear** when she was in a  
+quiet room. The tinnitus later became **continuous**. She also noticed hearing loss in the left  
+ear, which became worse over the past two months. Hearing on the telephone with the left  
+ear became difficult. She had n**o prior trauma or environmental exposure to loud noises**  
+aside from using a rifle, but she was **a right-handed shot when she fired the rifle**. Exam was  
+normal aside from reduced hearing in the left ear. The **Rinne test showed air conduction**  
+**greater than bone conduction bilaterally** (nothing pathological about the air conduction?). An audiogram showed a **sloping, rapidly dropping,**  
+**high frequency hearing loss in the left ear, with normal hearing on the right.**
+
+sensorineural hearing loss bc of rinne test 
+- bc the bone is not louder than air! 
+- the conductive hearing loss - assessing - outer + middle ear 
+- sensorineural loss = assessing the air is louder than the bone. 
+
+review auditory pathway 
+ we **can't have unilateral hearing loss due to lesion in brainstem, thalamus or cerebral cortex**
+ - we have cochlear nucleus -> all of the things come out bilaterally and cross multiple times after entering th brainstem 
+ - basically - we have to have a lesion when it's not coming out the brainstem. 
+
+for unilateral hearing loss 
+- **vestibulocochlear nerve CN 8 dmg**
+- **Cochlea dmg**
+- cochlear nucleus 
+
+where does CN8 exit = lateral pontomedullay junction 
+- 5,7,8,9 up to down - all these are in close proximity 
+- vagus is very close bc the glossopharyngeal's not that big 
+
+we'd do an MRI
+- L ear tinnitis, 
+- L ear hearing loss 
+- dizziness 
+**mass seen in the level of the brainstem in front of the cerebellum**
+- **acoustic neuroma/vestibular schwannoma**
+- keep in mind the other CNs in the vicinity since there's other symptoms they can have. 
+
+
+Case #3  
+A 22-year-old woman suddenly developed **left posterior neck pain, vertigo, ataxia, left facial**  
+**numbness, and hoarseness** after chiropractic neck manipulation. Based on the patient  
+history, and physical exam, the following are key symptoms and signs:  
+• Sudden-onset pain in left posterior neck region  
+• Unsteady gait, falling to left  
+• Left ataxia and dysrhythmia - 
+	**do the "finger tap"**
+• Dizziness and nausea  
+• Decreased pinprick and temperature sensation in left face  
+	descending tract of spinal trigeminal , which descends first and then crosses 
+• Decreased pinprick and temperature sensation in right limbs and trunk below neck   - ALS, immediately contralateral 
+• Left ptosis, with small reactive pupil  = **L descending sympathetiic fibers = they go all the way down to T1! then synapse into the interomediolateral horn(preganglionic sympathetic cells)**
+	horners 
+• Hoarseness, with decreased palate elevation and gag reflex on left
+D: 
+loss 
+accounts for ataxia + unsteady gait int he patient - **the L spinocerebellar tract injury**
+- recall that some sensory information would get into the cerebellum, which is caused by the dmg to this tract
+- cerebellum = nothing to do with pain + temp, and hoarseness/vagus! 
+- 
+
+so location? "descending tract of five"
+- dmg to ALS, spinocerebellar tract , sympathetic dmg 
+- this is taking place in the ***lateral* medulla**
+
+
+this neck maniputlation is due to penetrating injury brs of penetrating 
+- L vertebral artery 
+- pica can also cause this 
