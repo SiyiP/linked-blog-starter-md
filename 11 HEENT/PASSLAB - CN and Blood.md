@@ -6,7 +6,8 @@ CNIII axons exit ventrally into the interpeduncular fossa.
 Superior colliculus receives input from optic tract.
 This tract helps coordinate head, neck, and eye movements. It crosses just dorsal to the median edge of red nucleus & its destination is neck and shoulder motor neurons of cervical cord. = the tectospinal tract are axons from the superior colliculus 
 
-- The inferior colliculi sits in the caudal midbrain You can see the caudal midbrain (note the presence of the cerebral aquaduct and PAG) and rostral pons (as indicated by the horizontally running fiber bundles).
+- The inferior colliculi sits in the caudal midbrain 
+- You can see the caudal midbrain (note the presence of the cerebral aquaduct and PAG) and rostral pons (as indicated by the horizontally running fiber bundles).
 - The inferior colliculi are a relay for ascending auditory information.
 - - The trochlear nucleus is located just ventral to the PAG within the caudal midbrain.![[Screenshot 2025-11-09 at 2.10.16 PM.png]]
 - The facial nerve which originates from the facial nucleus innervates muscles for facial expression. The facial motor nucleus is found ventrolaterally to the abducens. Its fibers exit by looping over the abducens (forming the facial colliculus on the surface of the 4th ventricle) before traveling laterally (note the fibers just lateral to the nucleus).![[Screenshot 2025-11-09 at 2.11.41 PM.png]]![[Screenshot 2025-11-09 at 2.12.24 PM.png]]
@@ -100,3 +101,102 @@ _Meyer's loop_ constitutes the most anterior extension of the optic radiation i
 
 on the right side of the brain, in that similar lateral area - 
 nondominant parietal cortex: Decreased spatial/ constructional skills and contralateral neglect
+
+
+----
+medial medulla - anterior spinal artery perfusion = middle medulla 
+- **pyramids**, **medial lemniscus (position+vib sense**, hypoglossal nucleus) = all in the medulla 
+- **contra arm + leg weakness,** contra dec position + vib sense , ipsilateral tongue weakness since it catches the exiting CN XII fascicles 
+<mark style="background: #FFF3A3A6;">	- huge is hypoglossal symptoms! </mark> = ASA medial 
+
+lateral medulla - vertebral artery - **wallenberg's syndrome**; this is PICA too! 
+			recall - pica from the vertebral artery... they both are going more lateral 
+- inf cerebellar peduncle + vestibular nuclei = ipsi ataxia, vertigo, nystagmus, nausea
+- trigem nuc + tract -> ipsi facial dec pain and temp 
+- spinothalamic tract - contralat body dec pain and temp 
+- descending sympathetic fibers = ipsi horners 
+- nuc ambiguus = hoarse + dysphagia 
+- nuc solitarius = ipsi dec taste 
+	- **huge is nucleus ambiguus involvement!** 
+
+rostral medulla - PICA occlusions too 
+- Loss of pain  and temperature sensation from entire contralateral half of body due to damage to ALS.
+- Ipsilateral ataxia and cerebellar signs due to damage to inferior cerebellar peduncle.
+- Loss of pain/temp sensation from ipsilateral face due to loss of tract of CN V.
+- Ipsilateral difficulty with balance due to damage to vestibular nuclei.
+
+
+caudal medulla - think PSA - posterior spinal artery 
+- Ipsilateral loss of touch, pressure, vibration & proprioception sensation from neck down due to loss of gracile and cuneate nuclei.
+- Some ipsilateral arm ataxia due to loss of relay of proprioceptors to cerebellum through external cuneate nucleus
+
+
+in the pons 
+caudal pons - 
+medial ? 
+- interruption of basilar artery - paramedian branches
+- pons nuclei, medial longitudinal fasciculus, abducens, pyramidal tract 
+- all corticospinal/corticobulbar tracts 
+- facial collicullus - ipsi face weakness + gaze palsey, more and more 
+
+lateral caudal pons - AICA
+- middle cerebellar peduncle - ataxia ipsi
+- v<mark style="background: #FFF3A3A6;">estibular nuc = vertigo , nystagmus </mark>
+- trigem nuc + tract - ipsi facial dec pain+temp
+- **facial nerve ipsi facial paralysis, dec taste, dec lacrimation/salivation**
+- spinothalamic tract = contra body dec pain+temp 
+- descending sympathetic fibers = horner's ipsilateral syndrome
+- maybe smoe ipsilat hearing loss 
+	- just know - this has no dysphagia like symptoms unlike the PICA's or vertebral artery one 
+
+rostral pons - dorsolateral = SCA
+- superior ceerebellar peduncle + cerebellum = ataxia 
+
+in the midbrain: 
+1. webers = PCA brs and top of basilar a 
+	1. oculomotor n fascicles - ipsi 3rd nerve palsy 
+	2. cerebral peduncle - contralat paralysis 
+2. claude syndrome = midbrain tegmentum = brs of pca + top of basilar 
+	1. same deal with oculomotor but 
+	2. red nucleus + superior cerebellar peduncle = contra ataxia 
+3. benedikts - brs of pca + top of basilar a 
+	1. oculomotor, cerebral peduncle AND the red nucleus involvement 
+- lesion to the PCA = we would see **hemi** vision loss on both sides AND loss of mechanosensation completely on ctontralateral side 
+
+
+
+
+basilar long circum brs
+- Ipsilateral paralysis of jaw muscles and loss of <mark style="background: #FFF3A3A6;">jaw reflexes due to damage to motor and sensory nucleus of CN V and its nerve</mark>
+- dmg to contralat sensation of all sensation from contralateral side of body = **dmg to medial lemniscus**
+- lack of eye coordination = medial **longitudinal fasciculus**
+	- basilar artery = gonna supply the aicas , which gives more **caudal pons**
+	- ont eh middle of the pons we rlly have that long circum. brs of basilar artery which spans both medial and lateral parts of the pons 
+	- can still do **abducens eye movements bc they're in the more ROSTRAL part of the midbrain!**
+
+L hemisphere lat side = L MCA!!!! ascending 
+- UMN paralysis waist up on the right = precentral gyrus 
+- loss sensation from waist up on the R side = postcentral gyrus dmg 
+- difficulty with speech - broca's + wernickes' 
+
+descending MCA lesion 
+- contra auditory deficits + contra superior quadrantanopia -(meyere's loop dmg)
+	- in the meyeres looop recall - upper bank of calcarine fissure is contralateral lower visual quadrant
+	- lower bank calcarine fissure = contralat upper visual quadrant 
+
+anything with jjust: UMN paralysis **waist down** and the loss sensation waist down on L side = 
+- R hemisphere medial side lesion 
+- this is caused by the **right ACA!**
+- recall that the ACA provides to medial front and the MCA to the lateral 
+
+
+----
+contralateral loss of sensation from the whole body + blindness in contralateral visual field of both eyes 
+visual processing - in the cerebrum. 
+- posterior cerebral artery -> think visual field loss - bitemporal **homonymous** hemanpiopia 
+	- can be at level of lat geniculate nucleus, optic radiations, and optic tracts 
+- contralateral loss sensation of the whole body - the DCML *AND* ALS, have both crossed since the midbrain, and then to the **THALAMUS**
+	- <mark style="background: #FFF3A3A6;">the PCA provides blood to the thalamus</mark>
+	- <mark style="background: #FFF3A3A6;">the posterior limb of the internal capsule = is provided by MCA on the other hand. this will be the same dmg</mark>
+		- but the MCA - we have more MOTOR effects, SPEECH, HEARING
+		- **we have a lot more symptoms with the MCA occlusion** 
