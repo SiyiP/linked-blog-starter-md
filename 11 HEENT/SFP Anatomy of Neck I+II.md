@@ -116,7 +116,7 @@ fascial spaces - the numbered regions - 1, 2, 3
 	- infection spread is huge here 
 
 skin + platysma 
-- muscle of fascial expression, ennervation by facial nerve 
+- muscle of fascial expression, innervation by facial nerve 
 - innervated by cervical br of facial n CN 7 
 - we will see the lower portion of carotid gland there too, lowest br cervical branch 
 ppl as they age get bands in their neck - the remnants of platysma just fyi 

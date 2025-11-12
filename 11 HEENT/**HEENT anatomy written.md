@@ -85,7 +85,10 @@ occipitofrontalis
 temporal vr of facial nerve -> frontal belles  
 posterior auricular br of facial nerve - occipital bellies
 ![[cutaneous nn of scalp.png]]- the V1 -> frontal nerve!!!! ->then split to transverse superior orbit 
-
+these are all given by the cervical plexus, note the spinal accessory nerv
+- this CN 11 **runs deep to SCM, crossing posterioor triangle**
+- superiorly C1-4 = **emerge <mark style="background: #FFF3A3A6;">anterior to the middle scalene and not sandwiched</mark>**
+- C5 and below = <mark style="background: #FFF3A3A6;">emerge bt anterior + middle scalene</mark>
 the auriculotemporal n travels with the <mark style="background: #FFF3A3A6;">superior temporal artery anterior to the ear</mark>
 
 ![[arteries of skull.png]]
@@ -101,9 +104,16 @@ wider parts of sinus - call lateral venous lacunae on the sides,
 - arachnoid villi - will help CSF fluid into the sinuses to offload. 
 - inf saggital sinus drains back to <mark style="background: #FFF3A3A6;">straight sinus</mark> - in the union of the falx crebri + tentorium cerebelli 
 - this takes blood to confluence 
-then from the confluence -> **<mark style="background: #FFF3A3A6;">drain bilaterally into transverse sinuses and then -> sigmoid sinuses -> internal jugular vein</mark>**
+then from the confluence -> **<mark style="background: #FFF3A3A6;">drain bilaterally into transverse sinuses and then -> sigmoid sinuses joined by another sinus-> internal jugular vein</mark>**
+- ophthalmic veins -> cavernous sinus ->superior and  inferior petrosal sinus joins the sigmoid sinus as it drains into the **internal jugular vein**.
+- the superficial temporal vein - joined by maxillary vein making that retromandibular vein! 
+	- posterior division of retromandibular v : posterior auricular joining -> **external jugular v
+		- note about this <mark style="background: #FFF3A3A6;">if we have heart issues, the external jugular vein dilates, making the CVP measurement</mark>**
+	- anterior division of retromandibular vein joins with facial vein, making -> **common facial vein draining into the** -> **internal jugular vein!!!**
+![[veins and sinuses of skull.png]]
 
-all drain to deep cervical neck nodes 
+- superficial cervical nodes. -> skin of neck -> external jugular vein 
+- regional nodes submandibular node,s parotid nodes, mastoid nodes + occipital nodes , all drain down to the deep cervical nodes. 
 
 sub+extradural + epidural(bt dura + bones of vertebrae) - these are all pathological 
 
@@ -137,3 +147,56 @@ CN V2 = middle fossa , maxillary division
 CN V 3 = lateral middle + anterior fossa +middle too  
 CN 1-3 = posterior fossa 
 
+---
+# neck anatomy I+II
+4 longitudinal compartments + 2 triangles with SCM separation 
+- hyoid bone - no articulations, floating, ligaments and muscles; many ligaments + muscles
+	- where jaw meets the neck 
+	- C3 
+- inferior to thyroid cartilages is (2 laminae that come together anteriorly at an angle known as the anterior laryngeal prominence, adams apple)
+	- this laryngeal prominence of thyroid cartilage runs down midline 
+	- C4 = <mark style="background: #FFF3A3A6;">this is where common carotid artery will bifurcate, and in between is the airway. u need to stick this tube to access that</mark>
+- cricoid cartilage = circular , below the laryngeal prom. 
+	- retinoid cartilages that attach to vocal folds, **C6**
+	-  <mark style="background: #FFF3A3A6;">see pharynx ends , esophagus begins, trachea begin. </mark>
+	- middle cervical sympathetic ganglion is here, inf thyroid a pass up and over this, mixing with **recurrent laryneal nerve + isthmus of thyroid gland**
+		- if cut, vocal dmg
+	- below C6, investing fascia surrounds the neck, enclose trapezius + SCM
+		- inside the fascia = prevertebral muscles + lateral/scalene muscles + deep back 
+		- nerves between anterir + middle scalene = BP 
+- tracheal rings = 2-4 of these, isthmus of thyroid glands cover it, T2-3 
+![[deep cervical fascia compartments.png]]
+vascular compartment = inside is internal carotid, vagus n, internal jugular v 
+- the external carotid is not in there, from above C4 bifurcation 
+- otherwise common carotid below 
+- it is **crossed by omohyoid tendon + then bifurcates as it gooes up**
+- external carotid brs coming off below posterior digastric belly , descending into carotid triangle
+	- **superior thyroid first br out** -> thyroid gland, <mark style="background: #FFF3A3A6;">dives down</mark>
+	- ascending pharyngeal -> up giving muscles along pharynx
+	- lingual -> artery go deep to digastric, supplying oral cavity floor 
+	- facial a -> deep to digastric then **wraps around jaw + crosses into facial muscles**
+	- occipital a -> behind facial, **ascends deep to posterior digastric, wraps to occipital region**
+	- posterior auricular - > asending to **posterior auricular artery superior to the STYLOHYOID M**
+	- superficial temporal -> terminal br, into the scalp 
+	- maxillary artery -> terminal br, infratemporal region , bifurcate same level as the superfiicial temporal
+![[arteries of neck.png]]
+
+pretracheal space = continuous into thorax, **to superior mediastinum + anterior mediastinum**
+- <mark style="background: #FFF3A3A6;">having a thyroid enlargement -> confers CV syndromes</mark>
+- and vice. versa
+retropharyngeal - posterior mediastinum, infections. 
+prevertebral= posterior mediastnum , but all the way down to diaphragm , infections 
+
+platysma innervation - cervical br of CN7 
+recall dermatomes C2, back of scalp, then middle neck = C3 and at root/base of neck it's C4 
+
+muscular floor posterior triangle 
+ - splenius capitis - in the back, behind and up more, deep to the trapezius m 
+- levator scapulae - lateral to spenius capitis 
+- scalene muscles (3 of them, posterior, middle, and anterior)
+- omohyoid from scapular notch with 2 heads and intermediate tendon deep to SCM 
+	- makes the subclavian triangle with the SCM and the clavicle . - **if you apply compression you block the subclavian vessels.
+behind the platysma - motor nerves
+- cervical + marginal mandiibular br of 7 
+- transverse cervical, great auricular, supraclavicular 
+- 
