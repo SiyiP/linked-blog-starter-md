@@ -1,6 +1,7 @@
 #HEENT
 #anatomy 
 
+
 ![[1. Skull_Reaves_NOTES (1).pdf]]
 
 has all the structures we'll talk abt at the end - surface anatomy 
@@ -46,7 +47,7 @@ foramina - convey the blood vessels and nerves
 fontanelles - **space between bones of skull in an infant/fetus when developping, pre-ossification completion and pre-suture formation. main one is between frontal and parietal bones**
 we look at all these from top down view. 
 - anterior - bregma , **horizontal** fissure in front 
-- posterior = lambda , horizontal fissure in back 
+- <mark style="background: #FFF3A3A6;">posterior = lambda , horizontal fissure in back </mark>
 - anterolateral spheronoidal / pterion - on the side of head 
 - posterolateral = mastoid / asterion - near the bak side, near the mastoid 
 - anterior fontanelle - soft til 2nd year - small space, the diamond on the top of baby head 
@@ -131,6 +132,8 @@ sphenoid bone -
 	- ethmoid
 - end of carotid canal - at foramen lacerum 
 - important foramina - sup orbital fissure, foramen rotunda, foramen spinosum, foramen ovale, pterygoid canal, oramen lacerum, optic canal 
+
+	- 
 - evntually know what passs thru them 
 
 pterygoid process - one for each muscle 
