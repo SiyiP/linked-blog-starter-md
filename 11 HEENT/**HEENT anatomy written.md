@@ -223,6 +223,7 @@ scalenes - rotate + flex neck + ventral primary rami of cervical supply
 		- **loop between C1, 2, and C3** = ansa cervicalis , inferior root to C2+3, superior root to C1 
 		- note - <mark style="background: #FFF3A3A6;">hypoglossal CN 12 will hitch a ride with C1, and C1 itself leaves hypoglossal nerve to make the ansa</mark>
 			- this loops around the carotid sheath 
+			- **The superior branch of ansa cervicalis runs with the hypoglossal nerve until the carotid triangle.**
 			- <mark style="background: #FFF3A3A6;">ansa goes on to make nerves to the sternothyroid, sternohyoid, omohyoid </mark>
 			- hypoglossal nerve = makes **nerve to the <mark style="background: #FFF3A3A6;">hyoid genio + thyrohyoid</mark>**
 - posterior =  lower cervical vert, trans processes -> 2nd rib 
@@ -237,7 +238,7 @@ apex = the jugular notch of manubrium
 		- posterior belly from mastoid process , <mark style="background: #FFF3A3A6;">innervation by nerve to stylohyoid CN7</mark>
 		- anterior belly from lower mandible -> <mark style="background: #FFF3A3A6;">innervation by n to mylohyoid CN5</mark>
 - infrahyoid muscles = STRAP muscles <mark style="background: #FFF3A3A6;">supplied by ansa cervicalis</mark>
-	- omohyoid m - from superior scapula ; 
+	- **omohyoid** m - from superior scapula ; 
 		- superior belly -> **intermediate tendon to hyoid bone**
 		- inferir belly -> below clavicle to intermideate tendon - <mark style="background: #FFF3A3A6;">this is lateral and will cross under the SCM</mark> 
 	- sternohyoid m - attach to sternum - longest one, in between these 2 the pretracheal fascia is here  
@@ -257,7 +258,9 @@ path of the vagus nerve
 			- <mark style="background: #FFF3A3A6;">this pierces thyrohyoid membrane!!!! with superior laryngeal artery and vein</mark>
 		- external laryngeal nerve - **innervates <mark style="background: #FFF3A3A6;">cricothyroid muscle to tense the vocal folds, traveling with the superior thyroid artery</mark>
 			- going more down than the internal br 
+			- superior thyroid a - br off the external carotid a 
 	- recurrent laryngeal nerve - sensory to all levels below vocal fofolds, loss of voice 
+		- The recurrent laryngeal nerve changes its name to the inferior laryngeal nerve at the level of the inferior border of the cricoid cartilage. The inferior laryngeal nerve goes on to innervate all the intrinsic muscles of the larynx except cricothyroideus. So, if this nerve innervating all the muscles of the larynx was damaged, a patient would have a hoarse voice.
 CN9 = glosspharyngeal n = leaves via jugular foramen, bt internal jugular v. + internal carotid cartery 
 - 1. deep to the stylohyoid m 
 	2. **one thing to recall - sensory brs from carotid sinus + carotid body traveling back to CN9**
@@ -268,6 +271,7 @@ CN 12 = leaves thru the hypoglossal canal, which is medial to the internal jugul
 having superior thyroid a + v = from the **external carotid to the upper portion of thyroid lateral lobes**
 - inferior thyroid a = from the thyrocervical trunk, pt 1 of the subclavian 
 	-  cross posterior to carotid sheath 
+	- The inferior thyroid arteries are closely associated with the middle cervical sympathetic ganglia and supply the inferior poles of the thyroid. they are the primary source of blood for the four parathyroid glands.
 - superior vein = going nto internal jugular v 
 - middle thyroid v =  also going nto internal jugular v ; **there is no artery counterpart- will be on the practical!**
 - inferior thyroid veins - drain inferiorly to brachiocephalic veins and might merge into each other. 
@@ -276,6 +280,7 @@ parathyroid - never see this, back of trachea, thyroid glands are well-connected
 - consistent placement - from the 4th brachial pouch embryology - quick lateral trip moves over 
 - inferior parathyroid gland - consider it being next to the recurrent laryngeal nerve - from the 3rd pouch with the **thymus**- 
 	- not uncommon that it migrates with and sticks to the thymus, going into the mediastinum 
+	- **The left and right recurrent laryngeal nerves can be found in the left and right tracheoesophageal grooves.**
 
 vertebral artery = ascends in 3 parts
  pt 1 , cervical portion - from first part of foramen into the transverse process foramen , entering C6 , 
@@ -448,4 +453,134 @@ floor = zygomatic, maxilla + palatine
 
 superior orbital fissure - CN 3,4,5,6 and opthalmic vein 
 foramina = optic canal - optic nerve + opthalamic artery 
-lacrimal groove - lac bone over the duct + sac 
+
+- periorbita - the fascia - dense CT layer, **continuous with the periosteum lining the skull/endosteal layer of dura mater**
+choroid - most posterior, middle vascularized layer bt the retina + sclera 
+ciliary body- connect choroid to iris - controls the lens shape thru zoneular fibers which make the suspensory ligament move 
+- <mark style="background: #FFF3A3A6;">contraction of ciliary bod = decreasing diameter + releases sus lig tension, making it rounder + inc light refraction</mark>
+iris - can dilate+constrict, pigmented - anterior to lens making anterior + posterior chambers
+	 <mark style="background: #FFF3A3A6;">circular</mark> fibers = **sphincter pupillae parasympathetic causing constriction of pupil** = in the middle 
+	 <mark style="background: #FFF3A3A6;">radial</mark> fibers = dilator pupillae around, sympathetic fibers** causing dilation of pupil 
+		- lets more light in like when you're running in forest in dark. 
+most internal layer - retina = neuronal layers and stuff
+- anterior margin = **ora serrata** =  serrated junction between the choroid and the ciliary body
+- optic disc - depression insensitive to light, connection of the optic nerve
+- macula lutea - small oval area lateral to optic disc - center is the fovea centralis - area of most **acute** vision -<mark style="background: #FFF3A3A6;"> light detecting cells like cones are there </mark>
+
+
+bulbar conjunctiva = thin moist transparent membrane covering it will reflect off the **posterior surface of eyelids = palpebral conjunctiva**
+- makes the sup+inf fornices on the posterior + anterior eye 
+- opens in palpebral fissue = the space bt the open eyelids + eye 
+
+
+- aqueous humor - in lens clear in **anterior + posterior chambers, nutrients to avascular lens + cornea**
+vs 
+- vitreous body - jelly , 99% water, transmits ligth + holds retina + lens in place, transmission of light into retina 
+
+eyelids - - strengthed by the **tarsal plate up top, , which has glands that secrete oily substance, tarsal glands**
+- orbicularis oculi will help reinforce this strength 
+the lateral + medial **canthis - dots of eye are!!!**
+orbital septum - anchors these tarsal plates to the oculi 
+
+lacrimal: 
+![[lacrimal apparatus.png]]
+lacrimal gland itself - is on the top and lateral side having an orbital part and a palpebral part closer to the eyelid with tears emptying here going to the midline 
+1. medial = lacrimal lake - lacus lacrimalis looks like our tear bed 
+2. lacrimal caruncle - that bulge or circle in our tear bed center 
+3. semilunar fold/plica semilunaris - fold of conjunctiva in this region 
+4. lacrimal papillae - in the upper and lower eyelid immediately above + below the tear beds !!! 
+5. lacrimal punctum - the holes in the middle of the lacrimal papillae! **for tear draining**
+	1. they drain via lacrimal canaliculi into the lacrimal sac
+	2. this sac will be drained by the nasolacrimal duct into the nasal cavity!!! via<mark style="background: #FFF3A3A6;"> inferior nasal meatus </mark>
+
+
+---
+# oral 
+- floor - muscular diaphragm (mylohyoid + geniohyoid(deeper))
+- oral vestibule - anterior surface of teeth to inner lip - where you pack dip into 
+parotid gland - empties into the **oral vestibule at area of the level 2nd maxillary molar thru parotid duct**
+
+oral cavity proper - inner surface of anterior teeth to the **oropharyngeal isthmus(posteriormost opening into the oropharynx)**
+- bound by superior palates, floor of mout underneath, inner surfaces of teeth anteriorly 
+- made by: 
+	- palatoglossal folds antero and lateral 
+	- soft palate 
+	- terminal sulcus of tongue which will divide posterior 1/3 
+		- <mark style="background: #FFF3A3A6;">along the terminal sulcus - the remnant of thyroglossal duct </mark>= **foramen cecum**
+	- food/liquid is held in the oral cavity while breathing when the isthmus is closed. 
+incisive foramen - **nasopalatine** nerve supplies the anterior hard palate mucosa!!! accompanied by **sphenopalatine vessels!**
+
+greater palatine vessels and lesser palatine vessels will exit thru their respective foramina 
+
+mandible 
+- superior + inferior mental spine = the genial tubercles -  on the <mark style="background: #FFF3A3A6;">inside of the mandible (lower jawbone) that serve as attachment points for the genioglossus and geniohyoid muscles</mark>
+	- geniohyoid - attach to the inferior mental spine of mandible to hyoid.. 
+	- <mark style="background: #FFF3A3A6;">innervation via hypoglossal n, ventral ramus of C1....</mark>
+- sublingual fossa - where sublingual gland is  
+- mandibular foramen = **the inferior alveolar nerve goes thru here, CN V3**
+	passes thru the mandibular canal -> and then give brs to teeth 
+	- basically all blood supply of the teeth is from the maxillary artery btw!!! with external carotid artery; there's posterior alveolar a => supplies the premolars and the molar teeth . 
+	- note - the inf alveolar artery + vein  passes thru the mandibular canal, accompanying the inferior alveolar nerve 
+- branch of the <mark style="background: #FFF3A3A6;">**infaorbital artery in the pteropalatine fossa -> anterior** superior alveolar a + v </mark>- supplies canines + incisors 
+
+- in adult - teeth erupts around age 6, with the 3rd molar not there til age 17-30 
+- 30 deciduous teeth = **baby teeth, come before**
+	- 6 mon - 2 yrs of age 
+	- no premolars and no 3rd molar yet for kids 
+
+innervation of teeth = all CN V
+maxillary teeth - anterior superior alveolar nerve + middle superior alveolar n 
+	brs of infraorbital nerve of V2 , supplying **canines + premolars!**
+- posterior superior alveolar nerve = will be directly off maxillary nerve V2, <mark style="background: #FFF3A3A6;">and be4 t gets to teeth, posterioor superior alveolar nerve innervates maxillary sinus mucosa!</mark>
+- mandibular teeth - from inferior alveolar nerve V3 like the one who ges thru the foramen 
+
+roof of oral cavity - hard cavity = the maxilla 
+- lining: palatine rugae. 
+- palatine raphe - why we have a fusion of palatine cells = the median longitudinal line
+- has the incisive papillae on top of the incisive foramen. 
+
+palatal blood'- external carotid a 
+- ascending pharyngeal artery from external carotid
+- facial artery from the ascending palatine a 
+- **maxillary artery -> INSIDE THE pterygopalatine fossa...**
+	- -> DESCENDING PALATINE ARTERY 
+	- greater palatine a -> hard 
+	- lesser palatine a -> soft palate 
+
+the 3 branches of V2 - wll be providing to the hard palate thru the greater palatine nerve or lesser?
+- the greater + lesser palaitine nervs would extend down from the inferior aspct of the <mark style="background: #FFF3A3A6;">pteropalatine ganglion</mark>
+	- greater palatine nerve V2 - descends thru the _pterygopalatine_ fossa + palatine canal 
+	- nasopalatine n V2 = from the pterygopalatine fossa, travels thru nasal and descends thru incisive canal 
+- general sensory of soft palate -
+	- lesser palatine n v2 go thru lesser palatine foramen into soft palate 
+
+median raphe  - combines mylohyoids in the middle 
+- to elevate hyoid bone, base of tongue, floor of mouth 
+- <mark style="background: #FFF3A3A6;">inferior alveolar nerve -> </mark>nerve to mylohyoid - **before!!! the inferior alveolar nerve enters the mandibular foramen**
+
+deep to the geniohyoid, 
+tongue intrinsic muscles - innervated by hypoglossal n 
+extrinsic muscles.... 
+- genioglossus - CN12 too, protrude, retract, depress + elevate tongue 
+	- <mark style="background: #FFF3A3A6;">fan shaped </mark>attaching into the **superior mental spine of mandible, blending posteriorly with the other tonogue fibers**
+	- can stick out tongue, if injured this will go off midline 
+- hyoglossus - CN 12 
+	- <mark style="background: #FFF3A3A6;">covers the genioglossus m laterally?</mark>
+	- rectangle , depress + retract tongue 
+	- <mark style="background: #FFF3A3A6;">deep to this muscle, the lingual artery would enter the tongue!</mark> 
+	- <mark style="background: #FFF3A3A6;">on the EXTERNAL SURFACE of this, you will find the CN12 and lingual nerve br of CN V3 enter the tongue!!!!!!</mark>
+- styloglossus = CN 12 
+	- blends into lateral aspect of the tongue - the arc that connects the lateral tongue to the styloid way up, 
+	- draws it up to **swallow**
+- palatoglossus = <mark style="background: #FFF3A3A6;">CN 10!!!</mark>
+	- this is from soft palate inserting laterally into the tongue! 
+	- this is right under th palatoglossal folds antero and lateral 
+	- **from palatine aponeuosis / soft palate** - basically layer of soft palate blending laterally 
+	- lateral boundaries of the oropharyngeal isthmus
+
+tongue papillae: 
+- folliate papillae = no taste buds !! most numerous and have nerv endings 
+- fungiform  papillae - rounder, 
+- vallate papillae - fewest but largest - in shape of terminal sulcus 
+- foliate papillae - found on lateral aspect of tongue 
+- 

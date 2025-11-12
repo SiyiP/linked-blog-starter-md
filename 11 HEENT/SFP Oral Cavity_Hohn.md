@@ -1,6 +1,4 @@
 #HEENT 
-do all the anki 
-
 inlet for digestive 
 and manipulates sounds produced by larynx -> speech 
 bounds -
