@@ -60,7 +60,7 @@ anterior cranial fossa - frontal lobes of brain
 - crista galli - follows the frontal crest down a bit more
 - cribriform plate - on the wall where ts near the crista galli/frontal crest. wewill see ths in lab, there's holes that are meant for the olfactory bulb / to pass thru here. 
 
-middle cranila fossa - posterior ot **lesser wing of sphenoid bone**
+middle cranila fossa - posterior to **lesser wing of sphenoid bone**
 - has temporal lobes
 
 posterior cranial fossa

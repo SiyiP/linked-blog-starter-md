@@ -83,3 +83,40 @@ and venous architecture
 - outflow - from the cavernous sinus inflow. 
 	- inf petrosal sinuses
 	- superior petrosal sinuses 
+
+
+---
+the blown pupil. - uncus of the temporal lobe would compress intwards onto the crural cisterm, compression of CN 3 
+- medial displacement of that uncus 
+- epi/subdural hematoma from the car accident 
+- interrupt the parasympathetics
+- ***contralateral* hemiparesis from *ipsilateral* cerebral peduncle compression** 
+	- the decussation !!!!
+
+---
+brain tumors 
+- not that. common in brain. 
+- glioblastoma multiform
+- meningioma - around brain 
+- guess symptoms 
+- most common secondary brain tumor - from the lung 
+	- usually - **small cell carcinomas - MULTIPLE SPOTS**
+	- primary = just one 
+
+radiation types 
+- whole brain 
+- conformal 
+- stereotactic radiotherapy -> using beams on head
+- stereotactic radiosurgery 
+
+why surgery - oncologic burden reduction, seizure + headache + mass effect relief
+- needle biopsy - good for very deep seated big tumors hard to remove 
+- partial removal- 
+- gross total resection - tumor at the surface for near 
+
+spinal cord recall 
+- myelopathy - upper motor neuron 
+	- babinski, spasticity (inc tone, hyperreflex, clonus), weakness
+- radiculopathy 
+	- LMN signs
+	- weakness, atrophy, hyporeflex, **fibrillations**
