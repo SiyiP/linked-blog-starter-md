@@ -77,7 +77,7 @@ general sensory - around the concha of the auricle + posterior auricular branch 
 2. greater petrosal N will run pas thits 
 3. passes laterally and anteriorly into the facial canal in petrous part of tempora bone **with the geniculate ganglion**
 4. geniculate - a sharp bend here, and then **without synapsing, the facial nerve just passes thru this**
-5. anteriorlly and laterall bt cochlea + semicircular canals 
+5. anteriorlly and laterally bt cochlea + semicircular canals 
 posteriorly in facial canal = medial wall of the tympanic cavity 
 inf in fcial canal - posterior tympanic cavity wall 
 nerve to stapedius muscle = 

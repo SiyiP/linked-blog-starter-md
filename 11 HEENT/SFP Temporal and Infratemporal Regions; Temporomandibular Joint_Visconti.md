@@ -12,7 +12,7 @@ angle of mandible is the jaw angle
 	- floor of it - <mark style="background: #FFF3A3A6;">parietal, frontal, greater sphenoid wing, and **squamous** part of temporal bone </mark>
 		- pteryion suture int he middle, middle meningeal a underneath and it's weak 
 contents of t<mark style="background: #FFF3A3A6;">emporal fossa</mark>
-- **temporlis muscle 
+- **temporalis muscle 
 	- broad origin from<mark style="background: #FFF3A3A6;"> temporal fossa + temporal fascia</mark>
 	- insertion into **<mark style="background: #FFF3A3A6;">medial border of coronoid process + ant border of ramus</mark>**
 	- innervatd by <mark style="background: #FFF3A3A6;">CNV3!!</mark>!
