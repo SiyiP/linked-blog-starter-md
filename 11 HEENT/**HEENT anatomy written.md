@@ -445,3 +445,7 @@ roof = frontal bone + lesser sphenoid wing
 lat wall = **zygomatic + greater sphenoid**
 medial = frontal process of maxilla, lacrimal, orbital plate of ethmoid 
 floor = zygomatic, maxilla + palatine 
+
+superior orbital fissure - CN 3,4,5,6 and opthalmic vein 
+foramina = optic canal - optic nerve + opthalamic artery 
+lacrimal groove - lac bone over the duct + sac 
