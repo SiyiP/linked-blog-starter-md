@@ -401,6 +401,7 @@ muscles in the infratemporal fossa
 	- inserts to front of neck of mandible + articular disc of TMJ 
 	- innerved by V3 
 	- will help pull entire mandible forward when opening for food 
+	- **note - this has a superior and inferior head!!!!**
 - medial pterygoid - 
 	- superficial head from posterior surface of maxilla and deep head from medial surface of lat plate of pterygoid 
 	- inserts onto medial aspect of angle of mandible
@@ -434,7 +435,7 @@ main trunk: from v3 itself
 	- posterior division - largest of 3 
 		- aurculotemporal .... with 2 roots carrying meningeal arteries whcich carrry postganglionic parasympathetic fibers to the parotid gland, from the otic ganglion\
 		- lingual nerve - gets br of face nerve chorda tympanic 
-			- c<mark style="background: #FFF3A3A6;">horda tympani from CN 7 joinst this V3 lingual n ;</mark> **chorda tympani will pass thru the <mark style="background: #FFF3A3A6;">petrotympanic</mark> fossa
+			- c<mark style="background: #FFF3A3A6;">horda tympani from CN 7 joins this V3 lingual n ;</mark> **chorda tympani will pass thru the <mark style="background: #FFF3A3A6;">petrotympanic</mark> fossa
 		- inferior alveolar nerve ;; 2 has motor and senosry fibers. giving off mylohyoid n, predom sensory and gives off mylohyoid motor nerve too. and sometimes digastric.**
 	- runs below the teeth to split into incisive br + mental nerves..... 
 - otic ganglion - for parasypathetics, innervate the parotid glands 
@@ -579,8 +580,53 @@ extrinsic muscles....
 	- lateral boundaries of the oropharyngeal isthmus
 
 tongue papillae: 
-- folliate papillae = no taste buds !! most numerous and have nerv endings 
+- folliate papillae = no taste buds !! most numerous and have nerv endings, on the lateral aspect of tongue 
 - fungiform  papillae - rounder, 
 - vallate papillae - fewest but largest - in shape of terminal sulcus 
-- foliate papillae - found on lateral aspect of tongue 
-- 
+main blood supply is the lingual artery which is br of ext. carotid artery 
+- this will travel bt hyoglossus + genioglossus muscles to apex of tongue 
+
+general sensory f tongue
+- lingual n - V3 anterior 2/3 , where it comes out of the ovale -> lingual n -> infratemporal fossa -> both motor and sensory information 
+- posterior 1/3 = **glossopharyngeal n CN 9; help with taste too**
+special taste sensation: 
+- on the anterior 2/3 the chorda tympani br of CN 7 will join the V3 lingual nerve br to give taste. 
+- posterior is glossopharyngeal like i said be4 
+
+- sublingual gland
+	- smallest, in the sublingual fossa against medial surface of mandible 
+	- superior to the mylohyoid **+ lateral to the submandibular duct** 
+	- drains into the oral cavity via ducts opening into **crest of the sublingual fold** 
+submandibular gland - hook shaped 
+	- superficial part = outside of oral cavity, bt myohyoid muscle + mandible 
+	- deep = hoook around mylohyoid muscle, lateral to tongue roof 
+	- the <mark style="background: #FFF3A3A6;">submandibular duct comes from the medial part of this deep part and passes over lingual nerve... the lingual nerve would loop under the submandibular duct.... passing thru the sublingual caruncle opening of the oral cavity floor</mark>
+parasympathetic salivary gland innervation 
+sublingual + submandibular get signals from CN7, br of chorda tympani which <mark style="background: #FFF3A3A6;">joins the preganglionic parasympathetic fibers to the lingual V3</mark>
+- this goes into the oral cavity 
+- gangion in the oral cavity = <mark style="background: #FFF3A3A6;">submandibular ganglion, which will send postganglionic parasympathetics to the glands</mark>
+we drain from the tip tongue to **submental nodes**, other wise, everything to the submandibular nodes. 
+palate drain to deep cervical directly 
+
+---
+# pharynx + palate 
+
+pharynx - opening anteriorly to nasal cavities, mouth, and larynx, the choanae of the nostrils 
+- extending to C6 where esophagus begins ; air going to lungs and food to the stomach 
+- opening to nasopharynx - choanae ; most superior portion of the nasopharynx = hypophyseal fossa
+	- roof = body of sphenoid + basilar occipital bone 
+	- floor = soft palate
+	- posterior = **superior pharyngeal constrictor muscles**
+along this lateral wall - 
+- under the auditory tube, there's cartilage 
+- 2 muscles deep to the soft palate = the tensor + levator veli palatini muscles. 
+	- levator - seals that nasal pharynx, preventing food regurgitation 	- tensor veli palatini - on that back wall , 
+	- torus tubarius - tubal elevation , **near the auditory tube in the posterior aspect**
+		- <mark style="background: #FFF3A3A6;">salpingopharyngeal fold is under it , inferior aspect, covering that salpingopharyngius muscle</mark>
+		- posterior to this is the pharyngeal recess....? 
+	- uvulus muscle - muscularus uvulae deepest layer 
+
+pharyngeal isthmus - where nasopharynx is continuous w/ oropharynx - **marked by <mark style="background: #FFF3A3A6;">fold from palatopharyngeal sphincter, which is an inferior part of the superior pharyngeal constrictor muscle</mark>**
+
+
+
