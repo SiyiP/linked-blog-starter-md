@@ -59,3 +59,10 @@ facial
 	1. you get one side of face paralyzed 
 	2. this is due to impaired nerve conduction or injury due to restricted face
 	3.  Treat - prednisone, coritcosteroids, antiinflammatory, most recover fully 
+
+path: tonsilitis - bacterial infection, sore throat, high fever, bad breath + palatine tonsil inflammation... bc of **accumulation of bacteria in the crypts** - making **tonsil stone calcifications, sulfurous**
+				- deep cervical lymph nodes draining tonsils are enlarged and tender.
+				- tonsillectomy - indicated for repeated infections
+				- complication = **hemorrhages... bc tonsillar artery br of facial artery is in that **tonsillar sinus**
+				- largest supplier of blood is tonsillar a from the facial artery, but also these tonsillar branches from all these other areas too. 
+				- also external palatine veins' pretty large and in there. 

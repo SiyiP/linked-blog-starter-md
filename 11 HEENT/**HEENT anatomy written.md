@@ -628,5 +628,30 @@ along this lateral wall -
 
 pharyngeal isthmus - where nasopharynx is continuous w/ oropharynx - **marked by <mark style="background: #FFF3A3A6;">fold from palatopharyngeal sphincter, which is an inferior part of the superior pharyngeal constrictor muscle</mark>**
 
+oropharynx extends down to epiglottis 
+- roof = soft palate + pharyngeal isthmus 
+- floor = posterior 1/3 of tongue + valleculae, pharyngeal tongue etc. 
+- valleculae - pair of mucosal pouches - **bt base of tongue + epiglottis**
+- glossoepiglottic folds binding this place laterally and one medially tooo, dividing that space into 2
+palatine tonsils seen bt palatoglossal + palatopharyngeal folds 
+the oropharyngeal isthmus is bound laterally by palatoglossal arches... then the palatopharyngeal arch is posterior + medial to the folds. 
+to close the isthmus: 
+- palatoglossal arches - **contract down** and medial 
+	- folds, arches are the palatoglossus muscle covered with mucosa layer forming boundary of isthmus around lateral wall 
+- palatopharyngeal arches - **contract down** and medial 
+	- palatopharyngeal folds cover the palatopharyngeaus. , posterior + medial to those palatoglossal folds
+	- this is a **landmark for palatine tonsils** ; in the tonsillar sinus, very vascularized area between the folds!  
+- posterior tongue up 
+- soft palate down + forwards 
 
+laryngopharynx - posterior to laryngeal inlet ->C6 the esophagus - 
+- from superior border of epiglottic cartilage to inf border of cricoid cartilage 
+- down the anterior wall = laryngeal inlet + posterior aspect of larynx 
+- pharyngeal constrictor muscles AND bodies of 3-5th cervical vertebrae  = make up posterior wall 
+- laterally buond by the thyroid cartilage 
+- piriform recesses = lateral to the laryngeal inlet ; - directs solids/iquids from oral cavity **around** **raised** laryngeal inlet and into esophagus , preventing that larynx food entry... <mark style="background: #FFF3A3A6;">common site of foreign body lodging, feel like smths in throat, repeated gagging etc.</mark>
+- deep to piriform recess = entrance of <mark style="background: #FFF3A3A6;">internal laryngeal nerve as it pierces thryoid membrane!!! internal br of the superior laryngeal nerve. eventually passes thru that thyrohyoid membrane to reach larynx to supply to mucosa above vocal folds</mark>
 
+3 circular layers of the pharynx 
+- superior pharyngeal constrictor , to the pharyngeal raphe !!! median point posteriorly **joins all the pharyngela constrictors**
+	- 
