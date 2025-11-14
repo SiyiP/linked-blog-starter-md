@@ -295,3 +295,10 @@ brain injuries in perinatals... and premies most commonly
 
 ---
 # CNS vasc dz 
+- high pressure bleeds - arterial, rapidly evolving minutes to hours
+- low pressure bleeds - venous, develop over days to weeks or months 
+- - stroke - an abrupt onset of focal/global neuro symptoms caused by ischemia or hemorrhage... 24+ hr duration
+
+- internal carotid system - supplies above that tentorium 
+	- cerebral cortex supplied by ACA MCA, and PCA = this is in the circumferential arteries ,  
+	- short circumferential = come from **proximal parts of long circumferential aa, into the deep parts like basal ganglia**
