@@ -31,7 +31,7 @@ external ear -
 - made during week 7 
 - 1st branchial arch -> 1st hillocks of his -> tragus + helix 
 - 2nd branchial arch hillocks 4-6 -> antihelix + antitragus , 
-- ![[Screenshot 2025-10-29 at 3.16.47 AM.png]]
+- ![[embryological dev of external ear.png]]
 - arrsst can happen anytime - with microctia
 1. microtia - mostly sporadic maybe insjury to the stapedial artery or some teratogenic 
 	1. grades 1-4.... 4 = no sears. 1 = **floppy stick out ears**, 2 has all structures but small. 3 = some cartilage but requires reconstructure

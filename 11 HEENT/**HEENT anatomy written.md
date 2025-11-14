@@ -7,9 +7,76 @@ most vulnerable 3-8 wks
 ![[derivatives of pharyngeal arches chart.png]]
 ![[embryonic mesodermlayout.png]]
 axial sekelton = the skull, vertebral column, ribs, sternum = the paraxial mesoderm, lateral plate mesoderms, NCCs, which develop near the neural tube as it closes.... 
-- the somites formed from paraxial mesoderm -> little bumps, occipital to sacral regions beside the neural tube
+- the somites formed from paraxial mesoderm -> little bumps, occipital to sacral regions beside the neural tube;  **somites + somitomeres**  in the back of head like in parietal bone, occipitalis, and petrosal temporal bone
 - around head region - mesenchyme doesn't condense and are more loose - some somitomeres here 
-- 
+- - frontal skull structures = NCC segments. , which makes hyoid, mandible, most of facial bones 
+- - laryngeals = lateral plate mesoderm , like near the spinal cord and downwards. 
+- viscerocranium - associated with pharyngeal arches, AND surrounding oral cavity, the pharynx and upper respiratory tract
+
+all boney structures develp thru either intramembranous ossification or endochondral ossification like with cartilage 
+
+ pharyngeal arch region - of human embryo at end of 1st month ; a bit over 3 weeks... we see 1+2nd pharyngeal arches; and then the 5th would recess but the 6th stays. 
+ - clefts = separate the mesenchymal bars that make up the pharyngeal arches, with the arches bieng **paraxial mesoderm + neural crest...**
+ - each has arteries, nerves, muscles, skeletal structures
+ - hox genes 
+ each arch = is **lined** = 
+	- endodermal tissue = on the inside, forms pouches
+	- ectoderm will on the outside, making pharyngeal clefts
+![[palatal development timeline chart.png]]
+facial prominence - ; fron NCCs ofc 
+- <mark style="background: #FFF3A3A6;">stomodeum = hole on face as depression -> mouth</mark>
+- nasal placodes -> ectodermal thickenings to invaginate into making nasal pits/nostrils 
+	- wk 7-8 olfactory epitheilum from these ectodermal cells. 
+	- epiithelial plug - at nasal pit openings, persists til 4 mon, removed via apoptosis , closigng it from the outside 
+- frontonasal prominence are unpaired next to 2 nasal placodes 
+- lateral nasal , medial nasal = contribute to the nose and the **medial one to the upper lip**
+- f<mark style="background: #FFF3A3A6;">usion of medial nasal prominences</mark> = making that philtrum of upper lip, nasal septum, and incisorteeth/premaxillary part of maxilla
+	- primary <mark style="background: #FFF3A3A6;">palate</mark>. ! froms from that intermaxillary segment !!! 
+	- 5-7 wks enlarge + grow medially..
+	- 4-8 wks gestation - lip + primary palate first which forms laterally 
+	8-12 wks = gestation - secondary palate , incisive foramen 
+- nasolacrimal groove - makes between maxillary + lateral nasal prominences.... 
+- secondary palate = **made with palatal shelves of maxillary prominences which appear in week 6**
+	- they grow medially + vertially, elevating + fusing. 
+	-  primary palate gets anterior + nasal septum gets more superior
+	- the tongue can stop the fusion, in which we wait for the tongue to get lower 
+	- then the **head elongate, allowing palatal shelves to grow more medial and vertical again, completely fusion = <mark style="background: #FFF3A3A6;">primary palate = definitive</mark>**
+- mandibular prominences - paired, forms lower lip + jaw, merging in middle. 
+	- minor deviation = chin dimple ,
+	- meckel's cartilage is made as a structure template which lower jaw would develop around = intramemb ossification 
+		- this also contributes to middle ear structure, sphenomandibular ligament
+- lower face = first pharyngeal arch 
+
+pharynx + derivatives 
+1st arch - cartilage w/ mandibles + 2 ossicles, maxillary a + trigeminal nerve, mastication, etc. 
+- first groove/cleft = ectodermal , <mark style="background: #FFF3A3A6;">only one to persist into adulthood as external auditory meatus....</mark>
+- and pouch one = **tympanic cavity, middle ear cavity, eustachian tube!!!!!**
+- <mark style="background: #FFF3A3A6;">thyroid develop bt the 1+2nd pharyngeal pouch, diving into foramen cecum in the middle + leaving it to neck, travelling in that thyroglossal duct.</mark>
+	- duct can persist and get infected anywhere 
+- first arch = 2/3 anterior front of tongue 
+- middle f tongue more posterior midline = **tuberculum impar?**
+	- lateral lingual swellings which will eventually surround it , where the CN5 develops here 
+2nd = facial experession muscles + stepes - CN 7 and stapedius, stylohyoid, posterior digastric belly 
+	cervical sinus , which will oriiginally disappear
+	- palatine tonsil in pouch 2 
+3rd = stylopharyngeus muscle + part of hyoid - glossopharyngeal, internal carotid 
+	the **inferior parathyroid glands.** <mark style="background: #FFF3A3A6;">it moves with thymus as it migrates down.</mark>
+	<mark style="background: #FFF3A3A6;">copula</mark> - midline bump that is seen more posterior - contribution to the <mark style="background: #FFF3A3A6;">posterior 1/3 </mark>of tongue - has <mark style="background: #FFF3A3A6;">palatine tonsils + foramen cecum</mark>
+4th. = pharyngeal+laryngeal muscles. + thyroid + cricocartilages  - vagus, R subclavian artery and aorta 
+	<mark style="background: #FFF3A3A6;">superior parathyroid glands,</mark> , tissue from where the parafollicular c cells f thyroid develop as it descends with the thyroid glan
+	<mark style="background: #FFF3A3A6;">epiglottis</mark>
+6th = laryngeal cartilages... recurrent laryngeal n - 
+
+pituiary duct -  **posterior pituitary, no hormones produced from the floor of the diencephalon**; but stores the hypothalamus stuff 
+- but this eventually release the neurohrmoones from hypothalamus 
+- starts out as **neurectoderm from the infundibulum**
+
+oral ectoderm =  **rathke's pouch an invagination near the stomodeum, forming the anterior pituitary, making GH, ACTH, and TSH**
+
+external ear - week 7 
+1st arch = 1st hillocks = tragus + helix. 
+2nd arch = hillocks 4-6, antihelix + antitragus 
+![[embryological dev of external ear.png]]
 
 ---
 # skull
