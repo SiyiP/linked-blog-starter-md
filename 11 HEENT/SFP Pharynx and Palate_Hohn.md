@@ -83,7 +83,7 @@ muscle layers of pharynx -
 		- origin from stylohyoid lig , horning at hyoid -> pharyngeal raphe
 		- to constrict wall pharynx during swallowing, innervated by vagus 
 	- inferior pharyngeal constrictor 
-		- from olique line of thyroid cartilage/cricoid-cartilage -> pharyngeal raphe (this is on the postrerior side, this extends all the way from base of skull -> C6) 
+		- from oblique line of thyroid cartilage/cricoid-cartilage -> pharyngeal raphe (this is on the postrerior side, this extends all the way from base of skull -> C6) 
 		- to constrict wall pharynx during swallowing, innervated by vagus duh 
 	- extranote - cricopharyngeus muscl, not in lab id, but this is the most inferior fibers of the inf pharyngeal constrictor muscle 
 		- **sphincter at lowest end of pharynx to prevent entry of air into esophagus when swallowing food**
@@ -105,7 +105,7 @@ muscle layers of pharynx -
 		- elevate pharynx + larynx during swallowing + speaking to propell food down 
 		- **<mark style="background: #FFF3A3A6;">only muscle CN 9!! glossopharyngeal nerve</mark>** underneath it
 blood supply of pharyngeal wall 
-- all vessels of uppser pharyngeal wall = **external carotid a origins**
+- all vessels of upper pharyngeal wall = **external carotid a origins**
 	- ascending pharyngeal a 
 	- br of facial a like **ascending palatine, tonsillar a**
 	- br of maxillary + lingual aa 

@@ -627,8 +627,9 @@ along this lateral wall -
 	- uvulus muscle - muscularus uvulae deepest layer 
 
 pharyngeal isthmus - where nasopharynx is continuous w/ oropharynx - **marked by <mark style="background: #FFF3A3A6;">fold from palatopharyngeal sphincter, which is an inferior part of the superior pharyngeal constrictor muscle</mark>**
+- nasopharynx V2 innervation for sensory 
 
-oropharynx extends down to epiglottis 
+oropharynx extends down to epiglottis ; CN 9 via pharyngeal plexus sensory 
 - roof = soft palate + pharyngeal isthmus 
 - floor = posterior 1/3 of tongue + valleculae, pharyngeal tongue etc. 
 - valleculae - pair of mucosal pouches - **bt base of tongue + epiglottis**
@@ -644,14 +645,75 @@ to close the isthmus:
 - posterior tongue up 
 - soft palate down + forwards 
 
-laryngopharynx - posterior to laryngeal inlet ->C6 the esophagus - 
-- from superior border of epiglottic cartilage to inf border of cricoid cartilage 
+
+
+laryngopharynx - posterior to laryngeal inlet ->C6 the esophagus - ;; CN 10! specifically the **internal laryngeal nerve, a branch of the superior laryngeal nerve!!!- from superior border of epiglottic cartilage to inf border of cricoid cartilage 
 - down the anterior wall = laryngeal inlet + posterior aspect of larynx 
 - pharyngeal constrictor muscles AND bodies of 3-5th cervical vertebrae  = make up posterior wall 
 - laterally buond by the thyroid cartilage 
 - piriform recesses = lateral to the laryngeal inlet ; - directs solids/iquids from oral cavity **around** **raised** laryngeal inlet and into esophagus , preventing that larynx food entry... <mark style="background: #FFF3A3A6;">common site of foreign body lodging, feel like smths in throat, repeated gagging etc.</mark>
 - deep to piriform recess = entrance of <mark style="background: #FFF3A3A6;">internal laryngeal nerve as it pierces thryoid membrane!!! internal br of the superior laryngeal nerve. eventually passes thru that thyrohyoid membrane to reach larynx to supply to mucosa above vocal folds</mark>
 
-3 circular layers of the pharynx 
+3 circular layers of the pharynx = all CN X 
 - superior pharyngeal constrictor , to the pharyngeal raphe !!! median point posteriorly **joins all the pharyngela constrictors**
-	- 
+	- constrict pharynx during swallowing+ seals off that yu're not regurgitating food into that nasal cavity 
+- middle pharyngeal constrictor -  from stylohyoid lig , horning at hyoid -> pharyngeal raphe, CN x
+- inferior pharyngeal constrictor - oblique line of thyroid cartilage/cricoid-cartilage -> pharyngeal raphe (this is on the postrerior side, this extends all the way from base of skull -> C6) 
+	- cricopharyngeus muscle, the most inferior fibers of the inf pharyngeal constrictor muscle 
+	- **sphincter at lowest end of pharynx to prevent entry of air into esophagus when swallowing food**
+lnogitudinal muscles 
+- salpingopharyngeus m - from auditory tube -> lateral pharyngeal wall, helps raise pharynx + larynx whle swallowing + speaking 
+	<mark style="background: #FFF3A3A6;">	- can open the pharyngeal opening of the auditory tube to equalize pressure bt middl ear + pharynx in swallowing </mark>
+- palatopharyngeus m - palatine aponeurosis -> lateral pharyngeal wall 
+	- tenses soft palate, elevating pharynx + closes oropharyngeal isthmus 
+- stylopharyngeus m - from styloid process of temporal, best from the posterior view-> pharyngeal wall, <mark style="background: #FFF3A3A6;">posterior of thyroid caritlage </mark>
+	- <mark style="background: #FFF3A3A6;">the only one that's CN 9, glossopharyngeal n underneath tis</mark>
+
+- all vessels of upper pharyngeal wall = **external carotid a origins**
+	- ascending pharyngeal a 
+	- br of facial artery: asceeding palatine, tonsillar a 
+	- br of maxillary + lingual arteries
+	- lower pharynx - pharyngeal brs of inf thyroid a , **which is from that thyrocervical trunk, which is part of the subclavian a**
+
+- recall - the pteropalatine ganglion having that greater petrosal nerve going into it into the pteropalatine fossa 
+- - branches coming from the ganglion inferiorly - > 
+	- greater palatine nerve V2 -> general sensory into the gums via the palatine canal then the greater palatine foramen , to the hard palate 
+	- nasopalatine nerve V2 -> going thru the incisive canal into the nasal septum to give that mucosa of hard palate information 
+	- lesser palatine nerve, V2 also going thru the palatine canal and lesser palatine foramen = also the general sensory but for the soft palate 
+
+----
+# larynx 
+- closes valve of lower resp tract during swallowing to maintain patent airway 
+- open valve during respiration 
+-  palpated inf to hyoid + deep to infrahyoid mm , deep to thyroid gland lateral lobes 
+- laryngeal prominence protrudes bt infrahyoid mm 
+	- C4 = superior margin f thyroid cartilage and bifurcation of common carotid artery 
+	- C6 =  cricoid cartilage, larynx continuous with trachea , and beginning of esophagus  
+inlet = comm bt laryngeopharynx + larynx .... 
+anterior = epiglottis 
+lat = aryepiglottic folds, 
+posterior/inf = **interarytenoid** fold 
+
+cricoid cartilage =  = most inferior, surrounding the trachea, looking like a signet ring
+- posterior portion has lamina, front piece thinner with 4 articular faces: 
+- 2 superior posterior artenoid cartilages
+	- these artenoid cartilages are paired, base + apex.... 
+	- base of this cartilage sits posteriorly + articulates with cricoid catilage 
+	- apex = projecting superiorly and articulation with corniculate cartilages 
+	- muscular process laterally project to **site of attachment for cricoarytenoid muscles**
+	- vocal process. - projects anteriorly vocal ligament attaches here. 
+-  2 on the posterior inferior, articulating w the thyroid cartilage or inferior horn 
+
+horns of the thyroid is on the back, posterior. 
+- superior horn extends into the **lateral thyrohyoid ligaments**, and both inferior horns have a facet with the cricoid to make cricothyroid joint 
+- oblique line bt the inf horn and the anterior = tis is site of attachment for 2 infrahyoid + inf pharyngeal constrictor mm 
+
+the epiglottis - 			- attaches via hypoepiglottic ligament to hyoid bone
+
+
+ 3 smaller cartilages = help vocal ligaments move and make diff sounds 
+		- arytenoid; 	- quadrangular membrane will connect the epiglottis to arytenoid 
+		- corniculate
+		- cuneform 
+- - quadrangular membrane - wraps around the side of airway, along edge of epiglottis, lower edge = vestibular lig 
+- - conus elasticus - extending up from the cricoid cartilage wrapping up around the airway -> free margin to make the **vocal ligament!! on the upper edge!** 

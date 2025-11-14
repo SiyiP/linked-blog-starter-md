@@ -66,3 +66,9 @@ path: tonsilitis - bacterial infection, sore throat, high fever, bad breath + pa
 				- complication = **hemorrhages... bc tonsillar artery br of facial artery is in that **tonsillar sinus**
 				- largest supplier of blood is tonsillar a from the facial artery, but also these tonsillar branches from all these other areas too. 
 				- also external palatine veins' pretty large and in there. 
+
+path: 
+CN X palsy 
+- going liek "aaa" to see soft palate raise bilaterally 
+- - unilateraly injury to CN X will cause dysphagia due to paralysis on injured side 
+- also seen is **contralateral** deviation of **uvula during elevation = CN X dysfunction = levator veli palatini + muscularus uvulae** are **unopposed**. 
