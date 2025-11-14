@@ -35,7 +35,7 @@ sympathetic
 - inc HR/contractility, constriction of BVs in GI, slow peristalsis of GI, relax bladder, **dilates puil in mydriasis**, constriction of BVs in skin and inc sweating 
 - in visceral motor pathways
 	- from lateral horn  T1-L2
-	- travels leaving via ventral root and then entering into the ventral ramus intoo the **white ramus communicans...**
+	- travels leaving via ventral root and then entering into the ventral ramus into the **white ramus communicans...**
 		- and then it synapses in the chain ganglian 
 		- or it ascends and synapses in higher chain ganglia (to head)
 		- or it goes down and then synapses, leaving via **gray ramus**

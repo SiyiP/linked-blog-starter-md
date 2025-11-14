@@ -717,3 +717,94 @@ the epiglottis - 			- attaches via hypoepiglottic ligament to hyoid bone
 		- cuneform 
 - - quadrangular membrane - wraps around the side of airway, along edge of epiglottis, lower edge = vestibular lig 
 - - conus elasticus - extending up from the cricoid cartilage wrapping up around the airway -> free margin to make the **vocal ligament!! on the upper edge!** 
+
+folds -> 3 major spaces
+- vestibule = superior to the vestibular fold, posterior to the epiglottis and bound by the epiglottis making the space
+- between the vocal folds like the vestibular folds + vocal folds form the conus elasticus we have the **laryngeal ventricle**
+- infraglottis space = inferior to that true vocal fold , leads us into the trachea
+synovial joints - cricothyroid joint = bt inf horn of thyroid cartilage + cricoid cartilage - lengthens vocals and vibrates to make higher pitch 
+
+rima glottidis = space bt the 2 true vocal folds
+normal resp - 
+- narrow rima glottidis 
+- wedgeshaped , medially slightly rotated in arytenoid cartilages
+forced resp
+- wide rima glottidis
+- arytenoid cartilages abducted, laterally rotate
+phonation 
+- both the interligamentous and intercartilaginous elements are closed
+whispering
+- arytenoid processes are fully rotated, closing the interligamentous portion and opening the intercartilaginous portion = passing just thru the intercartilaginous portion 
+
+extrinsic muslces of larynx = the suprahyoid muscles and infrahyoid musles to move it up or down <mark style="background: #FFF3A3A6;">during swallowing</mark> 
+intrinsic muscles actually close that laryngeal inlet : posterior view
+- aryepiglottic part of oblique arytenoid m - criss cross, lateral to that aryoepiglottic folds 
+- oblique arytenoid m - criss cross fibers more inferior to the aryepiglottic part 
+- transverse arytenoid m - running transversly in the horizontal plane underneath 
+
+thyroarytenoid 
+- this will shorten and widen the vocal ligament , making it more relaxed and do lower sounds
+- pulls thyroid + arytenoid cartilages closer together. - innervation recurrent laryngeal n 
+vocalis - shortens and widens vocal ligaments to make lower sounds , innervated by recurrent laryngeal n 
+
+lateral cricoarytenoid - attaches to superior surface of cricoid cartiage => muscular process of arytenoid cartilage
+- to adduct vocal folds, medially rotate arytenoid cartilages
+- making you <mark style="background: #FFF3A3A6;">whisper</mark> ; this is recurrent larygngeal n and CN X 
+posterior cricoarytenoids =  posterior surface of cricoid lamina -> muscular process of arytenoid cartilage
+- only one to abduct vocal folds! 
+
+superior laryngeal n -> internal and external laryngeal nerve
+- <mark style="background: #FFF3A3A6;">internal laryngeal = sensory ot laryngeal mucosa above vocal folds... pierces the thyrohyoid membrane deep to mucosa of piriform recess</mark>
+- external = <mark style="background: #FFF3A3A6;">motor</mark> to inf pharyngeal constrictor m to critothyroid muscles 
+	- travels with superior thyroid artery
+recurrent laryngeal n = 
+- L - around aortic arch 
+- R = loop around 1st part of R subclavian a 
+- provide **sensory to larygeal mucosa below the vocal folds**
+- ascends in tracheoesophageal groove to -> larynx deep to inferior pharyngeal constrictor 
+superior 1/2 of larynx is superior laryngeal a = br of superior thyroid artery piercing with the internal laryngeal n 
+inferior 1/2 inf laryngeal artery a br of the inf thyroid artery... entering posterior to inferior horn of thyroid cartilage <mark style="background: #FFF3A3A6;">with the recurrent laryngeal n</mark>
+
+
+----
+# CN and SNS/PSNS
+
+| 1   | **C**ome   | **C**ribiform plate          |
+| --- | ---------- | ---------------------------- |
+| 2   | **O**n     | **O**ptic Canal              |
+| 3   | **S**ofia  | **S**uperior Orbital Fissure |
+| 4   | **S**ofia  | **S**uperior Orbital Fissure |
+| 5.1 | **S**ofia  | **S**uperior Orbital Fissure |
+| 5.2 | **R**ight  | Foramen **R**otundum         |
+| 5.3 | **O**n     | Foramen **O**vale            |
+| 6   | **S**ofia  | **S**uperior Orbital Fissure |
+| 7   | **I**'m    | **I**nternal Acoustic Meatus |
+| 8   | **I**nto   | **I**nternal Acoustic Meatus |
+| 9   | **J**ust   | **J**ugular Foramen          |
+| 10  | **J**iggly | **J**ugular Foramen          |
+| 11  | **J**uggs  | **J**ugular Foramen          |
+| 12  | **H**oney  | **H**ypoglossal Canal        |
+
+in visceral motor pathways - sympathetic... 
+- from lateral horn  T1-L2
+- leaving via ventral root and then entering into the ventral ramus intoo the **white ramus communicans...** = 
+	- synapses in sympathetic chain ganglion 
+	- ascends or synapses in higher chain ganglia near the head 
+	- or it goes down and synapses downwards - **leaving as gray ramus**
+	- leaves as **splanchnic nerves not synapsing in chians, but instead synapsing in plexuses innervating the thoracic visceral and lumbar organs....** to prevertebral ganglia onwards to the organ tissues. 
+- visceral afferent/sensory pathway = leaves target tissues, travels thru prevertebral ganglion, back thru the splanchnic nerves, back thru the white ramus, and ultimately to dorsal root ganglion which has sensory cell bodies etc. 
+sympathetics to head: - from lateral horn, bt T1-3 
+- enters chain , ascnending to head 
+- synapse in <mark style="background: #FFF3A3A6;">superior cervical ganglion</mark>, and postganglionic fibers will reach targets via plexuses 
+	- note - sympathetic trunk have no white rami communicantes in head bc they will ascend, only the gray matter. 
+	- superior = C1-2 , exiting via gray rami -> C1-4 , cardiac br + carotid plexus 
+	- middle = C6, exiting via gray to C5-6 ; thyroid brs and cardiac 
+	- **inferior = stellate ganglion on cervical region of trunk, just superior to rib 1... fusion w/ t1 ganglion** and sending nerves to C7-8, subclavian and cardiac brs as always 
+parasympathetic 
+- preganglionic fibers exit as  CNs 3,7, 9, 10 or S2-4 
+- ganglia all near or within target organ 
+- <mark style="background: #FFF3A3A6;">COPS</mark>
+	- C = ciliary ganglion CN3 in the orbit 
+	- O = otic ganglion CN9 inner temporal fossa 
+	- P = pterygopalatine ganglion CN7 
+	- S = submandibular ganglion CN 7 
