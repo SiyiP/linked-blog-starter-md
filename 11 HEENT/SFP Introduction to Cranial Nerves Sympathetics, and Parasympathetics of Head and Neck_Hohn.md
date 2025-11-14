@@ -116,7 +116,7 @@ sensory afferent fibers
 - visceral sensory = from viscera like pain info from heart lungs, referred. 
 - special sensory - unique sensations of taste/smell, hearing balance 
 
-sensory ganglia for CNs with sensory compoennt - 5 of the CNs with sensory component actually has a sensory ganglia!
+sensory ganglia for CNs with sensory component - 5 of the CNs with sensory component actually has a sensory ganglia!
 - olfactory n = none; **special sensory smell**
 	- bipolar olfactory neurons form **bundles** to make many on each side
 	- fibers pierce the cribriform plate 

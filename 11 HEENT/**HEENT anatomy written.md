@@ -1,3 +1,17 @@
+
+subdivision - 
+# embryology 
+![[pharyngeal apparatus simple]]
+
+most vulnerable 3-8 wks
+![[derivatives of pharyngeal arches chart.png]]
+![[embryonic mesodermlayout.png]]
+axial sekelton = the skull, vertebral column, ribs, sternum = the paraxial mesoderm, lateral plate mesoderms, NCCs, which develop near the neural tube as it closes.... 
+- the somites formed from paraxial mesoderm -> little bumps, occipital to sacral regions beside the neural tube
+- around head region - mesenchyme doesn't condense and are more loose - some somitomeres here 
+- 
+
+---
 # skull
 clinoid process - anterior sphenoid bone surrounding turcica sella
 A metopic suture between **frontal bones** normally closes in **1-3 years**, with complete fusion by 4-6 years, but persists in 10% of the population
@@ -769,21 +783,26 @@ inferior 1/2 inf laryngeal artery a br of the inf thyroid artery... entering pos
 ----
 # CN and SNS/PSNS
 
-| 1   | **C**ome   | **C**ribiform plate          |
-| --- | ---------- | ---------------------------- |
-| 2   | **O**n     | **O**ptic Canal              |
-| 3   | **S**ofia  | **S**uperior Orbital Fissure |
-| 4   | **S**ofia  | **S**uperior Orbital Fissure |
-| 5.1 | **S**ofia  | **S**uperior Orbital Fissure |
-| 5.2 | **R**ight  | Foramen **R**otundum         |
-| 5.3 | **O**n     | Foramen **O**vale            |
-| 6   | **S**ofia  | **S**uperior Orbital Fissure |
-| 7   | **I**'m    | **I**nternal Acoustic Meatus |
-| 8   | **I**nto   | **I**nternal Acoustic Meatus |
-| 9   | **J**ust   | **J**ugular Foramen          |
-| 10  | **J**iggly | **J**ugular Foramen          |
-| 11  | **J**uggs  | **J**ugular Foramen          |
-| 12  | **H**oney  | **H**ypoglossal Canal        |
+| 1   | **C**ome   | **C**ribiform plate. = olfacotry n, special sensory smell with ibpolar olfacotry neurons making budles, piercing the cribriform plate + sending sensory informatioon thru that bulb + tract. no ganglia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2   | **O**n     | **O**ptic Canal; special sensory vision, paired no ganglia + bring nifo thru the chiasm + back thru optic tracts into visual cortex                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 3   | **S**ofia  | **S**uperior Orbital Fissure;;<br>- motor, supplying all but the lateral rectus and superior oblique m in the eye. <br>- oculomotor nuc of the midbrain -> oculomotor nerve -> divides in the orbit into muscular branches<br><br>parasympathetic part - <br> **edinger-westphal nucleus** -> oculomotor nerve -> into the orbit, where it goes into the **ciliary ganglion... synapsing** ->  short ciliary nerves to sphincter pupillae - constriction of pupil <br> -> OR!!!! postganglionic parasympathetic fibers conveyed to ciliary muscles for lens accomodation to make lens more rounded <br>                                                                                                                                                                                                                                                                                                                                                   |
+| 4   | **S**ofia  | **S**uperior Orbital Fissure<br>motor <br>- trochlear nuc -> trochlear n running thru lateral wall of cavernous sinus -> entering into orbit for superior oblique muscle - intorsion, depression.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 5.1 | **S**ofia  | **S**uperior Orbital Fissure<br>- CN V1 = opthalmic division, sensory only somatic.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 5.2 | **R**ight  | Foramen **R**otundum - - CNV2 = maxillary, somatic sensory                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 5.3 | **O**n     | Foramen **O**vale - - CNV3 = <mark style="background: #FFF3A3A6;"></mark>both somatic sensory and MOTOR!!  = mastication<br>- **also supplies tensor veli palatini + tensor typmani muscle in th middle ear + mylohyoid and anterior digastric too....**<br><br>- taste of anterior 2/3 will travel back thru CN v3 lingual nerve bc of chorda tympani... -> chorda tympani -> brainstem!<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 6   | **S**ofia  | **S**uperior Orbital Fissure<br>- motor somatic, innervation of lateral rectus m <br>- travels thru the **cavernous sinus running on the medial belly of lat rectus m**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 7   | **I**'m    | **I**nternal Acoustic Meatus<br>after traveling thru the internal acoustic meatus, -> geniculate ganglion -> **makes <mark style="background: #FFF3A3A6;"></mark>greater petrosal nerve** ->  joins with the DEEP petrosal nerve from internal carotid plexus -> N. of the pterygoid canal.... -> passes thru the pterygopalatine ganglion fossa -> ??? <br><br>parasympathetic fibers will synapse on that pterygopalatine ganglionic -> postgang parasymp reach lacrimal and other glands. <br><br>also the **superior salivatory nuc** -> cordae tympani superor to that **stylomastoid foramen** traverses the infratempora fossa -> **joins lingual nerve CNV3** => conveys it to **submandibular ganglion of oral cavity, then the submandibular/sublingual glands**<br><br>superior salivatory nuc -> facial nerve -> pterygopalatine ganglion + submandibular ganglion -> lacrimal gland, glands of mucosa + oral cavity + pharynx + sinuses <br> |
+| 8   | **I**nto   | **I**nternal Acoustic Meatus<br>- vestibular ganglion + spiral ganglion = specal sensory hearing + equilibrium <br>-> cochlear nerve for hearing -> spiral ganglia. vestibular nerve for equilibrim -> vestibular ganglion.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 9   | **J**ust   | **J**ugular Foramen<br><br>somatic motor innervation<br>nucleus ambiguus -> glossopharyngeal nerve -> **somatic motor innervation to JUST stylopharyngeus muscles!!!**<br><br>- parasympathetic!!!! <br>- **taste special sensation to posterior 1/3 or tongue!!!**<br>somatic sensory -> oropharynx <br>visceral sensoory to carotid body + sinus <br><br>inferior salivatory nuc -> glossopharyngeal n -> otic ganglion -> **parotid gland salivation...**<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 10  | **J**iggly | **J**ugular Foramen<br>- nucleus ambiguus -> somatic motor = larynx + laryngopharynx .... <br>- visceral - supplies aortic body chemoreceptors, aortic arch baroreceptors, thoracic viscera, abdominal viscera of foregut + midgut                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 11  | **J**uggs  | **J**ugular Foramen<br>ventral horn of gray matter of cervical spinal cord -> CN11, givng somtatic motor innervation to trapezius + SCM!!!! union of 1st 5-6 cervical nerves                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 12  | **H**oney  | **H**ypoglossal Canal<br>somatic motor<br>hypoglossal nucleus -> hypoglossal n -> intrinsic tongue muscles; styloglossus , hyoglossus m , genioglossus n<br>- some **C1** fibers travel **with the hypoglossal nerve CN12 on their way to the geniohyoid + thyrohoid muscles... ansa cervicalis!**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+- somatic sensory = general sensation touch pressure temp from skin + mucous membranes
+- visceral sensory = from viscera like pain info from heart lungs, referred. 
+- special sensory - unique sensations of taste/smell, hearing balanc
+- somatic motor = general somatic efferent, innvervate voluntary striated m 
+- visceral motor = general visceral efferent innervate glands + invol SM 
 
 in visceral motor pathways - sympathetic... 
 - from lateral horn  T1-L2
@@ -805,6 +824,83 @@ parasympathetic
 - ganglia all near or within target organ 
 - <mark style="background: #FFF3A3A6;">COPS</mark>
 	- C = ciliary ganglion CN3 in the orbit 
+		- parasympathetic fibers from the <mark style="background: #FFF3A3A6;">edinger-westphal nucleus</mark>, synapsing in the ciliary ganglion 
+		- postganglinic parasympathetics -> **sphincter pupillae + ciliary muscle of accommodation**
 	- O = otic ganglion CN9 inner temporal fossa 
+		- <mark style="background: #FFF3A3A6;">inferior salivatory nucleus</mark> -> <mark style="background: #FFF3A3A6;">lesser petrosal nerve branch of glossopharyngeal n is the parasympathetic preganglionic nerve</mark> -> the otic ganglia 
+		- postganglionic parasympathetic nerves travel <mark style="background: #FFF3A3A6;">through the auriculotemporal nerve CNV3</mark> => going to the parotid gland... as it ascends to the scalp for supply 
 	- P = pterygopalatine ganglion CN7 
 	- S = submandibular ganglion CN 7 
+		- **lacrimal nucleus = superior aspect of superior salivatory nucleus + superior salivatory nucleus** 
+		- postgagnlionic ones -> lacrimal, nasal, palatine glands, submandibular, sublingual glands. 
+- CN10 = will synapse at target organs instead... innervating the larynx. 
+CN nulcei are in or near the brainstem - <mark style="background: #FFF3A3A6;">afferent fibers terminate to these, motor fibers come from these...</mark>
+	- fibers from the <mark style="background: #FFF3A3A6;">nucleus ambiguus and dorsal motor nucleus</mark> -> terminal ganglia near heart or other tissues like pharynx, larynx, thoracic viscera etc.... 
+	- postganglionic parasymp -> heart lungs, GI tract itself etc. 
+![[cranial nerve nuclei.png]]
+
+---
+# tonsils and review of lymphoid ... 
+
+lymphoreticular system - 
+- primary central ones: 
+	- thymus + bone marrow = 
+	- thymus - cortex of develpping t cells , cell types of epithelial reticular cells connected by desmosomes, and in cortex: poz selection to check for CD4/CD8 ... 
+		- then the negative selection in its medulla - maturing t lymphocytes + hassalls corpuscles (dead epithelial reticulocells)
+- 2ndary peripheral - site of antigen dependen prolif and clonal differentiation 
+	- lymph nodes - capsule pierced by **afferent lymphatic vessels. in the stroma
+		- cortex - t + b lymphocytes, APC, follicular dendritic cells + macrophages. 
+		- outer cortex = nodules with germinal centers are here 
+		- 2ndary nodules - have b lymphoblasts and under that are paracortex in the very middle with t lymphocytes + APCs
+		- medullary cords = lots of plasma cells + macrophages, and they'll migrate down as the b cells mature -> plasma cel
+		- high endothelial venules = **help your T lymphocytes *enter* the paracortex of a lymph node - squamous paracortex cells going from bv into the lymph nodes**
+	- spleen = white pulp - **central artery+arteriole surrounded by the periarterial lymphatic sheath PALs= which has t lymph, apcs, macrophages =** lymphoid nodules are b lymph, follicular dendritic, etc. secondary nodules = germinal centers ith proliferating lymphoblasts
+		- red pulp  = surrounds the WP? - cords = cords of billroth , t lymphocytes + b ones too, macrophages, plasma cells, erythrocytes.... sinusoids around it are endothelial stave cells with discontinuous basal lamina surrounded by reticular fibers
+		- red blood cells =  squeeze into circulation ...   if they get misshapen they get stuck in spleen . splenomegaly and all that stuff   
+		- marginal zone + sinuses = region where red + white pulp interact ! 
+	- MALT = mucosa assoociated 
+		- tonsils - 
+		- <mark style="background: #FFF3A3A6;">pharyngeal tonsil - one midline in posterior nasopharynx above soft palate</mark>
+			- **adenoids - thin capsule separates remainder of cpasule + epithelium**
+			- pseudostratified ciliated columnar epithelium = shallow invaginations = <mark style="background: #FFF3A3A6;">mucosal clefts</mark>
+			- inside clefts there's M cells which transport them into the tonsilar tissues. 
+			- secondary lymphoid = a lot of HEVs bc circulating lymphocytes can bring stuff in. 
+		- <mark style="background: #FFF3A3A6;">palatine</mark> = 2 tonsils in lateral walls oropharynx BELOW soft palate 
+			- has <mark style="background: #FFF3A3A6;">deep crypts instead of clefts</mark>
+			- crypts are non-keratinized stratified squamous epithelium - NKSEE with M cells allowing its entrance to tonsils with follicular associated epithelium or FAE 
+		- lingual = small and numerous tonsils in psterior tongue position 
+			- LN - lymphoid nodule aggregates are primary + secondary ones with germinal centers with FAE having M cells. 
+			- no capsule 
+		- <mark style="background: #FFF3A3A6;">walldeyer ring</mark> = monitors the bacterial mucosa, making a ring in pharyngeal wall.... facilitates immune functions and M cells of divots as always, some apcs presenting t and b lympocytes etc. 
+	- GALT gut associated 
+		- diffuse ga. t - T+B lymphs, APCs, plasma cells in mucosa  = purple on surface, lots of wbcs. 
+		- solitary lymphoid nodules - t/b lymph, apc, folibcular denritics, plasmas
+			- 2ndary nodules - germinal centers with proliferiaing b lymphoblasts 
+			- follicular associated epithelium - FAE - m cells that cover lymphoid nodules
+			- reticular cells + fibers 
+		- peyer's patches in ileum - aggregates of lymphoid nodules in mucosa of **ileum** ]
+		- appendix - aggregate of lymphoid nodules in mucosa making complete ring of lymphoid around entire lumen... - M cells at that junction of the epithelium will take things from that lumen all the way into the lamina propria where the lymphoid tissue is 
+		- GALT also secrete IgA to protect against microbes + transcytose antigens via m cells. 
+	- HEVs = have L selectins, which will bind to lymphocyts in the blood, and then form contact with integrins, etc and squeeze out after **slowing down due to L selectins.**
+
+---
+# histo of oral + pharynx + larynx 
+tongue
+- posterior 1/3 lngual tonsils like the **valleate papilla + palatotonsils bt palatoglossal + pharyngeal folds**
+- <mark style="background: #FFF3A3A6;">filiform papilla all over the anterior(SSKE)</mark>  = fungiform papillae all ver the tongue,<mark style="background: #FFF3A3A6;"> follate papilla = lateral</mark> posterior margin of anterior tongue
+- c<mark style="background: #FFF3A3A6;">circumvallate = the back of tongu</mark>e, anterioor to sulcus terminalis 
+	- <mark style="background: #FFF3A3A6;"> von ebner serous glands</mark> will secrete serous into spaces bt the taste buds to <mark style="background: #FFF3A3A6;">clear the palate and keep bus current</mark>
+
+3 pairs of **major** salivary glands= secretes 1/3 L to 1 1/2 liters saliva... **90% of all saliva comes from here**
+paired parotids outside face = all **serous!**
+submandibular also outside = 
+- <mark style="background: #FFF3A3A6;">serous</mark> > mucous 
+sublingual = <mark style="background: #FFF3A3A6;">mucous</mark> > serous 
+
+gingiva + raphe = no submucosa, attached to the bone 
+vestibulae, inferior + middle concha - resp epithelium PCCE
+- olfactory cells - will have a dilation at the end of it, and at basla aspect, it will extend thru lamina propia, and into the **olfactory nerves forming them, then thru** the cribiform plate and into the olfactory bulb - 
+- these has bowman's serous glands - provide medium for solubilization of odorants 
+
+renke's space just below the vocal fold epithelium = has elastins = **clinically important bc it gets edematous associated with smoking and abuse of vocal folds**
+

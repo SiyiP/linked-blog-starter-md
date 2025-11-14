@@ -72,3 +72,9 @@ CN X palsy
 - going liek "aaa" to see soft palate raise bilaterally 
 - - unilateraly injury to CN X will cause dysphagia due to paralysis on injured side 
 - also seen is **contralateral** deviation of **uvula during elevation = CN X dysfunction = levator veli palatini + muscularus uvulae** are **unopposed**. 
+1. horner syndrome , can be on affected side 
+	1. lesion of cervical sympathetic trunk -> sympathetic dysfunction 
+	2. anhidrosis(no sweating), ptosis(droop upper eyelid), miosis(small pupils, paralysis of dilator pupillae muscles, unopposed action of the sphincter muscles CN3 ), enophthalmos(sinking in of eye)
+	3. causes can be smth operative trauma to the inferior cervical/stellate ganglion 
+	4. pressure on the inf cervical ganglion or sympathetic trunk - enlarged cervical nodes, upper mediastinal tumor, carotid aneurysm or mass in neck. 
+
