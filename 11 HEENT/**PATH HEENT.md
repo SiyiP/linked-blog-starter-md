@@ -302,3 +302,117 @@ brain injuries in perinatals... and premies most commonly
 - internal carotid system - supplies above that tentorium 
 	- cerebral cortex supplied by ACA MCA, and PCA = this is in the circumferential arteries ,  
 	- short circumferential = come from **proximal parts of long circumferential aa, into the deep parts like basal ganglia**
+	- **paramedian arteries** - supplies base of brain near midline 
+think localization - 
+- going up the toe with paralysis - think more of anterior circuatiion 
+- when talking about R hemiparesis = left cerebral hemisphere thing 
+
+failsafes in brain arterial circ 
+- anastomoses with circle of willis,
+- opthalmic artery - external + niternal carotids
+- leptomeningeal arteries = brs of major cerebral arteries
+- intraparenchymal arteries
+but in terms of failsafes they might not be safe bc of atherosclerosis!!!
+
+bland infarctions = happen with blood supply cutoff
+- acute ; 1 day - 1 wk, involved area is <mark style="background: #FFF3A3A6;">soft, edematous, anatomic detailed blurred with eosinophilic neuronal necrosis seen</mark>
+	- in 24-72 hrs, polymorphonuc leukocytes invade brain + break down BBB
+	- edema starts, brain asymmetrical 
+- subacute = 1 wk = 1 month =  obv tissue destruction + liquefactive necrosis 
+	- breakdown of BBB reaches its worse, edema at its worst. 
+	- invasion: macrophages from blood 
+	- patient looks the worst but if they get thru the function gets better bc edema puts pressure on their brain ; but this is greatest risk of death 
+	- 1-2 wks out new leaky blood vessels neovascularization... -> more edema and **contrast enhancing!!!**
+- chronic 1+ mon =. dmg tissue **phagocytosis + cavitation with surrounding gliosis**
+	- edema resolved bc macrophages leave dead brain cavity inside, gliosis with no collagenous scar and chronic hemorrhage. 
+
+hemorrhagic infarc = start as bland ischemic infarcs but then thrombus breaks and jam into the vessel, but then the <mark style="background: #FFF3A3A6;">thrombolytic system dissolves the clot -> high pressure arterial blood!!!</mark> = EXPLode the vessels!!
+- looks microscopically similar to bland infarc but with RBCs. clinically worse bc arterial blood directly goes into brain 
+
+hydranencephaly case - abnormal flexion of neck in utero, clamping that internal carotid ... 
+- breathing infant but someting is off, not crying or anything 
+- eyes sharp and glittery, no cerebral hemospheres, brainstem intact so suck + respiratory reflex still there
+- 8-9 mon life. killed by something like pneumonia, losing cerebral hemispheres. 
+
+watershed infarcs - when<mark style="background: #FFF3A3A6;"> global drop in bp for long period li</mark>ke someone in cardiac arrest then revived .... involving distal parts of areas served by <mark style="background: #FFF3A3A6;">major circumferential arteries</mark>... 
+- these watersheds = placs that are meant to have circumferential arteries overlap. 
+- man in a barrel syndrome 
+
+hippocampus neuronal populations that are sensitive to hypoxia...
+- CA2 = sommer's sector... sensitive to hypoxia, going thru eosinophilic neuronal necrosis -> hippocampal sclerosis is the most common cause of epilepsy
+	- short term membery, and now we need to resect hippocampus 
+- CA1 = resistant sector 
+- purkinje cells = sensitive to hypoxia, loss => balance abnormalities. near basket fibers but now they die, making empty baskets. looks like a tombstone that tells u purkinje were onc e there lol 
+
+venous infarc - less common, caused by large thrombus forming, and in hypercoagulant women with birth control... very similar to watershed infarc but looks like hemorrhagic one. 
+
+
+subdural hemorrhage = slides off brain surface... tearing that dura and <mark style="background: #FFF3A3A6;">bridging veins inside there got torn too</mark> as too much space put tension on that 
+- rapid deterioation after this - due to arterial issue. 
+1. duret hemorrhage of the pons - when brain stretches during herniation. that pressure of the blood from subdural hemorrhage or whatever begins to push down on skull more and more 
+	1. uncal herniation happens with hippocampus herniating around edge of tent cerebellum ...
+	2. <mark style="background: #FFF3A3A6;">this encounters the 3rd CN, making ipsilateral blown pupil when it herniates out the foramen magnuum.... eventually this compresses resp centers in brainstem -> rapid death</mark>
+	3. small arteries start snapping n the pons first, making this durect hemorrhage 
+
+subarachnoid hemorrhage - typically arterial + following gyri + sulci 
+- evolves over minutes to hours 
+- very precisely - with headache in 6:30 AM or something, and **always have headache bc of nerves in meninges
+- ruptured berry aneurysm 
+	- htn + genetic dz that imapact strength of vessel walls 
+	-  irritation of blood breakdown -> vasospasm + new infarcts, which irritation cause dense fibrosis of meninges that traps the CN, making palsies and deafness
+	- fbrosis -> hydrocephalus too 
+	- form of chem meningitis!!!!
+	- berrry aneurysms ono their own is pretty common. if you operate sometimes there's risk of dmging a nerve with palsy. 
+
+spontaneous intraparenchymal hemorrhages = due to htn ... 
+- 80% in the basal ganglia, 10% in pons, 10% elsewhere
+- when **charcot-bouchard aneurysms** which are<mark style="background: #FFF3A3A6;"> small intraparenchymal berry aneurysms </mark>rupture!!! 
+- htn -> predisposition to<mark style="background: #FFF3A3A6;"> lacunar infarcs... small lakes </mark> - 
+
+premies - prone to **germinal matrix hemorrhage, arterial in origin**
+- these are subvnetricular region with large amt of neuroglial progenitors who are meant to make cerebrum ; prone to shear injury 
+- and defects with delays and white matter specifically. 
+
+---
+vascular diseases and strokes ? 
+- anterior spinal cord - posterior to last radicular artery - an injury to this  = think lumbar cord injury 
+- huge injury to 2/3rds of spine, bilateral paralysis caudal to block, to legs
+	- bilateral loss of pain + temp 
+	- bladder issues
+
+
+cervical - br from ASA at C5
+- ipsilateral paralysis, a bit to the side now 
+
+spinomedullary junction - with brainstem syndromes
+- penetrating lateral brs from the vertebral a 
+-  loss of pain + temp in ipsilateral face and contralateral body 
+-  dysphagia hoarseness , and ipsilateral horner's syndrome 
+- "lateral medullary syndrome" = can also be caused by the PICA< br off the vertebral artery ; this is <mark style="background: #FFF3A3A6;">wallenburg's which can also be caused by the PICA, br off the vertebral artery</mark>
+
+open medulla 
+- penetrating brs from ASA
+- ipsilateral **tongue deviation, contralat loss of touch/position/paresis**
+- <mark style="background: #FFF3A3A6;">medial medullary syndrome with tongue deviation, higher up the brainstem</mark>
+
+ventral pons 
+- <mark style="background: #FFF3A3A6;">locked in syndrome, basilar artery; can still do vertical eye movements</mark>
+- mimics braindead, no motor movements due to dmg to corticospinal and corticobulbar tracts (facial movements)
+
+caudal pons 
+- <mark style="background: #FFF3A3A6;"> anterior inf cerebellar artery , lateral pontines, with facial involvement broadly and decreased hearing</mark>
+- loss of pain + temp in contralateral body + ipsilateral face along with loss of facial strength + decreased hearing 
+
+mid pons 
+-  <mark style="background: #FFF3A3A6;">long circumferential from basillar artery, ipsilateral paralysis of jaw muscle and dec contralateral auditory perception.... </mark>
+- contralat loss of pain, temp, touch, position, sense from everything. 
+
+rostral midbrain - higher up 
+- <mark style="background: #FFF3A3A6;">- medial penetrating br from basilar artery, this is ipsilateral CN3 palsy, red nucleus therefore contralateral ataxia... </mark> = claude syndrome 
+- contralat paralysis of face + body 
+
+midbrain syndromes !!!
+- benedikt - ipsilateral CN3 palsy, contralateral weakness, tremor, ataxia = **dmg to red nuc + superior cerebellar peduncle** - a bit of both ; like in the 
+	- rostral midbrain? 
+- weber's -  ipsilateral CN3 palsy, , and **contralateral hemiparesis - superior cerebellar peduncle; weakness
+	- in the 
