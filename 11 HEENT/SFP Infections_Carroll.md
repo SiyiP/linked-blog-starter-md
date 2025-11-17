@@ -1,10 +1,10 @@
 #HEENT #patho 
 case 
 62 yo man - chronic alc, headache, stiff neck, swelling feet + abd + fever
-lumbar buncture - many polymorphonuclear leukocytes, glucose + protein etc. 
+lumbar puncture - many polymorphonuclear leukocytes, glucose + protein etc. 
 l lower lobe infiltrate in cxray
 - this pt has - strep pneumoniae - common in chronic alc 
-- has leptomeningitis - common infiltrate of luncg -> brain 
+- has leptomeningitis - common infiltrate of lung -> brain 
 - the microrg reached CNS via **seeding secondary to sepsis**
 
 - entry thru defects in natural protective barriers
@@ -16,7 +16,7 @@ l lower lobe infiltrate in cxray
 special feat of cns infections
 - we don't have a lot of room, edema can easily lead to hemorrhage 
 - access to **subarachnoid space -> wide dispersal of organisms**
-- BBB -initial barrier to inflammatory access, so gives microorganiisms a **window of opportunity to attack without the inflammatory cells fighting it**
+- BBB -initial barrier to inflammatory access, so gives microorganisms a **window of opportunity to attack without the inflammatory cells fighting it**
 - fibrosis is limited - **glial scars or gliosis does a bad job of encapsulating infections**
 
 1. <mark style="background: #FFF3A3A6;">leptomeningitis</mark>. - inflam of pia and arachnoid which spread thru the CSF in **subarachnoid space**
@@ -39,7 +39,7 @@ long term sequele
 - or encapsulating the **arachnoid granulations, impeding CSF -> communicating hydrocephalus**
 	- CSF will full contact to all part but then being blocked outside the brain, from getting out of there 
 - pus in the ventricles can block the aqueduct of sylvius or the outflow foramina -> **noncommunicating hydrocephalus**
-	- block inside ventricular system of brain, will see **dilutation o that narrow space without it dilating other parts**
+	- block inside ventricular system of brain, will see **dilatation of that narrow space without it dilating other parts**
 - pus settles in base of brain too!!! -> this will encase cranial nerves + circle of willis -> fibrosis **around cranial nerves, CN palsies + deafness is common**
 	- this fibrosis also entraps circle of willis + other smaller arteries -> vascular compromise, aka strokes happen 
 
@@ -76,7 +76,7 @@ abcesses - life cycle !!!! begins with cerebritis - which is a focal process of 
 	- there's not as well formed pus.... sometimes **rupture in wall of abscess will leak thru to make the daughter.**
 	- but a rupture **into ventricles or subarachnoid space kills the patient**
 
-many cortical abscesses caused by candda albicans hematogenously disseminated - happens in burn victims
+many cortical abscesses caused by candida albicans hematogenously disseminated - happens in burn victims
 - **note that this tends to seed into GRAY MATTER!!!! unliek all others which seed into gray-white junction**
 
 aspergillus - abscesses would **mimick hemorrhagic infarcts**

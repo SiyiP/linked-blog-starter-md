@@ -710,3 +710,115 @@ iatorogenic things
 - in kids = **dev delay, cerebral edema, perm delays, hypchromic microcytic anemia, epiphyseal lead line** gingival lead lines 
 
 ---
+# Infections 
+
+special feat of cns infections -  don't have a lot of room, edema can easily lead to hemorrhage; access to **subarachnoid space -> wide dispersal of organisms**
+- BBB - initial barrier to inflammatory access, so gives microorganisms a **window of opportunity to attack without the inflammatory cells fighting it**; it's basically a way for CNS infections ; gliosis does a bad job of encapsulating infections 
+
+1. leptomeningitis - inflam of pia and arachnoid which spread thru the CSF in **subarachnoid space**; leptomeninges = comprise both the arachnoid mater and the pia mater
+	- viruses - aseptic meningitis - acute and self limited like **headache with the flu!**  
+	- pyogenic bacteria - acute meningitis - can be deadly + very fast progressing, headache -> go sleep and died
+		- pus on the surface of brain when body responds = see sulcus pus 
+		- and then the pus will be confined to subarachnoid space across the entire surface
+	- mycobacteria+fungi = chronic across a long time course 
+- bacteria get into the brain - due to the free communicating nature of subarachnoid space -> ventriculitis + choroid plexus 
+- lumbar puncture , CSF has inc pressure - 
+	- inc wbcs, polymorphonuclear leukocytes , proteins 
+	- <mark style="background: #FFF3A3A6;">glucose is low compared to blood glucose measurements bc bacteria eat them up!!!</mark> 
+
+long term sequele - 
+- very irritating - extensive fibrosis in the **leptomeninges!! bc it's not the brain itself** ... will be cut off blood supplies causing small hemorrhage / strokes 
+	- encapsulating the **arachnoid granulations, impeding CSF -> communicating hydrocephalus**
+	- pus in the ventricles can block the aqueduct of sylvius or the outflow foramina -> **noncommunicating hydrocephalus**; this blocks the inside of ventricular system of brain, see dilation of that narrow space only without it dilating other parts 
+- pus in the base of the brain too, encasing CNs + circle of willis -> fibrosis around CN -> palsies, deafness is common, alnog with strokes due to vascular compromise 
+
+1. tuberculous meningitis - subacute meningitis -
+	1. accumulation granulations +  granulomatous inflammatory infiltrate in basal leptomeninges 
+	2. <mark style="background: #FFF3A3A6;">acid-fast bacilli </mark>inside <mark style="background: #FFF3A3A6;">multinucleated giant cells </mark>, similar to bacterial meningitis 
+2. cryptococcal meningitis - in immunocomp/hiv 
+	1. pus-ish , glazed donut 
+	2. basal ganglion = <mark style="background: #FFF3A3A6;">has soap bubbles, making vicseral robins space, larger space opening up to vessels</mark>
+3. long term leptomeningitis complications = hydrocephalus, seizures, sensorineural deafness, focal infarcs
+
+abcesses - life cycle begins with cerebritis = focal process of <mark style="background: #FFF3A3A6;">localized suppurative destruction of brain tissue</mark> - happens when bac/fungi infects parenchyma via <mark style="background: #FFF3A3A6;">direct spread from adjacent focus or hematogenous spread...</mark> like in the past theyr'e from ottitis media 
+	breakdown  bbb + edema + blurring bt gray and white matter; many polymorphonuclear leukocytes , gliosis ust beginning 
+	many cortical abscesses caused by candida albicans hematogenously disseminated - happens in burn victims
+	- the <mark style="background: #FFF3A3A6;">hematogenously disseminated = happens to seed in gray matter</mark>
+late cerebritis/absces formation - over time, <mark style="background: #FFF3A3A6;">lymphocytes + macrophages become more common</mark> and there's new BVs due to hypoxia = a stain sees leakiness with worsening edema 
+
+mature abscess = trilaminar structure
+- central liquefactive necrosis/acute inflammation 
+- surrounded by a wall of granulation tissue with proliferating fibroblasts + capillaries 
+- extensive gliosis + very tough walls with <mark style="background: #FFF3A3A6;">ring enhancing lesion...</mark> due to vascularity surrounding dead tissues. 
+- daughter abscess - early abscess formation - not well formed, sometimes a rupture in abscess wall leaks thru to make the daughter. 
+- but a rupture into <mark style="background: #FFF3A3A6;">ventricles/subarachnid space kills</mark>
+
+aspergillus abscesses = <mark style="background: #FFF3A3A6;">mimic hemorrhagic infarcs bc they're larger + break off while they get to brain via hematogenous dissemination</mark> -> arterial rupture by invading mid size artery wall after lodging into it 
+
+mucormycosis abscess - diabetics; invasion of cribiform plat of nose, -> frontal brain lobe invasion. recurrent 
+
+toxoplasma cerebritis - 
+toxoplasma gondii from cat feces with oocysts; most ppl have them but systemic disease is <mark style="background: #FFF3A3A6;">mononucleosis w/ fever + maculopapular rash, opportunistic in severely immunocompromised patients</mark>
+- acute necrotizing, organizing, and chronic forms
+- <mark style="background: #FFF3A3A6;">encephalitic pattern in some with min perivascular inflammation + nodules = free tachyzoites</mark>
+- we see many tachyzoites + bradyzoite pseudocysts  in necrosis 
+- congenital toxo is vrery destructive too 
+
+encephalitis - localized or diffuse inflammation of brain + overlying leptomeninges
+1. acute viral encephalitis 
+	1. perivascular lymphocytic cuff in acute viral encephalitis 
+	2. microglial nocule 
+	3. dyng neuron chewed up by microglia, but no viral inclusions. 
+	4. herpes encephalitis - in ppl without immunosuppressions which is obvious. 
+		1. undersurface of temporal and less commonly frontal lobe! , super patchy, hemorrhagic and destructvive
+		2. hematoxylin and eosin section of temporal lobe.... we will see prominent eosinophilic intranuclear inclusion. 
+		3. psych disorders
+	5. rabies inclusions 
+		1. <mark style="background: #FFF3A3A6;">negri bodies</mark>; splunkers can get it pulmonary style from infected bad poop 
+		2. rabies - predilection for neurons in **brainstem + purkinje cells of cerebellum**
+		3. brainstem nuc dmg = hard to swallow. 
+	6. hemorrhagic lesions of ventral horn in polio  - polio initially GI 
+	7. multinucleated giant cell - HIV encphalitis - dementia, with  multinucleate giant cells are from macrophages fusing and widespread microglial noduels occurence 
+2. acute postinfections - - like from pasteur's rabies virus 
+3. subacute encephalitis - HIV 
+
+---
+# myelin dz
+
+normal appearance of white matter - typically low cellularity  = with axons, oligodendrocytes, non-reactive astrocyte with large nuclei , non-activated microglia - 
+- oligoclonal bands = CSF consistent with B cells, **restricted amount of antibody clones** seen in the 
+- CD68 = marcophage activated marker 
+- - t cells CD3 marker
+- B cells CD20 marker
+
+luxol fast blue - LFB-pas staining dye ; the composition of peripheral nerve myelins are diff from the ones from the CNS 
+- normal CNS process - myelin stains turquoise
+- normal PNS myelin stains violet. 
+- myelin - if we see myelin lost with occasional turquose or residual myelinated axons + <mark style="background: #FFF3A3A6;">large amt of macrophages w lpi debris stainng red purple....</mark>
+- and if you see axons survive, it'll be brown!!
+
+
+immune mediated demylinative dz - 
+1.  multiple sclerosis / MS variants
+	1. charcot form - the most common form - relaspses + remissions of
+	2. women > men 
+	3. plaques vary, and we see inflammation dec, macrophages clear and remyelination commence after they get older. but remyelination would fail still bc of t and antibodies which inhibit oligodendrocyte precursor formation... 
+	4. less than 10% have steadily progressiv ecourse - men and women are similar, mean age is 40 
+	acute MS - **marburg disease** - monophasic ms that is fatal in days 
+	devic's diisease - acute MS in adults that target **optic nerves + Spinal cord with fatal destruction**
+	balo's concentric sclerosis - rapidly fatal acute MS in kids + young adults = concentric wavelike patterns of myelin loss
+	schilder's dz - resembles acute MS but demyelinates very large areas in cerebral hemispheres 
+	- dawson's fingers = in brain, in older plaques, the demyelination that juts out with the veins as its entring the plaque 
+	- optic nerves, chiasm + tracts are involved in like 90% of MS patients gray gelatinous looking areas are **chronic plaques
+		-  **optic neuritis sequence**  in acute elsions 
+		- in relapses -  MRI shows ehancement w/ corresponding decrease in evoked potential amplitude, indicating conduction block + vision loss = **monocular vision loss, accompained by washed-out color vision, afferent pupillary defect and painful eye movements
+		- in remission - vision improves, MRI shows loss of enhancement = inflammation stopped. 
+	- chronic periventricular plaque - gray gelatinous + firm 
+		-  plaques in **periventricular white matter + subcortically at junction of cortex and digitate white matter but U-fibers spared**
+	- chronic inactive plauqes - we only see naked axons + gliosis. permenantly compromised region of the brain
+		- - **HLA chromosome 6 = risk factors**!!!1 = functions of relevant genes are in adaptive/iinnate immunity + vitamin D metabolism  .... also envionmentla factors + ebv... 
+		- b cell involvement with oligoclonal bands = make pathology via antigen presentation, neurotoxic actors production ... 
+			- 		- **bc of this, the most effective MS therapies are antibodies which deplete b cells!!!**
+
+
+2.  acute disseminated encephalomyelitis ADEM
