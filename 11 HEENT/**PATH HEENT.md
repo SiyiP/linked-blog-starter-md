@@ -519,13 +519,194 @@ occlusions of...
 
 
 ---
-
-brain tumors I+II 
+# brain tumors I+II 
 ![[primary brain tumor locations.png]]
-grading is important but staging is useless for most of these. 
-
-in adults: 
+grading is important but staging is useless for most of these. extraneural metastases are very rare for GBMs. 
+	- **IDH1 = novel oncogene .... if you have mutation here your survival is better**
+	- we need to use the cancer genome atlas to see what we can do esp since there's like 4 gbm subtypes 
+in adults:  
 1. glioblastomas - GBMs = most common + studied. 1/3 are malignant. 
 	1.  crumbly appearance , **ring-enhancing lesion - will not have contrast go into the lesion bc there's a cavity of dead tissue, a ring of necrosis!!
 	2. **rapidly** growing +<mark style="background: #FFF3A3A6;"> diffusely infiltrative, will compress normal parts</mark> of the brain - come from the glia, not neurons 
-	3. GFAP! astrocyte markers? primary one
+		1. they will divide so fast that they **kill self and make bland infarction centers!!! pseudopalisading necrosis - as the cells die, <mark style="background: #FFF3A3A6;">tensil pressure lost and then the cell collapse upon itself</mark>
+		2. and ofc hypoxic penumbra around is crammed so more VEGF is made... leaky = contrast enhancing. 
+	3. GFAP! astrocyte markers? primary ones are de novo, older ppl. also <mark style="background: #FFF3A3A6;">Kii67 labeling indices are high</mark>
+	4. recall that since it comes from brain glial cells - BBB isn't a huge barrier, we have **bizzare multinuc cells which can't divide anymore and large numbers of small bipolar cels which can**
+		1. <mark style="background: #FFF3A3A6;">small bipolar cells = secrete excitotoxin glutamate, making seizures + killing neurons</mark>.... infiltrate widely so they can't be resected. 
+		2. tumor cells - resistant to express glutamate bc they have pumps so they don't die 
+	5. secondary ones - stepwise fashion, can taransform from the grade 2 tumors in ppl in their 30s/40s
+		1. diffuse astrocytoma - grade 2 
+			1.  impacts young adults + happens in cerebral hemispheres
+			2.  high degree of cellular difff, slow growing. aka lacks mitotic activity and lacks vasc prolif + necrosis 
+		2. then it becomes -> **anaplastic astrocytoma** - grade 3 
+			1. found in cerebral hemispheres but iwth **more atypia + brisk mitotic activity....** still no vascular proliferation and necrosis tho 
+
+glioma = any NS tumor from astrocytes, ependymal clls or oligodendrocytes; usually white matter 
+
+2. oligodendroglioma - myelinated glia in the CNS... also seen **calcifications!!!
+	1. fried egg!!!!!! lack marked atypia, brisk mitotic rate, no vascular prolif nor tumor ncrosis bc they're only grade 2 
+	2. <mark style="background: #FFF3A3A6;">codeletion of 1p + 19q = better survival</mark>
+3. anaplastic oligodendroglioma - grade 3 
+	1. more mitotic activity, cells that look like minigemistiocytes
+	2. hypercellularity, vasc endo prolif + tumor necrosis - all contrast enhancing **all while showing intratumoral calcifications**
+	3. ![[mingemistiocytes of anaplastic oligodendroglioma.png]]
+
+4. primary CNs **lymphomas** - from aids patients. 
+	1. associations of B cell lymphomas + association with EBV...  
+	2. perivascular growth 
+
+metastatic cancers going into the brain 
+- we would see :- <mark style="background: #FFF3A3A6;">well circumscribed, so since they're from outside the braint hey're not able to infiltrate the brain that well.</mark>
+- and at gray-white junctions the tumor is here (ont he other hand, gliomas are white matter )
+- large mitotic features. 
+
+benign CNS tumors in adults
+1. meningiomas - majority of these
+	1. adheres to the dura, ar dural based masses; from <mark style="background: #FFF3A3A6;">arachnoid cap cells in leptomeninges... like whorls of neoplastic arachnoidal cells</mark>
+	2. **on radiology they appear to be in the lateral ventricle!!**
+	3. hyperostosis of skull  - thickened skull bone+ marked edema in adjacent brain hemisphere 
+	4. grade 1 = don't invade brain but do aggressively invade bone + soft tissues
+	5. surgical primarily but sometimes radiotherapy 
+	6. we see <mark style="background: #FFF3A3A6;">psammoma bodies!!!!</mark> ![[psammoma bodies of meningiomas.png]]
+2. atypical meningioma - grade 2 , invades the brain 
+	1. inc risk of recurrence + death rate
+	2. not whorled anymore, simply a lot of cells
+3. malignant meningioma - very rare, highly aggressive
+
+4. pituitary adenomas - very common 
+	1. intrasellar tumors from hormone secreting cells of **anterior pituitary**
+	2. either that or mass effect symptoms . can't be predicted via histo so no WHO basis 
+
+5. schwannomas - 
+	1.  benign **periipheral nerve sheath tumors** - grade 1 ;; happen in <mark style="background: #FFF3A3A6;">8th cranial nerve most often but can happen on any... hearing related to the 8th or pain on the dorsal spinal nerve roots</mark>
+	2. neoplastic schwann cells - not true of other peripheral nerve sheath dz like neurofibromas + mpnsts 
+	3. don't actually infiltrate nerve = <mark style="background: #FFF3A3A6;">but theyr'e encapsulated masses that push on the nerve to damage it!!!</mark>
+	4. need surgery 
+
+6. craniopharyngiomas - grade 1 
+	1. adamantinomatous craniopharyngiomas = <mark style="background: #FFF3A3A6;">in kids - epithelial sellar region, compressing optic chiasm, pituitary dysfunction, visual symptoms</mark> and also hydrocephalous bc press on CSF
+		1. contrast enhancing, calcified and partially cystic too 
+		2. <mark style="background: #FFF3A3A6;">rhomboidal state of utah crystals....</mark>
+	2. papillary craniopharyngiomas - in <mark style="background: #FFF3A3A6;">adults - above the sellar, 3rd ventricle. similar symptoms but lack the stratum granulosom, having diff epithelium</mark>
+
+in KIDS!!!! most common neoplasm : 
+1. pilocytic astrocytoma - grade 1 
+	1. in cerebellum mostly but happens in all places including optic nerves 
+	2. contrast enhancing + think a lot of optic stuff like NF1 
+	3. <mark style="background: #FFF3A3A6;">cyst with mural nodule, biphasic, dense and loose in other areas. nonprogressive + rosenthal fibers + microcysts!!!!</mark>
+	4. ![[rosenthal fibers of pilocytic astrocytoma.png]]
+
+2. ependymomas - **rare in adults common in kids and PROGRESSES** =- grade 2 
+	1. from ependymal cells lining ventricles duh 
+	2. slow growing, lack high mitotic activity, vascular endothelial prolif, and necrosis; looks uniform but in central canal, obstructs CSF
+	3. can<mark style="background: #FFF3A3A6;"> progress to anaplastic ependymoma</mark> - grade 3, unfavorable prognosis with inc cellularity, brisk mitosis,vascular endothelial prolif 
+	4. <mark style="background: #FFF3A3A6;">pseudorosettes around BVs!</mark>
+
+embryonal tumors - high grade 4 
+3. medulloblastomas - from cerebellum, 75% in vermis
+	1. Medulloblastomas** are _soft_ _friable_ brain tumors with areas of _necrosis_ that may contain <mark style="background: #FFF3A3A6;">MYC amplifications</mark>
+	2. extends into 4th ventricle!!!! hydrocephalous + inc intracranial pressure w/ headache, vomiting, truncal ataxia 
+	3. <mark style="background: #FFF3A3A6;">solid contrast enhancing masses, hypercellular, many blasts</mark>
+	4. <mark style="background: #FFF3A3A6;">staging is actually important here - they drop metastasize via the CSF, seeing chunks of tumors distal to where it breaks apart</mark>
+	5. <mark style="background: #FFF3A3A6;">many homer-wright rosettes as seen in small blue cell tumors</mark>
+	6. ![[homer wright rosettes.png]]
+4. primitive neuroectodermal tumors = PNETS
+	1. from cerebral hemispheres, aggro af... this is a catch-all that we need to br8 into subtypes. 
+	2. well-circumscribed, **variably** contrast enhance + has cysts, calcification + hemorrhage
+
+5. NF1. = tumors + discoloration , most common affecting NS 
+	1. CNS and nonCNS (juvenile chronic myelogenous leukemia, sarcoms)
+	2. cafe au lait spots + lisch nodules
+	3. <mark style="background: #FFF3A3A6;">bony dysplasia , shortening of bone in forearm, skulls base etc. </mark>
+	4. l<mark style="background: #FFF3A3A6;">earning disabilities</mark> - not mental disabilities, **no qualify for the special ed ):
+	5. common - neurofibromas that develop during puberty, some hormonal connections 
+		1. dermal neurofibromas 
+		2. <mark style="background: #FFF3A3A6;">plexiform neurofibromas - born with these, in large nerves/plexeses and these CAN transform into agro schwann malignancies = MPNS1s.... leadin cause of death</mark>
+6. NF2 = more central 
+	1. schwannomas - happening evrywhere - **prone to deafness**
+	2. AD 
+	3. NF2 gene lifespan shortened. the gene itself <mark style="background: #FFF3A3A6;">merlin/schwannomin which mediates communication bt cell surface membrane of cytoskeleton</mark>
+
+non-NF2 schwannomatosis 
+- not far from NF2 affected gene on th chromosome are nstead causing schwannomatosis called **LZTR1 or SMARCB1 on 22q as well**
+- no  bilateral acoustic schwannomas, but schwannomas elsewhere which make intratable tumor-related pain ; super pain ): 
+
+1. <mark style="background: #FFF3A3A6;">tuberous sclerosis complex</mark> TSC - AD inheritance, familial but 60% sporadic 
+	1. <mark style="background: #FFF3A3A6;">TSC1 hamartin and TSC2 tuberin </mark>
+	2. mutations -> <mark style="background: #FFF3A3A6;">mTOR</mark> **hyperactivation** 
+	3. <mark style="background: #FFF3A3A6;">seizures</mark> are most common -> intellectual disability 
+		1. we see <mark style="background: #FFF3A3A6;">tubers = seizure foci!</mark>
+	4. <mark style="background: #FFF3A3A6;">unpredictably distrib hamartomata</mark> = many organs with the brain and kidney most involved!!!! 
+	5. 2-10% of all these subependymal lesions in brain progress = 
+		1. these can in the ventricles later become subependymal giant cell astrocytomas -<mark style="background: #FFF3A3A6;">SEGAS!!! ventriculomegaly, often calcified and makes the psace larger than usual.</mark>
+		2. ![[TSC seizure tubers and SEGAs candle gutterings.png]]
+
+
+---
+# cns metabolic + toxic dz
+
+1. wernicke encephalopathy - acute B1 thiamine def  , replace thiamine 
+	1. triad - altered mental, oculomotor dysfunction, cerebellar signs 
+	2. gross changes - we see **hemorrhagic<mark style="background: #FFF3A3A6;"> mamillary bodies</mark> in wenicke's!!!!**; a punctate dark hemorrhage discoloration to it 
+		1. on the imging - we see white color mammillary 
+	3. wenicke's encephalopathy = vascular congestion, edema, inset small hemorrhages, gliosis (analogus to fibrosis= scar in brain)
+2. korsakoff syndrome. - chronic , irrevrsible
+	1. anterograde amnesia + confabulation ;
+	2. gross change - shrunken, yellow-brown mamillary bodies... and **dilated 3rd ventricles with 2/2 loss of brain tissue**; neurons die, and you get reactive gliosis and byproduct of that ... <mark style="background: #FFF3A3A6;">hemosiderin</mark> is seen 
+	3. we see **atrophic** mamillary bodies + **atrophic cerebellum too**
+	4. 4th ventricles = punctate hemorrhages all around and all around the cerebaral aqueduct and see **many white space, rarefaction = loss of brain substance, cavitation + macrophages.**
+3. cerebellar degeneration = truncal ataxia. = no coordinaton of <mark style="background: #FFF3A3A6;">lower limbs</mark>
+	1. can happen with **wenicke korsakoff**
+	2. **atrophy of anterior vermis lobe** - more space between superior and anterior lobes. the<mark style="background: #FFF3A3A6;"> **atrophy = whitened spaces between folia**</mark> 
+	3. 3 layers = moelcular, purkinje and internal granule cell layer; with purkinje cell losses and smaller internal graunle cell loss 
+4. osmotic demyelination syndrome - central pontine myelinolysis 
+	1. due to rapi reversal of <mark style="background: #FFF3A3A6;">hyponatremia in alcohol use...dysosmolar state, the quick correction of sodium  </mark>
+	2. <mark style="background: #FFF3A3A6;">pons</mark> most impacted
+	3. can see severe burns, and then variable demyelination -> degrees of deat, paralysis or altered consciousness, 
+	4. <mark style="background: #FFF3A3A6;">we see a BAT shaped sign = lack of myelination in the middle of the pons. also caused by polyneuropathy.</mark>
+5. b12 deficiency - subacute combined degeneration 
+	1. malabs of cobalamin or issues with IF release and lack of B12 absorption 
+	2. symmetrical <mark style="background: #FFF3A3A6;">progressive</mark> lower extremity paresthesias. +weakness which begins distal -> proximal 
+	3. <mark style="background: #FFF3A3A6;">loss of postural sensation / unsteady gait, spasticity, and paraplegia, contractures, ataxia, white matter of spinal cord degen, posterioor sensory + lateral motor columns fucked up....</mark>
+	-  early demyelination with later axon loss + gliosis; demyelination is secondary to this degeneration. 
+
+acquired metabolic diseases
+1. diabetic hypoglycemic encephalopathy - insulin od... neurons need constant glucose  and without glucose for 1-2 hrs brain is dmg'd 
+	1. neuronal degeneration selective... most are most sensitivty and die first; like  pyramidal neurons of the cerebral cortex layers 3,5,6!!! -> laminar necrosis  die first!!! 
+	2. dentate nucleus in infant 
+	3. pyramidal neurons CA1 = <mark style="background: #FFF3A3A6;">sommer's hippocampus will die first! memory injury</mark>
+	4. acute hypoglycemic brain injury - swelling + discoloration + see hypereosinophilic neurons 
+	5. dead **red neurons in dentate nucleus with no nucleus seen + blue cytoplasm**
+	6. chronic hypoglycemic brain injury - laminar necrosis, cavities seen.... inc white space 
+	7. any gliosis - pink cytoplasm + spider like processes = the astrocytes ! 
+2. acquired metabolic encephalopathy - liver dz 
+	1. inc ammonia levels ;  variable depending on duration + acute v chronic 
+	2. typical - cog impairment, confusion drowsiness -> coma, asterixis, 
+	3. acute = can be rapidly fatal but chronic / repeted episodes = neuropsych disturbance, ataxia, dysarthria 
+	4. <mark style="background: #FFF3A3A6;">alz type 2 cells or astrocytes!!</mark>! these will take on the ammonia and then take in too much water too after converting the ammonia. **water makes these white spots;**
+	5. ![[alzheimers type 2 cells acquired metabolic encephalopathy.png]]
+
+3. reye's syndrome - caused by aspirrin 
+	1. disrupted <mark style="background: #FFF3A3A6;">mitochondrial unction -> fatty accumulation in liver + cytotox edema in the brain... infarc happens. this is postviral</mark>
+4. wilson dz - hepatolenticular degeneration
+	1. <mark style="background: #FFF3A3A6;">AR mutation in chromosome 13 </mark>- putative copper transport ATPase<mark style="background: #FFF3A3A6;">, deficient ceruloplasmiin</mark>, elevated serum copper 
+	2. copper accumulates - kayser-fleischer rings 
+	3. hepatic failure/cirrhosis + dementia symptoms + extrapyramidal signs liek tremor, ridigity, etc. 
+	4. cavitation + brownish/brick red discoloration in the **putamen
+	5. .<mark style="background: #FFF3A3A6;"> alz type 2  cells too </mark>
+5. CO poisoning 
+	1. nonspecific symptoms, nausea, abd pain, fatigue, altered mental, seizures 
+	2. chronic/survivors = cog/neuropsych/mood instability, dystonia, parkinsonium, chorea ; perm brain dmg
+	3. <mark style="background: #FFF3A3A6;">cavitation of the globus pallidis + necrosis, bilateral hemorrhagic infarc.</mark> + demyelination 
+6. methanol - from moonshine contaimination 
+	1. can go <mark style="background: #FFF3A3A6;">blind - retinal + optic nerve</mark> dmg 
+	2.  hemorrhagic leukoencephalopathy - focal white matter necrosis 
+	3 bilateral putamen necrosis 
+
+iatorogenic things 
+- radiation terapy = coagulative necrosis, 
+- chemo/methotrexate neurotoxicity. - can end up with **white matter dmg multifocal necrotizing leukoencephalopathy**.... yellow + red spots 
+- lead tox = in adults = hypochrmic microcytic anemia, lead colic, peripheral, neuropathy, gingival lead line
+- in kids = **dev delay, cerebral edema, perm delays, hypchromic microcytic anemia, epiphyseal lead line** gingival lead lines 
+
+---

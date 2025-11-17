@@ -44,10 +44,10 @@ in adults - glioblastomas GBMs are most common + best studied. 1/3 are malignant
 	6. are derived from normal brain, so BBB isn't a huge barrier for it 
 	7. <mark style="background: #FFF3A3A6;">GBM - have bizzare multinucleated cells</mark> (can't divide anymore) and <mark style="background: #FFF3A3A6;">larger numbers of small bipolar cells</mark> (can proliferating compoenent)
 		1. bipolar cells - > secrete **excitotoxin <mark style="background: #FFF3A3A6;">glutamate</mark> which promotes seizures + kills neurons**
-		2. the tumor cells are resistant to excess glutamate bc they got bumps so they don't die 
+		2. the tumor cells are resistant to excess glutamate bc they got pumps so they don't die 
 		3. bipolar cells infiltrate very widely - making it **impossible to get a complete surgical resection!**
 	8. tumor cells -> grow so rapidly, killing itself, making bland infarc centers 
-	9. they make **tumor infarction, *pseudopalidsading* necrosis!!!**![[Screenshot 2025-11-03 at 1.48.55 AM.png]]
+	9. they make **tumor infarction, *pseudopalidsading* necrosis!!!**![[gbm pseudopalisading necrosis.png]]
 	10. pseudopalisading - as the cells die, the tensile pressure is lost then the cells collapse upon itself 
 	11. hypoxic penumbra around that zone is crammed more and more so more VEGF is made, so **vascular endothelial proliferation glomeruloid bodies are made...**
 	12. this is why it's contrast enhancing bc of the **leakiness** 
@@ -70,7 +70,7 @@ in adults - glioblastomas GBMs are most common + best studied. 1/3 are malignant
 	2. hypercellularity, vasc endo prolif + tumor necrosis 
 	3. from the progression 
 	4. tumors will contrast enhance all while showing evidence of intratumoral calcificatons 
-		![[Screenshot 2025-11-03 at 2.05.35 AM.png]]
+		![[mingemistiocytes of anaplastic oligodendroglioma.png]]
 
 4. primary CNS lymphomas - arises AIDs patients are here
 	1. associations with b-cell lymphomas + association with EBV infection 
@@ -105,7 +105,7 @@ benign CNS tumors in adults
 	5. grade 1 = don't invade brain but do aggressively invade bone + soft tissues
 	6. primarily surgical but sometimes radiotherapy 
 	7. come from **arachnoiid cap cells in leptomeninges** - thinking they have whorls of neoplastic arachnoidal cells - > 
-	8. psammoma bodies ![[Screenshot 2025-11-03 at 2.15.28 AM.png]]
+	8. psammoma bodies ![[psammoma bodies of meningiomas.png]]
 	9. atypical meningioma - grade 2 , wil invade the brain 
 		1. markedly inc risk fo recurrence but isngificantly inc death rate 
 		2. not whorled anymore but a lot of cells 
@@ -147,7 +147,7 @@ in younger ones - gliomas are common**
 	2. this is a *cyst with a mural nodule* 
 	3. **this is biphasic, dense and loose areas!! these *don't progress* unlike other astrocytomas**
 	4. <mark style="background: #FFF3A3A6;">rosenthal</mark> fibers (red rods) + <mark style="background: #FFF3A3A6;">microcysts</mark>
-	5. ![[Screenshot 2025-11-03 at 2.37.36 AM.png]]
+	5. ![[rosenthal fibers of pilocytic astrocytoma.png]]
 	6. but they do have proliferation of vascular - contrast enhance.  
 	7. significance - optic stuff = think NF 1 
 2. <mark style="background: #FFF3A3A6;">ependymomas - rare in adults common in kids</mark> = this CAN progress 
@@ -211,7 +211,7 @@ non-NF2 schwannomatosis
 	5. unpredictably distrib hamartomata - happen in many organs with brain + kidney most involved 
 	6. 2-10% of subependymal lesions in brain progress to become brain tumors 
 	7. we see tubers - potato-like things appearing - **the seizure foci**
-	8. candle gutterings = subependymal nodules in the ventricles !!! can progress to become subependymal giant cell astrocytomas ![[Screenshot 2025-11-03 at 2.56.40 AM.png|345x296]]
+	8. candle gutterings = subependymal nodules in the ventricles !!! can progress to become subependymal giant cell astrocytomas ![[TSC seizure tubers and SEGAs candle gutterings.png|345x296]]
 	9. SEGAs -  <mark style="background: #FFF3A3A6;">subependymal giant cell astrocytomas = associated with ventriculomegaly</mark> + are often calcified 
 		1.  fluid-spilled spaces in a brain (ventricles) are larger than usual.
 

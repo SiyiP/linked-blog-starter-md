@@ -34,7 +34,7 @@ alcohol related syndromes
 	5. basically it all demyelinates and idk why . mild / asymptomatic to totally fatal, degrees of paralysis or altered consciousness
 	6. white matter = looks very white running thru the pons 
 	7. we see a **bat shaped dark triangular shadow on the pons, indicatioon of lack of myelination**
-	8. ![[Screenshot 2025-11-03 at 10.26.40 PM.png]]
+	8. ![[bat sign osmotic demyelination syndrome.png]]
 5. polyneuropathy can be caused by this too 
 6. b12 def = subacute combined degeneration 
 	1. only this will cause cns issues
@@ -68,7 +68,7 @@ neuropath with acquired metabolic dz
 	4. acute onset can be rapidly fatal 
 	5. chronic / repeated episodes cause neuropsych disturbance, ataxia, dysarthria 
 	6. alz type 2 cells or astrocytes!!! these will take on the ammonia and then take in too much water too after converting the ammonia. **water makes these white spots; not caused dementia, just named after same person**
-	7. ![[Screenshot 2025-11-03 at 10.36.43 PM.png]] 
+	7. ![[alzheimers type 2 cells acquired metabolic encephalopathy.png]] 
 3. Reye syndrome - not as common nowadays  - this caused by aspirin 
 	1. core - will disrupt the mitochonrial function, causing fatty accumulation in liver and cytotoxicity edema in the brain.
 		1. when brain diffusely swells -> infarctions 
