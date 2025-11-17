@@ -11,10 +11,12 @@
 
 4. <mark style="background: #FFF3A3A6;">subarachnoid</mark> hemorrhage - rupture of arteries within the brain - i<mark style="background: #FFF3A3A6;">nternal carotid a, circle of willis </mark>
 	1. blood in subarachoid space, the only true functional space. 
-	2. cuased by<mark style="background: #FFF3A3A6;"> aneurysm + trauma. </mark>
+	2. cuased by<mark style="background: #FFF3A3A6;"> ruptured aneurysm + trauma. </mark>
 	3. see acucmulation, subarachnoid cisterns contianing blood
 	4. <mark style="background: #FFF3A3A6;">worst headache</mark> in someones life
-	5. typically **fatal and fast**
+	5. typically **fatal and fast
+	6. vasospasm + delayed ceebral ischemia is a major complicaton.... 
+	7. **nimodipine for better outcomes**
 
 
 pathology 
@@ -294,6 +296,64 @@ brain injuries in perinatals... and premies most commonly
 5. kernicterus - bilirubin. no BBB yet 
 
 ---
+# cerebrovasc dz
+stroke = 
+- clogged vessel = ischemic, the maj of them..early asymmetrical changes 
+	- 		- blurring of lentiform nucleus, loss of gray white differentiation in the insula = insular ribbon sign + effaceemnt of cortical nulcei. 
+	- BEFAST = for the public 
+		- balance issues/sudden headache/dizziness
+		- eyes - blurred vision
+		- face droop 
+		- arms weakness/numbness
+		- speech abnormalities
+		- time
+		- rupture of vessel
+	-  seen **edema dark gray around the hemorrhage , of a white color = intercerebral hemorrhage. anything light on the Ct scan**
+	- blood in a deeper location = block. + hydrocephalous...
+note htn = associated bleeds typically in deeper location = thalamus, basal ganglia, pons , cerebellum, due to charcot-couchard aneurysms 
+- putaminal hemorrhage, most common 
+
+epidural hemorrhage =d ue to **injury in middle meningeal artery** - rapid expansion \ need surgical treamtent 
+
+TIA = transient ischemic attack - any neuro deficit resolving in 24 hrs without any dmg clinical or radiographic 
+
+edema which ones caused by stroke 
+vasogenic edema -  typically ppl with tumors 
+	- inc. vessel permeability and fluid accumulation outside of brain cells leads to this 
+	- a type of brain edema resulting from an **accumulation** of **extracellular fluid due to disruption of the blood brain barrier.**
+	- trauma, inflam, tumors
+- cytotoxic edema - <mark style="background: #FFF3A3A6;">caused by stroke!</mark> = **cells no longer hold gradient and bursts and dies off**; failure of ATP-dependent transport of sodium and calcium ions across the cell membrane, causing accumulation of water and swelling 
+
+nonmodifiable RFs of stroke 
+- genetics like sickle cell
+- sex. - being in females
+- age higher than 55 
+
+workup 
+- we need glucose lab before we give thrombolytics. 
+- - **getting a non-contrasted CT head scan bc it's faster.** 
+	- **hyperdense sign = unilteral hyperdensity of some proximal vessel which can be seen.... when a thrombosis is present within the lumen... basically this shit is still white even tho we didn't give any contrast**
+	- spot sign - some contrast leaking out, a hemorrhage when seen .... the contrast goes thru vessels and then leaks out in these - huge in hemorrhages, where there's focal extravasation of this inside the hematoma . increases risk of having the hematoma worsen.  = this iis intracranial hemorrhage - angiogram look at it 
+- AFter acute phase -<mark style="background: #FFF3A3A6;"> MRI brain img eventually post-thrombolytic administration </mark> and some lab and cardiac testing 
+TOAST criteria - 
+- large vessel atherosclerosis - blockages happen in large vessels due to atherosclerosis most common, dissections, giant cell arteritis 
+- small vessel occlusions - most typcally are **lacunar infarcs deep in the brain**
+	- subcortical - putamen, caudate, thalamus, etc caused by lipohyalinosis -  due to medial hypertrophy + lipid admixed with fibrinoid material most often from long htn 
+	- microatheroma blockage 
+
+treat - 
+- penumbra - tissue at risk if nothings' done. , area at risk of dying = gray areas. and blue ones = infarc core, dead dtissue we can't do anything about 
+- we need to do Ct to find it 
+acute treatment - thrombolytics within 4.5 hours 
+- we need glucose, tPAs
+- alteplase-> tenecteplase transition happens , no big difference 
+- wont give if it's hemorrhagic in nature 
+mechanical thrombectomy - last known normal within 24 hours... 
+- this is for big clot regardless. 
+
+
+---
+
 # CNS vasc dz 
 - high pressure bleeds - arterial, rapidly evolving minutes to hours
 - low pressure bleeds - venous, develop over days to weeks or months 
@@ -328,6 +388,7 @@ bland infarctions = happen with blood supply cutoff
 
 hemorrhagic infarc = start as bland ischemic infarcs but then thrombus breaks and jam into the vessel, but then the <mark style="background: #FFF3A3A6;">thrombolytic system dissolves the clot -> high pressure arterial blood!!!</mark> = EXPLode the vessels!!
 - looks microscopically similar to bland infarc but with RBCs. clinically worse bc arterial blood directly goes into brain 
+- hemorrhatgic strokes = **mostly intracerebral + subarachnoid hemorrhages!**
 
 hydranencephaly case - abnormal flexion of neck in utero, clamping that internal carotid ... 
 - breathing infant but someting is off, not crying or anything 
@@ -336,7 +397,8 @@ hydranencephaly case - abnormal flexion of neck in utero, clamping that internal
 
 watershed infarcs - when<mark style="background: #FFF3A3A6;"> global drop in bp for long period li</mark>ke someone in cardiac arrest then revived .... involving distal parts of areas served by <mark style="background: #FFF3A3A6;">major circumferential arteries</mark>... 
 - these watersheds = placs that are meant to have circumferential arteries overlap. 
-- man in a barrel syndrome 
+- man in a barrel syndrome - weakness in arms, cna't move them, but you can move ur face + lgs. 
+- due to **poor perfusion like from severe hypotension... furthest place for blood to reach think the arms and stuff.. MCA does travel a lot to give the lateral side some love, which is why it's impacted more than the medial (legs**
 
 hippocampus neuronal populations that are sensitive to hypoxia...
 - CA2 = sommer's sector... sensitive to hypoxia, going thru eosinophilic neuronal necrosis -> hippocampal sclerosis is the most common cause of epilepsy
@@ -349,6 +411,7 @@ venous infarc - less common, caused by large thrombus forming, and in hypercoagu
 
 subdural hemorrhage = slides off brain surface... tearing that dura and <mark style="background: #FFF3A3A6;">bridging veins inside there got torn too</mark> as too much space put tension on that 
 - rapid deterioation after this - due to arterial issue. 
+- <mark style="background: #FFF3A3A6;">this is not a stroke but happens bc of external forces, injury to the bridging veins which slowly expand that bleed. needs surgical treatment</mark>
 1. duret hemorrhage of the pons - when brain stretches during herniation. that pressure of the blood from subdural hemorrhage or whatever begins to push down on skull more and more 
 	1. uncal herniation happens with hippocampus herniating around edge of tent cerebellum ...
 	2. <mark style="background: #FFF3A3A6;">this encounters the 3rd CN, making ipsilateral blown pupil when it herniates out the foramen magnuum.... eventually this compresses resp centers in brainstem -> rapid death</mark>
@@ -367,6 +430,7 @@ subarachnoid hemorrhage - typically arterial + following gyri + sulci
 spontaneous intraparenchymal hemorrhages = due to htn ... 
 - 80% in the basal ganglia, 10% in pons, 10% elsewhere
 - when **charcot-bouchard aneurysms** which are<mark style="background: #FFF3A3A6;"> small intraparenchymal berry aneurysms </mark>rupture!!! 
+	- with blockages, more and more of the bvs get smaller and can't handle the blood,, getting **miniature aneurysms hwich can rupture and bleed!**
 - htn -> predisposition to<mark style="background: #FFF3A3A6;"> lacunar infarcs... small lakes </mark> - 
 
 premies - prone to **germinal matrix hemorrhage, arterial in origin**
@@ -379,7 +443,6 @@ vascular diseases and strokes ?
 - huge injury to 2/3rds of spine, bilateral paralysis caudal to block, to legs
 	- bilateral loss of pain + temp 
 	- bladder issues
-
 
 cervical - br from ASA at C5
 - ipsilateral paralysis, a bit to the side now 
@@ -414,5 +477,55 @@ rostral midbrain - higher up
 midbrain syndromes !!!
 - benedikt - ipsilateral CN3 palsy, contralateral weakness, tremor, ataxia = **dmg to red nuc + superior cerebellar peduncle** - a bit of both ; like in the 
 	- rostral midbrain? 
+	- medial side, the <mark style="background: #FFF3A3A6;">basilar artery or PCA</mark>
 - weber's -  ipsilateral CN3 palsy, , and **contralateral hemiparesis - superior cerebellar peduncle; weakness
-	- in the 
+	- <mark style="background: #FFF3A3A6;">in the PCA... </mark>
+
+posterior forebrain -  
+- dmg to pcas - dmg to thalamus = **contralat loss of touch, proprioception, pain + temp from the body + face...**
+
+internal capsule arterial supplys 
+- anterior limb 
+	- upper -> lenticulostriate from MCA
+	- lower -> recurrent artery of huebner from ACA
+- genu 
+	- upper -> lenticulostriate from MCA 
+	- lower -> lenticulostriate from **ICA** = internal carotid artery  
+- posterior limb 
+	- upper -> lenticulostriate from MCA
+	- lower = **anterior choroidal artery from ICA**
+
+occlusions of...
+- ACA = contralateral paralysis of legs , frontal lobe behavioral issues. legs>arms basically 
+	- language stufff mess = apraxia , abulia, akinetic mutism
+	- sensory + contralateral weakness in legs 
+- PCA = vision, eyes, sensory ; also memory!!!! 
+	- <mark style="background: #FFF3A3A6;">contralatreral homonymous hemianopia</mark>, weakness, sensory deficit - bc it gives off brs to the thalamus
+	- deeper structure involved with is the <mark style="background: #FFF3A3A6;">thalamus, loss of that visual cortex on the contralateral side</mark>
+	- <mark style="background: #FFF3A3A6;">charles bonnet syndrome - complex hallucination of shapes/figures/objs but patient retains insight of them being false</mark>
+	- <mark style="background: #FFF3A3A6;">anton syndrome</mark> - cortical blindness patient confabulates details bc **they don't recognize the fact that they can't see!!** 
+- MCA = contralateral paralysis of arms, and sensory loss there too , and Language on the left side
+	- arms > legs and aphasisa 
+	- wenickes = trouble understanding but can talk pretty well; <mark style="background: #FFF3A3A6;">inferior division of the L MCA</mark>
+	- brocas - can't speek but can understand, <mark style="background: #FFF3A3A6;">frontal division</mark> of L mca 
+	- R = neglect 
+	- gaze to the side of infarc 
+- basillar - cerebellum + brain stem; cordinatin - impaired consciousness, locked in. 
+- internal carotid artery - mixture of both MCA/ACA ; thanks to the atnerior comm/posterior comm of the circle of willis 
+- brainstem injury - crossed sgns, like ipsilateral face but contralateral body
+- AICA - **CN 7/8 deficit, lateral pontine syndrome!**
+- PICA - **lateral medullary syndrome**; think hiccups and hoarseness 
+- ASA = at that cervical medullary junction - **very low in brainstem, ipsilateral tongue weakness + contralateral body weakness/sensory loss**
+
+
+---
+
+brain tumors I+II 
+![[primary brain tumor locations.png]]
+grading is important but staging is useless for most of these. 
+
+in adults: 
+1. glioblastomas - GBMs = most common + studied. 1/3 are malignant. 
+	1.  crumbly appearance , **ring-enhancing lesion - will not have contrast go into the lesion bc there's a cavity of dead tissue, a ring of necrosis!!
+	2. **rapidly** growing +<mark style="background: #FFF3A3A6;"> diffusely infiltrative, will compress normal parts</mark> of the brain - come from the glia, not neurons 
+	3. GFAP! astrocyte markers? primary one
