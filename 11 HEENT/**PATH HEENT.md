@@ -139,7 +139,7 @@ irst arch syndrome -
 lateral cysts, sinuses, fistulas - persistent pharyngeal grooves aka clefts? 
 - especially with the cervical sinus formed by 2-4 grooves, which coalesce and meant to disappear 
 - would be fistulas lateral on neck near Sternocleidomastoid muscle
-	- branchial cleft cyst - fluid filled, non-communicating
+	- branchial cleft cyst - fluid filled, non-communicating; if there's a blockage there 
 	- bracbranchialhial sinus - open tract to skin or pharynx
 	- branchial fistula - complete tract there 
 	- needs surgical excision + risk of infection 
@@ -229,14 +229,15 @@ airway/feedings
 1. anencephaly - cranially - open and MOST common CNS malformation - 
 	1. at 28 days gestation + not compatible with life ; no brain  
 	2. cerebrovasculosa - CNS tissue would aggregate abnoramlly , CSF fluid is very caustic - 
+	3. folate + AFP bc open neural tube 
 2. encephalocele - brain outside the cranium but will be covered by skin 
 	1. uncommon but super variable 
 	2. some are adult acquired- mastoiditis and chronic sinusitis = where the inflammation would eat thru the bone!!! 
 	3. in a baby: occipital outpuoching is the most common 
 3. spinal dysraphism - spinal cord doesn't close 
-	1. myelomenigocele - cord, the meninges protrudes togehter more often + worse scenario
+	1. **myelomenigocele** - <mark style="background: #FFF3A3A6;">includes cord</mark>, the meninges protrudes togehter more often + worse scenario
 	2. lumbosacral-bladder bowel + walking issues is the location 
-	3. chiari malformation is associated , type 2 
+	3. c<mark style="background: #FFF3A3A6;">hiari malformation is associated , type 2 </mark> = like the cerebellum extendng nto the spinal canal 
 note - AFP often up bc made by CNS, and open neural tube means it gets into her bloodstream. control with prenatals, diabetes control change antiseizure meds, and ultrasounds 
 
 posterior fossa anomalies - 
@@ -244,19 +245,20 @@ posterior fossa anomalies -
 	1. type 1 = tonsil of cerebellum hangs down and obstructs spinal canal ; adult coming in w/ headaches + problms 
 	2. type 2 = vermis hangs down and obstructs, making a beak. = this is what we see in the lumbosacral **<mark style="background: #FFF3A3A6;">myelomenigocele</mark>** in spinal dysraphism
 	3. type 3 = encephalocele
-2. dandy-walker malformation  = part of vermis is missing bc of the big cyst that cuases hydrocephalus!!!!!
+2. dandy-walker malformation  = part of vermis is missing bc of the big cyst that cuases hydrocephalus!!!!! = seen the dilated ventricles 
 	1. dev delays in everything 
+	2. vermis gone, 
+	3. cyst causing hydrocephalus 
 3. cerebral aqueduct problems = can be viral in kids, stenosis or forking meaning tiny bits and pieces making worthless openings that doesn't flow 
 
 forebrain anomalies
 1. arrhinecephaly - no olfactory - anosmia, no other issues 
-2. holoprosencephaly - dev delay, intellectual disab + midlne facial problems!!!
-	1. facial often mirrors the brain or cerebral issues 
-	2. lobar = good hemisphere division, lobe formation, midline **fusion.**
-	3. semilobar - **pseudo hemisphere division but no lobes!**
-	4. alobar - no hemi no lobes 
-	5. monoventricle + fusion of basal ganglia on mri 
-	6. think <mark style="background: #FFF3A3A6;">trisomy 13 and 18, and teratogens too</mark>
+2. <mark style="background: #FFF3A3A6;">holoprosencephaly</mark> - dev delay, intellectual disab + <mark style="background: #FFF3A3A6;">midline problems in face and in the brain!!!</mark>  
+	1. lobar = good hemisphere division, lobe formation, midline **fusion.**
+	2. semilobar - **pseudo hemisphere division but no lobes!**
+	3. alobar - no hemi no lobes 
+	4. monoventricle + fusion of basal ganglia on mri 
+	5. think <mark style="background: #FFF3A3A6;">trisomy 13 and 18, and teratogens too</mark> = associations 
 
 migration defects = think **common seizures,**
 - cells that end up in the cortex start in the ventricles.
@@ -264,8 +266,8 @@ migration defects = think **common seizures,**
 - layer 6 would migrate up first. 
 - normal fetal brain - has dark gray matter + germinal matrix.... which have nuclei in caudate + germinal matrix (migrates out?) 
 1. agyria - lissencephaly - birth with no gyri ; not survivable 
-2. pachygyria - really fat gyri, some look normal but some are just too thick.  
-3. polymicrogyria - small gyri, no real sulci bc very bumpy, looks "too busy"; usually 4 or less layers where the normal are usually 6 layers in the cortex. 
+2. <mark style="background: #FFF3A3A6;">pachygyria</mark> - really<mark style="background: #FFF3A3A6;"> fat gyr</mark>i, some look normal but some are just too thick.  
+3. <mark style="background: #FFF3A3A6;">polymicrogyria</mark> - small gyri, no real sulci bc very bumpy, looks "too busy"; usually 4 or less layers where the normal are usually 6 layers in the cortex. 
 4. gray matter heterotopiias - periventricular gray matter which would **mature in place instead of migrating or regressing - this tends to be too many nuclei or ventricles, all in the occipital or some lesions = many seizures**
 
 destructive lesions - in mca territory or larger - vascular issue many times bilateral... 
@@ -288,10 +290,11 @@ brain injuries in perinatals... and premies most commonly
 2. bleeding in ventricls coming thru posterior fossa 
 3. germinal matrix hemorhage = tiiny blood vessels in the germinal matrix - don't take the bp change from baby to adult formation well 
 	1. will expand and blow out the ventricles
-4. hypooxic/ischemic dmg - worse at the bottom of the base of the brain , base of the sulcus, 
+	2. hemorrhage in or next to the ventricle... 
+4. hypoxic/ischemic dmg - worse at the bottom of the base of the brain , base of the sulcus, 
 	1. makes <mark style="background: #FFF3A3A6;">ulegyria - looks like mushroom, thin little springs</mark>
 	2. widespread grey matter dmg with 2ndary white matter loss 
-	- in babies - periventricular white matter dmg ... in  premies oligodendrocytes sensitive to hypoxic dmg (not true in adults), so white matter tracts are killed
+	- in babies - periventricular white matter dmg ... in <mark style="background: #FFF3A3A6;"> premies oligodendrocytes sensitive to hypoxic dmg</mark> (not true in adults), so white matter tracts are killed above the ventricles 
 	- s<mark style="background: #FFF3A3A6;">urviving kid would myelinated things incorrectly after</mark>
 5. kernicterus - bilirubin. no BBB yet 
 
@@ -310,10 +313,11 @@ stroke =
 		- rupture of vessel
 	-  seen **edema dark gray around the hemorrhage , of a white color = intercerebral hemorrhage. anything light on the Ct scan**
 	- blood in a deeper location = block. + hydrocephalous...
-note htn = associated bleeds typically in deeper location = thalamus, basal ganglia, pons , cerebellum, due to charcot-couchard aneurysms 
+note htn = associated bleeds typically in deeper location = thalamus,<mark style="background: #FFF3A3A6;"> basal ganglia</mark>, pons , cerebellum, due to charcot-couchard aneurysms 
 - putaminal hemorrhage, most common 
-
-epidural hemorrhage =d ue to **injury in middle meningeal artery** - rapid expansion \ need surgical treamtent 
+- <mark style="background: #FFF3A3A6;">when u see a basal ganglia lesion. = top of your list should be htn 
+</mark>
+epidural hemorrhage =due to **injury in middle meningeal artery** - rapid expansion \ need surgical treamtent 
 
 TIA = transient ischemic attack - any neuro deficit resolving in 24 hrs without any dmg clinical or radiographic 
 
@@ -386,6 +390,10 @@ bland infarctions = happen with blood supply cutoff
 - chronic 1+ mon =. dmg tissue **phagocytosis + cavitation with surrounding gliosis**
 	- edema resolved bc macrophages leave dead brain cavity inside, gliosis with no collagenous scar and chronic hemorrhage. 
 
+for infarcs in general we take an MRI - to light up where the cortex has taken a hit
+- over time tho, the macrophages would clean it up, so subacutely, the granularity is shown 
+- remote infarc - after the marcophages clean it all up = **cystic spaces**
+
 hemorrhagic infarc = start as bland ischemic infarcs but then thrombus breaks and jam into the vessel, but then the <mark style="background: #FFF3A3A6;">thrombolytic system dissolves the clot -> high pressure arterial blood!!!</mark> = EXPLode the vessels!!
 - looks microscopically similar to bland infarc but with RBCs. clinically worse bc arterial blood directly goes into brain 
 - hemorrhatgic strokes = **mostly intracerebral + subarachnoid hemorrhages!**
@@ -405,6 +413,8 @@ hippocampus neuronal populations that are sensitive to hypoxia...
 	- short term membery, and now we need to resect hippocampus 
 - CA1 = resistant sector 
 - purkinje cells = sensitive to hypoxia, loss => balance abnormalities. near basket fibers but now they die, making empty baskets. looks like a tombstone that tells u purkinje were onc e there lol 
+	- these are the <mark style="background: #FFF3A3A6;">most sensitive to anoxia in adult brain,a nd also hippocampus/neocortex = can hit this if bad enough episode</mark>
+
 
 venous infarc - less common, caused by large thrombus forming, and in hypercoagulant women with birth control... very similar to watershed infarc but looks like hemorrhagic one. 
 
@@ -412,12 +422,12 @@ venous infarc - less common, caused by large thrombus forming, and in hypercoagu
 subdural hemorrhage = slides off brain surface... tearing that dura and <mark style="background: #FFF3A3A6;">bridging veins inside there got torn too</mark> as too much space put tension on that 
 - rapid deterioation after this - due to arterial issue. 
 - <mark style="background: #FFF3A3A6;">this is not a stroke but happens bc of external forces, injury to the bridging veins which slowly expand that bleed. needs surgical treatment</mark>
-1. duret hemorrhage of the pons - when brain stretches during herniation. that pressure of the blood from subdural hemorrhage or whatever begins to push down on skull more and more 
+1. duret hemorrhage of the pons - when brain stretches during herniation. that pressure of the blood from subdural hemorrhage or whatever begins to push down on skull more and more (anything that causes inc. pressure = herniation)
 	1. uncal herniation happens with hippocampus herniating around edge of tent cerebellum ...
 	2. <mark style="background: #FFF3A3A6;">this encounters the 3rd CN, making ipsilateral blown pupil when it herniates out the foramen magnuum.... eventually this compresses resp centers in brainstem -> rapid death</mark>
-	3. small arteries start snapping n the pons first, making this durect hemorrhage 
+	3. small arteries start snapping n the **pons** first, making this durect hemorrhage 
 
-subarachnoid hemorrhage - typically arterial + following gyri + sulci 
+subarachnoid hemorrhage - typically arterial + following gyri + sulci  = **most common cause of this is berry aneurysm**
 - evolves over minutes to hours 
 - very precisely - with headache in 6:30 AM or something, and **always have headache bc of nerves in meninges
 - ruptured berry aneurysm 
@@ -425,13 +435,15 @@ subarachnoid hemorrhage - typically arterial + following gyri + sulci
 	-  irritation of blood breakdown -> vasospasm + new infarcts, which irritation cause dense fibrosis of meninges that traps the CN, making palsies and deafness
 	- fbrosis -> hydrocephalus too 
 	- form of chem meningitis!!!!
-	- berrry aneurysms ono their own is pretty common. if you operate sometimes there's risk of dmging a nerve with palsy. 
+	-<mark style="background: #FFF3A3A6;"> berrry aneurysms ono their own is pretty commo</mark>n. if you operate sometimes there's risk of dmging a nerve with palsy.
+	<mark style="background: #FFF3A3A6;">polycystic kidney disease is the biggest association!!!!</mark> 
 
 spontaneous intraparenchymal hemorrhages = due to htn ... 
 - 80% in the basal ganglia, 10% in pons, 10% elsewhere
 - when **charcot-bouchard aneurysms** which are<mark style="background: #FFF3A3A6;"> small intraparenchymal berry aneurysms </mark>rupture!!! 
 	- with blockages, more and more of the bvs get smaller and can't handle the blood,, getting **miniature aneurysms hwich can rupture and bleed!**
 - htn -> predisposition to<mark style="background: #FFF3A3A6;"> lacunar infarcs... small lakes </mark> - 
+	tend to happen in basal ganglia/putamens as we expect... a lot of big holes around the bvs. => indentations. 
 
 premies - prone to **germinal matrix hemorrhage, arterial in origin**
 - these are subvnetricular region with large amt of neuroglial progenitors who are meant to make cerebrum ; prone to shear injury 
@@ -439,6 +451,19 @@ premies - prone to **germinal matrix hemorrhage, arterial in origin**
 
 ---
 vascular diseases and strokes ? 
+
+arteriovenous malformations = AVM
+- see <mark style="background: #FFF3A3A6;">big blood vessels diving into the brain, abnormal subarrachnoid space bvs....</mark>
+- these typically catastrophically bleed 
+- big arteries + veins with dmg'd brain in betweeen 
+
+if we see many other lumens with contrast with **hemosiderin ring around it** all ove the brain = this is an <mark style="background: #FFF3A3A6;">angioma.</mark>
+- these wll leak a bit and cause headaches 
+- no brain inbetween - back to back bvs with big lumens 
+
+Telangiectasia - little tiny bvs = small lesion , frequently unfound on scans but can cause seizures 
+- many tiny bvs with brain in between 
+
 - anterior spinal cord - posterior to last radicular artery - an injury to this  = think lumbar cord injury 
 - huge injury to 2/3rds of spine, bilateral paralysis caudal to block, to legs
 	- bilateral loss of pain + temp 
@@ -524,6 +549,7 @@ occlusions of...
 grading is important but staging is useless for most of these. extraneural metastases are very rare for GBMs. 
 	- **IDH1 = novel oncogene .... if you have mutation here your survival is better**
 	- we need to use the cancer genome atlas to see what we can do esp since there's like 4 gbm subtypes 
+	- <mark style="background: #FFF3A3A6;">metastases when there's many tumors.</mark>
 in adults:  
 1. glioblastomas - GBMs = most common + studied. 1/3 are malignant. 
 	1.  crumbly appearance , **ring-enhancing lesion - will not have contrast go into the lesion bc there's a cavity of dead tissue, a ring of necrosis!!
@@ -546,6 +572,8 @@ glioma = any NS tumor from astrocytes, ependymal clls or oligodendrocytes; usual
 2. oligodendroglioma - myelinated glia in the CNS... also seen **calcifications!!!
 	1. fried egg!!!!!! lack marked atypia, brisk mitotic rate, no vascular prolif nor tumor ncrosis bc they're only grade 2 
 	2. <mark style="background: #FFF3A3A6;">codeletion of 1p + 19q = better survival</mark>
+	3. perinuclear halos !! = think this 
+	4. ![[fried egg oligodendroglioma.png]]
 3. anaplastic oligodendroglioma - grade 3 
 	1. more mitotic activity, cells that look like minigemistiocytes
 	2. hypercellularity, vasc endo prolif + tumor necrosis - all contrast enhancing **all while showing intratumoral calcifications**
@@ -553,7 +581,8 @@ glioma = any NS tumor from astrocytes, ependymal clls or oligodendrocytes; usual
 
 4. primary CNs **lymphomas** - from aids patients. 
 	1. associations of B cell lymphomas + association with EBV...  
-	2. perivascular growth 
+	2. perivascular growth , perivascular cuffing
+	3. <mark style="background: #FFF3A3A6;">immunocompromized + EBV!!!!</mark>
 
 metastatic cancers going into the brain 
 - we would see :- <mark style="background: #FFF3A3A6;">well circumscribed, so since they're from outside the braint hey're not able to infiltrate the brain that well.</mark>
@@ -561,8 +590,8 @@ metastatic cancers going into the brain
 - large mitotic features. 
 
 benign CNS tumors in adults
-1. meningiomas - majority of these
-	1. adheres to the dura, ar dural based masses; from <mark style="background: #FFF3A3A6;">arachnoid cap cells in leptomeninges... like whorls of neoplastic arachnoidal cells</mark>
+1. **meningiomas** - majority of these
+	1. adheres to the **dura**, are dural based masses; from <mark style="background: #FFF3A3A6;">arachnoid cap cells in leptomeninges... like whorls of neoplastic arachnoidal cells</mark>
 	2. **on radiology they appear to be in the lateral ventricle!!**
 	3. hyperostosis of skull  - thickened skull bone+ marked edema in adjacent brain hemisphere 
 	4. grade 1 = don't invade brain but do aggressively invade bone + soft tissues
@@ -582,12 +611,15 @@ benign CNS tumors in adults
 	2. neoplastic schwann cells - not true of other peripheral nerve sheath dz like neurofibromas + mpnsts 
 	3. don't actually infiltrate nerve = <mark style="background: #FFF3A3A6;">but theyr'e encapsulated masses that push on the nerve to damage it!!!</mark>
 	4. need surgery 
+	5. <mark style="background: #FFF3A3A6;">we see verocay bodies = antoni a and antoni b of schwannoma</mark>![[Screenshot 2025-11-17 at 6.41.05 PM.png|318x263]]
+	6. these are palsading 
 
-6. craniopharyngiomas - grade 1 
-	1. adamantinomatous craniopharyngiomas = <mark style="background: #FFF3A3A6;">in kids - epithelial sellar region, compressing optic chiasm, pituitary dysfunction, visual symptoms</mark> and also hydrocephalous bc press on CSF
+6. <mark style="background: #FFF3A3A6;">craniopharyngiomas</mark> - grade 1 
+	1. <mark style="background: #FFF3A3A6;">spongey looking, creeping onto that optic chiasm</mark>
+	2. adamantinomatous craniopharyngiomas = <mark style="background: #FFF3A3A6;">in kids - epithelial sellar region, compressing optic chiasm, pituitary dysfunction, visual symptoms</mark> and also hydrocephalous bc press on CSF
 		1. contrast enhancing, calcified and partially cystic too 
 		2. <mark style="background: #FFF3A3A6;">rhomboidal state of utah crystals....</mark>
-	2. papillary craniopharyngiomas - in <mark style="background: #FFF3A3A6;">adults - above the sellar, 3rd ventricle. similar symptoms but lack the stratum granulosom, having diff epithelium</mark>
+	3. papillary craniopharyngiomas - in <mark style="background: #FFF3A3A6;">adults - above the sellar, 3rd ventricle. similar symptoms but lack the stratum granulosom, having diff epithelium</mark>
 
 in KIDS!!!! most common neoplasm : 
 1. pilocytic astrocytoma - grade 1 
@@ -601,6 +633,9 @@ in KIDS!!!! most common neoplasm :
 	2. slow growing, lack high mitotic activity, vascular endothelial prolif, and necrosis; looks uniform but in central canal, obstructs CSF
 	3. can<mark style="background: #FFF3A3A6;"> progress to anaplastic ependymoma</mark> - grade 3, unfavorable prognosis with inc cellularity, brisk mitosis,vascular endothelial prolif 
 	4. <mark style="background: #FFF3A3A6;">pseudorosettes around BVs!</mark>
+	5. ![[ependymoma - pseudorosettes and rosettes.png]]
+- also worry about drop mets 
+
 
 embryonal tumors - high grade 4 
 3. medulloblastomas - from cerebellum, 75% in vermis
@@ -608,8 +643,9 @@ embryonal tumors - high grade 4
 	2. extends into 4th ventricle!!!! hydrocephalous + inc intracranial pressure w/ headache, vomiting, truncal ataxia 
 	3. <mark style="background: #FFF3A3A6;">solid contrast enhancing masses, hypercellular, many blasts</mark>
 	4. <mark style="background: #FFF3A3A6;">staging is actually important here - they drop metastasize via the CSF, seeing chunks of tumors distal to where it breaks apart</mark>
-	5. <mark style="background: #FFF3A3A6;">many homer-wright rosettes as seen in small blue cell tumors</mark>
-	6. ![[homer wright rosettes.png]]
+	5. <mark style="background: #FFF3A3A6;">many homer-wright rosettes as seen in small blue cell tumors</mark> = neuronal rosettes 
+	6. we are worried about **drop mets = drop metastases - which can be malignancies that go into the subarachnoid space, and going down the cord**
+	7. ![[homer wright rosettes.png]]
 4. primitive neuroectodermal tumors = PNETS
 	1. from cerebral hemispheres, aggro af... this is a catch-all that we need to br8 into subtypes. 
 	2. well-circumscribed, **variably** contrast enhance + has cysts, calcification + hemorrhage
@@ -659,11 +695,12 @@ non-NF2 schwannomatosis
 	1. can happen with **wenicke korsakoff**
 	2. **atrophy of anterior vermis lobe** - more space between superior and anterior lobes. the<mark style="background: #FFF3A3A6;"> **atrophy = whitened spaces between folia**</mark> 
 	3. 3 layers = moelcular, purkinje and internal granule cell layer; with purkinje cell losses and smaller internal graunle cell loss 
-4. osmotic demyelination syndrome - central pontine myelinolysis 
-	1. due to rapi reversal of <mark style="background: #FFF3A3A6;">hyponatremia in alcohol use...dysosmolar state, the quick correction of sodium  </mark>
-	2. <mark style="background: #FFF3A3A6;">pons</mark> most impacted
-	3. can see severe burns, and then variable demyelination -> degrees of deat, paralysis or altered consciousness, 
-	4. <mark style="background: #FFF3A3A6;">we see a BAT shaped sign = lack of myelination in the middle of the pons. also caused by polyneuropathy.</mark>
+4. osmotic demyelination syndrome - <mark style="background: #FFF3A3A6;">central pontine myelinolysis </mark>
+	1. in the middle of the pons, the gryish dark areas are in midline of the pons - bat sign 
+	2. due to rapi reversal of <mark style="background: #FFF3A3A6;">hyponatremia in alcohol use...dysosmolar state, the quick correction of sodium  </mark>
+	3. <mark style="background: #FFF3A3A6;">pons</mark> most impacted
+	4. can see severe burns, and then variable demyelination -> degrees of deat, paralysis or altered consciousness, 
+	5. <mark style="background: #FFF3A3A6;">we see a BAT shaped sign = lack of myelination in the middle of the pons. also caused by polyneuropathy.</mark>
 5. b12 deficiency - subacute combined degeneration 
 	1. malabs of cobalamin or issues with IF release and lack of B12 absorption 
 	2. symmetrical <mark style="background: #FFF3A3A6;">progressive</mark> lower extremity paresthesias. +weakness which begins distal -> proximal 
@@ -688,6 +725,7 @@ acquired metabolic diseases
 
 3. reye's syndrome - caused by aspirrin 
 	1. disrupted <mark style="background: #FFF3A3A6;">mitochondrial unction -> fatty accumulation in liver + cytotox edema in the brain... infarc happens. this is postviral</mark>
+	2. little kid suddnely sick again, lethargic, headache-y 
 4. wilson dz - hepatolenticular degeneration
 	1. <mark style="background: #FFF3A3A6;">AR mutation in chromosome 13 </mark>- putative copper transport ATPase<mark style="background: #FFF3A3A6;">, deficient ceruloplasmiin</mark>, elevated serum copper 
 	2. copper accumulates - kayser-fleischer rings 
@@ -715,21 +753,30 @@ iatorogenic things
 special feat of cns infections -  don't have a lot of room, edema can easily lead to hemorrhage; access to **subarachnoid space -> wide dispersal of organisms**
 - BBB - initial barrier to inflammatory access, so gives microorganisms a **window of opportunity to attack without the inflammatory cells fighting it**; it's basically a way for CNS infections ; gliosis does a bad job of encapsulating infections 
 
+on lumbar tap = all values have raise pressure ; CSF: 
+acute bacteria = pmns, protein up, and rlly low glucose
+	e coli , listeria, GBS, S. pneumnia = neonatal, 
+	young kids = s. pneumoniae, h influenczae
+	older kids/young adult = n. meningitidis , s. pneumonia
+	elderly = s. pneumonia, listeria, G-negs
+	immune comp = add listeria 
+acute viral = lymphs,  protein up, normal glucose, 
+chronic - lymphs up, **protein high,** low glucose 
+
 1. leptomeningitis - inflam of pia and arachnoid which spread thru the CSF in **subarachnoid space**; leptomeninges = comprise both the arachnoid mater and the pia mater
 	- viruses - aseptic meningitis - acute and self limited like **headache with the flu!**  
 	- pyogenic bacteria - acute meningitis - can be deadly + very fast progressing, headache -> go sleep and died
 		- pus on the surface of brain when body responds = see sulcus pus 
-		- and then the pus will be confined to subarachnoid space across the entire surface
+		- and then the pus will be confined to subarachnoid space across the entire surface 
 	- mycobacteria+fungi = chronic across a long time course 
 - bacteria get into the brain - due to the free communicating nature of subarachnoid space -> ventriculitis + choroid plexus 
-- lumbar puncture , CSF has inc pressure - 
-	- inc wbcs, polymorphonuclear leukocytes , proteins 
-	- <mark style="background: #FFF3A3A6;">glucose is low compared to blood glucose measurements bc bacteria eat them up!!!</mark> 
+	- = when convex, think bacterial meninges = neutrophils 
+	- if more **basilar, at convexity = think subacute to chronic, often granulomatous, TB or fungus, more like sarcoid **
 
 long term sequele - 
 - very irritating - extensive fibrosis in the **leptomeninges!! bc it's not the brain itself** ... will be cut off blood supplies causing small hemorrhage / strokes 
-	- encapsulating the **arachnoid granulations, impeding CSF -> communicating hydrocephalus**
-	- pus in the ventricles can block the aqueduct of sylvius or the outflow foramina -> **noncommunicating hydrocephalus**; this blocks the inside of ventricular system of brain, see dilation of that narrow space only without it dilating other parts 
+	- encapsulating the **arachnoid granulations, impeding CSF -> communicating hydrocephalus** - the CSF would still be wide open thru all the ventricles, and then normal pressure 
+	- pus in the ventricles can block the aqueduct of sylvius or the outflow foramina -> **non-communicating hydrocephalus**; this blocks the inside of ventricular system of brain, see dilation of that narrow space only without it dilating other parts ;; 
 - pus in the base of the brain too, encasing CNs + circle of willis -> fibrosis around CN -> palsies, deafness is common, alnog with strokes due to vascular compromise 
 
 1. tuberculous meningitis - subacute meningitis -
@@ -769,19 +816,27 @@ encephalitis - localized or diffuse inflammation of brain + overlying leptomenin
 	1. perivascular lymphocytic cuff in acute viral encephalitis 
 	2. microglial nocule 
 	3. dyng neuron chewed up by microglia, but no viral inclusions. 
-	4. herpes encephalitis - in ppl without immunosuppressions which is obvious. 
-		1. undersurface of temporal and less commonly frontal lobe! , super patchy, hemorrhagic and destructvive
-		2. hematoxylin and eosin section of temporal lobe.... we will see prominent eosinophilic intranuclear inclusion. 
-		3. psych disorders
+	4. herpes encephalitis - in ppl <mark style="background: #FFF3A3A6;">without immunosuppressions </mark>which is obvious. 
+		1. undersurface of <mark style="background: #FFF3A3A6;">temporal</mark> and less commonly frontal lobe! , super patchy, hemorrhagic and destructvive
+		2. hematoxylin and eosin section of temporal lobe.... we will see<mark style="background: #FFF3A3A6;"> prominent eosinophilic intranuclear inclusion</mark>. 
+		3. this is <mark style="background: #FFF3A3A6;">hemorrhagic, no med hx, no trauma hx, but huge lesion on the base of the temporal lobe!!!</mark> 
+		4. psych disorders
+		5. will go to brain from the ganglion of the face-> base of the brain 
 	5. rabies inclusions 
 		1. <mark style="background: #FFF3A3A6;">negri bodies</mark>; splunkers can get it pulmonary style from infected bad poop 
 		2. rabies - predilection for neurons in **brainstem + purkinje cells of cerebellum**
 		3. brainstem nuc dmg = hard to swallow. 
+		4. <mark style="background: #FFF3A3A6;">these have small cytoplasmic inclusion in a purkinje cell... intracytoplasmic and not intranuclear!</mark>
+		5. ![[viral inclusions negri body, cmv and jcv-pml.png]]
 	6. hemorrhagic lesions of ventral horn in polio  - polio initially GI 
 	7. multinucleated giant cell - HIV encphalitis - dementia, with  multinucleate giant cells are from macrophages fusing and widespread microglial noduels occurence 
 2. acute postinfections - - like from pasteur's rabies virus 
 3. subacute encephalitis - HIV 
 
+spongiform encephalopathy - think TSE
+- prions!
+- <mark style="background: #FFF3A3A6;">rapidly prog dementia, myoclonic jerks, spikes on EEG</mark>
+- many holes. in the cotex, but molecular layer is better. - a lot of vacuoles 
 ---
 # myelin dz
 
@@ -801,13 +856,13 @@ luxol fast blue - LFB-pas staining dye ; the composition of peripheral nerve mye
 immune mediated demylinative dz - 
 1.  multiple sclerosis / MS variants
 	1. charcot form - the most common form - relaspses + remissions of
-	2. women > men 
-	3. plaques vary, and we see inflammation dec, macrophages clear and remyelination commence after they get older. but remyelination would fail still bc of t and antibodies which inhibit oligodendrocyte precursor formation... 
-	4. less than 10% have steadily progressiv ecourse - men and women are similar, mean age is 40 
+	2. <mark style="background: #FFF3A3A6;">we think symmetrical clearly demarkated loss of myelination near a ventricle.</mark>
+	3. women > men 
+	4. plaques vary, and we see inflammation dec, macrophages clear and remyelination commence after they get older. but remyelination would fail still bc of t and antibodies which inhibit oligodendrocyte precursor formation... 
+	5. less than 10% have steadily progressiv ecourse - men and women are similar, mean age is 40 
 	acute MS - **marburg disease** - monophasic ms that is fatal in days 
 	devic's diisease - acute MS in adults that target **optic nerves + Spinal cord with fatal destruction**
 	balo's concentric sclerosis - rapidly fatal acute MS in kids + young adults = concentric wavelike patterns of myelin loss
-	schilder's dz - resembles acute MS but demyelinates very large areas in cerebral hemispheres 
 	- dawson's fingers = in brain, in older plaques, the demyelination that juts out with the veins as its entring the plaque 
 	- optic nerves, chiasm + tracts are involved in like 90% of MS patients gray gelatinous looking areas are **chronic plaques
 		-  **optic neuritis sequence**  in acute elsions 
@@ -822,3 +877,106 @@ immune mediated demylinative dz -
 
 
 2.  acute disseminated encephalomyelitis ADEM
+	1. perivenous/postinfectious 
+	2. acute monophasic usually and develops 2-12 days post viral infection for immunization for rabies/smallpox 
+	3.  fever, headache + meningeal signs in 1 day then a decrease in consciousnes,s seizures, paraplegia, ataxia or other focal signs 
+	4. ** rapid + cmplete recovery post 7 days **
+	5. 20-30% die, with severe sequelae in similar proportion 
+	6. sleeve-like perivascular demyelination, pink areas floating around veins like a marble!!!
+	7. <mark style="background: #FFF3A3A6;">we see demyelination around little veins; in many postinfectious things we would see not only white matter affected, but also subcortical regions.</mark>
+3. acute hemorrhagic leukoencephalitis  or **weston hurst disease**; fatal, 1-5 days death
+	1. perivenous demylination + hyperacute form of ADEM
+	2. no bbb, then  white matter has many petechial hemorrhages and is edematous 
+	3. **necrotic small veins + cuffed by reactive macrophages mixed with neutrophils** infiltrating in brain outwards 
+
+infectious types 
+1.  progressive multifocal leukoencephalopathy PML 
+	1. patchy demyelination, complication of udnerlying dz process like hiv 
+	2. 3-12 mon course of visual, motor, sensory, personality changes, then profound dementia/death 
+	3. **large numbers of macrophages, smalll lymphocytes.. weird oligodendrocytes with enlarged plum colored nuclei packed with JC virus**!!!! 
+		1. pretty big!
+	4. <mark style="background: #FFF3A3A6;">we see a fuzzy patch of demyelination, within that dark blue that's meant to be but it's instead light and lilac.</mark>
+	5. oligo dentdrocytes with intranuclear inclusions !! ![[viral inclusions negri body, cmv and jcv-pml.png]]
+	6. they have an immune illness. like hiv 
+2. subacute sclerosing panencephalitis SSPE 
+	1.  **some** kids with early measles exposure, this is a set-up with a chronic infection in oligodendrocytes.... 
+	2. extensive demylination with gliosis, perivascular + parenchymal inflammation + prominent intranuclear viral inclusion 
+3. rubella - makes something similar to SSPE but lacks viral inclusion 
+4. AIDSs = present with **symmetrical sensory disturbance of feet**
+	1. vacuolar myelopathy  , ataxia + clumsiness in weeks
+	2. multifocal vacuolated + demyelinated lesions in posterior + lateral columns of spinal cord with brain spared 
+	3. associaition w/ HIV infection/b12 deficiency 
+genetic leukodystrophies - 
+-  clinical: variable, age of onset often the childhood 
+- variety of diseases which all result in vegetative state + diffuse dysfunction with gross demyelination + large confluent areas with cerebral hemispheres 
+- <mark style="background: #FFF3A3A6;">must more widespread loss of white matter</mark>
+1. schilder's dz - resembles acute MS but demyelinates very large areas in cerebral hemispheres = adrenoleukodystrophy
+	1.  hard to tell apart from the MS schilder's disease
+	2.  X linked disorder - variety of ages
+	3.  dysfunction of adrenal cortex, ley
+	4. dig cells of testis + myelin of CNS 
+	5. loss of myelin in occipital, parietal and temporal lobes; **frontal cortex spared somewhat**
+	6. when we see perivascular accumulations around lymphocytes we usually think MS, but this isn't that! 
+
+---
+# trauma of the CNS 
+
+1.  basilar skull fracture
+	1.  **raccoon eyes, blood in ear, orbital regions or some csf leak** ... blood from ear 
+2. epidural hematoma - blood pushes into the brain , pushing it more inside, giving lenticular shape ; baically adjacent gyri flattened + brain displaced = herniation and death 
+	1. ![[cresentic and lenticular shape of hemorrhage in brain.png]]
+	2. in younger, lucid interval where they're fine and then crumple down like it's high flow arterial 
+	3. emporal skull fractures = meningeal artery rupture ....
+3. subdural hematoma - under dura - crescent moon shape, spread on top of brain 
+	1. older ppl due to brain atrophy with bridging veins and stuff - hitting skull or falls... unilateral more frequently 
+	2. 5% rebleed with chronic subdural hematomas - altered mental + focal neuro deficits 
+4. childhood non-accidental trauma 
+	1. bilat subdurals in kids. - blood in between hemispheres
+	2. globe hemorrhage. = in optic nerve + eye 
+	3. bone fractures = with different ages across them. 
+	4. subarachnoid hemorrhage more common;; and since kids are more likely to get edema, white matter is warped. 
+	5. unmyelinated brain more likely to tear, and herniations happen with brain into posterior fossa, tearing bvs off brainstem = **midline hemorrhage
+		1. <mark style="background: #FFF3A3A6;">typically if we see brainstem midline hemorrhages think herniation!!!!</mark>**
+5. chronic traumatic encephalopahty - seen with repeated things + blast inury on soldiers
+	1. transient symptoms early on.. 
+	2. then <mark style="background: #FFF3A3A6;">intraneuronal tau inclusions </mark>like dementias, traumatic degeneraton 
+	3. <mark style="background: #FFF3A3A6;">dementia pugilistica = boxing, atrophy , tangles, large ventricles, hydrocephalus in vaccuum.</mark> = brain tries to expand out to edges of skull to make sure bridging veins don't pop 
+	4. tangles seen in the cells 
+	5. <mark style="background: #FFF3A3A6;"> 2 separate leaflets are supposed to be down midline, but these can get a cavum instead</mark>
+6. diffuse axonal injury = <mark style="background: #FFF3A3A6;">shear injury w inertia in car crash</mark>
+	1.  head impact isn't required ; in white matter shearing happens 
+	2. 1/2 of all primary intra-axial traumatic brain lesions - usually severe closed head injury - loss of consciousness, diffuse + bilateral -> primary cause of vegetative state
+	3. tearing of penetrating BVs too = small hemorrhages and tearing of many 
+7. remote diffuse axonal injury -  if they survive + going into vegetative state!!! 
+	1. you just end up with<mark style="background: #FFF3A3A6;"> hemosiderin laden orange macrophages</mark>, loss tissue. 
+	2. and cavum, just a lot of tissueloss/paleness 
+8. **acute** DAI =  axonal swelling - retraction balls, axonal tearing seen 
+	1. on a silver stain we see these ^ 
+	2. amyloid precursor protein is seen too!!
+9. contusions = bruises on th outside of the brain, caused by brain running into skull + dura
+	1. on scans - see bright blood, dripping into sulci, on autospy, mostly frontal + temporal tips
+	2. **subarachnoid hemorrhage associated!
+	3. coup injury = when u get hit by an obj , you get the skull fracture, scalp bruise etc on the same place, it all lins up 
+	4. <mark style="background: #FFF3A3A6;">contre-coup = </mark> major dmg is in the front, and you fall backwards, so the contusion is in the back, the base of your skull.  - skull hits floor then the brain bounce up and rub against frontal bones 
+	5. old contusions =  orange, flattened gyri + stained with hemosiderin
+	6. <mark style="background: #FFF3A3A6;">gliding contusions - </mark>happens along the midline, brain is staying put in the falx. , kinetic brain injury with angular tears in the bvs, and hemorrhagic too!!! acute = many blood; subacute = macrophages, and remote = cystic 
+10. intracranial hematomas -  blood ends up in the internal capsule, blood ends up inside the brain basically 
+11. brainstem hematomas - some traumatic some not , htn hemorrhages here. **midline hemorrhage = herniation of brain**
+12. fat embolism -  brain can hemorrhage petechial ones mostly in white matter due to this. 
+	1. if you have many little hemorrhages in the grey-white junction = think small embolis in grey-white unction 
+	2. in vascular distrubiotn = the large emoblis <mark style="background: #FFF3A3A6;">wedge shape think large emobolis wedge shape near vessels</mark>
+13. cord lesions - trauma, and some ppl fracture + dislocate due to tumors too ; hyperextension injuries, fracture dislocation, epidural hemorrhage or abscess
+14. subluxation rheumatoid arthritis -  dislocation of vertebra  due to fracture, some ppl have vertebal a dissections with this 
+15. cord trauma 
+	1. **post traumatic syrinx = syringomyelia - fluid filled cyst in spinal cord**.... 
+
+ex vacuo ventricles - lost tissue, so ventricles taking up xtra space in the body 
+
+amyloid angiopathy - blow out into the subarachnoid space - happens when abnormal proteins build up in brain blood vessels, lobar distribution into the outside of the brain 
+-  amyloid (abnormal) proteins build up in your brain’s blood vessels and make your blood vessels leaky
+
+
+stroke vs contusion 
+- if you have a stroke to the cortex, you will get collateral vessels to help take care of surface closes to pia 
+	- **basically you get white spots on inside but outside is ok**
+- in contusion - pia is flapping in the breeze, just outer surface hurt 
