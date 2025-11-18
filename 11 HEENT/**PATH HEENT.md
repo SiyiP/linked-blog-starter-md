@@ -317,7 +317,7 @@ note htn = associated bleeds typically in deeper location = thalamus,<mark style
 - putaminal hemorrhage, most common 
 - <mark style="background: #FFF3A3A6;">when u see a basal ganglia lesion. = top of your list should be htn 
 </mark>
-epidural hemorrhage =due to **injury in middle meningeal artery** - rapid expansion \ need surgical treamtent 
+epidural hemorrhage =due to **injury in middle meningeal artery** - rapid expansion \ need surgical treamtent ; <mark style="background: #FFF3A3A6;">accidents and risk seeking</mark>
 
 TIA = transient ischemic attack - any neuro deficit resolving in 24 hrs without any dmg clinical or radiographic 
 
@@ -606,13 +606,14 @@ benign CNS tumors in adults
 	1. intrasellar tumors from hormone secreting cells of **anterior pituitary**
 	2. either that or mass effect symptoms . can't be predicted via histo so no WHO basis 
 
+
 5. schwannomas - 
 	1.  benign **periipheral nerve sheath tumors** - grade 1 ;; happen in <mark style="background: #FFF3A3A6;">8th cranial nerve most often but can happen on any... hearing related to the 8th or pain on the dorsal spinal nerve roots</mark>
 	2. neoplastic schwann cells - not true of other peripheral nerve sheath dz like neurofibromas + mpnsts 
 	3. don't actually infiltrate nerve = <mark style="background: #FFF3A3A6;">but theyr'e encapsulated masses that push on the nerve to damage it!!!</mark>
 	4. need surgery 
-	5. <mark style="background: #FFF3A3A6;">we see verocay bodies = antoni a and antoni b of schwannoma</mark>![[Screenshot 2025-11-17 at 6.41.05 PM.png|318x263]]
-	6. these are palsading 
+	5. <mark style="background: #FFF3A3A6;">we see verocay bodies = antoni a and antoni b of schwannoma</mark>![[verocay bodies of schwannomas.png|318x263]]
+	6. these are palsading things, 2 of them surrounding some anuclear zone. 
 
 6. <mark style="background: #FFF3A3A6;">craniopharyngiomas</mark> - grade 1 
 	1. <mark style="background: #FFF3A3A6;">spongey looking, creeping onto that optic chiasm</mark>
@@ -684,7 +685,8 @@ non-NF2 schwannomatosis
 1. wernicke encephalopathy - acute B1 thiamine def  , replace thiamine 
 	1. triad - altered mental, oculomotor dysfunction, cerebellar signs 
 	2. gross changes - we see **hemorrhagic<mark style="background: #FFF3A3A6;"> mamillary bodies</mark> in wenicke's!!!!**; a punctate dark hemorrhage discoloration to it 
-		1. on the imging - we see white color mammillary 
+		1. on the imging - we see white color mammillary
+		2. <mark style="background: #FFF3A3A6;">and then later on in korsakoff = mammillary body gone</mark> , also the tissue around the 4th and 3rd ventricle + aqueduct 
 	3. wenicke's encephalopathy = vascular congestion, edema, inset small hemorrhages, gliosis (analogus to fibrosis= scar in brain)
 2. korsakoff syndrome. - chronic , irrevrsible
 	1. anterograde amnesia + confabulation ;
@@ -695,12 +697,14 @@ non-NF2 schwannomatosis
 	1. can happen with **wenicke korsakoff**
 	2. **atrophy of anterior vermis lobe** - more space between superior and anterior lobes. the<mark style="background: #FFF3A3A6;"> **atrophy = whitened spaces between folia**</mark> 
 	3. 3 layers = moelcular, purkinje and internal granule cell layer; with purkinje cell losses and smaller internal graunle cell loss 
+	4. long term alc abuse 
 4. osmotic demyelination syndrome - <mark style="background: #FFF3A3A6;">central pontine myelinolysis </mark>
 	1. in the middle of the pons, the gryish dark areas are in midline of the pons - bat sign 
 	2. due to rapi reversal of <mark style="background: #FFF3A3A6;">hyponatremia in alcohol use...dysosmolar state, the quick correction of sodium  </mark>
 	3. <mark style="background: #FFF3A3A6;">pons</mark> most impacted
-	4. can see severe burns, and then variable demyelination -> degrees of deat, paralysis or altered consciousness, 
-	5. <mark style="background: #FFF3A3A6;">we see a BAT shaped sign = lack of myelination in the middle of the pons. also caused by polyneuropathy.</mark>
+	4. seen most often in liver transplant 
+	5. can see severe burns, and then variable demyelination -> degrees of deat, paralysis or altered consciousness, 
+	6. <mark style="background: #FFF3A3A6;">we see a BAT shaped sign = lack of myelination in the middle of the pons. also caused by polyneuropathy.</mark>
 5. b12 deficiency - subacute combined degeneration 
 	1. malabs of cobalamin or issues with IF release and lack of B12 absorption 
 	2. symmetrical <mark style="background: #FFF3A3A6;">progressive</mark> lower extremity paresthesias. +weakness which begins distal -> proximal 
@@ -730,7 +734,7 @@ acquired metabolic diseases
 	1. <mark style="background: #FFF3A3A6;">AR mutation in chromosome 13 </mark>- putative copper transport ATPase<mark style="background: #FFF3A3A6;">, deficient ceruloplasmiin</mark>, elevated serum copper 
 	2. copper accumulates - kayser-fleischer rings 
 	3. hepatic failure/cirrhosis + dementia symptoms + extrapyramidal signs liek tremor, ridigity, etc. 
-	4. cavitation + brownish/brick red discoloration in the **putamen
+	4. <mark style="background: #FFF3A3A6;">cavitation + brownish/brick red discoloration in the **putamen</mark>
 	5. .<mark style="background: #FFF3A3A6;"> alz type 2  cells too </mark>
 5. CO poisoning 
 	1. nonspecific symptoms, nausea, abd pain, fatigue, altered mental, seizures 
@@ -738,7 +742,7 @@ acquired metabolic diseases
 	3. <mark style="background: #FFF3A3A6;">cavitation of the globus pallidis + necrosis, bilateral hemorrhagic infarc.</mark> + demyelination 
 6. methanol - from moonshine contaimination 
 	1. can go <mark style="background: #FFF3A3A6;">blind - retinal + optic nerve</mark> dmg 
-	2.  hemorrhagic leukoencephalopathy - focal white matter necrosis 
+	2.  hemorrhagic leukoencephalopathy - <mark style="background: #FFF3A3A6;">focal white matter necrosis </mark>
 	3 bilateral putamen necrosis 
 
 iatorogenic things 
@@ -788,6 +792,7 @@ long term sequele -
 3. long term leptomeningitis complications = hydrocephalus, seizures, sensorineural deafness, focal infarcs
 
 abcesses - life cycle begins with cerebritis = focal process of <mark style="background: #FFF3A3A6;">localized suppurative destruction of brain tissue</mark> - happens when bac/fungi infects parenchyma via <mark style="background: #FFF3A3A6;">direct spread from adjacent focus or hematogenous spread...</mark> like in the past theyr'e from ottitis media 
+		3. <mark style="background: #FFF3A3A6;">if you get imging and just see one tiny little ring-enhancing tumor with a lot of edema = this is mass effect around that tiny abscess</mark>
 	breakdown  bbb + edema + blurring bt gray and white matter; many polymorphonuclear leukocytes , gliosis ust beginning 
 	many cortical abscesses caused by candida albicans hematogenously disseminated - happens in burn victims
 	- the <mark style="background: #FFF3A3A6;">hematogenously disseminated = happens to seed in gray matter</mark>
@@ -878,14 +883,14 @@ immune mediated demylinative dz -
 
 2.  acute disseminated encephalomyelitis ADEM
 	1. perivenous/postinfectious 
-	2. acute monophasic usually and develops 2-12 days post viral infection for immunization for rabies/smallpox 
+	2. <mark style="background: #FFF3A3A6;">acute monophasic usually and develops 2-12 days post viral infection for immunization for rabies/smallpox</mark> 
 	3.  fever, headache + meningeal signs in 1 day then a decrease in consciousnes,s seizures, paraplegia, ataxia or other focal signs 
 	4. ** rapid + cmplete recovery post 7 days **
 	5. 20-30% die, with severe sequelae in similar proportion 
 	6. sleeve-like perivascular demyelination, pink areas floating around veins like a marble!!!
 	7. <mark style="background: #FFF3A3A6;">we see demyelination around little veins; in many postinfectious things we would see not only white matter affected, but also subcortical regions.</mark>
 3. acute hemorrhagic leukoencephalitis  or **weston hurst disease**; fatal, 1-5 days death
-	1. perivenous demylination + hyperacute form of ADEM
+	1. <mark style="background: #FFF3A3A6;">perivenous demylination</mark> + hyperacute form of ADEM
 	2. no bbb, then  white matter has many petechial hemorrhages and is edematous 
 	3. **necrotic small veins + cuffed by reactive macrophages mixed with neutrophils** infiltrating in brain outwards 
 
@@ -925,11 +930,12 @@ genetic leukodystrophies -
 	1.  **raccoon eyes, blood in ear, orbital regions or some csf leak** ... blood from ear 
 2. epidural hematoma - blood pushes into the brain , pushing it more inside, giving lenticular shape ; baically adjacent gyri flattened + brain displaced = herniation and death 
 	1. ![[cresentic and lenticular shape of hemorrhage in brain.png]]
-	2. in younger, lucid interval where they're fine and then crumple down like it's high flow arterial 
+	2. in younger, lucid interval where they're fine and then crumple down like it's high flow arterial ; thrill seaking 
 	3. emporal skull fractures = meningeal artery rupture ....
 3. subdural hematoma - under dura - crescent moon shape, spread on top of brain 
 	1. older ppl due to brain atrophy with bridging veins and stuff - hitting skull or falls... unilateral more frequently 
-	2. 5% rebleed with chronic subdural hematomas - altered mental + focal neuro deficits 
+	2. <mark style="background: #FFF3A3A6;">bridging veins</mark>
+	3. 5% rebleed with chronic subdural hematomas - altered mental + focal neuro deficits 
 4. childhood non-accidental trauma 
 	1. bilat subdurals in kids. - blood in between hemispheres
 	2. globe hemorrhage. = in optic nerve + eye 

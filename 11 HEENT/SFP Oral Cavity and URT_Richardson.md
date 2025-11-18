@@ -71,7 +71,7 @@ non-neoplastic
 2. bilateral parotid enlargement
 	1. mumps - paramyxovirus= it hurts 
 	2. autoimmune dsialadenititis 
-	3. Mikulicz syndrome 
+	3. **Mikulicz syndrome = more unknown, idiopathic** 
 	4. keratconjunctivitis sicca - sjorgrens syndrome - dry eyes and the components of lacrimal glands are destroyed and recurrent infections in that area 
 		1. associated with germinal center reaction as well  
 		2. the lymphocytic infiltrate will destroy the glands or the acini of them 
