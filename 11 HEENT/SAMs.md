@@ -16,6 +16,66 @@ The philtrum of the upper lip forms from the fusion of the medial nasal prominen
 
 need to know: 
 
+- In the Weber test, sound lateralizes to the affected ear in conductive hearing loss and to the unaffected ear in sensorineural hearing loss.
+- If sound is louder in the left ear, it suggests conductive hearing loss in the left ear or sensorineural loss in the right ear.
+- Since conductive loss enhances bone conduction, the sound is perceived louder in the affected ear.
+
+- Otitis externa (also known as "swimmer's ear") is an infection of the external auditory canal, often caused by bacteria (e.g., _Pseudomonas aeruginosa_, _Staphylococcus aureus_).
+- Key features include pain with manipulation of the pinna or tragus, itching, canal swelling, and sometimes discharge.
+- Necrotizing otitis externa is a severe, invasive infection often seen in elderly diabetic or immunocompromised patients. It is typically caused by _Pseudomonas aeruginosa_ and can progress to skull base osteomyelitis.
+- Key distinguishing features include:
+    - Granulation tissue at the bone-cartilage junction of the external canal
+    - Facial nerve palsy or other cranial nerve involvement
+    - Severe, deep otalgia, often worse at night
+- Typical otitis externa presents with canal erythema, itching, and pain with pinna manipulation, but does not involve deeper structures or cranial nerves.
+
+- Acute otitis media commonly occurs in children due to Eustachian tube dysfunction, which impairs ventilation and drainage of the middle ear.
+- This leads to negative pressure, fluid accumulation, and creates an environment conducive to bacterial growth (e.g., _Streptococcus pneumoniae_, _Haemophilus influenzae_).
+- Children are more susceptible due to their shorter, more horizontal Eustachian tubes.
+
+- **Streptococcus pneumoniae** is the most frequent cause of AOM, especially in younger children.
+- Haemophilus influenzae (nontypeable) and Moraxella catarrhalis are also common, particularly in cases associated with otitis-conjunctivitis syndrome.
+- Staphylococcus aureus and Pseudomonas aeruginosa are less common and more often associated with chronic or complicated ear infections like otitis externa or necrotizing otitis externa.
+
+- Stapedectomy is the surgical treatment of choice for otosclerosis, involving removal of the fixed stapes and replacement with a prosthesis to restore sound conduction.
+- Hearing aids may be considered for patients who are not surgical candidates or prefer non-invasive options.
+- Corticosteroids, antibiotics, and myringotomy are not effective for otosclerosis, as it is a bone remodeling disorder, not an infectious or inflammatory condition.
+- Mastoidectomy is used for chronic infections or cholesteatoma, not otosclerosis.
+
+- Presbycusis is the most common cause of hearing loss in older adults and is due to age-related degeneration of cochlear hair cells, especially those responsible for high-frequency sound detection.
+- The basal turn of the cochlea processes high-frequency sounds, which are typically affected first.
+- It results in sensorineural hearing loss, often symmetrical and progressive.
+
+-   
+    Sudden sensorineural hearing loss (SSNHL) is defined as a rapid loss of hearing (≥30 dB over at least three contiguous frequencies) occurring over less than 72 hours.
+- The exact cause is often idiopathic, but proposed mechanisms include viral infection, vascular compromise, or autoimmune inner ear disease.
+<mark style="background: #FFF3A3A6;">- High-dose corticosteroids (oral or intratympanic) are the first-line treatment to reduce inflammation and improve recovery chances.</mark>
+	- 
+
+- The gradual, progressive unilateral sensorineural hearing loss, tinnitus, and imbalance are classic for vestibular schwannoma.
+
+- Vestibular neuritis is characterized by acute onset of vertigo <mark style="background: #FFF3A3A6;">without hearing loss or tinnitus, due to inflammation of the vestibular nerve.</mark>
+- Meniere's disease involves episodic <mark style="background: #FFF3A3A6;">vertigo, unilateral sensorineural hearing loss, tinnitus, and aural fullness, caused by endolymphatic hydrops.</mark>
+- A **positive head impulse test** supports vestibular neuritis.
+- Hearing loss is a key differentiator, present in Meniere's but absent in vestibular neuritis.
+
+- SSCDS occurs when the bone overlying the superior semicircular canal is thinned or absent, creating a third mobile window in the inner ear.
+- This leads to vestibular symptoms (e.g., vertigo with sound or pressure changes) and auditory symptoms (e.g., autophony, conductive hearing loss). = whooshing 
+- It is diagnosed with high-resolution CT and vestibular-evoked myogenic potentials (VEMPs).
+	|Dehiscence of the superior semicircular canal creating a third mobile window in the inner ear|
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Loss of gray-white matter differentiation, sulcal effacement, and hypodensity on CT are classic signs of acute ischemic stroke.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|Intraparenchymal hemorrhage appears as a hyperdense (bright) area on CT, often in the basal ganglia, thalamus, or lobar regions, with surrounding edema and possible mass effect.\|   \|                                                                                                                                                                                                                                                                                                                                                                                                    |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|ACA strokes affect the medial frontal and parietal lobes, leading to contralateral leg weakness, incontinence, and behavioral changes like abulia.\|   \|                                                                                                                                                                                                                                                                                                                                                                                                                                   |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|MCA strokes affect the lateral cerebral cortex, leading to contralateral face and arm weakness, and language deficits if the dominant hemisphere is involved.\|   \|                                                                                                                                                                                                                                                                                                                                                                                                                        |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|AICA occlusion often affects the facial nerve (CN VII) and vestibulocochlear nerve (CN VIII), leading to **facial weakness and hearing loss**, which are not typical of PICA strokes.\|   \|                                                                                                                                                                                                                                                                                                                                                                                                |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|PCA strokes affect the occipital lobe (causing visual deficits) and inferior temporal lobe (affecting memory and recognition). AICA strokes involve the lateral pons, cranial nerves VII and VIII, and inner ear, leading to facial weakness, hearing loss, and vertigo.\|   \|                                                                                                                                                                                                                                                                                                             |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|Lateral medullary syndrome is most commonly due to PICA occlusion, affecting the lateral medulla and leading to crossed sensory deficits, cranial nerve dysfunction (CN IX, X), and cerebellar signs.\|   \| =A 60-year-old man presents with sudden onset of vertigo, nausea, hoarseness, difficulty swallowing, and l<mark style="background: #FFF3A3A6;">oss of pain and temperature sensation on the right side of his face and left side of his body. </mark>Neurological exam reveals right-sided limb ataxia and nystagmus. Which of the following arteries is most likely occluded? |     |
+| Medial Medullary Syndrome results from infarction in the medial portion of the medulla, typically due to **anterior spinal artery occlusion.** This affects:<br><br>- Corticospinal tract → contralateral hemiparesis<br>- Medial lemniscus → contralateral loss of proprioception and vibration<br>- Hypoglossal nerve → ipsilateral tongue weakness (tongue deviates toward the lesion)<br>                                                                                                                                                                                                                                 |     |
+| - Large vessel occlusions (LVOs) typically involve major cerebral arteries (e.g., MCA, ICA, basilar) and often present with cortical signs such as aphasia, neglect, or visual field deficits.<br>- <mark style="background: #FFF3A3A6;">Small vessel occlusions (SVOs), also known as lacunar strokes, affect deep penetrating arteries and usually cause pure motor or sensory deficits without cortical signs</mark>                                                                                                                                                                                                       |     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |     |
 
 about the corneal / blink reflex
 Light touch to the cornea elicits a closing of the eye (blink) as a mechanism to protect the cornea from damage. 
