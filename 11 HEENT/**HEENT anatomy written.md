@@ -1023,3 +1023,41 @@ MRI:  = challenging - fat, muscle, brain all look different.
 
 ---
 sphenoid sinus - we go thru here to do take out the pituitary tumor. 
+
+temporal bone + ear - 
+- outer ear into tympanic membrane 
+- middle ear - ossicles/small bones
+- inner ear - cochlear, vestibules, etc. 
+
+labyrinthitis ossificans - we see small densitites that are ossifications - some densities that are here - **faint mineralizations where there shuld just be fluid.**
+nerves. -
+
+one sided hearing loss - vestibular schwannoma 
+
+eyes - 
+bone window other windows. 
+
+blow out facture - hittinghead on steering wheel etc - punched in the orbit, the orbit would blow out decompressing all the forse. 
+- the extraocular muscles - will start to move down that fissure
+- <mark style="background: #FFF3A3A6;">inferior rectus cannot be used anymore - double vision.</mark>
+
+MR T1 = fat saturation - we can id some things 
+
+optic neuritis = initial presentation of MS 
+
+sinusitis - changes here with fluids accumulating - straight line filled with air, asymmetry 
+
+allergic fungal sinusitis - a lot of bulging into the eye and into the lobes. crhonic pressure/pain in the sinuses. 
+
+immunocompromised -> fungal sinusitis - fungi gets really bad - surgeons need to scoop out the tissue .... 
+- recall the pterygopalatine fossa aorund the sinuses - behnd that maixllary sinus, going into the viridian canal V2 and then going to the brain. 
+
+lesion in parotid - pleomorphic adenoma!!! but not as aggressive as other places
+
+lesion in Masseters - rhabdomyosarcomas - very aggressive. 
+
+CT guided biopsies can help 
+looking into mucosal lesions, etc. 
+
+tvc paralysis
+laryngeal polyp
