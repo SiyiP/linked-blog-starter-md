@@ -322,7 +322,7 @@ epidural hemorrhage =due to **injury in middle meningeal artery** - rapid expans
 TIA = transient ischemic attack - any neuro deficit resolving in 24 hrs without any dmg clinical or radiographic 
 
 edema which ones caused by stroke 
-vasogenic edema -  typically ppl with tumors 
+vasogenic edema -  <mark style="background: #FFF3A3A6;">typically ppl with tumors </mark>
 	- inc. vessel permeability and fluid accumulation outside of brain cells leads to this 
 	- a type of brain edema resulting from an **accumulation** of **extracellular fluid due to disruption of the blood brain barrier.**
 	- trauma, inflam, tumors
@@ -334,26 +334,26 @@ nonmodifiable RFs of stroke
 - age higher than 55 
 
 workup 
-- we need glucose lab before we give thrombolytics. 
+- we need <mark style="background: #FFF3A3A6;">glucose lab before we give thrombolytics. </mark>
 - - **getting a non-contrasted CT head scan bc it's faster.** 
 	- **hyperdense sign = unilteral hyperdensity of some proximal vessel which can be seen.... when a thrombosis is present within the lumen... basically this shit is still white even tho we didn't give any contrast**
-	- spot sign - some contrast leaking out, a hemorrhage when seen .... the contrast goes thru vessels and then leaks out in these - huge in hemorrhages, where there's focal extravasation of this inside the hematoma . increases risk of having the hematoma worsen.  = this iis intracranial hemorrhage - angiogram look at it 
+	- s<mark style="background: #FFF3A3A6;">pot sign - some contrast leaking out, a hemorrhage </mark>when seen .... the contrast goes thru vessels and then leaks out in these - huge in hemorrhages, where there's focal extravasation of this inside the hematoma . increases risk of having the hematoma worsen.  = this iis intracranial hemorrhage - angiogram look at it 
 - AFter acute phase -<mark style="background: #FFF3A3A6;"> MRI brain img eventually post-thrombolytic administration </mark> and some lab and cardiac testing 
 TOAST criteria - 
-- large vessel atherosclerosis - blockages happen in large vessels due to atherosclerosis most common, dissections, giant cell arteritis 
+- large vessel atherosclerosis - blockages happen in large vessels due to <mark style="background: #FFF3A3A6;">atherosclerosis</mark> most common, dissections, giant cell arteritis 
 - small vessel occlusions - most typcally are **lacunar infarcs deep in the brain**
-	- subcortical - putamen, caudate, thalamus, etc caused by lipohyalinosis -  due to medial hypertrophy + lipid admixed with fibrinoid material most often from long htn 
+	- <mark style="background: #FFF3A3A6;">subcortical</mark> - <mark style="background: #FFF3A3A6;">putamen</mark>, caudate, thalamus, etc caused by lipohyalinosis -  due to medial hypertrophy + lipid admixed with fibrinoid material most often from long htn 
 	- microatheroma blockage 
 
 treat - 
 - penumbra - tissue at risk if nothings' done. , area at risk of dying = gray areas. and blue ones = infarc core, dead dtissue we can't do anything about 
 - we need to do Ct to find it 
-acute treatment - thrombolytics within 4.5 hours 
+acute treatment -<mark style="background: #FFF3A3A6;"> thrombolytics within 4.5 hours </mark>
 - we need glucose, tPAs
 - alteplase-> tenecteplase transition happens , no big difference 
 - wont give if it's hemorrhagic in nature 
-mechanical thrombectomy - last known normal within 24 hours... 
-- this is for big clot regardless. 
+<mark style="background: #FFF3A3A6;">mechanical thrombectomy - last known normal within 24 hours... </mark>
+- this is for **big** clot regardless. 
 
 
 ---
@@ -382,13 +382,13 @@ bland infarctions = happen with blood supply cutoff
 - acute ; 1 day - 1 wk, involved area is <mark style="background: #FFF3A3A6;">soft, edematous, anatomic detailed blurred with eosinophilic neuronal necrosis seen</mark>
 	- in 24-72 hrs, polymorphonuc leukocytes invade brain + break down BBB
 	- edema starts, brain asymmetrical 
-- subacute = 1 wk = 1 month =  obv tissue destruction + liquefactive necrosis 
+- subacute = 1 wk = 1 month =  <mark style="background: #FFF3A3A6;">obv tissue destruction + liquefactive necrosis </mark>
 	- breakdown of BBB reaches its worse, edema at its worst. 
 	- invasion: macrophages from blood 
 	- patient looks the worst but if they get thru the function gets better bc edema puts pressure on their brain ; but this is greatest risk of death 
 	- 1-2 wks out new leaky blood vessels neovascularization... -> more edema and **contrast enhancing!!!**
 - chronic 1+ mon =. dmg tissue **phagocytosis + cavitation with surrounding gliosis**
-	- edema resolved bc macrophages leave dead brain cavity inside, gliosis with no collagenous scar and chronic hemorrhage. 
+	- edema resolved bc macrophages leave <mark style="background: #FFF3A3A6;">dead brain cavity inside</mark>, gliosis with no collagenous scar and chronic hemorrhage. 
 
 for infarcs in general we take an MRI - to light up where the cortex has taken a hit
 - over time tho, the macrophages would clean it up, so subacutely, the granularity is shown 
@@ -398,21 +398,21 @@ hemorrhagic infarc = start as bland ischemic infarcs but then thrombus breaks an
 - looks microscopically similar to bland infarc but with RBCs. clinically worse bc arterial blood directly goes into brain 
 - hemorrhatgic strokes = **mostly intracerebral + subarachnoid hemorrhages!**
 
-hydranencephaly case - abnormal flexion of neck in utero, clamping that internal carotid ... 
+<mark style="background: #FFF3A3A6;">hydranencephaly</mark> case - abnormal flexion of neck in utero, clamping that internal carotid ... 
 - breathing infant but someting is off, not crying or anything 
-- eyes sharp and glittery, no cerebral hemospheres, brainstem intact so suck + respiratory reflex still there
+- eyes sharp and glittery, <mark style="background: #FFF3A3A6;">no cerebral hemospheres, brainstem intact s</mark>o suck + respiratory reflex still there
 - 8-9 mon life. killed by something like pneumonia, losing cerebral hemispheres. 
 
 watershed infarcs - when<mark style="background: #FFF3A3A6;"> global drop in bp for long period li</mark>ke someone in cardiac arrest then revived .... involving distal parts of areas served by <mark style="background: #FFF3A3A6;">major circumferential arteries</mark>... 
-- these watersheds = placs that are meant to have circumferential arteries overlap. 
-- man in a barrel syndrome - weakness in arms, cna't move them, but you can move ur face + lgs. 
+- these watersheds = plac3s that are meant to have circumferential arteries overlap. 
+- man in a barrel syndrome -<mark style="background: #FFF3A3A6;"> weakness in arms, cna't move them, but you can move ur face + lgs. </mark>
 - due to **poor perfusion like from severe hypotension... furthest place for blood to reach think the arms and stuff.. MCA does travel a lot to give the lateral side some love, which is why it's impacted more than the medial (legs**
 
 hippocampus neuronal populations that are sensitive to hypoxia...
-- CA2 = sommer's sector... sensitive to hypoxia, going thru eosinophilic neuronal necrosis -> hippocampal sclerosis is the most common cause of epilepsy
+- CA2 = sommer's sector... sensitive to hypoxia, going thru eosinophilic neuronal necrosis -> <mark style="background: #FFF3A3A6;">hippocampal sclerosis is the most common cause of epilepsy</mark>
 	- short term membery, and now we need to resect hippocampus 
 - CA1 = resistant sector 
-- purkinje cells = sensitive to hypoxia, loss => balance abnormalities. near basket fibers but now they die, making empty baskets. looks like a tombstone that tells u purkinje were onc e there lol 
+- <mark style="background: #FFF3A3A6;">purkinje</mark> cells = sensitive to hypoxia, loss => balance abnormalities. near basket fibers but now they die, making empty baskets. looks like a tombstone that tells u purkinje were onc e there lol 
 	- these are the <mark style="background: #FFF3A3A6;">most sensitive to anoxia in adult brain,a nd also hippocampus/neocortex = can hit this if bad enough episode</mark>
 
 
@@ -420,14 +420,14 @@ venous infarc - less common, caused by large thrombus forming, and in hypercoagu
 
 
 subdural hemorrhage = slides off brain surface... tearing that dura and <mark style="background: #FFF3A3A6;">bridging veins inside there got torn too</mark> as too much space put tension on that 
-- rapid deterioation after this - due to arterial issue. 
+- r<mark style="background: #FFF3A3A6;">apid deterioation after this - due to arterial issue. </mark>
 - <mark style="background: #FFF3A3A6;">this is not a stroke but happens bc of external forces, injury to the bridging veins which slowly expand that bleed. needs surgical treatment</mark>
-1. duret hemorrhage of the pons - when brain stretches during herniation. that pressure of the blood from subdural hemorrhage or whatever begins to push down on skull more and more (anything that causes inc. pressure = herniation)
+1. <mark style="background: #FFF3A3A6;">duret</mark> hemorrhage of the pons - when brain stretches during herniation. that pressure of the blood from subdural hemorrhage or whatever begins to push down on skull more and more (anything that causes inc. pressure = <mark style="background: #FFF3A3A6;">herniation</mark>)
 	1. uncal herniation happens with hippocampus herniating around edge of tent cerebellum ...
 	2. <mark style="background: #FFF3A3A6;">this encounters the 3rd CN, making ipsilateral blown pupil when it herniates out the foramen magnuum.... eventually this compresses resp centers in brainstem -> rapid death</mark>
 	3. small arteries start snapping n the **pons** first, making this durect hemorrhage 
 
-subarachnoid hemorrhage - typically arterial + following gyri + sulci  = **most common cause of this is berry aneurysm**
+<mark style="background: #FFF3A3A6;">subarachnoid</mark> hemorrhage - typically<mark style="background: #FFF3A3A6;"> arterial + following gyri + sulci</mark>  = **most common cause of this is berry aneurysm**
 - evolves over minutes to hours 
 - very precisely - with headache in 6:30 AM or something, and **always have headache bc of nerves in meninges
 - ruptured berry aneurysm 
@@ -438,10 +438,10 @@ subarachnoid hemorrhage - typically arterial + following gyri + sulci  = **most 
 	-<mark style="background: #FFF3A3A6;"> berrry aneurysms ono their own is pretty commo</mark>n. if you operate sometimes there's risk of dmging a nerve with palsy.
 	<mark style="background: #FFF3A3A6;">polycystic kidney disease is the biggest association!!!!</mark> 
 
-spontaneous intraparenchymal hemorrhages = due to htn ... 
-- 80% in the basal ganglia, 10% in pons, 10% elsewhere
-- when **charcot-bouchard aneurysms** which are<mark style="background: #FFF3A3A6;"> small intraparenchymal berry aneurysms </mark>rupture!!! 
-	- with blockages, more and more of the bvs get smaller and can't handle the blood,, getting **miniature aneurysms hwich can rupture and bleed!**
+<mark style="background: #FFF3A3A6;">spontaneous intraparenchymal hemorrhages = due to htn ... </mark>
+- 80% in the<mark style="background: #FFF3A3A6;"> basal ganglia</mark>, 10% in pons, 10% elsewhere
+- when **<mark style="background: #FFF3A3A6;">charcot</mark>-bouchard aneurysms** which are<mark style="background: #FFF3A3A6;"> small intraparenchymal berry aneurysms </mark>rupture!!! 
+	- with blockages, more and more of the bvs get smaller and can't handle the blood,, getting **miniature aneurysms which can rupture and bleed!**
 - htn -> predisposition to<mark style="background: #FFF3A3A6;"> lacunar infarcs... small lakes </mark> - 
 	tend to happen in basal ganglia/putamens as we expect... a lot of big holes around the bvs. => indentations. 
 
@@ -457,30 +457,31 @@ arteriovenous malformations = AVM
 - these typically catastrophically bleed 
 - big arteries + veins with dmg'd brain in betweeen 
 
-if we see many other lumens with contrast with **hemosiderin ring around it** all ove the brain = this is an <mark style="background: #FFF3A3A6;">angioma.</mark>
+if we see many other lumens with contrast with **hemosiderin ring around it** all ove the brain = this is an <mark style="background: #FFF3A3A6;">angioma.</mark> = meaning leaky places and lumens with that hemosiderin ring 
 - these wll leak a bit and cause headaches 
 - no brain inbetween - back to back bvs with big lumens 
 
-Telangiectasia - little tiny bvs = small lesion , frequently unfound on scans but can cause seizures 
+<mark style="background: #FFF3A3A6;">Telangiectasia</mark> - little tiny bvs = <mark style="background: #FFF3A3A6;">small</mark> lesion , frequently unfound on scans but can cause <mark style="background: #FFF3A3A6;">seizures</mark> 
 - many tiny bvs with brain in between 
 
 - anterior spinal cord - posterior to last radicular artery - an injury to this  = think lumbar cord injury 
 - huge injury to 2/3rds of spine, bilateral paralysis caudal to block, to legs
-	- bilateral loss of pain + temp 
-	- bladder issues
+	- <mark style="background: #FFF3A3A6;">bilateral loss of pain + temp </mark>
+	- <mark style="background: #FFF3A3A6;">bladder issues</mark>
 
 cervical - br from ASA at C5
 - ipsilateral paralysis, a bit to the side now 
 
-spinomedullary junction - with brainstem syndromes
+<mark style="background: #FFF3A3A6;">spinomedullary</mark> junction - with <mark style="background: #FFF3A3A6;">brainstem</mark> syndromes
 - penetrating lateral brs from the vertebral a 
 -  loss of pain + temp in ipsilateral face and contralateral body 
--  dysphagia hoarseness , and ipsilateral horner's syndrome 
-- "lateral medullary syndrome" = can also be caused by the PICA< br off the vertebral artery ; this is <mark style="background: #FFF3A3A6;">wallenburg's which can also be caused by the PICA, br off the vertebral artery</mark>
+- <mark style="background: #FFF3A3A6;"> dysphagia hoarseness , and ipsilateral horner's syndrome </mark>
+- "<mark style="background: #FFF3A3A6;">lateral medullary syndrom</mark>e" = can also be caused by the PICA< br off the vertebral artery ; this is <mark style="background: #FFF3A3A6;">wallenburg's which can also be caused by the PICA, br off the vertebral artery itself</mark>
+	- crossed signs but involvement of hoarseness too 
 
 open medulla 
-- penetrating brs from ASA
-- ipsilateral **tongue deviation, contralat loss of touch/position/paresis**
+- <mark style="background: #FFF3A3A6;">penetrating</mark> brs from <mark style="background: #FFF3A3A6;">ASA</mark>
+- ipsilateral **<mark style="background: #FFF3A3A6;">tongue</mark> deviation, contralat loss of touch/position/paresis**
 - <mark style="background: #FFF3A3A6;">medial medullary syndrome with tongue deviation, higher up the brainstem</mark>
 
 ventral pons 
@@ -489,7 +490,8 @@ ventral pons
 
 caudal pons 
 - <mark style="background: #FFF3A3A6;"> anterior inf cerebellar artery , lateral pontines, with facial involvement broadly and decreased hearing</mark>
-- loss of pain + temp in contralateral body + ipsilateral face along with loss of facial strength + decreased hearing 
+- loss of pain + temp in contralateral body + ipsilateral face along with loss of facial strength + <mark style="background: #FFF3A3A6;">decreased hearing </mark>
+	- we see the cross face sign and dec hearing with aica blockage 
 
 mid pons 
 -  <mark style="background: #FFF3A3A6;">long circumferential from basillar artery, ipsilateral paralysis of jaw muscle and dec contralateral auditory perception.... </mark>
@@ -498,16 +500,17 @@ mid pons
 rostral midbrain - higher up 
 - <mark style="background: #FFF3A3A6;">- medial penetrating br from basilar artery, this is ipsilateral CN3 palsy, red nucleus therefore contralateral ataxia... </mark> = claude syndrome 
 - contralat paralysis of face + body 
+	- medial penetrating br .... - red nuc ataxia + paralysis 
 
 midbrain syndromes !!!
-- benedikt - ipsilateral CN3 palsy, contralateral weakness, tremor, ataxia = **dmg to red nuc + superior cerebellar peduncle** - a bit of both ; like in the 
+- benedikt - ipsilateral <mark style="background: #FFF3A3A6;">CN3</mark> palsy, contralateral weakness, tremor, ataxia = **dmg to red nuc + superior cerebellar peduncle** - a bit of both ; like in the 
 	- rostral midbrain? 
 	- medial side, the <mark style="background: #FFF3A3A6;">basilar artery or PCA</mark>
-- weber's -  ipsilateral CN3 palsy, , and **contralateral hemiparesis - superior cerebellar peduncle; weakness
+- weber's -  ipsilateral <mark style="background: #FFF3A3A6;">CN3</mark> palsy, , and **contralateral hemiparesis - superior cerebellar peduncle; weakness
 	- <mark style="background: #FFF3A3A6;">in the PCA... </mark>
 
 posterior forebrain -  
-- dmg to pcas - dmg to thalamus = **contralat loss of touch, proprioception, pain + temp from the body + face...**
+- dmg to<mark style="background: #FFF3A3A6;"> pcas - dmg to thalamus </mark>= **contralat loss of touch, proprioception, pain + temp from the body + face...**
 
 internal capsule arterial supplys 
 - anterior limb 
@@ -538,55 +541,55 @@ occlusions of...
 - basillar - cerebellum + brain stem; cordinatin - impaired consciousness, locked in. 
 - internal carotid artery - mixture of both MCA/ACA ; thanks to the atnerior comm/posterior comm of the circle of willis 
 - brainstem injury - crossed sgns, like ipsilateral face but contralateral body
-- AICA - **CN 7/8 deficit, lateral pontine syndrome!**
-- PICA - **lateral medullary syndrome**; think hiccups and hoarseness 
-- ASA = at that cervical medullary junction - **very low in brainstem, ipsilateral tongue weakness + contralateral body weakness/sensory loss**
+- AICA - **CN 7/8 deficit, lateral pontine syndrome!** ; they will have <mark style="background: #FFF3A3A6;">less hearing </mark>
+- PICA - **lateral medullary syndrome**; think <mark style="background: #FFF3A3A6;">hiccups and hoarseness </mark>
+- ASA = at that cervical medullary junction - **very low in brainstem, ipsilateral <mark style="background: #FFF3A3A6;">tongue</mark> weakness + contralateral body weakness/sensory loss**
 
 
 ---
 # brain tumors I+II 
 ![[primary brain tumor locations.png]]
 grading is important but staging is useless for most of these. extraneural metastases are very rare for GBMs. 
-	- **IDH1 = novel oncogene .... if you have mutation here your survival is better**
+	- **<mark style="background: #FFF3A3A6;">IDH1</mark> = novel oncogene .... if you have mutation here your survival is better**
 	- we need to use the cancer genome atlas to see what we can do esp since there's like 4 gbm subtypes 
 	- <mark style="background: #FFF3A3A6;">metastases when there's many tumors.</mark>
 in adults:  
 1. glioblastomas - GBMs = most common + studied. 1/3 are malignant. 
 	1.  crumbly appearance , **ring-enhancing lesion - will not have contrast go into the lesion bc there's a cavity of dead tissue, a ring of necrosis!!
 	2. **rapidly** growing +<mark style="background: #FFF3A3A6;"> diffusely infiltrative, will compress normal parts</mark> of the brain - come from the glia, not neurons 
-		1. they will divide so fast that they **kill self and make bland infarction centers!!! pseudopalisading necrosis - as the cells die, <mark style="background: #FFF3A3A6;">tensil pressure lost and then the cell collapse upon itself</mark>
+		1. they will divide so fast that they **kill self and make bland infarction centers!!! <mark style="background: #FFF3A3A6;">pseudopalisading</mark> necrosis - as the cells die, tensil pressure lost and then the cell collapse upon itself
 		2. and ofc hypoxic penumbra around is crammed so more VEGF is made... leaky = contrast enhancing. 
-	3. GFAP! astrocyte markers? primary ones are de novo, older ppl. also <mark style="background: #FFF3A3A6;">Kii67 labeling indices are high</mark>
+	3. <mark style="background: #FFF3A3A6;">GFAP</mark>! astrocyte markers? primary ones are de novo, older ppl. also <mark style="background: #FFF3A3A6;">Kii67 labeling indices are high</mark>
 	4. recall that since it comes from brain glial cells - BBB isn't a huge barrier, we have **bizzare multinuc cells which can't divide anymore and large numbers of small bipolar cels which can**
 		1. <mark style="background: #FFF3A3A6;">small bipolar cells = secrete excitotoxin glutamate, making seizures + killing neurons</mark>.... infiltrate widely so they can't be resected. 
 		2. tumor cells - resistant to express glutamate bc they have pumps so they don't die 
 	5. secondary ones - stepwise fashion, can taransform from the grade 2 tumors in ppl in their 30s/40s
-		1. diffuse astrocytoma - grade 2 
-			1.  impacts young adults + happens in cerebral hemispheres
-			2.  high degree of cellular difff, slow growing. aka lacks mitotic activity and lacks vasc prolif + necrosis 
+		1. <mark style="background: #FFF3A3A6;">diffuse astrocytoma - grade 2 </mark>
+			1.  impacts <mark style="background: #FFF3A3A6;">young</mark> adults + happens in cerebral <mark style="background: #FFF3A3A6;">hemispheres</mark>
+			2.  <mark style="background: #FFF3A3A6;">high degree of cellular difff</mark>, slow growing. aka lacks mitotic activity and lacks vasc prolif + necrosis 
 		2. then it becomes -> **anaplastic astrocytoma** - grade 3 
 			1. found in cerebral hemispheres but iwth **more atypia + brisk mitotic activity....** still no vascular proliferation and necrosis tho 
 
 glioma = any NS tumor from astrocytes, ependymal clls or oligodendrocytes; usually white matter 
 
-2. oligodendroglioma - myelinated glia in the CNS... also seen **calcifications!!!
-	1. fried egg!!!!!! lack marked atypia, brisk mitotic rate, no vascular prolif nor tumor ncrosis bc they're only grade 2 
+2. <mark style="background: #FFF3A3A6;">oligodendroglioma</mark> - myelinated glia in the CNS... also seen **calcifications!!!
+	1. <mark style="background: #FFF3A3A6;">fried egg</mark>!!!!!! l<mark style="background: #FFF3A3A6;">ack marked atypia, brisk mitotic rate, no vascular prolif nor tumor ncrosis bc they're only grade 2 </mark>
 	2. <mark style="background: #FFF3A3A6;">codeletion of 1p + 19q = better survival</mark>
 	3. perinuclear halos !! = think this 
 	4. ![[fried egg oligodendroglioma.png]]
-3. anaplastic oligodendroglioma - grade 3 
-	1. more mitotic activity, cells that look like minigemistiocytes
-	2. hypercellularity, vasc endo prolif + tumor necrosis - all contrast enhancing **all while showing intratumoral calcifications**
+3. <mark style="background: #FFF3A3A6;">anaplastic</mark> oligodendroglioma - grade 3 
+	1. more mitotic activity, cells that look like <mark style="background: #FFF3A3A6;">minigemistiocytes</mark>
+	2. <mark style="background: #FFF3A3A6;">hypercellularity, vasc endo prolif + tumor necrosis </mark>- all contrast enhancing **all while showing intratumoral calcifications**
 	3. ![[mingemistiocytes of anaplastic oligodendroglioma.png]]
 
-4. primary CNs **lymphomas** - from aids patients. 
+4. primary CNs **lymphomas** - from<mark style="background: #FFF3A3A6;"> aids patients. </mark>
 	1. associations of B cell lymphomas + association with EBV...  
 	2. perivascular growth , perivascular cuffing
 	3. <mark style="background: #FFF3A3A6;">immunocompromized + EBV!!!!</mark>
 
 metastatic cancers going into the brain 
 - we would see :- <mark style="background: #FFF3A3A6;">well circumscribed, so since they're from outside the braint hey're not able to infiltrate the brain that well.</mark>
-- and at gray-white junctions the tumor is here (ont he other hand, gliomas are white matter )
+- and at gray-white junctions the tumor is here (ont he other hand,<mark style="background: #FFF3A3A6;"> gliomas are white matter</mark> )
 - large mitotic features. 
 
 benign CNS tumors in adults
@@ -594,10 +597,10 @@ benign CNS tumors in adults
 	1. adheres to the **dura**, are dural based masses; from <mark style="background: #FFF3A3A6;">arachnoid cap cells in leptomeninges... like whorls of neoplastic arachnoidal cells</mark>
 	2. **on radiology they appear to be in the lateral ventricle!!**
 	3. hyperostosis of skull  - thickened skull bone+ marked edema in adjacent brain hemisphere 
-	4. grade 1 = don't invade brain but do aggressively invade bone + soft tissues
+	4. <mark style="background: #FFF3A3A6;"> grade 1 = don't invade brain but do aggressively invade bone + soft tissues</mark>
 	5. surgical primarily but sometimes radiotherapy 
 	6. we see <mark style="background: #FFF3A3A6;">psammoma bodies!!!!</mark> ![[psammoma bodies of meningiomas.png]]
-2. atypical meningioma - grade 2 , invades the brain 
+2. <mark style="background: #FFF3A3A6;">atypical</mark> meningioma - grade 2 ,<mark style="background: #FFF3A3A6;"> invades the br</mark>ain 
 	1. inc risk of recurrence + death rate
 	2. not whorled anymore, simply a lot of cells
 3. malignant meningioma - very rare, highly aggressive
@@ -608,64 +611,64 @@ benign CNS tumors in adults
 
 
 5. schwannomas - 
-	1.  benign **periipheral nerve sheath tumors** - grade 1 ;; happen in <mark style="background: #FFF3A3A6;">8th cranial nerve most often but can happen on any... hearing related to the 8th or pain on the dorsal spinal nerve roots</mark>
+	1.  <mark style="background: #FFF3A3A6;">benign **periipheral nerve sheath tumors**</mark> - grade 1 ;; happen in 8th cranial nerve most often but can happen on any... hearing related to the 8th or pain on the dorsal spinal nerve **roots**
 	2. neoplastic schwann cells - not true of other peripheral nerve sheath dz like neurofibromas + mpnsts 
 	3. don't actually infiltrate nerve = <mark style="background: #FFF3A3A6;">but theyr'e encapsulated masses that push on the nerve to damage it!!!</mark>
 	4. need surgery 
 	5. <mark style="background: #FFF3A3A6;">we see verocay bodies = antoni a and antoni b of schwannoma</mark>![[verocay bodies of schwannomas.png|318x263]]
 	6. these are palsading things, 2 of them surrounding some anuclear zone. 
 
-6. <mark style="background: #FFF3A3A6;">craniopharyngiomas</mark> - grade 1 
-	1. <mark style="background: #FFF3A3A6;">spongey looking, creeping onto that optic chiasm</mark>
+6. <mark style="background: #FFF3A3A6;">craniopharyngiomas</mark> - grade 1 - utah crystals, or some what visual symptoms etc. 
+	1. <mark style="background: #FFF3A3A6;">*spongey* looking, creeping onto that optic chiasm</mark>
 	2. adamantinomatous craniopharyngiomas = <mark style="background: #FFF3A3A6;">in kids - epithelial sellar region, compressing optic chiasm, pituitary dysfunction, visual symptoms</mark> and also hydrocephalous bc press on CSF
 		1. contrast enhancing, calcified and partially cystic too 
 		2. <mark style="background: #FFF3A3A6;">rhomboidal state of utah crystals....</mark>
 	3. papillary craniopharyngiomas - in <mark style="background: #FFF3A3A6;">adults - above the sellar, 3rd ventricle. similar symptoms but lack the stratum granulosom, having diff epithelium</mark>
 
 in KIDS!!!! most common neoplasm : 
-1. pilocytic astrocytoma - grade 1 
-	1. in cerebellum mostly but happens in all places including optic nerves 
+1. <mark style="background: #FFF3A3A6;">pilocytic astrocytoma</mark> - grade 1 
+	1. in <mark style="background: #FFF3A3A6;">cerebellum</mark> mostly but happens in all places including optic nerves 
 	2. contrast enhancing + think a lot of optic stuff like NF1 
 	3. <mark style="background: #FFF3A3A6;">cyst with mural nodule, biphasic, dense and loose in other areas. nonprogressive + rosenthal fibers + microcysts!!!!</mark>
 	4. ![[rosenthal fibers of pilocytic astrocytoma.png]]
 
-2. ependymomas - **rare in adults common in kids and PROGRESSES** =- grade 2 
+2. <mark style="background: #FFF3A3A6;">ependymomas</mark> - **rare in adults common in kids and <mark style="background: #FFF3A3A6;">PROGRESSES</mark>** =- grade 2 
 	1. from ependymal cells lining ventricles duh 
 	2. slow growing, lack high mitotic activity, vascular endothelial prolif, and necrosis; looks uniform but in central canal, obstructs CSF
 	3. can<mark style="background: #FFF3A3A6;"> progress to anaplastic ependymoma</mark> - grade 3, unfavorable prognosis with inc cellularity, brisk mitosis,vascular endothelial prolif 
 	4. <mark style="background: #FFF3A3A6;">pseudorosettes around BVs!</mark>
 	5. ![[ependymoma - pseudorosettes and rosettes.png]]
-- also worry about drop mets 
+- also worry abou<mark style="background: #FFF3A3A6;">t drop mets </mark>
 
 
 embryonal tumors - high grade 4 
-3. medulloblastomas - from cerebellum, 75% in vermis
+3. <mark style="background: #FFF3A3A6;">medulloblastomas</mark> - from cerebellum, 75% in vermis
 	1. Medulloblastomas** are _soft_ _friable_ brain tumors with areas of _necrosis_ that may contain <mark style="background: #FFF3A3A6;">MYC amplifications</mark>
-	2. extends into 4th ventricle!!!! hydrocephalous + inc intracranial pressure w/ headache, vomiting, truncal ataxia 
+	2. <mark style="background: #FFF3A3A6;">extends into 4th ventricle!</mark>!!! hydrocephalous + inc intracranial pressure w/ headache, vomiting, truncal ataxia 
 	3. <mark style="background: #FFF3A3A6;">solid contrast enhancing masses, hypercellular, many blasts</mark>
 	4. <mark style="background: #FFF3A3A6;">staging is actually important here - they drop metastasize via the CSF, seeing chunks of tumors distal to where it breaks apart</mark>
 	5. <mark style="background: #FFF3A3A6;">many homer-wright rosettes as seen in small blue cell tumors</mark> = neuronal rosettes 
 	6. we are worried about **drop mets = drop metastases - which can be malignancies that go into the subarachnoid space, and going down the cord**
 	7. ![[homer wright rosettes.png]]
-4. primitive neuroectodermal tumors = PNETS
+4. <mark style="background: #FFF3A3A6;">primitive neuroectodermal tumors = PNETS</mark>
 	1. from cerebral hemispheres, aggro af... this is a catch-all that we need to br8 into subtypes. 
 	2. well-circumscribed, **variably** contrast enhance + has cysts, calcification + hemorrhage
 
 5. NF1. = tumors + discoloration , most common affecting NS 
 	1. CNS and nonCNS (juvenile chronic myelogenous leukemia, sarcoms)
-	2. cafe au lait spots + lisch nodules
+	2. c<mark style="background: #FFF3A3A6;">afe au lait spots + lisch nodules</mark>
 	3. <mark style="background: #FFF3A3A6;">bony dysplasia , shortening of bone in forearm, skulls base etc. </mark>
 	4. l<mark style="background: #FFF3A3A6;">earning disabilities</mark> - not mental disabilities, **no qualify for the special ed ):
 	5. common - neurofibromas that develop during puberty, some hormonal connections 
 		1. dermal neurofibromas 
-		2. <mark style="background: #FFF3A3A6;">plexiform neurofibromas - born with these, in large nerves/plexeses and these CAN transform into agro schwann malignancies = MPNS1s.... leadin cause of death</mark>
+		2. <mark style="background: #FFF3A3A6;">*plexiform* neurofibromas - born with these, in large nerves/plexeses and these CAN transform into agro schwann malignancies = MPNS1s.... leadin cause of death</mark>
 6. NF2 = more central 
 	1. schwannomas - happening evrywhere - **prone to deafness**
 	2. AD 
 	3. NF2 gene lifespan shortened. the gene itself <mark style="background: #FFF3A3A6;">merlin/schwannomin which mediates communication bt cell surface membrane of cytoskeleton</mark>
 
 non-NF2 schwannomatosis 
-- not far from NF2 affected gene on th chromosome are nstead causing schwannomatosis called **LZTR1 or SMARCB1 on 22q as well**
+- not far from NF2 affected gene on th chromosome are nstead causing schwannomatosis called <mark style="background: #FFF3A3A6;">**LZTR1 or SMARCB1 on 22q as well**</mark>
 - no  bilateral acoustic schwannomas, but schwannomas elsewhere which make intratable tumor-related pain ; super pain ): 
 
 1. <mark style="background: #FFF3A3A6;">tuberous sclerosis complex</mark> TSC - AD inheritance, familial but 60% sporadic 
@@ -675,7 +678,7 @@ non-NF2 schwannomatosis
 		1. we see <mark style="background: #FFF3A3A6;">tubers = seizure foci!</mark>
 	4. <mark style="background: #FFF3A3A6;">unpredictably distrib hamartomata</mark> = many organs with the brain and kidney most involved!!!! 
 	5. 2-10% of all these subependymal lesions in brain progress = 
-		1. these can in the ventricles later become subependymal giant cell astrocytomas -<mark style="background: #FFF3A3A6;">SEGAS!!! ventriculomegaly, often calcified and makes the psace larger than usual.</mark>
+		1. these can in the ventricles later become subependymal giant cell astrocytomas or SEGAS!!!!!!!! -<mark style="background: #FFF3A3A6;">SEGAS!!! ventriculomegaly, often calcified and makes the space larger than usual.</mark>
 		2. ![[TSC seizure tubers and SEGAs candle gutterings.png]]
 
 
@@ -693,34 +696,34 @@ non-NF2 schwannomatosis
 	2. gross change - shrunken, yellow-brown mamillary bodies... and **dilated 3rd ventricles with 2/2 loss of brain tissue**; neurons die, and you get reactive gliosis and byproduct of that ... <mark style="background: #FFF3A3A6;">hemosiderin</mark> is seen 
 	3. we see **atrophic** mamillary bodies + **atrophic cerebellum too**
 	4. 4th ventricles = punctate hemorrhages all around and all around the cerebaral aqueduct and see **many white space, rarefaction = loss of brain substance, cavitation + macrophages.**
-3. cerebellar degeneration = truncal ataxia. = no coordinaton of <mark style="background: #FFF3A3A6;">lower limbs</mark>
+3. **cerebellar degeneration** = truncal ataxia. = no coordinaton of <mark style="background: #FFF3A3A6;">lower limbs</mark>
 	1. can happen with **wenicke korsakoff**
 	2. **atrophy of anterior vermis lobe** - more space between superior and anterior lobes. the<mark style="background: #FFF3A3A6;"> **atrophy = whitened spaces between folia**</mark> 
 	3. 3 layers = moelcular, purkinje and internal granule cell layer; with purkinje cell losses and smaller internal graunle cell loss 
-	4. long term alc abuse 
+	4. long term alc abuse ; 
 4. osmotic demyelination syndrome - <mark style="background: #FFF3A3A6;">central pontine myelinolysis </mark>
-	1. in the middle of the pons, the gryish dark areas are in midline of the pons - bat sign 
+	1. in the middle of the pons, the gryish dark areas are in midline of the pons - **bat sign** 
 	2. due to rapi reversal of <mark style="background: #FFF3A3A6;">hyponatremia in alcohol use...dysosmolar state, the quick correction of sodium  </mark>
-	3. <mark style="background: #FFF3A3A6;">pons</mark> most impacted
+	3. <mark style="background: #FFF3A3A6;">pons</mark> most impacted;
 	4. seen most often in liver transplant 
 	5. can see severe burns, and then variable demyelination -> degrees of deat, paralysis or altered consciousness, 
 	6. <mark style="background: #FFF3A3A6;">we see a BAT shaped sign = lack of myelination in the middle of the pons. also caused by polyneuropathy.</mark>
-5. b12 deficiency - subacute combined degeneration 
+5. b12 deficiency - **subacute combined degeneration** 
 	1. malabs of cobalamin or issues with IF release and lack of B12 absorption 
-	2. symmetrical <mark style="background: #FFF3A3A6;">progressive</mark> lower extremity paresthesias. +weakness which begins distal -> proximal 
+	2. **symmetrical** <mark style="background: #FFF3A3A6;">progressive</mark> **lower** extremity paresthesias. +**weakness which begins distal -> proximal** 
 	3. <mark style="background: #FFF3A3A6;">loss of postural sensation / unsteady gait, spasticity, and paraplegia, contractures, ataxia, white matter of spinal cord degen, posterioor sensory + lateral motor columns fucked up....</mark>
 	-  early demyelination with later axon loss + gliosis; demyelination is secondary to this degeneration. 
 
 acquired metabolic diseases
 1. diabetic hypoglycemic encephalopathy - insulin od... neurons need constant glucose  and without glucose for 1-2 hrs brain is dmg'd 
-	1. neuronal degeneration selective... most are most sensitivty and die first; like  pyramidal neurons of the cerebral cortex layers 3,5,6!!! -> laminar necrosis  die first!!! 
-	2. dentate nucleus in infant 
+	1. neuronal degeneration selective... most are most sensitivty and die first; **like  pyramidal neurons of the cerebral cortex layers 3,5,6!!! -> <mark style="background: #FFF3A3A6;">laminar necrosis</mark>  die first!!!** 
+	2. <mark style="background: #FFF3A3A6;">dentate nucleus in infant </mark>
 	3. pyramidal neurons CA1 = <mark style="background: #FFF3A3A6;">sommer's hippocampus will die first! memory injury</mark>
 	4. acute hypoglycemic brain injury - swelling + discoloration + see hypereosinophilic neurons 
 	5. dead **red neurons in dentate nucleus with no nucleus seen + blue cytoplasm**
-	6. chronic hypoglycemic brain injury - laminar necrosis, cavities seen.... inc white space 
-	7. any gliosis - pink cytoplasm + spider like processes = the astrocytes ! 
-2. acquired metabolic encephalopathy - liver dz 
+	6. chronic hypoglycemic brain injury - **laminar necrosis, cavities seen.... inc white spa**ce 
+	7. any gliosis - pink cytoplasm + spider like processes = **the astrocytes !** 
+2. <mark style="background: #FFF3A3A6;">acquired metabolic encephalopathy</mark> - liver dz 
 	1. inc ammonia levels ;  variable depending on duration + acute v chronic 
 	2. typical - cog impairment, confusion drowsiness -> coma, asterixis, 
 	3. acute = can be rapidly fatal but chronic / repeted episodes = neuropsych disturbance, ataxia, dysarthria 
@@ -740,10 +743,10 @@ acquired metabolic diseases
 	1. nonspecific symptoms, nausea, abd pain, fatigue, altered mental, seizures 
 	2. chronic/survivors = cog/neuropsych/mood instability, dystonia, parkinsonium, chorea ; perm brain dmg
 	3. <mark style="background: #FFF3A3A6;">cavitation of the globus pallidis + necrosis, bilateral hemorrhagic infarc.</mark> + demyelination 
-6. methanol - from moonshine contaimination 
+6. methanol - from m<mark style="background: #FFF3A3A6;">oonshine contaimination </mark>
 	1. can go <mark style="background: #FFF3A3A6;">blind - retinal + optic nerve</mark> dmg 
 	2.  hemorrhagic leukoencephalopathy - <mark style="background: #FFF3A3A6;">focal white matter necrosis </mark>
-	3 bilateral putamen necrosis 
+	3<mark style="background: #FFF3A3A6;"> bilateral putamen necrosis </mark>
 
 iatorogenic things 
 - radiation terapy = coagulative necrosis, 
@@ -759,10 +762,10 @@ special feat of cns infections -  don't have a lot of room, edema can easily lea
 
 on lumbar tap = all values have raise pressure ; CSF: 
 acute bacteria = pmns, protein up, and rlly low glucose
-	e coli , listeria, GBS, S. pneumnia = neonatal, 
-	young kids = s. pneumoniae, h influenczae
-	older kids/young adult = n. meningitidis , s. pneumonia
-	elderly = s. pneumonia, listeria, G-negs
+	<mark style="background: #FFF3A3A6;">e coli , listeria, GBS, S. pneumnia</mark> = neonatal, 
+	young kids = s. <mark style="background: #FFF3A3A6;">pneumoniae</mark>, h influenczae
+	older kids/young adult = n. <mark style="background: #FFF3A3A6;">meningitidis</mark> , s. pneumonia
+	elderly = s. pneumonia,<mark style="background: #FFF3A3A6;"> listeria, G-negs</mark>
 	immune comp = add listeria 
 acute viral = lymphs,  protein up, normal glucose, 
 chronic - lymphs up, **protein high,** low glucose 

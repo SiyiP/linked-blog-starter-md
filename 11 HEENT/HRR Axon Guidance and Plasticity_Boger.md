@@ -14,11 +14,11 @@ signals for guidance
 	- tropic vs trophic 
 		- tropic - helps with guiding and developping
 		- trophic - pH molecules which help **synaptic development to connect that axon to target once it's set up** - config change . and pH stays longer. 
-	- netrins - direct axonal growht across midline 
+	- netrins - direct axonal growht across midline ; go across midline like once 
 		- these **direct axons to go across the midline. seen in the comissural factors, ALS, DCML too crossing midline!**
 	- calcium - the main driver of this growth/development - with time, a brighter signal in imgs, we see ca+ 
 - chemorepellent - to discourage growth 
-	- slit - **prevent the axon from crossing back over midline once it's made to cross**
+	- slit - **prevent the axon from crossing back over midline once it's made to cross** !!!!!
 	- robo - 
 	- <mark style="background: #FFF3A3A6;">semaphorins</mark> - 
 		- will see axon retraction.

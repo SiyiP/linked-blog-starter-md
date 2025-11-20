@@ -48,14 +48,15 @@ cranial nerve palsies - usually acquired as a result of strabismus
 
 <mark style="background: #FFF3A3A6;">blephritis. - inflammation of eyelid margin - redness, flaking, crusting of eyelashes-</mark>
 - often associated with **rosacea , itchy and irritated eyes**
-<mark style="background: #FFF3A3A6;">- due to demodex **mites + bacteria on eyelashes**</mark>
+<mark style="background: #FFF3A3A6;">- due to demodex **mites + bacteria on eyelashes**</mark> - mites they have on their eyelid for a while 
 <mark style="background: #FFF3A3A6;">- tREAT: hygiene with warm rinse, tea tree oil, and doxy </mark>
 
 dacryocystitis - 
-- <mark style="background: #FFF3A3A6;">- **nasolacrimal gland - forms from ectodermal cells at week 7.... draining teas thru the canaliculi of eyelid**</mark>
+- <mark style="background: #FFF3A3A6;">- **nasolacrimal gland - forms from ectodermal cells at week 7.... draining tears thru the canaliculi of eyelid**</mark>
 	- papilla + punctal portions of this are patient and formed. 
 	- but nasal lacrimal duct system canalizes along extent simultaneously 
 	- t<mark style="background: #BBFABBA6;">his is the last portion to canalize = **opening to inferior meatus of nasal cavity called VALVE OF HASNER nearest to the nose = may not open up**</mark>
+	- basically the valve of hasner nearest to the nose, the nasolacrimal gland might not even open and get super built up 
 	- **at birth sometimes that's blocked so you get buildup near nose + eyes**
 	- respond well to warm compress + massage -> **opens it up esp after 1st 6 mon** 
 - sometimes adults get that inflammation to that area = <mark style="background: #FFF3A3A6;">NLDS = nasolacrimal duct obstruction </mark>
@@ -65,15 +66,15 @@ dacryocystitis -
 
 preseptal vs orbital cellulitis 
 - **preseptal cellulitis** - most common around outside of eyes
-	- infection on anterior eyelid, all **in front of septum, important eye stuff not involved**
-	- common s. aureus + pyogenes + influenzae, pneumoniae etc. 
-	- usually manage outpatient with oral antibiotics augmenten 
-- orbital cellulisis - infection of <mark style="background: #FFF3A3A6;">orbit fat and ocular muscles </mark>
-	- deeper infection!!!
+	- infection on anterior eyelid, all **in fr<mark style="background: #FFF3A3A6;">ont of septum</mark>, im<mark style="background: #FFF3A3A6;">portant eye stuff not involved</mark>**
+	- <mark style="background: #FFF3A3A6;">common s. aureus + pyogenes + influenzae, pneumoniae</mark> etc. 
+	- usually manage <mark style="background: #FFF3A3A6;">outpatient</mark> with oral antibiotics augmenten 
+- orbital cellulitis - infection of <mark style="background: #FFF3A3A6;">orbit fat and ocular muscles </mark>
+	- <mark style="background: #FFF3A3A6;">deeper</mark> infection!!!
 	- <mark style="background: #FFF3A3A6;">	- loss of vision + life. </mark>
 	- can be distinguishe by <mark style="background: #FFF3A3A6;">eye pain, diplopia, proptosis, dec vision, pain with eye movement</mark>
 	- needs CT scan around the eye 
-	- common bacterial organisms causing orbital cellulitis = s. aureus 
+	- common bacterial organisms causing orbital cellulitis =<mark style="background: #FFF3A3A6;"> s. aureus </mark>
 
 proptosis - <mark style="background: #FFF3A3A6;">protrusion of eyeball</mark> due to **inc in orbital pressure/contents**
 - common cause in adults = **graves dz, thyroid**
@@ -105,7 +106,7 @@ proptosis - <mark style="background: #FFF3A3A6;">protrusion of eyeball</mark> du
 
 <mark style="background: #FFF3A3A6;">hyperpurulent conunctivitis - gonococcus - </mark>
 <mark style="background: #FFF3A3A6;">- very severe + needs emergency treatment</mark>
-- w/ **neisseria gonorrhoeae 
+- w/ **<mark style="background: #FFF3A3A6;">neisseria</mark> gonorrhoeae 
 - may present in <mark style="background: #FFF3A3A6;">newborns</mark>!! transmission during delivery or sexually transmitted
 
 
@@ -119,7 +120,7 @@ proptosis - <mark style="background: #FFF3A3A6;">protrusion of eyeball</mark> du
 - patients - shuld be follow for<mark style="background: #FFF3A3A6;"> formation of conjunctival membranes. membranes should be removed + we should get corticosteroids to minimize sca</mark>r + symblepharon formation 
 
 
-corneal abrasion - fluorescein stain 
+<mark style="background: #FFF3A3A6;">corneal abrasion</mark> - fluorescein stain 
 - see fluoresent appearance abrasian in blue light 
 - <mark style="background: #BBFABBA6;">avoid topical anesthetics in these instances like proparacain / tetracain </mark>!!! - **with topical anesthetic abuse, making that iris really white**
 
@@ -218,7 +219,9 @@ posterior pole anatomy -
 <mark style="background: #FFF3A3A6;">papilledema</mark> - <mark style="background: #FFF3A3A6;">swollen optic nerve</mark>s have many causes,,, but specifically refers to **optic nerve**
 - we see rim big and vessels not there
 - if it's **<mark style="background: #FFF3A3A6;">swollen BECAUSE of inc INTRACRANIAL pressure</mark> (due to mass, dural venous thrombosis, idiopathic intracanial htn)**
-- see swollen nerve, just describe it as optic nerve swelling until you know the etiology of why it's swollen. 
+<mark style="background: #FFF3A3A6;">- see swollen nerve, just describe it as optic nerve swelling until you know the etiology of why it's swollen. </mark>
+- 
+
 
 <mark style="background: #FFF3A3A6;">retinal tear + detachments</mark>
 - flashes of light, floating spots. 
