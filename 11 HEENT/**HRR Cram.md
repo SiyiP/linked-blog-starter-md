@@ -72,10 +72,20 @@ note - some o the contralateral auditory input to eh <mark style="background: #F
 
 ---
 olfaction CN. 1 
-
+<mark style="background: #FFF3A3A6;">predominantly ipsilateral</mark>
 olfactory bulb -> fibers of olfacotry nerves themselves traveling thru cribiform plate -> synapses in the <mark style="background: #FFF3A3A6;">olfactory bulbs, which are mitral tufted cells</mark> -> olfactory tract -> 
-	-> pyriform cortex, the uncus, the ventromedial aspect of temporal lobe -> orbitofrontal cortex 
+	-> pyriform cortex, the uncus, the ventromedial aspect of temporal lobe -> orbitofrontal cortex ; perception of smell + taste for finate things 
 	-> olfacotry tubercle 
 	-> amygdala 
-	-> entorhinal cortex -> <mark style="background: #FFF3A3A6;">mem aspect of smell -> hippocampal formati</mark>
+	-> entorhinal cortex -> <mark style="background: #FFF3A3A6;">mem aspect of smell -> hippocampal formation</mark>
+		all these send to the hypothalamus (autonomic)
+		and some to thalamus which sends to the orbitofrontal cortex 
 - this is the only thing that doens't use thalamus as relay!!!
+
+---
+taste
+CN 7, 9(bitters on back o tongue), 10 (taste buds on epiglottis itself)
+taste buds -> <mark style="background: #FFF3A3A6;">nucleus of solitary tract</mark> in the medulla, in rostral -> vPM of thalamus -> **insular** + frontal taste cortices... -> 
+- end up in the hypothalamus (autonomc response)
+- amygdala - emotional responses to these !!! 
+- and some in the hippocampus as a memory for taste. 

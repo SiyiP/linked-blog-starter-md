@@ -971,3 +971,55 @@ vestibulae, inferior + middle concha - resp epithelium PCCE
 
 renke's space just below the vocal fold epithelium = has elastins = **clinically important bc it gets edematous associated with smoking and abuse of vocal folds**
 
+----
+med imgs of CNS 
+MRI
+
+CT - most quick and easy ; very ER-centered, few CIs .... to bregnant and young pts safe 
+- bone algorithm is here to see it too - can see malleus, ossicles, etc - see fractures and more. 
+- only scan someone once 
+- <mark style="background: #FFF3A3A6;">hemorrhage, hydrocephalus(huge ventricles), herniation, infarction</mark>
+- CT scan WITH contrast - need to use this using iodine, which gets a lot of photons - to look at blood vessels bc stroke is huge here. 
+	- CT angiogram is what it's called looking for too much blood or no blood 
+	- most dense = bright = bone 
+	- gray = intermediate like muscle 
+	- air = fat and air 
+	- embolic stroke - we see occlusion in the Circ of willis or a lack of vasculature. 
+	- can do 3d reconstructions via this - helping how to treat something like a complex aneurysm. 
+	- IV contrast = normally these won't cross the BBB 
+		- usually to look at the brain and to look at vessels? - CT angiogram or infection/neoplasm = we need CT w/ contrast
+		- something like broken bone = no contrast 
+		- note - <mark style="background: #FFF3A3A6;">if u see spillage of contrast into brain think of things that make BBB leaky - inflammation, infection, neoplasm</mark>
+US = for kids with open fontanelle 
+img guided biopsy - to look into the lesion they gotta biopsy - 
+
+MRI:  = challenging - fat, muscle, brain all look different. 
+- very detailed pic of brain - to further delineate things 
+- 2 main sources - water + fat 
+- not emergencies, think of this for superiro tissue characterization, use diff pulse sequences for better characterization 
+- more sensitive 
+- T1w = <mark style="background: #FFF3A3A6;">csf dark, and the white matter is brightr than the cortex</mark>' water is dark has pre/post things 
+- contrast - T1 relaxation, doesn't cross BBB... enhances plaque of demyination 
+	- we see tumor's shrinking etc... enhancement is not a tumor. necrosis is still enhancing. 
+	- contrast = to see blood flow 
+- T2w. =<mark style="background: #FFF3A3A6;">CSF bright, white matter darker than the cortex</mark>; water is bright 
+	- what we can do - we can suppress the bright signal fromt he fat 
+- FLAIR = fluid attenuated inversion recovery - the T2 w img with csf signal nullded by inversion pulse 
+	- <mark style="background: #FFF3A3A6;">white matter is dark, and CSF dark</mark>
+	- basically whatever's still white is more conspicuous 
+- DWI - diffusion weighed imaging - <mark style="background: #FFF3A3A6;">how free are water molecues to move back and forth?</mark>
+	- great for strokes - embolic things - to find the stroke. acute infarc. 
+	- more evidence on MRI 
+	- great for **absesses!** = has whiteness
+	- metastasis = tumors metastases is gonna be dark cavities 
+	- can be colorful like red, green, blue etc 
+- spectroscopy - mesaure metbolites in brain for metabolic anomalies testing 
+	- also good for testing how much your brains' consuming 
+	- unmetabolized tihngs we see a huge spike up
+- MR perfusion - how much bloo flows going to a certain part of the brain?? 
+- functional HRI. - using deooxyhemoobglobin to read the blood flows and see what they're thinking etc 
+	- like left side lighting up with language use 
+- PET scans - study hw much glucose gets into the brain.. good to detect epilepsy and dementia and gliomas 
+
+---
+sphenoid sinus - we go thru here to do take out the pituitary tumor. 
