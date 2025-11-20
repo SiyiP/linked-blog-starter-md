@@ -43,6 +43,7 @@ ocular motor nerves
 - in the more caudal midbrain, the **trochlear nucleus** which is medial in the brainstem exits on the **dorsal surface** -> **crossing to innervate the contralateral superior oblique msucle = only thing is to rotate nasally** intorsion - 
 - pontine medullary junction - has the abducens nucleus = on the **pons** -> ventral side and goes to innervate **ipsilateral lateral rectus muscl**
 	<mark style="background: #FFF3A3A6;">- **recall the oculomotor , trochlear and abducens nuclei all communicate via the medial longitudinal fasciculus -</mark>** 
+	trochlear = the only contralateral thing
 
 reviews of patho
 1. CN 3 oculomotr nerve palsy : triad
@@ -76,23 +77,23 @@ if you lesion ....
 	- right lateral gaze palsy - neither eye moving to the right due to nucleus taken offfline 
 - taking the right PPRF offline 
 	- eyes both can move to the left
-	- neither eye can move to the right bc it controls the ipsilateral horizontal movement... 
-- specific lesion bt L MLF... connecting that **abducens nuc to the contralateral/R occulomotor nucleus**
-	- L eye moves to left bc **not impacting abducens** and right eye moves to the L **bc the MLF on the R is still intact**
-	- R eye still moves to the R bc abducens not impacted. 
+	- n<mark style="background: #FFF3A3A6;">either eye can move to the right bc it controls the ipsilateral horizontal movement...</mark> 
+- specific lesion<mark style="background: #FFF3A3A6;"> bt L MLF.</mark>.<mark style="background: #FFF3A3A6;"></mark>. connecting that **abducens nuc to the contralateral/R occulomotor nucleus**
+	- <mark style="background: #FFF3A3A6;">L eye moves to left</mark> bc **not impacting abducens** and right eye moves to the L **bc the MLF on the R is still intact**
+	- <mark style="background: #FFF3A3A6;">R eye still moves to the R bc abducens not impacted.</mark> 
 	- L eye **can't move t the right bc the L medial rectus can't contract due to severed nerve between the R abducens nucleus + L oculomotor!**
 	- internuclear opthalmoplegia = the unaffected eye also has nystagmus .... maybe other abducens nerve tries to compensate 
 - left MLF and L abducens nucleus - both ofline!
 	- basically L eye can't move to left. so R eye can't moves to L bc the L MLF can't send contralaterally to the oculomotor 
-	- R eye can move to the right bc abducens on R is fine. but the L eye can't move bc the MLF which connects the R abducens to the L rectus 
+	- R eye can move to the right bc abducens on R is fine. but the L eye can't move bc the <mark style="background: #FFF3A3A6;">MLF which connects the R abducens to the L rectus </mark>
 	- 1 1/2 syndrome = only half of the function of 2 eyes in place. 
 vertical gaze control 
 - superior + inf rectus and sup + inf oblique
 - CN 3 + CN 4 
-- rostral midbrain reticular formation - RMRF = close to the oculomotor nuclei and trochlear nuclei 
+- rostral midbrain reticular formation - <mark style="background: #FFF3A3A6;">RMRF = close to the oculomotor nuclei and trochlear nuclei </mark>
 	- more dorsal = upward control gase
 	- more ventral = downgaze control 
-- MLF will interconnect VGC and HGC together. 
+- <mark style="background: #FFF3A3A6;">MLF will interconnect VGC and HGC together. </mark>
 we don't go as in depth. 
 superior colliclulus - **contralaterally activate the other side of the gaze center!!**
 	taking in integrations of visual, auditory, tactile information to organize eye and head movements to fixate on objects!!!!
@@ -115,3 +116,6 @@ parietooccipitotemporal area - ipsilateral pursuit movements - transient?
 these are transient bc frontal eyefield sends 2 projection = one to the superior colliculus and one bypassing it to go straight to the PPRF...
 - still some control of saccadic eye movements in spite of this 
 
+
+
+auditory

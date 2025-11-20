@@ -2,9 +2,9 @@
 
 hypothalamus- smaller part of diencephalon, but smaller
 - edge of mamillary bodies, which are hypothalamic nuclei 
-- region rostral to optic chiasm = preoptc area 
+- region **rostral to optic chiasm** = preoptic area 
 - caudal end = merges with central gray and reticular formation of midbrian tegmentum 
-- defined by the medial edge of internal capsule 
+- d**efined by the medial edge of internal capsule** 
 
 has 12+ nuclei!
 maintians homeostasis
@@ -17,83 +17,87 @@ sends information to mammilary bodies for memory formation control over all othe
 
 selectively choosing which nuclei to talk about 
 they are all aggregated dorsal to the pituitary nuclei 
-- clusters that are more medial - more discrete borders + **more influence on hormonal production bc situation over that pituitary gland**
-- lateral nuclei - more disperse but next to the **medial forebrain bundle of fibers**, which will have more impact on viseral motor systems, -> reticular areas -> reticular areas of brainstem
+- clusters that are more <mark style="background: #FFF3A3A6;">medial</mark> - more discrete borders + **more influence on <mark style="background: #FFF3A3A6;">hormonal</mark> production bc situation <mark style="background: #FFF3A3A6;">over that pituitary gland</mark>**
+- <mark style="background: #FFF3A3A6;">lateral</mark> nuclei - more <mark style="background: #FFF3A3A6;">disperse</mark> but next to the **medial forebrain bundle of fibers**, which will have more impact on <mark style="background: #FFF3A3A6;">viseral moto</mark>r systems, -> reticular areas -> r<mark style="background: #FFF3A3A6;">eticular areas of brainstem</mark>
 
 ![[hypothalamus pathways overview.png]]
-hippocampus -> sends information thru the fornix -> mammillary bodies!  -> mammothalamic tract output -> anterior thalamic nucleus in the thalamus 
+hippocampus -> sends information thru the <mark style="background: #FFF3A3A6;">fornix</mark> -> <mark style="background: #FFF3A3A6;">mammillary</mark> bodies!  -> <mark style="background: #FFF3A3A6;">mammothalamic</mark> tract output -><mark style="background: #FFF3A3A6;"> anterior thalamic nucleus in the thalamus </mark>
 
-mammlillary bodies -> mamlllotegmental tract sends info to the -> tegmental area of the midbrain for -> connect to reticular areas for visceral motor responses 
+mammlillary bodies -> <mark style="background: #FFF3A3A6;">mamlllotegmental</mark> tract sends info to the -> <mark style="background: #FFF3A3A6;">tegmental area</mark> of the midbrain for -> connect to <mark style="background: #FFF3A3A6;">reticular areas for visceral motor responses </mark>
 
-preoptic areas in the lateral hypothalamus inside the hypothalamus = seria medularis fiber bundle connect these. 
+<mark style="background: #FFF3A3A6;">preoptic</mark> areas in the <mark style="background: #FFF3A3A6;">lateral</mark> hypothalamus inside the hypothalamus = <mark style="background: #FFF3A3A6;">seria medularis fiber bundle</mark> connect these. 
 
-amygdala emotional center -> seria terminalis -> medial basal nuclei of hypothalamus associated with hormones
-amygdala -> will send informaton to the more lateral nuclei thru the ventral amygdulofugal fibers-> ventral forebrain 
+<mark style="background: #FFF3A3A6;">amygdala</mark> emotional center -> <mark style="background: #FFF3A3A6;">seria terminalis </mark>-> <mark style="background: #FFF3A3A6;">medial basal nuclei of hypothalamus associated with hormones</mark>
+amygdala -> will send informaton to the <mark style="background: #FFF3A3A6;">more lateral nuclei </mark>thru the v<mark style="background: #FFF3A3A6;">entral amygdulofugal fiber</mark>s-><mark style="background: #FFF3A3A6;"> ventral forebrain </mark>
 
 interconnection of forebain + the brainstem nuclei 
 - via the medial forebrain bundle 
 
 anterior to posterior nuclei list: 
-1. preoptic areas : 3 nuclei but don't have to differentiate
-	1. has sexually dimorphic nuclei - erection, t release etc in men. so it's bigger in size
-	2. regulate body temp with anterior hypothalamus 
-		1. basically works with the anterio hypothalamus, which is posterior to the preoptic area - they're close
-		2. inc of body temp or pyrogens -> stimulate the preoptic area -> via anterior hypothalamus -> output into the peripheral vasodilation sweating etc to cool off
-		3. preoptic area -> **posterior hypothalamus** - for when it's too cold; -> **deactivate the preoptic area** -> activation of posterior hypothalamus -> peripheral vasodilation , shivering, inc tissue metabolism. heat conservation 
-		4. other region that input to the preoptic ara: the septal nucleus, which gets vasopressin and helps regulate fevers to start the cooling offf phase of the body 
+1. <mark style="background: #FFF3A3A6;">preoptic</mark> areas : 3 nuclei but don't have to differentiate
+	1. has <mark style="background: #FFF3A3A6;">sexually dimorphic</mark> nuclei - <mark style="background: #FFF3A3A6;">erection, t release etc in men. so it's bigger in size</mark>
+	2. regulate <mark style="background: #FFF3A3A6;">body temp with anterior hypothalamus</mark> 
+		1. basically works with the<mark style="background: #FFF3A3A6;"> anterior hypothalamus, which is posterior to the preoptic area</mark> - they're close
+		2. inc of body temp or <mark style="background: #FFF3A3A6;">pyrogens</mark> -> stimulate the preoptic area -> via anterior hypothalamus -> output into the <mark style="background: #FFF3A3A6;">peripheral vasodilation sweating etc to cool off</mark>
+		3. preoptic area -> **<mark style="background: #FFF3A3A6;">posterior</mark> hypothalamus** - for when it's <mark style="background: #FFF3A3A6;">too cold;</mark> -> **deactivate the preoptic area** -> activation of posterior hypothalamus -> peripheral vasodilation , shivering, inc tissue metabolism. heat conservation 
+			1. <mark style="background: #BBFABBA6;">anterior hypothalamus for too hot, and posterior for when it's too cold, to deactivate preoptic area....</mark>
+		4. other region that input to the preoptic area: the <mark style="background: #FFF3A3A6;">septal nucleus, which gets vasopressin and helps regulate fevers to start the cooling offf phase of the body </mark>
+			1. for when ur too mad. 
 	3. neurons secrete regulaors of gonadotrophin secretion 
-2. suprachiasmatic nucleus
+2. <mark style="background: #FFF3A3A6;">suprachiasmatic</mark> nucleus
 	1. above the optic chiasm 
-	2. input from retinal axons abt light
-	3. outputs do entrainment of circadian rhythm to the light cycle 
-	4. **sends via the superior cervical gangliion connection to pineal gland alters the melatonin secretion**
+	2. input from<mark style="background: #FFF3A3A6;"> retinal axons abt light</mark>
+	3. outputs do entrainment of<mark style="background: #FFF3A3A6;"> circadian rhythm</mark> to the light cycle 
+	4. **sends via the <mark style="background: #FFF3A3A6;">superior cervical gangliion connection to pineal gland</mark> alters the melatonin secretion**
 	5. animals who hibernate has larger suprachiasmatic nucleus
-	6. older adults have issue with sleep bc the pineal gland would calcify, so melatonin isn't as released. 
+	6. older adults have i<mark style="background: #FFF3A3A6;">ssue with sleep bc the pineal gland would calcify,</mark> so melatonin isn't as released. 
 mid-rostral slice - tuberal region 2 
 3. anterior hypothalamus - thermosensors 
 	1. endogenous core temps + peripheral input 
 	2. promotes thermal dissipation w preoptic area
-4. paraventricular + supraoptic nuclei - 
-	1. sits closer to midline
-	2. magnocellular neurosecretoy - very visible + big
+4. <mark style="background: #FFF3A3A6;">paraventricular</mark> + <mark style="background: #FFF3A3A6;">supraoptic</mark> nuclei - 
+	1. sits <mark style="background: #FFF3A3A6;">closer to midline</mark>
+	2. <mark style="background: #FFF3A3A6;">magnocellular neurosecretoy - very visible + big</mark>
+		1. these secrete oxytocin + vasopressin. 
+		2. axons end on the capillaries of posterior pituitary 
 	3. axons end on capillaries of posterior pituitary 
-	4. secretion of oxytocin SM constraction + vasopressin / ADH regulation in kidney water function 
+	4. <mark style="background: #FFF3A3A6;">secretion of oxytocin SM constraction + vasopressin / ADH regulation in kidney water function </mark>
 	5. these regions are quite large ... 
-	6. these will send axons down to the **more posterior region of pituitary**
-5. anterior pituitary 
-		1. parvocellular neuroendocrine neurons secrete regulatory peptdes into capillary plexus
-		2. these portal vessels carry peptides/NTs ot the capillary plexus in anterior primry 
-		3. regulation of the GH, LSH etc. 
-	8. tuberal nuclei -> will send iinformation directly to anterior pituitary to regulate hormones + sexual behaviors. 
+	6. these will send axons down to the **more <mark style="background: #FFF3A3A6;">posterior</mark> region of pituitary**
+5. <mark style="background: #FFF3A3A6;">anterior</mark> <mark style="background: #FFF3A3A6;">pituitary</mark> 
+		1. parvocellular neuroendocrine neurons secrete <mark style="background: #FFF3A3A6;">regulatory peptdes into capillary plexus</mark>
+		2. these portal vessels carry <mark style="background: #FFF3A3A6;">peptides/NTs ot the capillary plexus in anterior primry </mark>
+		3. regulation of the<mark style="background: #FFF3A3A6;"> GH, LSH etc. </mark>
+	8. <mark style="background: #FFF3A3A6;">tuberal nuclei</mark> -> will send iinformation directly to <mark style="background: #FFF3A3A6;">anterior</mark> pituitary to regulate<mark style="background: #FFF3A3A6;"> hormones + sexual behaviors. </mark>
 	9. these are small celled 
 6. tuberal region 3, mid-caudal slice
 	1. will still see both the paraventricular and supraoptic nuclei 
-7. ventromedial + lateral nuclei - feeding behavior 
+7. <mark style="background: #FFF3A3A6;">ventromedial + lateral nuclei - feeding</mark> behavior 
 	1. destroy the ventromedial = obesity 
-	2. if you stimulate the Ventromedial = stop eating. 
+	2. if you <mark style="background: #FFF3A3A6;">stimulate the Ventromedial = stop eating. </mark>
 	3. lateral area destructoin = starvation 
-	4. Destroy LH = startvation, and stimulate LH. = inc eating. 
+	4. Destroy LH = startvation, and<mark style="background: #FFF3A3A6;"> stimulate LH. = inc eating. </mark>
 	5. altered sensory info (GI receptors -> mechanoreceptors) , altered set point(starved guy), altered sensory information 
 	6. eat -> inc glucose -> Ventromedal hypothalamus -> satiety -> eating stops -> dec in blood glucose -> lateral hypothalamus turned on... 
 feeddback cues
 - short term - regulated in a meal like circulating glucose back t the hypothalamus  , GI peptides, mechanoreceptors 
-- long-term cues - regulate overaall body weight. 
-	- leptin in fat cells-> to hypothalamus -> expressed in fat cells -> bind to leptin recptors 
-- also eruglation of diff nucleus
+- l<mark style="background: #FFF3A3A6;">ong-term cues - regulate overaall body weight</mark>. 
+	- <mark style="background: #FFF3A3A6;">leptin</mark> in fat cells-> to hypothalamus -> expressed in fat cells -> <mark style="background: #FFF3A3A6;">bind to leptin recptors </mark>
+- also reg of diff nucleus
 	- - apply glaanin in PVN inc fat ingestion
 	- apply opiates in PVN protein ingeston 
 
 posterior slide/caudal
 - posterior hypothalamus - higher up to promote thermal conservation body 
-- mammillary bodies - input from hippocampus, output to anterior thalamic nucleus 
+- <mark style="background: #FFF3A3A6;">mammillary</mark> bodies - <mark style="background: #FFF3A3A6;">input from hippocampus, output to anterior thalamic nucleus</mark> 
 
 limbic system 
 hippo campus - starting point 
 - sending via fornix up and arund it and into mamillary bodies 
 - mammillary body projects to anterior nucleus of thalamus
-- anterior thalamic nucleus projects to cingulate gyrus 
-- gingulate gyrus connect to hippocampus via cingulum bundle 
+- <mark style="background: #FFF3A3A6;">anterior thalamic nucleus projects to cingulate gyrus </mark>
+- <mark style="background: #FFF3A3A6;">gingulate gyrus connect to hippocampus via cingulum bundle </mark>
 
-histamine - tuberomammillary nucleus - this is found here, does promote behavioral arousal 
+<mark style="background: #FFF3A3A6;">histamine</mark> -<mark style="background: #FFF3A3A6;"> tuberomammillary nucleus</mark> - this is found here, does promote<mark style="background: #FFF3A3A6;"> behavioral arousal</mark> 
 
 hypothalamus - integrates autonomic , endocrine, motifvated 

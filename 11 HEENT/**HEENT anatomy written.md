@@ -1059,5 +1059,15 @@ lesion in Masseters - rhabdomyosarcomas - very aggressive.
 CT guided biopsies can help 
 looking into mucosal lesions, etc. 
 
-tvc paralysis
-laryngeal polyp
+tvc paralysis- lesion downrecurrent laryngeal nerve, the cord is fixated. 
+
+laryngeal polyp - along the larynx, a bump seen ehere 
+
+oral cavity - 
+MR - how it moves and falls onto back sleep apnea. 
+metastatic lymphadenopathy = when some1 has a neoplasm, it spreads to nodes in head and neck - huge head and neck tumors 
+- CT = to look at the amount of lymph nodes reallly involved 
+pet scan - for glucose - good for detecting a bunch o cancers/metabolically active places
+
+
+perineural tumor spread 

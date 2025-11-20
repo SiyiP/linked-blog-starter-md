@@ -103,8 +103,8 @@ myocarditis - most often caused by Coxsackie B3
 - EKG abnormalities or elevated cardiac enz, chest pain? 
 - can have sudden death, rest is important 
 
-hand foot mouth disease - HFMD
-- fever + vesicular eruption over extremities + oral cavity, mainly kids 
+h<mark style="background: #FFF3A3A6;">and foot mouth disease</mark> - HFMD
+- fever + vesicular <mark style="background: #FFF3A3A6;">eruption over extremities + oral cavity, mainly kids </mark>
 - **coxsackie virus A16 = mild**
 - enterovirus 71 - **way more sever, can cause encephalitis, perm flaccid paralysis, fatal cardiopulm failure**
 

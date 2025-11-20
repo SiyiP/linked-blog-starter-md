@@ -113,7 +113,7 @@ humans are dead-end hosts ; all infections are acute and majority are **asymptom
 	7. western EE
 		1. mostly asymptomatic... 
 		2. acute fever and small stuff
-		3. but sorse in kids - seizures, confusion, coma, etc 
+		3. but worse in kids - seizures, confusion, coma, etc 
 		4. <mark style="background: #FFF3A3A6;">CSF: more opening pressure, lymphocytes + proteins. and normal glucose</mark>
 4. japanese encephalitis- SE asia
 	1. Flavivirus; rainy szn 
@@ -131,12 +131,12 @@ humans are dead-end hosts ; all infections are acute and majority are **asymptom
 	5. if symptomatic can cuse <mark style="background: #FFF3A3A6;">SIADH -> hyponatremia... treatment with ifn-alpha can help</mark>
 	- syndrome of inappropriate antidiuretic hormone 
 6. lacrosse encephalitis virus/california virus
-	1. bunyaviruses -ssRNA, can change quickly 
+	1. <mark style="background: #FFF3A3A6;">bunyaviruses -ssRNA</mark>, can change quickly 
 	2. mosquito aedes born 
 	3. in midwest, central + southeast us 
 	4. common in kids 1-15 yo 
 	5. most asymptomatic 
-	6. symtomatic - hyponatremia + neuroinvasive + arbovirus
+	6. <mark style="background: #FFF3A3A6;">symtomatic - hyponatremia + neuroinvasive + arbovirus</mark>
 	7. DX: igM + CSF -<mark style="background: #FFF3A3A6;">normal glucose, higher lympohcyte+proteins</mark>
 7. tick borne meningoencephalitis virus
 	1. flaviviruses, fromo ticks. in europe, russia, asia
@@ -145,32 +145,32 @@ humans are dead-end hosts ; all infections are acute and majority are **asymptom
 	4. biphasic
 		1. initial flu like symptoms + fever
 		2. 8 days later fever free + inc in temp afterwards
-		3. 2nd phase of fever = onset meningoencephalitis 
+		3. <mark style="background: #FFF3A3A6;">2nd phase of fever = onset meningoencephalitis </mark>
 ^^these viruses can only be prevented 
 8. alpha gal syndrome - 
-	1. not an infection but an allergy to galactose-alpha-1,3-galactose found in most mammals but not rpimates
+	1. not an infection but an allergy to<mark style="background: #FFF3A3A6;"> galactose-alpha-1,3-galactose found in most mammals </mark>but not rpimates
 	2. **associated with bites of lone star tick**
 	3. can't eat flesh or milk from mammals! including gelatin! 
 	<mark style="background: #FFF3A3A6;">4. **includes any food allergy symptoms ! some ppl are forced to become vegetarian!!!</mark>**
-		treat with antihistamines and avoiding triggers
+		treat with <mark style="background: #FFF3A3A6;">antihistamines</mark> and avoiding triggers
 
 mmamals 
-1. lymphocytic choriomeningitis virus  LCMV= arenavirus 
+1. lymphocytic choriomeningitis virus  LCMV= <mark style="background: #FFF3A3A6;">arenavirus</mark> 
 	1. mice mainly - 5-10% house mice are infected
 	2. transmission via infected aerosilized urine 
 	3. biphasic
 		1. 8-13 incubation
-		2. fever, myalgias, headaches, n/v for 7 days
-		3. then recovery for 1-2 days
-		4. then meningitis/encephalitis 
+		2. <mark style="background: #FFF3A3A6;">fever, myalgias, headaches, n/v for 7 days</mark>
+		3. then recovery for<mark style="background: #FFF3A3A6;"> 1-2 days</mark>
+		4. then <mark style="background: #FFF3A3A6;">meningitis/encephalitis </mark>
 	4. autumn to winter = season 
 	5. LABS: 
 		1. **phase 1 - leukopenia, thrombocytopenia, livers up**
 		2. phase 2 <mark style="background: #FFF3A3A6;">CSF protein high glucose low</mark>
 	6. DX: clinic + ELISA
 2. hantavirus- also transmitted by rodent urine
-	1. this is also biphasic with <mark style="background: #FFF3A3A6;">simiilar phase one</mark>
-	2. the difference is that this phase 2 is **hantavirus pulmonary syndrome with 30% mortality**
+	1. this is also <mark style="background: #FFF3A3A6;">biphasic</mark> with <mark style="background: #FFF3A3A6;">simiilar phase one</mark>
+	2. the difference is that this phase 2 is **hantavirus <mark style="background: #FFF3A3A6;">pulmonary</mark> syndrome with 30% mortality**
 	3. and this is mostly out in the west = 4 corrners region 
 
 Rabies - rhabdoviridae
@@ -180,9 +180,9 @@ Rabies - rhabdoviridae
 - transmission via saliva. 
 - vaccines work for all strains of rabies 
 - pathogenesis 
-	- enveloped, single neg stranded rNA virus 
+	- enveloped, <mark style="background: #FFF3A3A6;">single neg stranded rNA virus </mark>
 	- local replication -> peripheral nerve fibers get it via the NMJ -
-		-then it goes to the spinal cord, -> brain gray matter
+		-then it goes to the spinal cord, -> <mark style="background: #FFF3A3A6;">brain gray matter</mark>
 	- jumps nerve to nerve til extension via autonomic nervous system
 - incubaton period long time - 1-3 months!!!
 - takes less time if bitten on face vs bitten on foot
@@ -199,18 +199,18 @@ Rabies - rhabdoviridae
 1. DX" only antemortem. 4 specimens needed - serum, saliva, CSF, skin 
 2. on the biopsy we see **negri body**, the eosinophilic inclusion in cytoplasm and skin - densely enervated 
 3. PEP = 
-	1. human rabies immune globulin into the bite wound 
-	2. AND human diploid cell inactivated rabies virus vaccine - **multiple doses are needed.**
+	1. <mark style="background: #FFF3A3A6;">human rabies immune globulin into the bite w</mark>ound 
+	2. AND h<mark style="background: #FFF3A3A6;">uman diploid cell inactivated rabies virus vaccin</mark>e - **multiple doses are needed.**
 
 2 zoonotic parasites that infect CNS
-- baylisascaris procyonis = the roundworm 
-	- raccoon - from fecal oral route
+- <mark style="background: #FFF3A3A6;">baylisascaris procyonis = the roundworm </mark>
+	- raccoon - from<mark style="background: #FFF3A3A6;"> fec</mark>al oral route
 	- random migration of larvae inside humans -> many syndromes, and 
 	- **eosinophilic meningoencephalitis**
 	- no treatment 
-- angiostrongylus cantonesis = rat lungworm 
-	- in SE asia + pacific + hawaii, louisiana , carribean 
-	- cycle bt rats + mollusks with humans accidentally 
-	- ingestion of contaminatiod foods-> eosinophilic meningitis 
-	- severe headache seen with eosinophilia 
+- a<mark style="background: #FFF3A3A6;">ngiostrongylus cantonesis </mark>= rat lungworm 
+	- in <mark style="background: #FFF3A3A6;">SE as</mark>ia + pacific + hawaii, louisiana , carribean 
+	- cycle bt<mark style="background: #FFF3A3A6;"> rats + mollusks</mark> with humans accidentally 
+	- ingestion of contaminatiod <mark style="background: #FFF3A3A6;">foods</mark>-> <mark style="background: #FFF3A3A6;">eosinophilic meningitis</mark> 
+	- severe <mark style="background: #FFF3A3A6;">headache</mark> seen with eosinophilia 
 	- supportive care with worms dying eventually 

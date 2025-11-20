@@ -34,68 +34,68 @@ unconventional = genome req for persistence doesn't apply
 etiologic agents - all of these use the abbreviation lol 
 
 subacute sclerosing panencephalitis SSPE - preventable but no curative therapy 
-- measles virus agent 
-- lethal gneralized demyelinating inflammatino caused by wild type strain of measles
+- <mark style="background: #FFF3A3A6;">measles</mark> virus agent 
+- lethal <mark style="background: #FFF3A3A6;">generalized demyelinating inflammatino</mark> caused by wild type strain of measles
 - measles viruses are spontaneous mutants, missing gene for proteins 
-- absence of structural proteins - **prevents host cell lysis + limits recognition...**
+- a<mark style="background: #FFF3A3A6;">bsence of structural proteins</mark> - **prevents host cell lysis + limits recognition...**
 - infection limited to brain + retina = only in CNS 
 - 8-11 yo males, and ppl who get measles be4 2 years old 
-	- stage 1 dementia = personality changes  
-	- 2 epilepsy = myoclonus, autonomic dysfunction 
-	- stage 3 decerebration = spasticity, extrapyramidal symptoms 
+	- stage 1 <mark style="background: #FFF3A3A6;">dementia</mark> = personality changes  
+	- <mark style="background: #FFF3A3A6;">2 epilepsy = myoclonus</mark>, autonomic dysfunction 
+	- stage 3 <mark style="background: #FFF3A3A6;">decerebration = spasticity, extrapyramidal symptoms</mark> 
 	- stage 4 vegetative state = autonomic failure 
 - DX: electroencephalography - 
-	- paroxymal delta waves + periodic sharp + slow wave complexes. 
+	- <mark style="background: #FFF3A3A6;">paroxymal delta waves + periodic sharp + slow wave complexes. </mark>
 	- **CSF!!!! high IgG anti-measles antibodies duh**
 - death in 1-3 yrs 
-- TREAT: transiently improve with antiepileptics 
+- TREAT: transiently improve with <mark style="background: #FFF3A3A6;">antiepileptics</mark> 
 
-progressive rubella panencephalitis- preventable but no curative 
-- rubella virus - recall that deficits are born in congenital rubella.
-	- congenital can have late onset ocular manifestations like retinopathy, cataracts, corneal degen but not fatal 
+progressive <mark style="background: #FFF3A3A6;">rubella panencephalitis</mark>- preventable but no curative 
+- rubella virus - recall that deficits are born in <mark style="background: #FFF3A3A6;">congenital</mark> rubella.
+	- congenital can hav<mark style="background: #FFF3A3A6;">e late onset ocular manifestations</mark> like retinopathy, cataracts, corneal degen but not fatal 
 - age onset 8-19 years 
 - PRPE similar to SSPE sypmtom-wise
 - DX: IgG in CSF specific for rubella or virus in brain 
 - this is fatal  
 
 progressive multifocal leukoencephalopathy - treatable , restore immune function but not curative. 
-- JC polyomavirus 
+- <mark style="background: #FFF3A3A6;">JC</mark> polyomavirus 
 - reactivation of this latent/persistent JC 
-- lesions in the white matter of the brain ... almost all pts have underlying immunodeficiency like malignancis, HIV, transplants, etc. 
-- visual deficiets - hemianopia common 
+- <mark style="background: #FFF3A3A6;">lesions in the white matter of the brain</mark> ... almost all pts have underlying immunodeficiency like malignancis, HIV, transplants, etc. 
+-<mark style="background: #FFF3A3A6;"> visual deficiets - hemianopia common </mark>
 - mental impairment
 - weakness
-- ataxia
+- <mark style="background: #FFF3A3A6;">ataxia</mark>
 - seizures = least common but still there 
-- DX: consider if they're immunosuppress
-	- serology useless most ppl have this endemic virus
+- DX: <mark style="background: #FFF3A3A6;">consider if they're immunosuppress</mark>
+	- serology useless most ppl have thi<mark style="background: #FFF3A3A6;">s endemic </mark>virus
 	- MRI!!!! **multiple nonsymmetric lesions of demylinization in white matter**
 	- CSF = **poz pcr detection - high spec, lower sensitivity, only dx in combo with clinical symptoms**
-	- seen in **brain biopsy enlarged astrocytes + oligodendrocytes with abnormal nuclei**
+	- seen in<mark style="background: #FFF3A3A6;"> **brain biopsy enlarged astrocytes + oligodendrocytes with abnormal nuclei**</mark>
 		- icosahedral virus particles in these nuclei 
 - TREAT: rapid reversal of immunosuprression can slow progression ... not reversible. median survival 3.5 months 
 
-HIV associated neurocognitive disorder - HAND; anti-retroviral cure 
+<mark style="background: #FFF3A3A6;">HIV associated neurocognitive disorder </mark>- HAND; anti-retroviral cure 
 - HIV 
-- neurocog impairment in pts with HIV **cannot be atributed to another cause**
+- n<mark style="background: #FFF3A3A6;">eurocog impairment </mark>in pts with HIV **cannot be atributed to another cause**
 - this is result of a combo of dissemination of hiv in the cns + resultnt immune activation 
-- common even in ppl with well-controlled hIV
-- mild attention mpairment, exec function and recall
-- advanced - can have dementia - considered an AIDs-defining condition 
-	- subcortical dementia - mem loss, depression, movement disorders, apathy/behavioral changes
-	- altered mental state, gait disturbances
+- common even in ppl with <mark style="background: #FFF3A3A6;">well-controlled </mark>hIV
+- <mark style="background: #FFF3A3A6;">mild attention mpairment, exec function and recall</mark>
+- advanced - can have <mark style="background: #FFF3A3A6;">dementia</mark> - considered an AIDs-defining condition 
+	- s<mark style="background: #FFF3A3A6;">ubcortical dementi</mark>a - <mark style="background: #FFF3A3A6;">mem loss,</mark> depression, movement disorders, apathy/behavioral changes
+	- a<mark style="background: #FFF3A3A6;">ltered mental state, gait disturbances</mark>
 	- more common in ppl with untreated HIV 
 	- elderly HIV patients now commonly dvelop other types of dementia unlike this one luckily due to antiretroviral treatment 
 - DX: rule out everything else - 
-	- CT MRI with diffus cerebral atrophy, patchy symmetrical changes in deep white matter. 
-	- rule out dementia with B12 folate and TSH levels 
-- TREAT: antiretroviral therapy and avoid efavirenz 
+	- CT MRI with d<mark style="background: #FFF3A3A6;">iffus cerebral atrophy, patchy symmetrical changes in deep white matter. </mark>
+	- r<mark style="background: #FFF3A3A6;">ule out dementia with B12 folate and TSH levels </mark>
+- TREAT: <mark style="background: #FFF3A3A6;">antiretroviral</mark> therapy and a<mark style="background: #FFF3A3A6;">void efavirenz </mark>
 
-persistent enterovirus infection - treatable ; serotype specific anti-enterovirus immune globulin 
+persistent enterovirus infection - treatable ; <mark style="background: #FFF3A3A6;">serotype specific anti-enterovirus immune globulin </mark>
 - enterovirus ; replication in CNS 
-- happens to the immunodeficient **only in ppl with severe or congenital acquired humoral immunodifficiencly like agammaglobulinemia at highest risk**
-- headache confusino, lethargy, seizures, and CSF pleocytosis common 
-- TREAT: noncurative but human hyperimmune globulin to infecting virus type... relapse when therapy discontinued 
+- happens to the <mark style="background: #FFF3A3A6;">immunodeficient</mark> **only in ppl with severe or congenital acquired <mark style="background: #FFF3A3A6;">humoral immunodifficiencly like agammaglobulinemia</mark> at highest risk**
+- <mark style="background: #FFF3A3A6;">headache</mark> <mark style="background: #FFF3A3A6;">confusino</mark>, <mark style="background: #FFF3A3A6;">lethargy</mark>, <mark style="background: #FFF3A3A6;">seizures</mark>, and CSF <mark style="background: #FFF3A3A6;">pleocytosis</mark> common 
+- TREAT: noncurative but<mark style="background: #FFF3A3A6;"> human hyperimmune globulin</mark> to infecting virus type... relapse when therapy discontinued 
 
 unconventional persistent viral agent - prions - 
 - can't be culture 
@@ -103,7 +103,8 @@ unconventional persistent viral agent - prions -
 - pathology **always progressive**
 - folded endogenous protein from immune privileged tissue 
 - **each cns prion dz medated by PRNP host gene**
-- PrPc normal (helices, no aggregation) -> PrPSc (will be in **beta sheets, PK resistance**) - will pathogenically polyermized into toxic aggregates 
+- PrPc normal (helices, no aggregation) -> <mark style="background: #FFF3A3A6;">PrPSc</mark> (will be in **beta sheets, PK resistance**) - will pathogenically polyermized into toxic aggregates 
+- <mark style="background: #FFF3A3A6;">vacuoles like crazyyy</mark>
 - PRNP codon - encode either methionine or valine 
 	- **homozygosity of EITHER = higher risk**
 	- heterozygosity MV is protective 
@@ -116,48 +117,48 @@ unconventional persistent viral agent - prions -
 - all the things below are prions 
 - most reliable way to prove prions have been inactivated = bioassay in animals. this is **how nosocomial transmission happens via med procedures!!! any type of surgrery happens!! optic ones highest risk**
 
-spongiform encephalopathies - they're vacuolar changes in cortex.+cerebellum 
-- like songey brain tissue from neuronal loss + astrocyte proliferation 
+<mark style="background: #FFF3A3A6;">spongiform</mark> encephalopathies - they're <mark style="background: #FFF3A3A6;">vacuolar</mark> changes in cortex.+cerebellum 
+- like <mark style="background: #FFF3A3A6;">spongey brain tissue from neuronal loss + astrocyte proliferation </mark>
 - incubation months to decates
-- lymphoreticular system involved in replication 
+- <mark style="background: #FFF3A3A6;">lymphoreticular</mark> system involved in replication 
 
 <mark style="background: #FFF3A3A6;">crueztfeld-jakob dz - infection control awareness ; CJD</mark>
 - ppl in <mark style="background: #FFF3A3A6;">50/60s </mark>
-- seen as psych disorder then rapid progression; forgetful/disoriented, dementia, gait changes, inc muscle tone, invol movements, seizures 
+- seen as psych disorder then rapid progression; fo<mark style="background: #FFF3A3A6;">rgetful/disoriented, dementia, gait changes, inc muscle tone, invol movements, seizures </mark>
 - **time to death is 4-7 months** 
 - 8<mark style="background: #FFF3A3A6;">5% sporadi</mark>c, remainder familial/nosocomial 
 - no recorded transmission via personal contact or resp route 
-- blood transfusion or sex. nosocomial cases 3-20 years 
+- b<mark style="background: #FFF3A3A6;">lood transfusion or sex</mark>. nosocomial cases 3-20 years 
 - DX: biopsy/autopsy gold standard but hazardous ): 
 	- **<mark style="background: #FFF3A3A6;">spongiform</mark> degeneration in brain biopsy!!! and gliosis**
-	- lab dx - neuron specific enolase, S100 protein, tau , and 14-3-3 protein inc 
-	- **RT-QUIC - real time we look for sporadic shaking CSF with it!!! only done in one lab here.**
+	- lab dx -<mark style="background: #FFF3A3A6;"> neuron specific enolase, S100 protein, tau , and 14-3-3 protein inc </mark>
+	- **R<mark style="background: #FFF3A3A6;">T-QUIC</mark> - real time we look for sporadic shaking CSF with it!!! only done in one lab here.**
 	- EEG - triphasic periodic sharp wave complexes with freq of 1-2 hz 
-	- MRIs: hyperintensity in basal ganglia, insular cortices, frontal cortices
-
-variant crueztfeld-jakob dz-  infection control awareness 
-- bovine spongiform encephalopathy - thru neural tissue/bone marrow consumption of diseased cattle 
+	- <mark style="background: #FFF3A3A6;">MRIs: hyperintensity in basal ganglia, insular cortices, frontal cortices
+</mark>
+<mark style="background: #FFF3A3A6;">variant</mark> crueztfeld-jakob dz-  infection control awareness 
+- <mark style="background: #FFF3A3A6;">bovine spongiform encephalopathy </mark>- thru neural tissue/bone marrow consumption of diseased cattle 
 - stopped it - bone meal from sheep to cow 
 - cookng doesn't destroy them so nosocomial transmission occurs via autoclaving happens 
-- mostly younger, lasting longer + mistaken for psych problems at first 
+- mostly <mark style="background: #FFF3A3A6;">younger</mark>, lasting <mark style="background: #FFF3A3A6;">longer</mark> + mistaken for psych problems at first 
 - no therapy 
 - death in 14 mon 
 
-gerstmann-straussler-scheinker dz-  infection control awareness 
+g<mark style="background: #FFF3A3A6;">erstmann-straussler-scheinker dz</mark>-  infection control awareness 
 - similar to crueztfeld-jakob dz
-- younger ages 30-40 
-- develops even more slowly than the crueztfeld-jakob dz, in 5 years death instead of months 
-- dementia less common but cerebellar ataxia, nystagmus, paralysis all common 
-- 99% familial - autosomal dom **mutation of PRNP gene!!!**
+- <mark style="background: #FFF3A3A6;">younger</mark> ages 30-40 
+- develops even<mark style="background: #FFF3A3A6;"> more slowly </mark>than the crueztfeld-jakob dz, in 5 years death instead of months 
+- <mark style="background: #FFF3A3A6;">dementia less common but cerebellar ataxia, nystagmus, paralysis all common </mark>
+- 99% familial -<mark style="background: #FFF3A3A6;"> autosomal dom</mark> **mutation of PRNP gene!!!**
 	- vertical transmission/nherited susceptibility 
 	- DX: fmhx/sequencing 
 - no effecive therapy 
 
-fatal familial insomnia -  infection control awareness 
-- intractible insomnia, sympathetic overreactvity, dementia 
+<mark style="background: #FFF3A3A6;">fatal familial insomnia </mark>-  infection control awareness 
+- intractible <mark style="background: #FFF3A3A6;">insomnia</mark>, <mark style="background: #FFF3A3A6;">sympathetic</mark> overreactvity, <mark style="background: #FFF3A3A6;">dementia</mark> 
 - 100% familial 
 - death in 1-2 years, age onset 35-60 wide 
 - PrPc - protease resistant form 
-- DX: fam hx + brain biospy 
+- DX: f<mark style="background: #FFF3A3A6;">am hx + brain biospy </mark>
 
 

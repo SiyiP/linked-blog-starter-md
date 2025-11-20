@@ -20,20 +20,21 @@ signals for guidance
 - chemorepellent - to discourage growth 
 	- slit - **prevent the axon from crossing back over midline once it's made to cross**
 	- robo - 
-	- semaphorins - 
-		- will see axon retraction. in culture work to see how this grows. 
+	- <mark style="background: #FFF3A3A6;">semaphorins</mark> - 
+		- will see axon retraction.
+		nondiffusible signal that act as repulsive cues, <mark style="background: #FFF3A3A6;">discourage axonal growth towards a certain direction</mark>
 
 synaptic connections 
 - once it gets there we need to make pre + post synaptic cues. 
-- guide posts mak that view nad zone for NT release
-- clusters together postsynaptic receptors in the post-synaptic densitty -  something that's huge to work on in tis . 
+- guide posts make that view + zone for NT release
+- clusters together postsynaptic receptors in the post-synaptic density -  something that's huge to work on in tis . 
 
 topographic maps
-chemoaffinity hypothesis. - target is admitting chems to drive that growth? pheromones - are eleased in animals - in frogs for example its seen 
+chemoaffinity hypothesis. - target is admitting chems to drive that growth? pheromones - are released in animals - in frogs for example its seen 
 - mapping in the frog with wheere information would cross too. 
 - uncrossing of optic nerve fibers = following by nerve **regeneration leads to visuomotor defects**
 
-neurotrophic factors - help aid in this outgrowht - hte 
+neurotrophic factors - help aid in this outgrowht  
 - NGF - nerve growth factor
 - limited to neurons
 - regulate diff, growth + survival - don't really use it but ik i was a baby once. 
@@ -45,9 +46,10 @@ neurotrophins - growth/trophic factors - not all have that same effect
 - NT-4/5 
 - ciilary neurotrophic facotr
 - leukemia inhibitry factor 
-in NGF- huge for that teachers. 
+once the macorphages clear the peripheral stump, schwann cells wll prolif and secrete ntf.s 
+in NGF- huge for that treachers. 
 bdnf - not much  effect on sympathetics 
-binds to he **trk receptors.. specific type of tyrosine kinase receptor that it would activate cell support and aid it**
+binds to the **trk receptors.. specific type of tyrosine kinase receptor that it would activate cell support and aid it**
 - can help ppl and survive. 
 - Cons: trk receptors go dwn with aging . some rec3ptors will disappaer
 - **p75 receptor = would also die by age. ): **
@@ -104,4 +106,6 @@ with cell injury and responses. - growth factor stuff tooo
 adult neurogeneiss 
 - new nerve cells - olfactory, hippocampus, taste transducer 
 new nerve cells can grow in olfctory bulb _ granule and periglomerular cells_ + those in the dentate gyrus 
+
+ephrins - non-diffusible signals for topographic mapping in teh CNS like learning/memb, formation of projectino bt septum + hppocampus 
 

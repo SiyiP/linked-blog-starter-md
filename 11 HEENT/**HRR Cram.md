@@ -1,3 +1,21 @@
+
+
+<mark style="background: #FFF3A3A6;">parieto-occipito-temporal area = ipsilateral smooth pursuit</mark>
+the saccades = contralateral forntal eye fields 
+ 
+ventral path of striate cortex = obj recog 
+dorsal path of striate = spatial vision 
+
+The Superior Colliculus receives sensory input from the visual space in a retinotopic map. As you move dorsally towards the inferior colliculus you add in auditory input in an additive manner.
+
+L MLF connects the R abducens nucleus + L oculomotor!
+and R MLF connects the L abducens + R oculomotor... 
+either way t is there so that we can have both eyes look to one side. 
+- so if lesion, we only got that one eye abducens working on their own side
+f we lesion up that R pprf, we see that nether eye moves to gaze to the right 
+- the PPRF controls both eye movement to th ipsilateral side its' on ... 
+- similar with the abducens nucleus itself 
+
 all diff places that visual info synapses 
 relayed in thru CN 2 
 each optic tract has temporal retina of ipsi eye and **fibers from nasal retina of contra eye**
@@ -59,6 +77,9 @@ vertical eye movement - 3 and 4
 - <mark style="background: #FFF3A3A6;">the rostral midbrain reticular formation is activated via contarlateral superior colliculi!!!!</mark>
 - we need both vertical and horizontal gaze control via the Medial longitudinal fasciculus to connect both centers... 
 
+---
+
+1. auditory nerve -> ipsilateral cochlear nuc -> bilateral projection to superior olive -> bilateral inferior colliculus -> mediial genicular nuc of thalamus -> primary auditory cortex 
 
 auditory pathways - think CN 8 - vestibulocochlear n 
 - the medial geniculate relays that auditory info -> auditory cortex in temporal lobe 
