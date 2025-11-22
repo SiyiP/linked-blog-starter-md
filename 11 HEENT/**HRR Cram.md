@@ -8,11 +8,11 @@ dorsal path of striate = spatial vision
 
 The Superior Colliculus receives sensory input from the visual space in a retinotopic map. As you move dorsally towards the inferior colliculus you add in auditory input in an additive manner.
 
-L MLF connects the R abducens nucleus + L oculomotor!
+L MLF connects the R <mark style="background: #FFF3A3A6;">abducens nucleus + L oculomotor</mark>!
 and R MLF connects the L abducens + R oculomotor... 
-either way t is there so that we can have both eyes look to one side. 
+either way t is there so that we can have both<mark style="background: #FFF3A3A6;"> eyes look to one side. </mark>
 - so if lesion, we only got that one eye abducens working on their own side
-f we lesion up that R pprf, we see that nether eye moves to gaze to the right 
+f we lesion up that <mark style="background: #FFF3A3A6;">R pprf, we see that nether eye moves to gaze to the right </mark>
 - the PPRF controls both eye movement to th ipsilateral side its' on ... 
 - similar with the abducens nucleus itself 
 
@@ -22,7 +22,7 @@ each optic tract has temporal retina of ipsi eye and **fibers from nasal retina 
 - majority of fibers would cross via the chiasm, and then move posterior -> into the optic tract (post-chiasm, visual field information)
 fibers will start innervating: 
 - hypothalamus to aid in regulating sleep/wake cycles and circadian rhythms 
-- pretectum = involved with <mark style="background: #FFF3A3A6;">pupillary light reflex</mark>, control of pupil + lens 
+- <mark style="background: #FFF3A3A6;">pretectum</mark> = involved with <mark style="background: #FFF3A3A6;">pupillary light reflex</mark>, control of pupil + lens 
 - superior colliculus - at level of the midbrain, orienting head and eye movements 
 	- <mark style="background: #FFF3A3A6;">integration of this visual with the auditory information too</mark>
 - <mark style="background: #FFF3A3A6;">lateral geniculate nucleus - subnucleus of the thalamus, the LGN</mark>
@@ -95,10 +95,10 @@ note - some o the contralateral auditory input to eh <mark style="background: #F
 olfaction CN. 1 
 <mark style="background: #FFF3A3A6;">predominantly ipsilateral</mark>
 olfactory bulb -> fibers of olfacotry nerves themselves traveling thru cribiform plate -> synapses in the <mark style="background: #FFF3A3A6;">olfactory bulbs, which are mitral tufted cells</mark> -> olfactory tract -> 
-	-> pyriform cortex, the uncus, the ventromedial aspect of temporal lobe -> orbitofrontal cortex ; perception of smell + taste for finate things 
+	-> pyriform cortex, the uncus, the<mark style="background: #FFF3A3A6;"> ventromedial aspect of temporal lobe </mark>-> orbitofrontal cortex ; perception of smell + taste for finate things 
 	-> olfacotry tubercle 
 	-> amygdala 
-	-> entorhinal cortex -> <mark style="background: #FFF3A3A6;">mem aspect of smell -> hippocampal formation</mark>
+	-> <mark style="background: #FFF3A3A6;">entorhinal</mark> cortex -> <mark style="background: #FFF3A3A6;">mem aspect of smell -> hippocampal formation</mark>
 		all these send to the hypothalamus (autonomic)
 		and some to thalamus which sends to the orbitofrontal cortex 
 - this is the only thing that doens't use thalamus as relay!!!
@@ -110,3 +110,5 @@ taste buds -> <mark style="background: #FFF3A3A6;">nucleus of solitary tract</ma
 - end up in the hypothalamus (autonomc response)
 - amygdala - emotional responses to these !!! 
 - and some in the hippocampus as a memory for taste. 
+
+![[cranial PNS outflow.png]]

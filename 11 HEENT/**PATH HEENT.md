@@ -786,15 +786,15 @@ long term sequele -
 	- pus in the ventricles can block the aqueduct of sylvius or the outflow foramina -> **non-communicating hydrocephalus**; this blocks the inside of ventricular system of brain, see dilation of that narrow space only without it dilating other parts ;; 
 - pus in the base of the brain too, encasing CNs + circle of willis -> fibrosis around CN -> palsies, deafness is common, alnog with strokes due to vascular compromise 
 
-1. tuberculous meningitis - subacute meningitis -
-	1. accumulation granulations +  granulomatous inflammatory infiltrate in basal leptomeninges 
+1. <mark style="background: #FFF3A3A6;">tuberculous meningiti</mark>s - subacute meningitis -
+	1. accumulation <mark style="background: #FFF3A3A6;">granulations</mark> +  granulomatous inflammatory infiltrate in <mark style="background: #FFF3A3A6;">basal</mark> leptomeninges 
 	2. <mark style="background: #FFF3A3A6;">acid-fast bacilli </mark>inside <mark style="background: #FFF3A3A6;">multinucleated giant cells </mark>, similar to bacterial meningitis 
-2. cryptococcal meningitis - in immunocomp/hiv 
+2. c<mark style="background: #FFF3A3A6;">ryptococcal meningitis - in immunocomp/hiv </mark>
 	1. pus-ish , glazed donut 
 	2. basal ganglion = <mark style="background: #FFF3A3A6;">has soap bubbles, making vicseral robins space, larger space opening up to vessels</mark>
-3. long term leptomeningitis complications = hydrocephalus, seizures, sensorineural deafness, focal infarcs
+3. long term l<mark style="background: #FFF3A3A6;">eptomeningitis complications = hydrocephalus, seizures, sensorineural deafness, focal infarcs</mark>
 
-abcesses - life cycle begins with cerebritis = focal process of <mark style="background: #FFF3A3A6;">localized suppurative destruction of brain tissue</mark> - happens when bac/fungi infects parenchyma via <mark style="background: #FFF3A3A6;">direct spread from adjacent focus or hematogenous spread...</mark> like in the past theyr'e from ottitis media 
+abcesses - life cycle begins with <mark style="background: #FFF3A3A6;">cerebritis</mark> = focal process of <mark style="background: #FFF3A3A6;">localized suppurative destruction of brain tissue</mark> - happens when bac/fungi infects parenchyma via <mark style="background: #FFF3A3A6;">direct spread from adjacent focus or hematogenous spread...</mark> like in the past theyr'e from ottitis media 
 		3. <mark style="background: #FFF3A3A6;">if you get imging and just see one tiny little ring-enhancing tumor with a lot of edema = this is mass effect around that tiny abscess</mark>
 	breakdown  bbb + edema + blurring bt gray and white matter; many polymorphonuclear leukocytes , gliosis ust beginning 
 	many cortical abscesses caused by candida albicans hematogenously disseminated - happens in burn victims
@@ -808,15 +808,15 @@ mature abscess = trilaminar structure
 - daughter abscess - early abscess formation - not well formed, sometimes a rupture in abscess wall leaks thru to make the daughter. 
 - but a rupture into <mark style="background: #FFF3A3A6;">ventricles/subarachnid space kills</mark>
 
-aspergillus abscesses = <mark style="background: #FFF3A3A6;">mimic hemorrhagic infarcs bc they're larger + break off while they get to brain via hematogenous dissemination</mark> -> arterial rupture by invading mid size artery wall after lodging into it 
+<mark style="background: #FFF3A3A6;">aspergillus</mark> abscesses = <mark style="background: #FFF3A3A6;">mimic hemorrhagic infarcs bc they're larger + break off while they get to brain via hematogenous dissemination</mark> -> arterial rupture by invading mid size artery wall after lodging into it 
 
-mucormycosis abscess - diabetics; invasion of cribiform plat of nose, -> frontal brain lobe invasion. recurrent 
+<mark style="background: #FFF3A3A6;">mucormycosis abscess - diabetics; invasion of cribiform plat of nose, -> frontal brain lobe invasion. recurrent </mark>
 
 toxoplasma cerebritis - 
 toxoplasma gondii from cat feces with oocysts; most ppl have them but systemic disease is <mark style="background: #FFF3A3A6;">mononucleosis w/ fever + maculopapular rash, opportunistic in severely immunocompromised patients</mark>
 - acute necrotizing, organizing, and chronic forms
 - <mark style="background: #FFF3A3A6;">encephalitic pattern in some with min perivascular inflammation + nodules = free tachyzoites</mark>
-- we see many tachyzoites + bradyzoite pseudocysts  in necrosis 
+- we see many<mark style="background: #FFF3A3A6;"> tachyzoites + bradyzoite pseudocysts</mark>  in necrosis 
 - congenital toxo is vrery destructive too 
 
 encephalitis - localized or diffuse inflammation of brain + overlying leptomeninges
@@ -825,7 +825,7 @@ encephalitis - localized or diffuse inflammation of brain + overlying leptomenin
 	2. microglial nocule 
 	3. dyng neuron chewed up by microglia, but no viral inclusions. 
 	4. herpes encephalitis - in ppl <mark style="background: #FFF3A3A6;">without immunosuppressions </mark>which is obvious. 
-		1. undersurface of <mark style="background: #FFF3A3A6;">temporal</mark> and less commonly frontal lobe! , super patchy, hemorrhagic and destructvive
+		1. <mark style="background: #FFF3A3A6;">undersurface</mark> of <mark style="background: #FFF3A3A6;">temporal</mark> and less commonly frontal lobe! , super patchy, hemorrhagic and destructvive
 		2. hematoxylin and eosin section of temporal lobe.... we will see<mark style="background: #FFF3A3A6;"> prominent eosinophilic intranuclear inclusion</mark>. 
 		3. this is <mark style="background: #FFF3A3A6;">hemorrhagic, no med hx, no trauma hx, but huge lesion on the base of the temporal lobe!!!</mark> 
 		4. psych disorders
@@ -841,7 +841,7 @@ encephalitis - localized or diffuse inflammation of brain + overlying leptomenin
 2. acute postinfections - - like from pasteur's rabies virus 
 3. subacute encephalitis - HIV 
 
-spongiform encephalopathy - think TSE
+<mark style="background: #FFF3A3A6;">spongiform encephalopathy - think TSE</mark>
 - prions!
 - <mark style="background: #FFF3A3A6;">rapidly prog dementia, myoclonic jerks, spikes on EEG</mark>
 - many holes. in the cotex, but molecular layer is better. - a lot of vacuoles 
@@ -869,14 +869,14 @@ immune mediated demylinative dz -
 	4. plaques vary, and we see inflammation dec, macrophages clear and remyelination commence after they get older. but remyelination would fail still bc of t and antibodies which inhibit oligodendrocyte precursor formation... 
 	5. less than 10% have steadily progressiv ecourse - men and women are similar, mean age is 40 
 	acute MS - **marburg disease** - monophasic ms that is fatal in days 
-	devic's diisease - acute MS in adults that target **optic nerves + Spinal cord with fatal destruction**
-	balo's concentric sclerosis - rapidly fatal acute MS in kids + young adults = concentric wavelike patterns of myelin loss
+	<mark style="background: #FFF3A3A6;">devic's diisease</mark> - acute MS in adults that target **optic nerves + Spinal cord with fatal destruction**
+	<mark style="background: #FFF3A3A6;">balo's concentric sclerosis - rapidly fatal acute MS in kids</mark> + young adults = concentric <mark style="background: #FFF3A3A6;">wavelike</mark> patterns of myelin loss
 	- dawson's fingers = in brain, in older plaques, the demyelination that juts out with the veins as its entring the plaque 
 	- optic nerves, chiasm + tracts are involved in like 90% of MS patients gray gelatinous looking areas are **chronic plaques
-		-  **optic neuritis sequence**  in acute elsions 
+		-  **optic neuritis sequence**  in acute lesions 
 		- in relapses -  MRI shows ehancement w/ corresponding decrease in evoked potential amplitude, indicating conduction block + vision loss = **monocular vision loss, accompained by washed-out color vision, afferent pupillary defect and painful eye movements
 		- in remission - vision improves, MRI shows loss of enhancement = inflammation stopped. 
-	- chronic periventricular plaque - gray gelatinous + firm 
+	- <mark style="background: #FFF3A3A6;">chronic periventricular plaque - gray gelatinous + firm </mark>
 		-  plaques in **periventricular white matter + subcortically at junction of cortex and digitate white matter but U-fibers spared**
 	- chronic inactive plauqes - we only see naked axons + gliosis. permenantly compromised region of the brain
 		- - **HLA chromosome 6 = risk factors**!!!1 = functions of relevant genes are in adaptive/iinnate immunity + vitamin D metabolism  .... also envionmentla factors + ebv... 
@@ -884,31 +884,31 @@ immune mediated demylinative dz -
 			- 		- **bc of this, the most effective MS therapies are antibodies which deplete b cells!!!**
 
 
-2.  acute disseminated encephalomyelitis ADEM
-	1. perivenous/postinfectious 
+2.  <mark style="background: #FFF3A3A6;">acute disseminated encephalomyelitis ADEM</mark>
+	1. <mark style="background: #FFF3A3A6;">perivenous</mark>/<mark style="background: #FFF3A3A6;">postinfectious</mark> 
 	2. <mark style="background: #FFF3A3A6;">acute monophasic usually and develops 2-12 days post viral infection for immunization for rabies/smallpox</mark> 
-	3.  fever, headache + meningeal signs in 1 day then a decrease in consciousnes,s seizures, paraplegia, ataxia or other focal signs 
+	3.  fever, headache + meningeal signs in 1 day then a decrease in consciousnes,s <mark style="background: #FFF3A3A6;">seizures, paraplegia, ataxia or other focal signs </mark>
 	4. ** rapid + cmplete recovery post 7 days **
 	5. 20-30% die, with severe sequelae in similar proportion 
 	6. sleeve-like perivascular demyelination, pink areas floating around veins like a marble!!!
 	7. <mark style="background: #FFF3A3A6;">we see demyelination around little veins; in many postinfectious things we would see not only white matter affected, but also subcortical regions.</mark>
-3. acute hemorrhagic leukoencephalitis  or **weston hurst disease**; fatal, 1-5 days death
+3. a<mark style="background: #FFF3A3A6;">cute hemorrhagic leukoencephalitis </mark> or **weston hurst disease**; fatal, 1-5 days death
 	1. <mark style="background: #FFF3A3A6;">perivenous demylination</mark> + hyperacute form of ADEM
 	2. no bbb, then  white matter has many petechial hemorrhages and is edematous 
-	3. **necrotic small veins + cuffed by reactive macrophages mixed with neutrophils** infiltrating in brain outwards 
+	3. **<mark style="background: #FFF3A3A6;">necrotic small veins</mark> + cuffed by reactive macrophages mixed with neutrophils** infiltrating in brain outwards 
 
 infectious types 
-1.  progressive multifocal leukoencephalopathy PML 
+1.  progressive multifocal leukoencephalopathy <mark style="background: #FFF3A3A6;">PML</mark> 
 	1. patchy demyelination, complication of udnerlying dz process like hiv 
 	2. 3-12 mon course of visual, motor, sensory, personality changes, then profound dementia/death 
-	3. **large numbers of macrophages, smalll lymphocytes.. weird oligodendrocytes with enlarged plum colored nuclei packed with JC virus**!!!! 
+	3. **large numbers of macrophages, smalll lymphocytes.. weird oligodendrocytes with enlarged plum colored nuclei packed with <mark style="background: #FFF3A3A6;">JC virus</mark>**!!!! 
 		1. pretty big!
 	4. <mark style="background: #FFF3A3A6;">we see a fuzzy patch of demyelination, within that dark blue that's meant to be but it's instead light and lilac.</mark>
 	5. oligo dentdrocytes with intranuclear inclusions !! ![[viral inclusions negri body, cmv and jcv-pml.png]]
 	6. they have an immune illness. like hiv 
 2. subacute sclerosing panencephalitis SSPE 
-	1.  **some** kids with early measles exposure, this is a set-up with a chronic infection in oligodendrocytes.... 
-	2. extensive demylination with gliosis, perivascular + parenchymal inflammation + prominent intranuclear viral inclusion 
+	1.  **some** kids with early measles exposure, this is a set-up with a chronic infection in <mark style="background: #FFF3A3A6;">oligodendrocytes</mark>.... 
+	2. extensive <mark style="background: #FFF3A3A6;">demylination with gliosis, perivascular + parenchymal inflammation + prominent intranuclear viral inclusion </mark>
 3. rubella - makes something similar to SSPE but lacks viral inclusion 
 4. AIDSs = present with **symmetrical sensory disturbance of feet**
 	1. vacuolar myelopathy  , ataxia + clumsiness in weeks
@@ -918,18 +918,18 @@ genetic leukodystrophies -
 -  clinical: variable, age of onset often the childhood 
 - variety of diseases which all result in vegetative state + diffuse dysfunction with gross demyelination + large confluent areas with cerebral hemispheres 
 - <mark style="background: #FFF3A3A6;">must more widespread loss of white matter</mark>
-1. schilder's dz - resembles acute MS but demyelinates very large areas in cerebral hemispheres = adrenoleukodystrophy
+1. <mark style="background: #FFF3A3A6;">schilder's dz - resembles acute MS but demyelinates very large areas in cerebral hemispheres = adrenoleukodystrophy</mark>
 	1.  hard to tell apart from the MS schilder's disease
-	2.  X linked disorder - variety of ages
+	2.  <mark style="background: #FFF3A3A6;">X linked disorder - variety of ages</mark>
 	3.  dysfunction of adrenal cortex, ley
-	4. dig cells of testis + myelin of CNS 
+	4. <mark style="background: #FFF3A3A6;">dig cells of testis + myelin of CNS </mark>
 	5. loss of myelin in occipital, parietal and temporal lobes; **frontal cortex spared somewhat**
 	6. when we see perivascular accumulations around lymphocytes we usually think MS, but this isn't that! 
 
 ---
 # trauma of the CNS 
 
-1.  basilar skull fracture
+1.  <mark style="background: #FFF3A3A6;">basilar</mark> skull fracture
 	1.  **raccoon eyes, blood in ear, orbital regions or some csf leak** ... blood from ear 
 2. epidural hematoma - blood pushes into the brain , pushing it more inside, giving lenticular shape ; baically adjacent gyri flattened + brain displaced = herniation and death 
 	1. ![[cresentic and lenticular shape of hemorrhage in brain.png]]
@@ -946,20 +946,20 @@ genetic leukodystrophies -
 	4. subarachnoid hemorrhage more common;; and since kids are more likely to get edema, white matter is warped. 
 	5. unmyelinated brain more likely to tear, and herniations happen with brain into posterior fossa, tearing bvs off brainstem = **midline hemorrhage
 		1. <mark style="background: #FFF3A3A6;">typically if we see brainstem midline hemorrhages think herniation!!!!</mark>**
-5. chronic traumatic encephalopahty - seen with repeated things + blast inury on soldiers
+5. chr<mark style="background: #FFF3A3A6;">onic traumatic encephalopaht</mark>y - seen with repeated things + blast inury on soldiers
 	1. transient symptoms early on.. 
 	2. then <mark style="background: #FFF3A3A6;">intraneuronal tau inclusions </mark>like dementias, traumatic degeneraton 
 	3. <mark style="background: #FFF3A3A6;">dementia pugilistica = boxing, atrophy , tangles, large ventricles, hydrocephalus in vaccuum.</mark> = brain tries to expand out to edges of skull to make sure bridging veins don't pop 
-	4. tangles seen in the cells 
-	5. <mark style="background: #FFF3A3A6;"> 2 separate leaflets are supposed to be down midline, but these can get a cavum instead</mark>
+		1. tangles seen in the cells 
+	4. <mark style="background: #FFF3A3A6;"> 2 separate leaflets are supposed to be down midline, but these can get a cavum instead</mark>
 6. diffuse axonal injury = <mark style="background: #FFF3A3A6;">shear injury w inertia in car crash</mark>
-	1.  head impact isn't required ; in white matter shearing happens 
+	1.  <mark style="background: #FFF3A3A6;">head impact isn't required ; in white matter shearing happens </mark>
 	2. 1/2 of all primary intra-axial traumatic brain lesions - usually severe closed head injury - loss of consciousness, diffuse + bilateral -> primary cause of vegetative state
-	3. tearing of penetrating BVs too = small hemorrhages and tearing of many 
+	3. tearing o<mark style="background: #FFF3A3A6;">f penetrating BVs too = small hemorrhages and tearing of many </mark>
 7. remote diffuse axonal injury -  if they survive + going into vegetative state!!! 
 	1. you just end up with<mark style="background: #FFF3A3A6;"> hemosiderin laden orange macrophages</mark>, loss tissue. 
-	2. and cavum, just a lot of tissueloss/paleness 
-8. **acute** DAI =  axonal swelling - retraction balls, axonal tearing seen 
+	2. and <mark style="background: #FFF3A3A6;">cavum, just a lot of tissueloss/paleness </mark>
+8. **acute** DAI =  <mark style="background: #FFF3A3A6;">axonal swelling - retraction balls, axonal tearing seen </mark>
 	1. on a silver stain we see these ^ 
 	2. amyloid precursor protein is seen too!!
 9. contusions = bruises on th outside of the brain, caused by brain running into skull + dura

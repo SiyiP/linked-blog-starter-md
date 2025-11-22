@@ -148,14 +148,14 @@ humans are dead-end hosts ; all infections are acute and majority are **asymptom
 		3. <mark style="background: #FFF3A3A6;">2nd phase of fever = onset meningoencephalitis </mark>
 ^^these viruses can only be prevented 
 8. alpha gal syndrome - 
-	1. not an infection but an allergy to<mark style="background: #FFF3A3A6;"> galactose-alpha-1,3-galactose found in most mammals </mark>but not rpimates
-	2. **associated with bites of lone star tick**
+	1. not an infection but an allergy to<mark style="background: #FFF3A3A6;"> galactose-alpha-1,3-galactose found in most mammals </mark>but not primates 
+	2. **associated with bites of<mark style="background: #FFF3A3A6;"> lone star tick**</mark>
 	3. can't eat flesh or milk from mammals! including gelatin! 
 	<mark style="background: #FFF3A3A6;">4. **includes any food allergy symptoms ! some ppl are forced to become vegetarian!!!</mark>**
 		treat with <mark style="background: #FFF3A3A6;">antihistamines</mark> and avoiding triggers
 
 mmamals 
-1. lymphocytic choriomeningitis virus  LCMV= <mark style="background: #FFF3A3A6;">arenavirus</mark> 
+1. lymphocytic choriomeningitis virus  <mark style="background: #FFF3A3A6;">LCMV</mark>= <mark style="background: #FFF3A3A6;">arenavirus</mark> 
 	1. mice mainly - 5-10% house mice are infected
 	2. transmission via infected aerosilized urine 
 	3. biphasic
@@ -168,7 +168,7 @@ mmamals
 		1. **phase 1 - leukopenia, thrombocytopenia, livers up**
 		2. phase 2 <mark style="background: #FFF3A3A6;">CSF protein high glucose low</mark>
 	6. DX: clinic + ELISA
-2. hantavirus- also transmitted by rodent urine
+2. <mark style="background: #FFF3A3A6;">hantavirus</mark>- also transmitted by rodent urine
 	1. this is also <mark style="background: #FFF3A3A6;">biphasic</mark> with <mark style="background: #FFF3A3A6;">simiilar phase one</mark>
 	2. the difference is that this phase 2 is **hantavirus <mark style="background: #FFF3A3A6;">pulmonary</mark> syndrome with 30% mortality**
 	3. and this is mostly out in the west = 4 corrners region 

@@ -129,7 +129,7 @@ formaton of nose + olfactory stuff
 	- ectodermal cells to diffrentiate into olfactory epithelium in weeks 7-8 
 - on the other hand, epiithelial plug - at nasal pit openings, persists til 4 mon, removed via apoptosis , closigng it from the outside 
 
-nasalc avity <= superficial ectoderm 
+nasal cavity <= superficial ectoderm 
 oral cavity lining =< oral ectorderm 
 oral cavity <- from keeping healthyu 
 
@@ -153,7 +153,7 @@ malformations
 	3. deep maxillary -> cleft palatebc iimpacting the ppl by th big commercial 
 	4. lke a cleft but fused? 
 
-combned cleft lip bilaterally and palate = from the **medionasal prominence**, how thye fused - maxillary prominence,s palatine shelves, nasal septum 
+<mark style="background: #FFF3A3A6;">combned cleft lip bilaterally and palate </mark>= from the **medionasal prominence**, how thye fused - maxillary prominence,s palatine shelves, nasal septum 
 - laterally cna be uni or bilateral 
 - affects both upper lip + palate (hard and/or soft)
 - feeding, speech etc. req multidisciplinary care 
@@ -183,12 +183,12 @@ dev of pharynx + derivatives
 
 adult derivs of pharyngeal arches
 6 form during dev
-1st arch - cartilage along the mandibles + 2 ossicls 
-muscles on facial expression - 2nd pharyngeal arch, innervation by the facial nerve + the stepes 
-3rd arch - the stylopharyngeus + part of hyoid bone 
-4th arch - pharyngeal muscles - also the thyroid + cricocartilages 
-muscles from trigeminal arch - chewing 
-6th arch -> laryngeal cartilages like 4th arch... -> recurrent laryngeal nerve. 
+1st arch - cartilage along the mandibles + 2 ossicls ; CN 5 
+muscles on <mark style="background: #FFF3A3A6;">facial expressi</mark>on - <mark style="background: #FFF3A3A6;">2nd pharyngeal arch, innervation by the facial nerve + the stepes </mark>
+<mark style="background: #FFF3A3A6;">3rd arch - the stylopharyngeus </mark>+ part of hyoid bone 
+4th arch -<mark style="background: #FFF3A3A6;"> pharyngeal muscles - also the thyroid + cricocartilages </mark>
+muscles from trigeminal arch - chewing ; CN 10 
+<mark style="background: #FFF3A3A6;">6th arch -> laryngeal cartilages like 4th arch</mark>... -> recurrent laryngeal nerve. 
 
 ![[pharyngeal derivatives of pouches and clefts.png]]
 inside - the pharyngeal pouches on the right 
@@ -198,14 +198,14 @@ derivatives of arches 1-4
 1st pharyngeal groove - ectodermal origin 
 - outside - groove or cleft, which are like valleys 
 - this is the **only one to persist into adulthood as the external auditry meatus**, outer part of tympanic membrane
-- pouch 1 = the tympanic cavity - middle ear cavity, eustachian tube 
+- <mark style="background: #FFF3A3A6;">pouch 1 = the tympanic cavity - middle ear cavity, eustachian tube </mark>
 - audiitory tube connects pharynx + middle ear 
-grooves 2-4 - cervical sinus which will eventually disappear 
+grooves<mark style="background: #FFF3A3A6;"> 2-4 - cervical sinus which will eventually disappear </mark>
 - **this normally will regress + disappear**
-- pouch 2 = palatine tonsil - epithelial lining of tonsilar fossa 
-- 3rd pouch = inferior parathyroid glands, thymus ; will start moving downwards while they are dragging the parathyoid glands with it 
+- pouch<mark style="background: #FFF3A3A6;"> 2 = palatine tonsil</mark> - epithelial lining of tonsilar fossa 
+- 3rd pouch = <mark style="background: #FFF3A3A6;">inferior</mark> parathyroid glands, thymus ; will start moving downwards while they are dragging the parathyoid glands with it 
 	- this will migrate further 
-- 4th pouch = superior parathyroid glands, ultimobranchial body  = some of the parathyroid glands + tissue from which the **parafollicular c cells of thyroid develop**
+- 4th pouch = <mark style="background: #FFF3A3A6;">superior</mark> parathyroid glands, ultimobranchial body  = some of the parathyroid glands + tissue from which the **parafollicular c cells of thyroid develop**
 	- this parathyroid will descend with the thyroid gland itself. 
 	- they will be superior to the other parathyroid from the 3rd pouch. they move less. careful with this. key 
 
@@ -221,7 +221,7 @@ pituitary gland dev - dual ectodermal origins
 	- will eventually release the neurohrmoones from hypothalamus 
 	- starts as infundibulum = from the neuroectoderm 
 - oral ectoderm - from **rathke's pouch an invagination near the stomodeum, forming the anterior pituitary**
-	- anterior lobe - makes hormones GH, ACTH, TSH 
+	- a<mark style="background: #FFF3A3A6;">nterior lobe - makes hormones GH, ACTH, TSH </mark>
 	- eventually rathke's pouch losings their connection to that oral cavity... this was the part of the notochord? 
 
 tongue dev - from primarily 1+3rd primary contributers
@@ -284,7 +284,7 @@ lateral cysts, sinuses, fistulas - persistnt pharyngeal grooves aka clefts?
 
 
 thyroglossal duct remnants - seen in the **middle of neck as a cyst**
-- if they swallow or stick out their tongue it moves! 
+- if they <mark style="background: #FFF3A3A6;">swallow or stick out their tongue it moves! </mark>
 - thyroid gland would leave that duct there 
 - thyroid primordium would originate at foramen cecum, then migrates, and then leaves that thyroglossal duct 
 - ectopic thyroid tissue can happen anywhere along that path 

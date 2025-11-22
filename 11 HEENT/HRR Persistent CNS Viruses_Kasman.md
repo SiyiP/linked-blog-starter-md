@@ -33,7 +33,7 @@ unconventional = genome req for persistence doesn't apply
 
 etiologic agents - all of these use the abbreviation lol 
 
-subacute sclerosing panencephalitis SSPE - preventable but no curative therapy 
+subacute sclerosing panencephalitis <mark style="background: #FFF3A3A6;">SSPE</mark> - preventable but no curative therapy 
 - <mark style="background: #FFF3A3A6;">measles</mark> virus agent 
 - lethal <mark style="background: #FFF3A3A6;">generalized demyelinating inflammatino</mark> caused by wild type strain of measles
 - measles viruses are spontaneous mutants, missing gene for proteins 
@@ -58,7 +58,7 @@ progressive <mark style="background: #FFF3A3A6;">rubella panencephalitis</mark>-
 - DX: IgG in CSF specific for rubella or virus in brain 
 - this is fatal  
 
-progressive multifocal leukoencephalopathy - treatable , restore immune function but not curative. 
+<mark style="background: #FFF3A3A6;">progressive multifocal leukoencephalopathy </mark>- treatable , restore immune function but not curative. 
 - <mark style="background: #FFF3A3A6;">JC</mark> polyomavirus 
 - reactivation of this latent/persistent JC 
 - <mark style="background: #FFF3A3A6;">lesions in the white matter of the brain</mark> ... almost all pts have underlying immunodeficiency like malignancis, HIV, transplants, etc. 
@@ -70,9 +70,9 @@ progressive multifocal leukoencephalopathy - treatable , restore immune function
 - DX: <mark style="background: #FFF3A3A6;">consider if they're immunosuppress</mark>
 	- serology useless most ppl have thi<mark style="background: #FFF3A3A6;">s endemic </mark>virus
 	- MRI!!!! **multiple nonsymmetric lesions of demylinization in white matter**
-	- CSF = **poz pcr detection - high spec, lower sensitivity, only dx in combo with clinical symptoms**
+	- CSF = **<mark style="background: #FFF3A3A6;">poz pcr detection</mark> - high spec, lower sensitivity, only dx in combo with clinical symptoms**
 	- seen in<mark style="background: #FFF3A3A6;"> **brain biopsy enlarged astrocytes + oligodendrocytes with abnormal nuclei**</mark>
-		- icosahedral virus particles in these nuclei 
+		- <mark style="background: #FFF3A3A6;">icosahedral</mark> virus particles in these nuclei 
 - TREAT: rapid reversal of immunosuprression can slow progression ... not reversible. median survival 3.5 months 
 
 <mark style="background: #FFF3A3A6;">HIV associated neurocognitive disorder </mark>- HAND; anti-retroviral cure 
@@ -91,7 +91,7 @@ progressive multifocal leukoencephalopathy - treatable , restore immune function
 	- r<mark style="background: #FFF3A3A6;">ule out dementia with B12 folate and TSH levels </mark>
 - TREAT: <mark style="background: #FFF3A3A6;">antiretroviral</mark> therapy and a<mark style="background: #FFF3A3A6;">void efavirenz </mark>
 
-persistent enterovirus infection - treatable ; <mark style="background: #FFF3A3A6;">serotype specific anti-enterovirus immune globulin </mark>
+<mark style="background: #FFF3A3A6;">persistent enterovirus infection</mark> - treatable ; <mark style="background: #FFF3A3A6;">serotype specific anti-enterovirus immune globulin </mark>
 - enterovirus ; replication in CNS 
 - happens to the <mark style="background: #FFF3A3A6;">immunodeficient</mark> **only in ppl with severe or congenital acquired <mark style="background: #FFF3A3A6;">humoral immunodifficiencly like agammaglobulinemia</mark> at highest risk**
 - <mark style="background: #FFF3A3A6;">headache</mark> <mark style="background: #FFF3A3A6;">confusino</mark>, <mark style="background: #FFF3A3A6;">lethargy</mark>, <mark style="background: #FFF3A3A6;">seizures</mark>, and CSF <mark style="background: #FFF3A3A6;">pleocytosis</mark> common 
@@ -112,7 +112,7 @@ unconventional persistent viral agent - prions -
 		- infectious - tissue in human, saliva in animals; we can transmit the dz via injection regardles of the original form of transmission 
 		- familial - mutation in PrPc gene
 		- sporadic - 85% of cases
-- replcatioon - when normal cellular protein comes in contact with pathogenic protein aggregate 
+- replcation - when normal cellular protein comes in contact with pathogenic protein aggregate 
 - all are uniformly fatal once symptomatic 
 - all the things below are prions 
 - most reliable way to prove prions have been inactivated = bioassay in animals. this is **how nosocomial transmission happens via med procedures!!! any type of surgrery happens!! optic ones highest risk**
@@ -138,7 +138,7 @@ unconventional persistent viral agent - prions -
 </mark>
 <mark style="background: #FFF3A3A6;">variant</mark> crueztfeld-jakob dz-  infection control awareness 
 - <mark style="background: #FFF3A3A6;">bovine spongiform encephalopathy </mark>- thru neural tissue/bone marrow consumption of diseased cattle 
-- stopped it - bone meal from sheep to cow 
+- stopped it -<mark style="background: #FFF3A3A6;"> bone meal from sheep to cow </mark>
 - cookng doesn't destroy them so nosocomial transmission occurs via autoclaving happens 
 - mostly <mark style="background: #FFF3A3A6;">younger</mark>, lasting <mark style="background: #FFF3A3A6;">longer</mark> + mistaken for psych problems at first 
 - no therapy 
@@ -147,11 +147,11 @@ unconventional persistent viral agent - prions -
 g<mark style="background: #FFF3A3A6;">erstmann-straussler-scheinker dz</mark>-  infection control awareness 
 - similar to crueztfeld-jakob dz
 - <mark style="background: #FFF3A3A6;">younger</mark> ages 30-40 
-- develops even<mark style="background: #FFF3A3A6;"> more slowly </mark>than the crueztfeld-jakob dz, in 5 years death instead of months 
+- develops even<mark style="background: #FFF3A3A6;"> more slowly </mark>than the crueztfeld-jakob dz, i<mark style="background: #FFF3A3A6;">n 5 years </mark>death instead of months 
 - <mark style="background: #FFF3A3A6;">dementia less common but cerebellar ataxia, nystagmus, paralysis all common </mark>
-- 99% familial -<mark style="background: #FFF3A3A6;"> autosomal dom</mark> **mutation of PRNP gene!!!**
+- 99% familial -<mark style="background: #FFF3A3A6;"> autosomal dom</mark> **mutation of <mark style="background: #FFF3A3A6;">PRNP</mark> gene!!!**
 	- vertical transmission/nherited susceptibility 
-	- DX: fmhx/sequencing 
+	- DX:<mark style="background: #FFF3A3A6;"> fmhx/sequencing </mark>
 - no effecive therapy 
 
 <mark style="background: #FFF3A3A6;">fatal familial insomnia </mark>-  infection control awareness 

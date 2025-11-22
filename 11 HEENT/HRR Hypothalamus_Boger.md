@@ -29,6 +29,7 @@ mammlillary bodies -> <mark style="background: #FFF3A3A6;">mamlllotegmental</mar
 
 <mark style="background: #FFF3A3A6;">amygdala</mark> emotional center -> <mark style="background: #FFF3A3A6;">seria terminalis </mark>-> <mark style="background: #FFF3A3A6;">medial basal nuclei of hypothalamus associated with hormones</mark>
 amygdala -> will send informaton to the <mark style="background: #FFF3A3A6;">more lateral nuclei </mark>thru the v<mark style="background: #FFF3A3A6;">entral amygdulofugal fiber</mark>s-><mark style="background: #FFF3A3A6;"> ventral forebrain </mark>
+- keeping consciousness 
 
 interconnection of forebain + the brainstem nuclei 
 - via the medial forebrain bundle 
@@ -64,7 +65,7 @@ mid-rostral slice - tuberal region 2
 	4. <mark style="background: #FFF3A3A6;">secretion of oxytocin SM constraction + vasopressin / ADH regulation in kidney water function </mark>
 	5. these regions are quite large ... 
 	6. these will send axons down to the **more <mark style="background: #FFF3A3A6;">posterior</mark> region of pituitary**
-5. <mark style="background: #FFF3A3A6;">anterior</mark> <mark style="background: #FFF3A3A6;">pituitary</mark> 
+5. <mark style="background: #FFF3A3A6;">anterior</mark> <mark style="background: #FFF3A3A6;">pituitary</mark> =  
 		1. parvocellular neuroendocrine neurons secrete <mark style="background: #FFF3A3A6;">regulatory peptdes into capillary plexus</mark>
 		2. these portal vessels carry <mark style="background: #FFF3A3A6;">peptides/NTs ot the capillary plexus in anterior primry </mark>
 		3. regulation of the<mark style="background: #FFF3A3A6;"> GH, LSH etc. </mark>
@@ -72,6 +73,8 @@ mid-rostral slice - tuberal region 2
 	9. these are small celled 
 6. tuberal region 3, mid-caudal slice
 	1. will still see both the paraventricular and supraoptic nuclei 
+		1. paraventricular = vasopressin + oxytocin posterior
+		2. supraoptic = GH, LSH regulation, anterior pituitary 
 7. <mark style="background: #FFF3A3A6;">ventromedial + lateral nuclei - feeding</mark> behavior 
 	1. destroy the ventromedial = obesity 
 	2. if you <mark style="background: #FFF3A3A6;">stimulate the Ventromedial = stop eating. </mark>

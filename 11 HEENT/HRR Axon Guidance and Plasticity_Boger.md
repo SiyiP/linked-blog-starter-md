@@ -14,14 +14,14 @@ signals for guidance
 	- tropic vs trophic 
 		- tropic - helps with guiding and developping
 		- trophic - pH molecules which help **synaptic development to connect that axon to target once it's set up** - config change . and pH stays longer. 
-	- netrins - direct axonal growht across midline ; go across midline like once 
-		- these **direct axons to go across the midline. seen in the comissural factors, ALS, DCML too crossing midline!**
+	- <mark style="background: #FFF3A3A6;">netrins - direct axonal growht across midline ; go across midline like once </mark>
+		- these **direct axons to go across the <mark style="background: #FFF3A3A6;">midline</mark>. seen in the comissural factors, ALS, DCML too crossing midline!**
 	- calcium - the main driver of this growth/development - with time, a brighter signal in imgs, we see ca+ 
 - chemorepellent - to discourage growth 
-	- slit - **prevent the axon from crossing back over midline once it's made to cross** !!!!!
+	- slit - **<mark style="background: #FFF3A3A6;">prevent the axon from crossing back over midline once it's made to cross</mark>** !!!!!
 	- robo - 
 	- <mark style="background: #FFF3A3A6;">semaphorins</mark> - 
-		- will see axon retraction.
+		- will see <mark style="background: #FFF3A3A6;">axon retraction.</mark>
 		nondiffusible signal that act as repulsive cues, <mark style="background: #FFF3A3A6;">discourage axonal growth towards a certain direction</mark>
 
 synaptic connections 
@@ -35,13 +35,13 @@ chemoaffinity hypothesis. - target is admitting chems to drive that growth? pher
 - uncrossing of optic nerve fibers = following by nerve **regeneration leads to visuomotor defects**
 
 neurotrophic factors - help aid in this outgrowht  
-- NGF - nerve growth factor
+- <mark style="background: #FFF3A3A6;">NGF - nerve growth factor</mark>
 - limited to neurons
 - regulate diff, growth + survival - don't really use it but ik i was a baby once. 
 - you eventually see an plateau at a certain condition of ngf. seeing it promotes cellular outgrowht 
 
 neurotrophins - growth/trophic factors - not all have that same effect 
-- brain derived neurotrophic factor BDNF
+- <mark style="background: #FFF3A3A6;">brain derived neurotrophic factor BDNF</mark>
 - NT-3
 - NT-4/5 
 - ciilary neurotrophic facotr
@@ -49,7 +49,7 @@ neurotrophins - growth/trophic factors - not all have that same effect
 once the macorphages clear the peripheral stump, schwann cells wll prolif and secrete ntf.s 
 in NGF- huge for that treachers. 
 bdnf - not much  effect on sympathetics 
-binds to the **trk receptors.. specific type of tyrosine kinase receptor that it would activate cell support and aid it**
+binds to the **<mark style="background: #FFF3A3A6;">trk</mark> receptors.. specific type of tyrosine kinase receptor that it would activate cell support and aid it**
 - can help ppl and survive. 
 - Cons: trk receptors go dwn with aging . some rec3ptors will disappaer
 - **p75 receptor = would also die by age. ): **
