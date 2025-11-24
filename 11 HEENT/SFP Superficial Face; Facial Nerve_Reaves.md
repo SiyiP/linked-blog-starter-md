@@ -1,6 +1,6 @@
-#anatomy #neuro 
+#anatomy #HEENT 
 
-bleedover from other lectures
+bleed over from other lectures
 ![[skull surface anatomy.png]]
 forehead to chin and lower edge of mandible 
 - face excludes the ears, very thin skin 

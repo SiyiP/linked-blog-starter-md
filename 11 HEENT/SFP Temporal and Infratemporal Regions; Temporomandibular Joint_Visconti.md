@@ -1,4 +1,4 @@
-#neuro #anatomy 
+#HEENT #anatomy 
 
 the lateral border of the temporal and infratemporal fossa = made by ramus of the mandible. 
 angle of mandible is the jaw angle 

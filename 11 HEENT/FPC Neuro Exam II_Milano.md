@@ -1,4 +1,4 @@
-#neuro #clinics 
+#HEENT #clinics 
 
 mental status exam - higher cog function, orientation, memory lang etc 
 note - **many of the organizational materials of brain is only standardized for right handers. if you're leftie it's diffferent
