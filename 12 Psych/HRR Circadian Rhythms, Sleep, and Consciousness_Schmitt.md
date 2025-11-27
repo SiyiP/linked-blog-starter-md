@@ -81,4 +81,86 @@ disorders/path
 	4. they sleep whenever they feel like it, no pattern
 2. non-24-hr sleep-wake phase disorder
 	1. seen in totally blind ppl 
-	2. no li
+	2. no light -> no melatonin, no more retinal input which resets the rhythm from 24.2 hours to 24 hours. 
+	3. **every day, u wake up a little later than u do before, and ur cycle will move bit by bit for no reason**
+	4. TREAT: melatonin + melatonin receptor agonists 
+3. advanced + delayed sleep hpase syndrome
+	- when ur circadian rhythm is more pronounced than 24.2 hours
+	- each has a strong gneetic component! 
+	1. delayed sleep phase syndrome - stable bedtime, but it's 3-6 hrs later than desired. <mark style="background: #FFF3A3A6;">most common disorder</mark>
+		1. treat: melatonin, melatonin recepotr agonists
+	2. advanced sleep phase syndrome- stable bedtime 3+ hours earlier than conventional times. 
+		1. happens in older adults!!!
+		2. going to bed like 7-8 pm every day 
+		3. TREAT: light therapy 
+4. narcolepsy 
+	1. excessive daytime sleepiness in spite of adequate sleep in evening 
+	2. hypnagogic/hypnapompic hallucinations !!! <mark style="background: #FFF3A3A6;">as they enter and awake from sleep, they get dreams they can't distinguish from reality</mark>
+	3. sleep paralysis - can't move for first few minutes - happens to ppl who are sleep deprived too
+	4. cataplexy - not reuqired but seen; <mark style="background: #FFF3A3A6;">someone caused by emotional stimulation, they would lose motor tone and fall to the ground and get rem sleep</mark>
+		1. sudden temp loss of muscle tone, triggered by strong emotions like laughter etc. 
+	5. pathophys
+		1. genetics + autoimmune **t-cell mediiated process**
+		2. eventually leads to decrease in orexin-A and B, which will maintain wakefullness in the hypothalamus 
+		3. wakefulness promoting transmitters = histamine, dopamine, NE, serotonin, aCH
+	6. TREAT:
+		1. sleepiness = schedule naps, driving safely , stimulants using: methylphenidate, pitolisant, sodium oxybate, etc. 
+		2. Sleep paralysis and hypnagogic hallucinations - l antidepressants which will decrease time spent in REM sleep!!! like TCAs,SSRIs, SSNRIs 
+		3. Cataplexy - same as the REM sleep decreasers like antidepressants but also sodium oxybate which can be sedating 
+5. REM sleep behavior disorder
+	1. when the neurons of the sublateral dorsal nucleus of pons/SDN stop working 
+		1. feeds into the spine originally responsible for paralysizing during REM 
+		2. happens in parkinson's dz, lewy body dementia 
+		3. or dmg to SDN 
+		4. so muscle activity = acting our your dreams in the last 1/3 of night, behavior correlates with dream content, this is basically just dream enacting behavior. 
+		5. hug safety concern 
+6. NonREM parasomnias - not associated with dream contents aka the person doesnt really remember
+	- happens in first 1/3 of night, worsens with alterations in sleep schedule or routine 
+	- TREAT: reassurance 
+	- note - **non-benzodiazepine GABAa receptor agonists can inc the incidence of parasomnias**; like ambien 
+	1. sleep-walking, peaking 8-12 yrs, purposeless walking 
+	2. sleep terror = in young, 4-12 yrs - agitated, runs, screaming, tachycardia, etc. <mark style="background: #FFF3A3A6;">they don't remember what happens</mark>
+7. obstructive sleep apnea
+	1. repeated resp effort related airway obstruction during sleep 5+ per hours
+	2. obstruction of airway by tongue/soft tissues
+	3. this is super underdx!!! very hug 
+	4. RF = obesity , more in men, seen when older, nasal congestion, small crowde palate, tobacco. 
+		1. and in kids - adenoid/tonsillar hypertrophy 
+	5. STOP-BANG 
+		1. snoring, tired, observed you stop breathing during sleep, high bp? 
+		2. on exam, BMI 35+ , age50+, neck circumference 40 cm+ ? gender male? 
+		3. yes to 3 items = refer for sleep testing 
+	6. inc risk for: htn, cardiac arrthythmias, vascular dz, NAFLD, perioperative mortality 
+	7. dx with : polysomnogram/sleep study 
+	8. TREAT: weight loss, CPAP, dental appliance if mild, tonsillectomy for kids, airway/hypoglossal stimulators if severe
+8. insomnia + sleep.... 
+	1. due to other conditions most likely - pain, depression, anxiety, hyperthyroidism, stressors, med SEs, nocturia, sleep apnea 
+	2. huge : sleep hygiene - get a nighttime routine, healthy environment, exercise, reduce stress, avoid large meals 
+	3. MED: 
+		1. GABAa receptor agonists non benzodiazepine - effective shorterm like zolpidem, zaleplon, eszopiclone 
+		2. melatonin receptor agonists like ramelteon, tasimelteon; used the most probably
+		3. short acting benzodiazepines = temazepam; can cause habituation  
+		4. dual orexin receptor antagonists - suvorexant, daridorexant, lemborexant ;  
+		5. use these pareingly in the short term only ; cannot use this to compensate for poor sleep hygiene
+	4. chronic treatment - CBT - establish healthy sleep hygiene - interrupt the cycle of sleep anxiety, the anxiety abt not being able to sleep makes things way worse!!! 
+	5. 
+
+
+brief stimulant pharmacology 
+- sodium oxybate - boost GABA-b, which will inc amt of time in nonREM sleep 
+- methylphenidate, amphetamines = all NE / dopa reuptake inhibitors, so more presynaptic NE/dopamne release 
+- pitolisant = histamine H3 antag = more ACH, NE, andDA 
+- Soiriamfetol = another stimulant, NE/Dopa reuptake inhibitors 
+- modafanil / armodafinil - NE/dopa reuptake inhibitor but in the hypothalamus this time 
+not for narcolepsy but 
+- caffeine AND theobromine, in chocolate = adenosine antag 
+
+normal rem sleep 
+1. medial prefrontal cortex -> orexin 
+2. orexin to turn REM ON:
+	1. sends signals to glutamatergic neurons of pons sublateral dorsal nucleus or SDN -> cholinergic nuerons of the pontine reticular formation AND glycine +GABA neurons in spinal cord which **turn off muscle tone**
+3. orexin to turn REM OFF:
+	1. GABA neurons of midbrain / ventrolateral periaqueductal gray + ventrolateral nucleus -> cholinergic neurons of pons reticular formation 
+
+
+
