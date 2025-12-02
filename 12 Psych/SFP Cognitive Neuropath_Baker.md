@@ -78,5 +78,45 @@ frontal or temporal lobar degeneration - FTLD
 	- FTLD-UPS
 - bross pathology = <mark style="background: #FFF3A3A6;">knife edge atrophy specifically in frontotemporal lobe!!!!</mark>
 
-dementia w/ lewy bodies - 
+dementia w/ lewy bodies - very familiar bc they are parkinsons' !!!
 - alpha-synucleinopathy like 
+- dementia - 2nd most commn cause + movement disorder
+- overlap with AD
+- <mark style="background: #FFF3A3A6;">these are corticoprominent whereas in parkinsons the lewy bodies are brain stem predominent</mark>
+- key: <mark style="background: #FFF3A3A6;">visual hallucinations, REM sleep disorder they act out the dreams, and day to day fluctuations in function</mark>
+- +/- parkinsonium 
+- minimal atrophy grossly speaking 
+- ![[lewy bodies.png]]
+- very hot pink, eosinophilic made up of alpha-synuclein... altho it's harder to see in cortical neurons. 
+
+
+chronic traumatic encephalpathy -CTE
+- repetitive head trauma altho not everyone who has this will get this. 
+- progressive -
+- behavioral - impulsiveness, apathy, violence
+- mood - depression, anxiety, suicide, SUD
+- clinical/path overlap with other neurodegen dz 
+- can only definitively dx post-mortem /: 
+- <mark style="background: #FFF3A3A6;">we see phospho-tau reactive neurons, distribution of tau are in depths of sulci... cerebral cortex.!!!!!</mark>
+- basically - we see the stains showing it into the sulci... into the base of the valley. 
+- also perivascular accumulation too 
+
+prions - group of fatal neurodegen dz abnormal accumulation of badly folded prions... <mark style="background: #FFF3A3A6;">microscopic change of spongiform encephalopathy</mark>
+	we get a diffuse widespread vacuolization of the brain ... and kuru type plauques everywhere. just spongey .... 
+	there's immunostains of plaques that can tell u what type it's made up of. 
+	<mark style="background: #FFF3A3A6;">florid plaques = </mark> combo of amyloid plaque causd by prion with associated vacuolization of the plaque
+- mostly sporadic - transmissible, inherited forms 
+- mad cow dz - europe blood transmission and transfusion 
+- <mark style="background: #FFF3A3A6;">creutzfeld-jakoob disease</mark> - CJD most common !
+	- poradic
+	- 10% inherited
+	- iatrogenic transmission 
+	- 50-70 yrs old will happen later in life
+	- <mark style="background: #FFF3A3A6;">rapidly progressive!!!! dementia!!!! over like 6 months!!!</mark>
+	- and startle myoclonus
+	  EEG = periodic sharp wave copmlexes, imaging too with diffusion restriction of cortex ? and deep gray nuclei 
+	- CSF = <mark style="background: #FFF3A3A6;">BEST = RT-QUIC taking their CSF and checking aggregation.</mark>
+- PrPc = normal prion protein that can spontaneously convert to PrPSC from a <mark style="background: #FFF3A3A6;">alpha helix to beta pleated sheet</mark>
+- as soon as this accumulates the aggregation of this occurs. 
+- u need to throw surgical tools that are exposed to this away 
+- this is a type of amyloid = prion protein plaques 
