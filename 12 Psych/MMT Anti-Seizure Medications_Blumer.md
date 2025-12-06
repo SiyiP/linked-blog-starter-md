@@ -1,4 +1,4 @@
-#psych 
+#psych #pharm 
 seizures - transietn epis of brain dysfuncton from abnromal firing of neurons groups 
 epilepsy - periodic/unpredictable seizures 
 these all treat the sypmtoms but not the underlying cause 
@@ -8,6 +8,8 @@ these all treat the sypmtoms but not the underlying cause
 - idiopathic tooo ofc , largely we know it's this 
 
 ![[moa diagram anti seizure meds.png]]
+
+![[seizure med clinical charting.png]]
 
 things we can target
 - hyperexcitability of many neurons
@@ -128,6 +130,21 @@ narrow spec - mostly focal ; wide variety of targets
 	3. SE: vision loss !!!
 barbituarates: work on the GABA-A receptor but not same site as GABA 
 6. phenobarbital 
-	1. poz allosteric modulato
+	1. <mark style="background: #FFF3A3A6;">poz allosteric modulato</mark>r of GABA-A receptor , <mark style="background: #FFF3A3A6;">inc of potency for GABA </mark>, better at Cl- conductance!!!
+	2. inc potency of GABA, and at higher doses can even stimulate GABA-A receptors directly like in sedative hypnotic moa 
+	3. <mark style="background: #FFF3A3A6;">long duration of action + very long half life</mark>
+	4. for gen tonic-cloinc seizures + focal partial seizures and status epilepticus 
+	5. SE: fatal resp depression + OD , CYP P450 enzyme inducer!!! dependence can develop. 
+	6. CIs: disrupt it slowly (can inc seizure risk) , may wrosen absence seizurs + JME
+Benzodiazepines - another poz allosteric modulator of GABA-A receptor !!!
 7. lorazepam 
+	1. this is a <mark style="background: #FFF3A3A6;">poz allosteric modulato</mark>r of GABA-A receptor , <mark style="background: #FFF3A3A6;">inc of potency for GABA </mark>, better at Cl- conductance!!! 
+	2. for <mark style="background: #FFF3A3A6;">primarily status epilepticus - longterm use for seizures is avoided due to tolerance!!!</mark>
+	3. also used for anxiety 
+	4. SEs: sedation, drowsienss, ataxia, <mark style="background: #FFF3A3A6;">amnesia</mark>, abuse potential too !!! resp depression with other depressants 
+	5. CIs: cat d for pregnancy, cleft palate 
 8. ethosuximide 
+	1. <mark style="background: #FFF3A3A6;">these block t-type Ca2+ channels in thalamic neurons</mark>
+	2. <mark style="background: #FFF3A3A6;">this one absence seizures therapy!!!!!!!!</mark>
+	3. SE: <mark style="background: #FFF3A3A6;">GI upset!!!</mark>
+
