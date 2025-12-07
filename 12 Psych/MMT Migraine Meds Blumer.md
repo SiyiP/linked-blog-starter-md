@@ -100,3 +100,5 @@ prophylaxis
 	3. AEs: dysphagia, muscle weakness, headache, etc... these can all be well tolerated 
 7. Mg = effective supplement? 
 8. coQ10 and riboflavin - some evidence in prevention? 
+
+"migraine cocktail - in ed given more than 72 of a migraine that's debilitating."
