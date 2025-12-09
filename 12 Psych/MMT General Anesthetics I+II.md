@@ -192,4 +192,38 @@ inhalational
 	1. low solubility rapid onset
 	2. profound analgesia used at 30-50 
 	3. not muscle relaxants
-	4. 
+	4. indications =for anxiety / phobia , conscious sedation 
+	5. effects are additive, reducing the amts of total agents required to achieve stage.3 
+	6. CI : resp obstruction + COPD, <mark style="background: #FFF3A3A6;">pneumothorax - this nitrogen will move into that compartment and really expand that wall.</mark>, pregnancy + chrnic ear stuff... 
+	7. post op n/v is huge but htis will be rpidly inhibited
+	8. <mark style="background: #FFF3A3A6;">like B12  enzyme inhition with chronic use of this like neuropathys, ataxia/muscl weakness, megaloblastic anemia, </mark> inc risk of spontaneous abortion 
+	9. **diffusion hypoxia**
+		1. when the n2o stop and then the pt breaths the romo air 
+		2. <mark style="background: #FFF3A3A6;">all that N2O goes into the alveoli from the blood, diluting subsequent breaths of o2 and then they become hypoxic</mark>
+		3. <mark style="background: #FFF3A3A6;">we NEED to give 100% o2 for 3-5 min at the end of procedure to prevent this!</mark>
+
+all volatile anesthetics are triggers for <mark style="background: #FFF3A3A6;">malignant hyperthermia!! MH</mark>
+- genetic cmponents? = polymorphisms of **ryanodine receptor** + succynlcholine triggrs this too 
+- **fatal hypermetabolic dz** = <mark style="background: #FFF3A3A6;">arrhythmias, metabolic + respiratoory acidosis, inc HR, hyperkalemia + hyperthermia</mark>
+	- presents in intraop periood 
+	- <mark style="background: #FFF3A3A6;">inc in intracellular calcium causes all those things listed above.</mark>
+	- give dantrolene for this!!! 
+all these anesthetics causee dose dependent dec in BP and SVR except halothane .... 
+- these are seen during **induction** during maintenannce 
+- all moderate **bronchodilators** + s**keletal muscle relaxant**s + resp depressaants 
+- primarily elim by ventilaton  = we NEED to support their respiration 
+1. note about HALOTHANE
+	potent bronchodilator, dec bp and blunts baroreceptor reflex
+	- <mark style="background: #FFF3A3A6;">sensitizes heart to catecholamine induced arrhythmias + hepatic toxicity due t oimmune response to hepatic proteins that get trifluoroaceylated from metabolism. = hepatitis</mark>
+	-  low pungency allowing for inhalational induction in pediatric cases 
+2. isofluorane - new improved halothane 
+	1. gross odor - not used inhalationally 
+	2. no hepatic + renal toxicity 
+	3. higher blood solubility than others, typically oonly used when cost is a factor 
+3. desflurane  
+	1. **very rapid onset + recovery, low blood solubility, lowest lambda** 
+	2. pungent odor = can't use in mask inducton, stimulates resp reflexes liek coughing!!
+	3. expensive, global warming ): 
+4. sevoflurane = improved desflurane! 
+	1. very rapid onset + recovery 
+	2. <mark style="background: #FFF3A3A6;">low pungency, less bronchospamss, useful for inhalational / mask induction esp for pediatric patients</mark>
