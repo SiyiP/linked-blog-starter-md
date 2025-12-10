@@ -49,9 +49,103 @@ major dopamine pathways
 	2. newer agent slike clozapine + risperidone have equal or greater affiniity for the 5-HT2A rec than the D2 rec 
 	3. but antipsychotics that are <mark style="background: #FFF3A3A6;">atypical, having a high affinity antagonistic activity at the 5-HT2A receptors are more effective at treating negative symptoms than the clasical D2 receptor blockers while having fewer AE of motor origin. but not alone effective.</mark>
 5- cliniical effects of antipsychotics
-- reducing hallucination + paranoia 
+- reducing hallucination + paranoia also calming + reducing agitation 
+- helps with mania/depression = in bipolar dz 
+- they don't work well due to negative symptoms + cog issues
+	- these do a good job at schizophrenia 
+	- SEs: extrapyramidal symptoms, hyperprlactinemia, weight gain, CV risk up, seizures, qtc , sedation, orthostatic hypotension 
+	- huge SEs ):  = CV and cardiometabolic risks cause their life expectancy to go way down 
+		- more prevelant are metabolic syndrome, ddiabetes, CV releated mortality, drugs make them gain weight, obesity, disbtes, HTN. 
+		- hard pt management due to this ): 
+	- notorous - EPS = extrapyramidal symptoms happen soon due to nigrostriatal pathway D2 receptors getting blocked
+		- dystonia - in face/neck/back 
+		- parkinsonian effects - akinesia, lack of movement
+		- akathesia - restlessness, inability to sit still
+		- **tardive** **dyskinesia**  = over months of use.... resistant to treatment after it develops - movements up the face like chewing , sucking in tongue . etc 
+			- lip smacking , protrudng tongue
+			- grmace
+			- can't control this duh 
+		- TREAT: with the anticholinergic drug coadministered with high potency gen 1 antipsychotics used 
+			- recall dopamine and ach will play a balanced seesaw 
+			- dopamine inhibits GABAergic proection of neurons from striatum 
+			- ACH stimulates GABAergic projection of neurons from striatum 
+			- when DA blocked, ACH activates these neurons causing EPS and motor symptoms 
+		- Also TREAT w/ dopamine agonists 
+			- amantadine for EPS potentiates release of dopamine, improve parkinsonism but temporariliy 
+			- beta blockers too = propanolol for akathisia 
+	- choreathetoid extremity movement - clonic jrking of finger/limbs/toes
+	- additional SEs:
+		- <mark style="background: #FFF3A3A6;">lower the seizure threshold!!!! both generations</mark>
+		- QT prolongation like torsades de pointes
+		- dementia -related psychosis !!!
+		- sedation, orthostatic htn 
+	- >neuroleptic malignant syndrome 
+		- similar to <mark style="background: #FFF3A3A6;">malignant hyperthermia but precipitated by D2 antags and no strong gneetic component. leading to hyperactivity o the peripheral sympathetic NS</mark>
+			- <mark style="background: #FFF3A3A6;">hallmark = !!!!!!!!!!!!lead pipe muscle rigidity, mimicking severe parkinsons with coarse tremor + catatonia with elevation of serum creatine kinase... mental status stupor/delirium, and high fever + tachycardia</mark>
+			- this happens days after initial therapy or dose escalation 
+			- treat with dantrolene similar to malignant hyperthermia 
+		- serotonin syndrome = serotonergic meds
+		- antipsycotic meds = neurologic malignant syndrome
+		- inhaled anesthetics = malignant hyperthermia! 
 
 1st gen antipsychotics
+- other drugs that cause same effects as these dopamine antags
+- promethazine, prochlorperazine, metoclopramide 
+- use of these unrelated can cause EPS 
+- older, cheaper, work better on pos symptoms 
+- higher anticholinergic
+- more selectiv for D2 blockage
+	- <mark style="background: #FFF3A3A6;">more potent at blocking D2 = more EPS experiencing!!!!</mark>
+high to low potency 
+1. haloperidol  = higher risk of getting EPS 
+	1. high affinity D2 antag
+	2. eps common but sedation/hypotension not much 
+	3. most commonly used gen 1 
+	4. metabolize by cyp2D6
+	5. black box warning for IV .... bc of prolonged QTc leadng to torsades de pointes 
+low potency 
+- chlorpromazine 
+	- lower risk of eps... low potency D2 antag
+	- potention for severe hypotension 
+	- VERY anticholinergic
+	- risk of <mark style="background: #FFF3A3A6;">corneal + lenticular pigmentatin + deposits</mark>
+	- metabolize by cyp2D6
 
+2nd generation antipsychotics = atypical antipsychotics
+- very expensive + newer
+- may work on poz + neg symptoms 
+- lower incidence of EPS, TD, NMS 
+- but inc in metabolic syndrome stufff ): 
+- thru 5-HT2A and D2 blockade primarily 
+1. clozapine
+	1. gold std, but not first prescried
+	2. for refractory cases
+	3. for treatment resistant failures with 2 fails first 
+	4. weight gain common 
+	5. <mark style="background: #FFF3A3A6;">risk of agranulocytosis + neutropenia!!! reqs weekly CBC</mark>
+		1. severe infection with low neutrophils + sore throat with ulcers etc. 
+	6. risk for seizures + hypotension, diabetes, increased ldl + triglycerides, sialorrhea 
+	7. metabolized by cyp1A2 + cyp2d6 among others .... 
+2. risperidone
+	1. this is haloperiidol lite 
+	2. lower potential for metabolic symptoms.... 
+	3. one of the few which would <mark style="background: #FFF3A3A6;">increase prolactin, leading to potential sex dysffunction</mark>
+	4. cyp2d6 metabolized 
+3. aripiprazole
+	1. a d2 <mark style="background: #FFF3A3A6;">partial agonitst, binding tightly but doesn't block it completely, allowing it to leak things thru still</mark>
+	2. way less metabolic risk 
+	3. high potential for akathisia  = inner restlessness foot tapping 
+	4.  mid efficacy - used as an addon for many conditions 
 
-2nd generation antipsychotics 
+4. olanzapine 
+	1. high prob of weight gain!!!!!
+	2. reportd as effetive but cardiometabolic risks migh be too much 
+	3. used for bipolar depression 
+	4. very sedating
+5. quetiapine
+	1. lower weight gain and stuff risk 
+	2. goood efficacy 
+	3. monotherapy for bipolar depression 
+	4. sedating
+	5. orthostatic hypotesnsion 
+	
