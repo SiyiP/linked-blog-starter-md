@@ -104,4 +104,24 @@ preoccupation/anticipation - drug seeking phase - craving
 	- dorsal striatum  = habit circuit amped up  
 	- extended amygdala = stress response fed back 
 
-drug-cue presentation - where glutamate gets activated into the drug circuit specifically maeks it win out cmpare
+drug-cue presentation - where glutamate gets activated into the drug circuit specifically maeks it win out cmpared to natural reward 
+
+how to reset this circuit change? huge for clinical and research 
+
+glutamatergic plasticity at the synaptic junction bt prefrontal cortex + nucleus accumbens
+- <mark style="background: #FFF3A3A6;">there's more glutamate released into the nuc accumbens as a result of drugs due to synaptic potentiation</mark>
+	- expansion of dendritic spine .... - inc of size of the response. 
+	- inc AMPA/NMDA ratio
+	- astrocyte retraction + downregulation of GLT-1 = cannot clear out the glutamate as well!!! 
+	- degradation of ECM via MMP2/9 = meaning we can expand the spine head 
+- in this preocupation anticipation phase, inc glutamate activity in PFC to nuc accumbens  circuit 
+
+hippocampus - spatial context + memory formation; <mark style="background: #FFF3A3A6;">context, like at the bar</mark> 
+amygdala = basolat portion = cue reward memory formation, engaged during drug seeking ; <mark style="background: #FFF3A3A6;">lighter = cue</mark>
+insula = homeostatic context <mark style="background: #FFF3A3A6;">how good or bad do i feel inside?</mark>
+
+
+
+neurobio in SUD of animals - self administration of drug via animals, they press the budden themselves, assssing endophenotypes like impulsvty, compulsivity, relapse models 
+- rodents - show all 3 phases
+- analogus brain structues
