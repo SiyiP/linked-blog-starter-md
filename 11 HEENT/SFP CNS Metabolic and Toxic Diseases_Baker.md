@@ -4,7 +4,7 @@
 no common thread ); 
 
 alcohol related syndromes
-1. wernicke encephalopathy - acute B1 thiamine def 
+1. Wernicke encephalopathy - acute B1 thiamine def 
 	1. triad - altered mental, oculomotor dysfunction, cerebellar signs 
 	2. replace thiamine (cofactor for glucose metabolism); can reverse the symptoms 
 	3. from GI surgical procedures , vomiting/chronic diarrhea, systemiic dz like AIDs, etc

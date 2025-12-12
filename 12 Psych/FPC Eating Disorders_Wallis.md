@@ -33,6 +33,7 @@ diet + exercise isn't the only thing to lose weight
 		4. pancytopenia 
 		5. we can see autonomic instabiliity at end 
 		6. bone health = amenorrhea and osteoporosis 
+	9. very high mortality 
 2. bulimia nervosa = median age 18 
 	1. more normative eating in bt b/p 
 	2. binging = 
@@ -45,7 +46,9 @@ diet + exercise isn't the only thing to lose weight
 			1. vomitting, lax, diuretics, extreme exercise 
 	3. note relats to method of compensatory behavior 
 	4. dental erosions, ulcers, reflux, abd bloating, cardiac arrhythmias, callouses on hands 
-	5. electrolyte abnormalities (more bicarb, <mark style="background: #FFF3A3A6;">hypochloremic hyponatriemic</mark>) chronic dehydration, edema, AKI , constipation,
+	5. electrolyte abnormalities (more bicarb, <mark style="background: #FFF3A3A6;">hypochloremic metabolic alkalosis</mark>) chronic dehydration, edema, AKI , constipation, sialadenitis parotid gland infection and swellning 
+	6. hypokalemic , hypophosphatemia 
+	7. dizziness, ekg abnormalities
 3. BED 
 	1. binging without purging 
 	2. binge fullness, much distress
@@ -89,6 +92,12 @@ signs/symptoms
 - sudden decision to become vegetarian/veg 
 - picky eating/healthy food 
 - always going to bathrooms after meal 
+- half die from med complications other half die from suicide 
+- higher mortality 
+	- older age of presentation 
+	- comorbid SUD 
+	- lower bmi at presentation 
+	- comorbidieis of psych disorder 
 challenges
 - missing atypical presentations
 - poor historian 
@@ -101,4 +110,35 @@ nutritional assessment
 - 24 hr recall
 - foods eaten/avoided
 - id of potential vitamin/nutrient deficiencies 
+
+
+refeeding syndrome
+- uncommon but life threatening
+- fluid + electrolyte shifts when malnourished person starts eating
+- insulin frm glucose -> production of glycoogen, <mark style="background: #FFF3A3A6;">drives K+ and phosphorous into cells therefore your serum levels drop sooo much and u don't have much to begin with</mark>
+	- <mark style="background: #FFF3A3A6;">depletion of ATP and 2,3-DPG , resp muscle/diaphragm weakness, HF, rhabdomyolysis, seizure</mark>
+- supplement electrolytes prir to feeding
+- id at risk ppl with extreme issues
+	- 5-10 days prolonged fasting 
+	- rapid weight loss 
+	- <70% EBW 
+	- feed ppl more 
+	- peaks in 72-84 hrs 
+
+EDO treatment 
+- nutritional rehab/weight restoration is initial goal + imprerative
+	- early nutritional restoration and management of comorbidities is the biggest thing 
+- psychotherapeutic interventions only 
+- lvl of care dpeendent on med compliications, insurance, fam/patient preference
+	- high lvl of care != improved outomes!!! 
+
+fmaily based treatment = FBT
+- 1st line treat for adolescents with AN 
+- evidence coming out for use with adolesents with bn 
+- no blame to either parents or the ill adolescent
+- getting them well - 
+
+1. phase 1 - parents in change of weight erstoration 
+2. phase 2 (sessions 11-16) = parents hand cntrol over eating back to adolescent 
+3. phase 3 = discuss adolescent developmental isseus (17-20)
 
