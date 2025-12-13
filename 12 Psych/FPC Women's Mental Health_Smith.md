@@ -97,13 +97,23 @@ perinatal mood disorders
 				- outpatient, 2 wk course 
 - postpartum psychosis - presumed to be bipolar unless proved otherwise ; 
 	- psychiatric emergency 
+	- rapid onset , first pregnancy 
+	- not overly psychotic can look like delrium 
+	- suspect bipolar, 4% suicie/infanticie risk R
+	- RFs: prior episodes of psychosis, perosnal fm hx of bpolar 
+	- sleep loss 
+	- TREAT: lithium!! 
 
 perinatal anxiety disorders
 - anxiety
 - panic
 - obsessive compulsive disorder
 	- common but they're scared to say so unless we ask
-	- prevalence is higher in first time 
+	- prevalence is higher in first time moms 
+	- intrusive thoughts are very debilitating, center around a theme in postpartum ocd these revolve aoruond their baby 
+	- thoguths are about harming hteir baby with no intent or desire to do so 
+	- diff from psychotic orhomicidal thoughts
+	- <mark style="background: #FFF3A3A6;">dystonic = thoughts that aren't in line with who we are or what we believe</mark>
 - ptsd 
 mental health is most common copmlication of pregnancy + childbirth 
 - we screen but don't know how to really treat. afraid of treating pregnant women bc medications are not seen as something that's safe for them. 
@@ -128,4 +138,10 @@ what meds should i choose?
 	- provide psycheducation, tey're not gonna take a med they don't agree with anyways 
 
 
-
+perimenopause
+- 3+ mon of reduced or irregular perioids due to waning e level 
+- avg age 40s , lasts 4 yrs 
+menopause - last menstrual perioid 12 month after last. 42 years old 
+we get vaginal dryness, cog changes with deprssed mood, hot flashses, urinary problems, mood instability, sleep disturbances tooo 
+DX: obgyn thing 
+- also characterize with symptoms , rule out other issues 
