@@ -105,7 +105,8 @@ stereotyps
 		3. often envious of others or believe others envious of them 
 		4. arrogant, haughty behaviors or attitudes 
 		5. TREAT: compensting for low self esteem or something else? help out with subsequent response to humiliation, gradiosity often overlaps ith mania, antisocial prsonality disorder
-		6. they often get success
+		6. they often get successful job + submissive partner
+		7. need psychotherapy - slightly stroke their ego for rapport. then work thru self esteem, and constnat feeling of entitlement 
 	4. antisocial personality disorer 
 		1. failure to conform to social norms
 		2. deceitfulness
@@ -121,3 +122,36 @@ stereotyps
 		12. can be very social and likable on the surface
 		13. TREAT: born again with religion or otherwise. rehab often fails. 
 3. cluster C = anxious 
+	1. avoidant personality disordr 
+		1. avoids occupational activities + people 
+		2. shows restraint within intimate relationships 
+		3. <mark style="background: #FFF3A3A6;">they WANT to be with ppl, but they avoid it!!!</mark>
+		4. see self as socially inept, personally uappealring or infeiror to thers
+		5. reluctant to take personal risks or to engage in any new activities 
+		6. preopccupation with gettin criticized
+			1. social phobia = more j fear of <mark style="background: #FFF3A3A6;">performanc situations</mark>
+			2. avoidant personality disorder =<mark style="background: #FFF3A3A6;">outwardly low self esteem, pervasive avoidance</mark>
+		7. TREAT: psychotherapy , anxiety + meds too
+	2. dependent personality disorder
+		1. has difficutly making every day decisions without excessive amt of advice, needs other to asusme respnosibility, hard to express disagreement, don't speak up, excessive lengths to obtain nurture from another
+		2. TREAT: psychootherapy + assertiveness training 
+	3. obsessive cmpulsive personality disorder 
+		1. ocpd - 
+		2. preoccupied with details, rules, lists, order or scheduels
+		3. perfectionisms
+		4. excessivley devoted to work
+		5. overconscienctious, inflexible, 
+		6. can't discard worn out or worthles objs
+		7. reluctant to delegate tasks or to work with others 
+		8. adopts a miserly spendng style 
+		9. can procratinate and still have this 
+		10. reluctant to delegate thing 
+		11. OCPD = <mark style="background: #FFF3A3A6;">more just neat, hoard, attentive to details</mark>
+		12. OCD = <mark style="background: #FFF3A3A6;">overt obsessions/compulsons like checkng locks, countng tiles, fear of contamination</mark>
+		13. TREAT: psychootherapy + meds (ssri fluxetine)
+elicited emotional response
+- dont' argue, be calm and firm 
+- appeal to their sense of wanting the best for themselves
+- reframe their behaviors as choices, 
+- avoid discussing other staff negatively 
+- appointt one persona s spokesperson 
