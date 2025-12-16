@@ -17,7 +17,7 @@ vascular dementia
 - for ppl with multiple sequele of vascular dm g
 - 2/2 multiple subcortical infarcs / ischemic lesions 
 	- we see hyaline arteriosclerosis in the vessels - onion-skinning, replacement with thevessel walls
-	- lacunar infarcs look like white space around bv rarefaction, vague triangular areas, and then the pinkish eosinophilic color surrounding is gliosis in the brain bgd.![[Screenshot 2025-11-27 at 10.14.53 PM.png]] 
+	- lacunar infarcs look like white space around bv rarefaction, vague triangular areas, and then the pinkish eosinophilic color surrounding is gliosis in the brain bgd.![[gliosis subcortical infarcs and hyaline arteriosclerosis.png]] 
 - stepwise deterioraton - acute decline to another acute decline
 	- stroke 1 -> decline to stroke 2 and then another decline in cognition 
 	- <mark style="background: #FFF3A3A6;">enalrged venticles due to loss of brain substance + lacunar infarcs of white matter and/or deep gray matter.</mark>
@@ -32,7 +32,8 @@ vascular dementia
 - causes - nuerous and anything vascular too; like lacunar infarcs 
 -  can have overlap with other neurodegen dz 
 
-
+![[alzheimers neuritic plaques.png]]
+- classic extracellular hallmark of Alzheimer disease. These plaques consist of a central core of β-amyloid surrounded by swollen, tortuous neurites. Their presence aligns sharply with the patient's progressive memory loss, disorientation, and profound cognitive decline.
 alzheimers dz - AD
 - most common form of dementia 
 - usually begins after 50 
@@ -51,10 +52,12 @@ alzheimers dz - AD
 		4. these plaques have many diff stages of development but they are basically amyloid beta + abnormal neuron processes/dystrophic neurites => neuritic plaque! 
 		5. note - cells get trapped in this plaque, dark on silver stain... abundance and distribution isn't highly correlated with symptom severity. 
 	2. tau, hyperphosphorylated - neurofibrillary tangles 
-		1. tau - microtubule associated protein with transport along axons 
-		2. when they're abnormally phosphorylated they fall into tangles 
-		3. EM = paired helical filaments - kinda archaic... low yield? 
-		4. <mark style="background: #FFF3A3A6;">abundance and distribution highly correlated with severity....</mark>
+		1. ![[neurofibrillary tangles tau, alz dz.png|147x180]]
+		2. tau - microtubule associated protein with transport along axons 
+		3. flame-shaped, silver-positive structures *inside* neurons are neurofibrillary tangles
+		4. when they're abnormally phosphorylated they fall into tangles, forms paired helical filaments  
+		5. EM = paired helical filaments - kinda archaic... low yield? 
+		6. <mark style="background: #FFF3A3A6;">abundance and distribution highly correlated with severity....</mark>
 - alz genetic associations: 
 	1. trisomy 21 = bc app on the chromosome 21, downs ppl have extra copy of this so early AD changes):
 	2. apo e = apolipoprotein involved in gen and depo of amyloid, high risk with amyloid accumualation 
@@ -74,6 +77,7 @@ frontal or temporal lobar degeneration - FTLD
 	- FTLD-tau = <mark style="background: #FFF3A3A6;">pick disease</mark>
 		- has neurofibrillary tangle and neurites
 		- pick bodies = round, cytoplasmic neuronal tau inclusions 
+		- 
 	- FTLD-FUS
 	- FTLD-UPS
 - bross pathology = <mark style="background: #FFF3A3A6;">knife edge atrophy specifically in frontotemporal lobe!!!!</mark>
@@ -87,6 +91,12 @@ dementia w/ lewy bodies - very familiar bc they are parkinsons' !!!
 - +/- parkinsonium 
 - minimal atrophy grossly speaking 
 - ![[lewy bodies.png]]
+	- intracellular, eosinophilic, and found in dopaminergic neurons of the substantia nigra, not extracellular.
+	- |   |
+|---|
+|Masked facies, cogwheel rigidity, bradykinesia, pill-rolling tremor, and acting out dreams|
+||
+- 
 - very hot pink, eosinophilic made up of alpha-synuclein... altho it's harder to see in cortical neurons. 
 
 
@@ -120,3 +130,10 @@ prions - group of fatal neurodegen dz abnormal accumulation of badly folded prio
 - as soon as this accumulates the aggregation of this occurs. 
 - u need to throw surgical tools that are exposed to this away 
 - this is a type of amyloid = prion protein plaques 
+
+rosenthal fibers
+- Eosinophilic structures in astrocytic processes are Rosenthal fibers, typically associated with pilocytic astrocytoma or chronic gliosis.
+![[rosenthal fibers of pilocytic astrocytoma.png]]
+
+
+lipid laden macrophages - are in demyelinating disordrs 

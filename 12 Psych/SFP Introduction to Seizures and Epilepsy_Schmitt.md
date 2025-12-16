@@ -44,8 +44,8 @@ types
 		- 6 mon - 5 years of age
 		- no treat simple seizures
 		- complex = treatment is debatable with no evidence that these would cause injury or cog problems or that it would prevent epilepsy 
-		1. simple febrile seizures - less than 15 min, only one in 24 hours, generalized both arms both legs, no inc risk of epilepsy 
-		2. complex febrile seizures - 15+ min, more than 1 in 24 hrs, and it's focal/partial - then yes RF for getting epilepsy 
+		1. simple febrile seizures - <mark style="background: #FFF3A3A6;">less than 15 min, only one in 24 hours, generalized both arms both legs,</mark> no inc risk of epilepsy 
+		2. complex febrile seizures - <mark style="background: #FFF3A3A6;">15+ min, more than 1 in 24 hrs,</mark> and it's<mark style="background: #FFF3A3A6;"> focal/partial -</mark> then yes RF for getting epilepsy 
 	4. infantile spamss
 		- before 12 mon typically 
 		- brief flex/extension movements of axial + limb muscles

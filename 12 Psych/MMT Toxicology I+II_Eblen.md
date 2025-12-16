@@ -283,4 +283,53 @@ forever chemicals  - class of compounds
 - nonstick surfaces, in everything we use 
 - frozen pizza, nonstick pans , resistant to breakdown in the environment
 - used in products + manufacturing - in food, drinking water, etc. 
-- <mark style="background: #FFF3A3A6;">colon cancer, immune system disorders, via ox stress +</mark>
+- <mark style="background: #FFF3A3A6;">colon cancer, immune system disorders, via ox stress + enzyme inhibitions</mark>
+
+asbestos - 
+- fibrous material widely used in 20th century for sound absorption, resistance to fire/heat + tensile strength 
+- <mark style="background: #FFF3A3A6;">lung cancer + progressive fibrotic lung disease asbestosis and mesothelioma</mark>
+- mesothelioma= pleural or peritoneum at very low doses; stays int he lung, causing <mark style="background: #FFF3A3A6;">fibrotic response</mark>
+- other cancerrs mechanism unclear 
+- widley banned 
+
+metals
+lead
+- batteries, ammunition, plastcs, ceramiics pipes for drinking water + paint + gasoline 
+- lead = no useful purpsose in the body 
+- <mark style="background: #FFF3A3A6;">developing cns = no level of exposure is safe without any deleterious effects!</mark>
+- adults absorb and retain10-15% of ingested but <mark style="background: #FFF3A3A6;">young kids absorb 50%... and low calcium or empty stomach all inc lead absorption</mark>
+	- in adults- rritabilty, dec libidio, sleep disturbnce, myalgias etc
+	- dose response bt concentrations and cog function in kids are nonlinear ; a little bit does a lot of dmg 
+- found in erythrocytes, and <mark style="background: #FFF3A3A6;">stored in the bones - slow release fromt the skeleton, as you use a tchelator, you have the chelation over and over bc the lead is very slow release.</mark>
+- enzyme = interference with action of essential cations, <mark style="background: #FFF3A3A6;">lead binds to all of antioxidant enzymes, making antioxidants not work.</mark>
+	- nervous system developmental problems
+	- chronic lead intox should be considered in any child with dev delay 
+	- blood = anemia, basophilic stippling, decreases heme synthesis 
+	- kidneys - occur via years
+	- reprod organs - stillbirth, spontaneous abortion, low birth weight
+	- more bp higher 
+	- bones -storage site for lead 
+DX: 
+- in whole blood is not reliable of cumulative epxosure
+- we need xray to chck the bones 
+TREAT: - chelating agents mainly - to remove the metals in the system, but this would bind to the trace minerals which can be a  problematic effect. 
+
+
+mercury 
+- only metal liquid under ordinatry conditions
+- in manufactor, dentalamalgram, fosil fuels
+- easy absorb in gi tract
+- <mark style="background: #FFF3A3A6;">higher conentration in the kindey, multicompartment extretion method, redistribued thruout the entire body</mark>
+- <mark style="background: #FFF3A3A6;">triad: TREMOR, neuropsych disturbances + gingivostomatitis</mark> with chronic poisoning 
+- TREAT: supportive care + chelators 
+
+
+chelators
+- form a complex ith metal 
+- prevents metals from having toxic interactions 
+- no side effects aside from chelating zinc and coppers which are useful 
+- use asap 
+- 1. dimercaprol - oily, colorless, chelates <mark style="background: #FFF3A3A6;">arsenic , lead and mercury</mark>
+	- tachycardia, n/v, lacrimation, fever, htn 
+2. succimer - DMSA
+	1. water soluble form of dimercaprol , for <mark style="background: #FFF3A3A6;">lead poisoning mainly in kids + better tolerated!</mark>
