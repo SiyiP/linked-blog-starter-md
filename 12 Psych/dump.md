@@ -1,4 +1,78 @@
--   
+
+|                                                                                                                                                                                                                                                                                                           |     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Working memory is essential for temporarily holding and manipulating information needed for cognitive tasks such as reasoning, learning, and comprehension. It allows us to keep information in mind while using it to perform tasks like solving problems, making decisions, and understanding language. |     |
+**  
+Non-Associative Learning:** This type of learning involves changes in the strength of response to a single stimulus due to repeated exposure. It includes two main types: habituation and sensitization.
+
+- **Habituation:** This is when a person becomes less responsive to a stimulus after repeated exposure. For example, becoming less responsive to a loud noise over time is a classic example of habituation.
+
+operant learning - not associative one
+|   |   |
+|---|---|
+|This type of learning involves behavior being influenced by the consequences that follow it. In this scenario, the student's behavior (studying hard) is reinforced by positive outcomes (praise and good grades), which increases the likelihood of the behavior being repeated. This is a clear example of operant conditioning, where rewards or punishments shape behavior.|   |
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| H.M.'s case provided critical evidence that the hippocampus is essential for the formation of new explicit memories, such as facts and events. His ability to recall long-term memories formed before the surgery remained largely intact, highlighting the role of the hippocampus in memory consolidation rather than storage.                                                                                                                                                   |     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |
+| K.C. experienced a profound loss of episodic memory, meaning he could not recall personal experiences or specific events from his past. He was unable to remember events that happened to him, such as vacations or personal milestones. Despite his episodic memory impairment, K.C.'s semantic memory remained intact. He retained general knowledge about the world, such as facts and concepts, and could remember information like the names of objects and historical facts. |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|The patient's difficulty in remembering recent conversations and frequently misplacing items suggests a problem with encoding new information. This aligns with the symptoms of encoding impairment, where recent events are not effectively processed into memory.\|   \| - review memory processing stages?                                                                                                                                    |     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|LTP is a long-lasting enhancement in signal transmission between two neurons that results from their synchronous stimulation. It is widely considered one of the major cellular mechanisms that underlies learning and memory. LTP strengthens the synapses, making it easier for neurons to communicate with each other, which is crucial for the formation and retention of memories.\|   \|                                                   |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|Glutamate is indeed the key neurotransmitter involved in the induction of long-term potentiation (LTP) in the hippocampus. It plays a crucial role by binding to NMDA and AMPA receptors on the postsynaptic neuron, which leads to a cascade of events that strengthen synaptic connections. This process is essential for learning and memory formation.\|   \|                                                                                |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|In the binge/intoxication stage, the rewarding or hedonic effects of substances are felt.\|   \|                                                                                                                                                                                                                                                                                                                                                 |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|The preoccupation phase is the drug seeking phase associated with intense cravings.\|   \|                                                                                                                                                                                                                                                                                                                                                       |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|Glutamate is involved in the neural changes that occur during reinstatement, which can lead to relapse by strengthening drug-related memories and cravings.\|   \|!!!!!!!!                                                                                                                                                                                                                                                                       |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|Glutamate is involved in the neural changes that occur during reinstatement, which can lead to relapse by strengthening drug-related memories and cravings.\|   \|                                                                                                                                                                                                                                                                               |     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |
+
+|                                                                                                                                                                                                                                                                                                    |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| NT synthesis occurs basically non-stop and is not dependent on sleep.                                                                                                                                                                                                                              |     |
+| sleep is for -                                                                                                                                                                                                                                                                                     |     |
+| \|   \|<br>\|---\|<br>\|Conserving resources\|\|Consolidating memories\|<br>\|\|Clearing metabolic waste produced by neurons from the brain\|                                                                                                                                                      |     |
+| and replinishing glycogen                                                                                                                                                                                                                                                                          |     |
+| \|   \|   \|<br>\|---\|---\|<br>\|Stage 2 – EEG - even lower values, amplitudes increasing, Sleep spindle. Sleep spindles are periodic bursts of activity at about 10 to 12 Hz that generally last 1-2 seconds and arise as a result of interactions between thalamic and cortical neurons.\|   \| |     |
+| \|   \|<br>\|---\|<br>\|increase in amplitude and decrease in frequency\|<br>\|\|                                                                                                                                                                                                                  |     |
+|                                                                                                                                                                                                                                                                                                    |     |
+![[EEG chart primer.png]]
+as they move thru sleep ncrease in amplitude and decrease in frequency
+
+  
+Restless legs syndrome – unpleasant crawling, prickling, or tingling  
+sensation in one or both legs and feet requiring movement to obtain relief  
+• Hot baths, massage, reduce caffeine.  
+• More severe cases can be treated with benzodiazepines
+
+|                                                                                                                                                                                                                                                                                                    |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Cognitive Behavioral Therapy for Insomnia (CBT-I) is often recommended as the first-line treatment for chronic insomnia. It helps individuals change thoughts and behaviors that negatively impact sleep, promoting healthier sleep patterns without the side effects associated with medications. |     |
+
+medication overuse headache (MOH), characterized by:
+
+- Headaches present >15 days/month
+
+- Regular use of acute headache medications
+
+- Development over 3 months
+
+- Improvement within 2 months of medication withdrawal
+
+The first step in managing MOH is to discontinue the overused medication. While prophylactic medications may eventually be needed, they are less effective until medication overuse is addressed. Sumatriptan could worsen the cycle of medication overuse. Lumbar puncture and prednisone are not indicated without other concerning symptoms.
+
+  
+C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR) are the most sensitive laboratory markers for temporal arteritis. They are elevated in >90% of cases and are used to:
+
+- Support the initial diagnosis
+
+- Monitor disease activity
+
+- Guide treatment decisions
+
+
+-
     Methamphetamine intoxication presents with hallucinations, delusions, pupillary dilation, impaired judgement, and increased energy and alertness.
 - Cocaine intoxication presents with pupillary dilation, hallucinations, paranoia, increased energy, and potential sudden cardiac death.
 - PCP intoxication presents with psychomotor agitation, bizarre behavior, hypertension, vertical and horizontal nystagmus, psychosis, and homicidality.
