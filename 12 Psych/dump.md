@@ -1,3 +1,37 @@
+-   
+    Methamphetamine intoxication presents with hallucinations, delusions, pupillary dilation, impaired judgement, and increased energy and alertness.
+- Cocaine intoxication presents with pupillary dilation, hallucinations, paranoia, increased energy, and potential sudden cardiac death.
+- PCP intoxication presents with psychomotor agitation, bizarre behavior, hypertension, vertical and horizontal nystagmus, psychosis, and homicidality.
+- Marijuana intoxication presents with euphoria, increased appetite, impaired judgement, paranoid delusions, dry mouth, and conjunctival injection.
+|   |   |
+|---|---|
+|Concentration is an arousal symptom.  Changes in cognition and mood would include thoughts about self (I am bad), others (people are outdo get me), the world (it is dangerous), and mood symptoms ranging from sadness, guilt, shame etc.|   |
+
+- |   |   |
+|---|---|
+|- ![](https://www.statpearls.com/dist/images/icon-arrow-drop-right.svg)The fear or anxiety typically lasts more than six months. The fear or anxiety causes impairment in functioning and there is marked fear or anxiety about specific objects or situations.|   |
+
+- 
+    Evaluating a proverb would involve abstraction. This can also be assessed by asking if a patient can determine what two objects have in common. Abstraction testing is a part of the cognitive performance during the mental status evaluation.
+- During a mental status examination, cognition is assessed. The components of cognition typically assessed are alertness, orientation, attention/concentration, memory, and abstract reasoning.
+- Congruent affect refers to if the affect matches the patient's described mood. Incongruent affect is if the affect does not match the patient's described mood.
+- Appropriateness of affect is whether the patient's affect fits with their current situation. This is described as either appropriate or inappropriate.
+- -   
+    Anorexia nervosa is an eating disorder that involves restricted intake, weight loss, metabolic and physiologic changes, and altered body image.
+- Many of the symptoms of anorexia nervosa may overlap with those of bulimia nervosa. However, those with anorexia are always underweight, and those with bulimia typically have a normal or slightly increased BMI.
+- -   
+    While an individual with social anxiety disorder may worry about being around **unfamiliar** people rather than people that they are close to, diagnosis requires **marked fear or anxiety in which they are the exposed to possible scrutiny by others.** In separation anxiety disorder the key feature is persistent and excessive fear or anxiety about **harm to attachment figures, loss or separation from attachment figures.**
+- Social anxiety disorder is characterized by marked or intense fear or anxiety of social situations in which they could be the **subject of scrutiny.** Such situations include doing something in public where they could be under scrutiny, such as speaking or eating in a public place. The individual fears that he or she may behave in a manner that will be negatively evaluated or lead to their being embarrassed, rejected, humiliated or offending others. These situations always provoke fear or anxiety and avoided or endured with intense fear and anxiety.
+- |   |
+|---|
+|Phase 1 of FBT ask parents to take over full control of what their child eats, focuses on full weight restoration as the goal and does not allow negotiation around meals or foods|
+||
+
+- REM sleep behavior disorder is characterized by complex motor actions that occur during REM sleep. Dream enactment can occur.
+- The motor behavior generally occurs during the latter part of the night. The patient may not recall their actions but may recall their dreams.
+- These behaviors may be prodromal signs of neurodegeneration, like in patients with Parkinson's disease.
+- Nightmare disorder also involves recalling dreams, but motor behaviors and sleep-related injuries are not seen.
+
 alzheimers = most common cause of dementia 
 |   |   |
 |---|---|
