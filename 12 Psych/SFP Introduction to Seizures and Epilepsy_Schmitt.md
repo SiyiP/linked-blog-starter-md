@@ -59,6 +59,7 @@ types
 		- TREAT: ACTH or high dose steroids, or vigabatrin. irreversible gABA transaminase inhibitor = these are treatments for that spasm, not the underlying abnormality ): 
 		1. west syndrome = infantile spasms, dev delay, <mark style="background: #FFF3A3A6;">hypsarrhythmia, which is high amp, chaotic, disorganized EEG pattern with multifocal epileptiform abnormalitiies, very ugly EEG</mark>
 			1. if u turn it upside down it still looks the same!!! very disorganized
+			2. <mark style="background: #FFF3A3A6;">hypsarrhythmia</mark>
 	5. lennox gastaut syndromoe - severe childhood epilepsy syndrome
 		- many seizur types are here
 		- intellectual disability 

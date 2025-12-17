@@ -177,6 +177,7 @@ aspirin
 - poison with overmed in elderly 
 - uncupling of <mark style="background: #FFF3A3A6;">ox phos + disruption of metabolism</mark>
 - hyperventilation, resp alkalosis, metabolic acidosis, delayed absorption, accumulation of lactate + excretion of bicarb by the kidney 
+- **fever, tinnitus, and tachypnea .**.. 
 - TREA:T <mark style="background: #FFF3A3A6;">supportive care, then gastric lavage then activated charcoal</mark>
 
 fluoroquinolone antibx 

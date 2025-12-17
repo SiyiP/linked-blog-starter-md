@@ -99,11 +99,14 @@ barbiturates - mainly past but still tested today
 
 ---
 
-5-HT1a partial agonist
+5-HT1a partial agonist - partial antag 
 - buspirone- think the S for serotonin 
 - this is a <mark style="background: #FFF3A3A6;">partial agonist , low efficacy and high afinity drug</mark>
 	- basically you block this receptor slightly, allowing more serotonin to be released. 
+	- <mark style="background: #FFF3A3A6;">more serotonin is released....</mark>
 	- 5-HT1A receptors are <mark style="background: #FFF3A3A6;">inhibitory presynaptic receptors, and their activation = decreased firing of 5-HT neurons!</mark>
+	- there is no sedation 
+	- <mark style="background: #FFF3A3A6;">no sexual dysfunction</mark>
 -  no sedation , no hypnotic, anticonvulsant, or muscle relaxant properties, safer for ppl who use alcohol 
 - useful in GAD and anxiety, efficacy is a bit mid tho 
 - AES: dizziness, light headedness, headache, dose dependent pupillary constriction 

@@ -99,10 +99,11 @@ major dopamine pathways
 high to low potency 
 1. haloperidol  = higher risk of getting EPS 
 	1. high affinity D2 antag
-	2. eps common but sedation/hypotension not much 
-	3. most commonly used gen 1 
-	4. metabolize by cyp2D6
-	5. black box warning for IV .... bc of prolonged QTc leadng to torsades de pointes 
+	2. refractory agitation in delirium.... 
+	3. eps common but sedation/hypotension not much 
+	4. most commonly used gen 1 
+	5. metabolize by cyp2D6
+	6. black box warning for IV .... bc of prolonged QTc leadng to torsades de pointes 
 low potency 
 - chlorpromazine 
 	- lower risk of eps... low potency D2 antag
@@ -119,13 +120,14 @@ low potency
 - thru 5-HT2A and D2 blockade primarily 
 1. clozapine
 	1. gold std, but not first prescried
-	2. for refractory cases
-	3. for treatment resistant failures with 2 fails first 
-	4. weight gain common 
-	5. <mark style="background: #FFF3A3A6;">risk of agranulocytosis + neutropenia!!! reqs weekly CBC</mark>
+	2. **treatment resistant schizophrenia** 
+	3. for refractory cases
+	4. for treatment resistant failures with 2 fails first 
+	5. weight gain common 
+	6. <mark style="background: #FFF3A3A6;">risk of agranulocytosis + neutropenia!!! reqs weekly CBC</mark>
 		1. severe infection with low neutrophils + sore throat with ulcers etc. 
-	6. risk for seizures + hypotension, diabetes, increased ldl + triglycerides, sialorrhea 
-	7. metabolized by cyp1A2 + cyp2d6 among others .... 
+	7. risk for seizures + hypotension, diabetes, increased ldl + triglycerides, sialorrhea 
+	8. metabolized by cyp1A2 + cyp2d6 among others .... 
 2. risperidone
 	1. this is haloperiidol lite 
 	2. lower potential for metabolic symptoms.... 

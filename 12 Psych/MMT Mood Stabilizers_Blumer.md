@@ -41,7 +41,7 @@ and benzodiazepines are used but not indicated; slowing them down acutely
 		8. 
 
 2. valproic acid
-	1. this is anticonvulsant
+	1. this is anticonvulsant <mark style="background: #FFF3A3A6;">specifically for juvenile myoclonic epilepsy</mark>
 	2. and migraine prophylaxis
 	3. effective <mark style="background: #FFF3A3A6;">antimanic med, not much for depression</mark>
 	4. SE: GI upset, rash, hepatotox, **pancreatitis**, Neural tube defects 
@@ -84,9 +84,9 @@ effective adjuncts
 
 key receptors involved in adhd = alpha 2A=adrenergic receptors, which are huge for affecting working memory 
 - animal studies show role of NE in activating the a2A-ARs to inc the strength of relevant sensory input to the prefrontal cortext
-	- this is enhancing the signal 
+	- this is <mark style="background: #FFF3A3A6;">enhancing the signal </mark>
 	- this is based on post-synaptic a2A-ARs 
-	- NE activates by inc TNF-alpha release, and then more and more pathways with suppressing cell death, making signals to the prefrotal cortex for working memory creation 
+	- <mark style="background: #FFF3A3A6;">NE activates by inc TNF-alpha release, and then more and more pathways with suppressing cell death, making signals to the prefrotal cortex for working memory creation </mark>
 - D1 dopamine activation of the receptors would <mark style="background: #FFF3A3A6;">REDUCE NOISE</mark>
 - stimulants wich will promote NE/DA activity in the pfc tend to help pts attend to the appropriate stimuli 
 	- we add NE to increase signal 
@@ -96,6 +96,7 @@ key receptors involved in adhd = alpha 2A=adrenergic receptors, which are huge f
 - giving it in a pulsatile pulse, it will be more rewarding but if given in longer sustained time they are able to olock in better... so we use long-extension of releasing 
 
 amphetamines = will inhibit DA and NE **reuptake, blocking VMAT from depleting it basically making the transporters work backwards**
+- abuse oof this during pregnancy = growth reestrictiono 
 - dopamine in the presynaptic neurons build up , and then they would force that dopamine transporter to work backwards, sending it out 
 1. dextroamephetamine = adderall, and lisdexamhetaine work this way 
 2. methylphenidate
@@ -122,7 +123,7 @@ amphetamines = will inhibit DA and NE **reuptake, blocking VMAT from depleting i
 	1. can be used for reducing noradrenergic transmission, helpful for hyperactivity = mimics the NE at a2 receptors which are primarily inhibitory... acts as a brake for further release causing sedation. 
 	2. manipulation of NE also affects workng memory , this enhances working memory too 
 	3. don't abruptly stop this bc of rebound htn
-4. modafinil - mostly carcolepsy 
+4. **modafinil** - mostly <mark style="background: #FFF3A3A6;">narcolepsy</mark> first line...
 	1. no moa 
 	2. inc hypothalamic release o monamines + primarily inc histamines 
 	3. glutamate circuits activated while inhibiting GABA 

@@ -79,9 +79,10 @@ broad spec - both generalized onset/focal onset seizure
 	3. huge treatment for bipolar depression 
 	4. SE: <mark style="background: #FFF3A3A6;">steven johnson syndrome if you don't start low...</mark> - diplopia too 
 4. levetiracetam
-	1. binds selevtively to the synpatic vesicular protein <mark style="background: #FFF3A3A6;">SV2A, modding synpatic release of glutamate and GABA.... reducing these</mark> huge amoutns of excitatory things 
-	2. for add - on focal seizures, gen tonic clonic + generalized myoclonic ones 
-	3. note - t<mark style="background: #FFF3A3A6;">his is very well tolerated. </mark>
+	1. elevator = has a SV2A 
+	2. binds selevtively to the synpatic vesicular protein <mark style="background: #FFF3A3A6;">SV2A, modding synpatic release of glutamate and GABA.... reducing these</mark> huge amoutns of excitatory things 
+	3. for add - on focal seizures, gen tonic clonic + generalized myoclonic ones 
+	4. note - t<mark style="background: #FFF3A3A6;">his is very well tolerated. </mark>
 
 narrow spec - mostly focal ; wide variety of targets 
 1. carbamazepine
