@@ -38,7 +38,7 @@ highly treatable for half the ppl , most common comorbid psych sdisorders + most
 	4. usually treat with meds, but might be less responsive to psychotherapy? 
 3. bipolar disorder type 1 + 2 
 	1. typee 1 = more <mark style="background: #FFF3A3A6;">severe</mark>, more mania, abnormally elevated, expansive, irritable lasting for 1 wk+ may need hospital or psychosis thing 
-	2. type 2 = hypomania - ditto, like 4 days only and no need for hospitalization or psychosis - <mark style="background: #FFF3A3A6;">must have depressive episode</mark>
+	2. type 2 = <mark style="background: #FFF3A3A6;">hypomania</mark> - ditto, like 4 days only and no need for hospitalization or psychosis - <mark style="background: #FFF3A3A6;">must have depressive episode</mark>
 	3. mixed episode - <mark style="background: #FFF3A3A6;">meet criteria for both depressive and manic episode for 1+ weeks</mark>
 	4. cannot be caused by the substance or other thing 
 	5. DIGFAST - need 3+ - distractability, indiscretion, gradiosity, flight of ideas, activity, sleep deficits , talkativeness 

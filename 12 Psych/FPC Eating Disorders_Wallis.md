@@ -81,7 +81,7 @@ EDs dont look like how ppl expect usually
 - EDOs are not about control; the disease is in control and not the typical cause 
 - ppl do fully recover from eating disorders - 
 	- it's not true that they dont' ever do it!
-- amenorrhea is NOT normal for atheletes
+<mark style="background: #FFF3A3A6;">- amenorrhea is NOT normal for atheletes</mark>
 
 signs/symptoms
 - weight loss/gain 
@@ -107,7 +107,7 @@ comprehensive assessment
 - not allowed to eat after time, calories? rituals. frequency of behaviros/ distress - "what do u think ur body should weigh"
 - how hard or easy would it be if ur dr said u had to gain x lbs to be healthy 
 nutritional assessment
-- 24 hr recall
+<mark style="background: #FFF3A3A6;">- 24 hr recall</mark>
 - foods eaten/avoided
 - id of potential vitamin/nutrient deficiencies 
 
@@ -117,7 +117,8 @@ refeeding syndrome
 - fluid + electrolyte shifts when malnourished person starts eating
 - insulin frm glucose -> production of glycoogen, <mark style="background: #FFF3A3A6;">drives K+ and phosphorous into cells therefore your serum levels drop sooo much and u don't have much to begin with</mark>
 	- <mark style="background: #FFF3A3A6;">depletion of ATP and 2,3-DPG , resp muscle/diaphragm weakness, HF, rhabdomyolysis, seizure</mark>
-- supplement electrolytes prir to feeding
+	- low potassium and so much else. 
+- <mark style="background: #FFF3A3A6;">supplement electrolytes prir to feeding</mark>
 - id at risk ppl with extreme issues
 	- 5-10 days prolonged fasting 
 	- rapid weight loss 
@@ -133,12 +134,12 @@ EDO treatment
 	- high lvl of care != improved outomes!!! 
 
 fmaily based treatment = FBT
-- 1st line treat for adolescents with AN 
+- <mark style="background: #FFF3A3A6;">1st line treat for adolescents with AN </mark>
 - evidence coming out for use with adolesents with bn 
 - no blame to either parents or the ill adolescent
 - getting them well - 
 
-1. phase 1 - parents in change of weight erstoration 
-2. phase 2 (sessions 11-16) = parents hand cntrol over eating back to adolescent 
+1. phase 1 - <mark style="background: #FFF3A3A6;">parents in change of weight erstoratio</mark>n 
+2. phase 2 (sessions 11-16) = p<mark style="background: #FFF3A3A6;">arents hand cntrol over eating back to adolescent </mark>
 3. phase 3 = discuss adolescent developmental isseus (17-20)
 

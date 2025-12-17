@@ -57,13 +57,13 @@ main things to worry about with somatic symptoms disorder
 3. conversion disorder 
 	1. functional neurologic symptom dsorder
 	2. no physiologic basis to a neurologic complaint like u can't move ur arm etc
-	3. not faking, genuinely beliieve u can't pick up arm 
+	3. not faking, <mark style="background: #FFF3A3A6;">genuinely beliieve u can't pick up arm </mark>
 	4. symptms or deficits of neuo system brougt abt by psychological stress
 	5. like 
 	6. gait problems, paralysis, loss of voice, seizures non-epileptiform, deafness, unable to swallow, etc. 
 	7. don't conform to neurologic pathways
 	8. normal eeg, emg, mri, ct
-	9. psychological conflict is translated into physical disability 
+	9. psyc<mark style="background: #FFF3A3A6;">hological conflict is translated into physical </mark>disability 
 	10. may co-exist with real problem (up to 50% of seizure patients have non-epileptiform seizures tooo)
 	11. TREAT" develop rapport, suggest reasons / possibility of improveemnt - power of suggestion . psycotherapy to resolve psychologic conflict. don't tell it's all in their head. can explain that anxiety/depression makes health worse. 
 4. factitious disorder = munchausens

@@ -64,25 +64,26 @@ heavily distributed key regions
 - associative cortices - these regions will be first acquiring knowledge that would be stored as explicit memory!!!
 - information distrib to hippocampal formation - parahippocampal + perirhinal cortex - > projection to the <mark style="background: #FFF3A3A6;">entorhinal cortex first,,, then from there -> hippocampal regionsl ike dentate gyrus, hippocampus(C1,2,3), subiculum</mark>
 - then it goes back into entorhinal cortex + <mark style="background: #FFF3A3A6;">then the associative cortical regions</mark>
-	- note - the entorhinal cortex really makes a transferative funnel. so dmg to this will really impact memory, super sensitive. 
+	- note - the **entorhinal cortex really makes a transferative funnel. so dmg to this will really impact memory, super sensitive.** 
 	- early pathological alz changes are here 
 
 brain systems underlying declarative memory 
 - complex vsual img - photo of an elephant - get associated with everything u knw about elephants. 
 - information -> processed in association cortices -> hippocampus -> 
 	- 4 stages of learning + memory!!!
-		- info is <mark style="background: #FFF3A3A6;">encoded(going into the brain)</mark> as a represenation by neuronal ensembles 
-		- <mark style="background: #FFF3A3A6;">consolidated</mark>, making labile memory -> stable memory trace  = huge with sleep promotion 
+		- info is <mark style="background: #FFF3A3A6;">encoded(going into the brain)</mark> as a represenation by **neuronal** ensembles 
+		- <mark style="background: #FFF3A3A6;">consolidated</mark>, making **labile memory -> stable memory trace  = huge with sleep promotion** 
 		- <mark style="background: #FFF3A3A6;">long-term storage in neocortical regions</mark>
-		- eventually retrieval or recalled to ractivate this stored memory = reconsolidation. 
+		- eventually **retrieval or recalled to ractivate this stored memory = reconsolidation.** 
 - how important is this to us? = this is a great influence in how well we encodde a particular event/fact 
 - memory is fallible- evolved to serve specific behaviors + survival - not a photo copy but an interpretational one. 
 
 brain systems - recall reactivates cortical regions which are <mark style="background: #FFF3A3A6;">also involved to encoding it, making it easier as a trace to be avaliable</mark>
 
-nondelcarative memory - less cortical, more reliance on <mark style="background: #FFF3A3A6;">basal ganglia and subcortical regions + connection with prefrontal cortex, seen with cerebellum, amygdala, primary sensory, other motor related aras like substantia nigra</mark>
-- this is bc most of this is in behavior 
+**nondelcarative** memory - less cortical, more reliance on <mark style="background: #FFF3A3A6;">basal ganglia and subcortical regions + connection with prefrontal cortex, seen with cerebellum, amygdala, primary sensory, other motor related aras like substantia nigra</mark>
+- this is bc most of this **is in behavior** 
 - atrophy like stroke, huntingtons, parkinsons, exhibit deficits in these types of learning! 
+- behavioral memory, will act out motor skills we usually do subconsciously 
 
 
 cellular mechs of learning 
@@ -96,8 +97,9 @@ synaptic plasticity - many mechs to mod synaptic strength
 - many mechanisms to mod synaptic strength 
 - we can modify it on presynaptic, post-synaptic and how neurons would actually respond to the input (intrinsic excitability)
 - short term - transient change in strength that does NOT require protein synthesis 
-- long term - persistnet change in strenght oer days + longer = relies on protein synthesis + changes in gene expression
-- hippocampus -<mark style="background: #FFF3A3A6;"> long-term potentiation</mark> LTP = repeated high freq stimulation inc amplitude of excitatory postsynaptic potentials 
+- lon**g term - persistnet change in strenght oer days + longer = relies on protein synthesis + changes in gene expression**
+- hippocampus -<mark style="background: #FFF3A3A6;"> long-term potentiation</mark> LTP = r**epeated high freq stimulation inc amplitude of excitatory postsynaptic potentials** 
 	- happens in more than humans 
+	- more stimulation = more and more LTP in the hippocampus 
 	- 
-- and depression of synapses followign weak stimulation - long term depression - LTD 
+- and depression of synapses followign weak stimulation - long term depression - LTD = deterioration of memories 

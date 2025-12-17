@@ -34,30 +34,35 @@ cortical layers -
 it gets sent to cortical regions which can do more and more complex processing. 
 
 ex of visual field Activity Flow 
-visual info --> LGN thalamus -> V1 primary visual cortex (elements of visual field), then V2(lines and edges received, and starts to make more complex shapes), V4(objects), and eventually IT (neurons which represent individual faces)
-- processing will start in primary sensory region, then unimodal + heteromodal sensory + motor regions, and ends with primary motor regions. 
+visual info -->
+LGN thalamus ->
+V1 primary visual cortex (elements of visual field), 
+then V2(lines and edges received, and starts to make more complex shapes), 
+V4(objects), and 
+eventually IT (neurons which represent individual faces)
+- processing will start in primary sensory region, then unimodal + heteromodal sensory + motor regions, and **ends with primary motor regions.** 
 - also it can be *bi-directional!* called feed-forward or bottom up and top down aka feedback 
-- higher order regions will shape how primary regions process *relevant information = this is top-down feedback.*
+- **higher order regions will shape how primary regions process** *relevant information = this is top-down feedback.*
 - <mark style="background: #FFF3A3A6;">association cortices don't process sensory information but they interpret this information. v1 processes the sensory information</mark>
-	- instead they interpret this information + associate pov + previous expreiences and access memory 
+	- i**nstead they interpret this information + associate pov + previous expreiences and access memory** 
 	- focus info on relevant information with top-down/feedback
 	- drive meaningful action 
 
 association cortices - what + where? 
 - over temporal, parietal , frontal lobes
-- unimodal association - integrate info from **single sensory modality**
-	- like visual association cortex integrate info abt form, color, motion, leading to neurons selectivly responding to more complex visual info like shapes 
+- **unimodal association - integrat**e info from **single sensory modality**
+	- like visual association cortex integrate info abt form, color, motion, leading to n**eurons selectivly responding to more complex visual info like shapes** 
 - heteromodal sensory - integrate info from more than one sensory area 
-	- stuff which integrates many senses,,, like the representaton and feeling of personal space
-	- neurons will only fire when they see the reward, but only when it's within arm's reach for instance! is it worth reaching for or even conceptualizing? 
-- heteromodal motor association areas - will wee prep motor things in response to salient/rewarding  sensory cues like food 
-- large regions - like a mesoscale description of cortex 
+	- stuff which integrates many senses,,, **like the representaton and feeling of personal space**
+	- neurons will **only fire when they see the reward, but only when it's within arm's reach for instance**! is it worth reaching for or even conceptualizing? 
+- **heteromodal** motor association areas - will wee **prep motor things in response to salient/rewarding  sensory cues like food** 
+- **large regions - like a mesoscale description of cortex** 
 
 
 cortical collab = visual cortex processing - why don't we see the same thing with the dress? much of that is interpolation 
 - visual information + processing is not a passive thing 
 - this happens across many areas 
-- ventral (what) and dorsal (where) pathway 
+- v**entral (what) and dorsal (where)** pathway 
 	- ventral pathway - what we said before, with the information movning from simple to complex with <mark style="background: #FFF3A3A6;">recognition of complex feat, including objs + faces</mark>
 	- dorsal. = <mark style="background: #FFF3A3A6;">information sent to parietal lobe, getting spatial org of feats in visual field!</mark>
 		- this is the neurons less responsive to color but show firing patterns specific to motion + spatial location in the visual field features 

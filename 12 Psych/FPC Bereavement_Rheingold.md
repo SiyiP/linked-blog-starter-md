@@ -21,8 +21,8 @@ first week - shock, disbelief, poor memory, poor sleep, concentraton
 
 uncomplicated grief/normal grieving 
 - thoughts and memories promnent
-- disbelief and depressed and yearning decline 2-24 mon 
-- by 6 months -a cceptance of loss inc. 
+- disbelief and depressed and ye<mark style="background: #FFF3A3A6;">arning decline 2-24 mon </mark>
+- b<mark style="background: #FFF3A3A6;">y 6 months -a cceptance of loss inc. </mark>
 - STUG rxns
 	- sudden temp upsurge of grief- alternating moments of reprieve from grief + acute grief 
 	- can happen outta the blue all thruout someone's life 
@@ -32,12 +32,12 @@ grief symptoms = constillation of symptoms
 - physical, congitive and spiritual issues all have anger and rapid breathingk , pooor memory, etc. 
 - confusion too 
 
-sense of presence - 60% report sensing the dead. 85% feel comforted 
+sense of presence <mark style="background: #FFF3A3A6;">- 60% report sensing the dead. 85% feel comforted </mark>
 
 following loss - grief trajectory would have funcitoning which falls quickly and then back up ... 
 - in the first month, high levels of functioning ; disbelief , social supports fall away 
 - then it decompensates 
-- and gets better slowly past 1-2 years 
+- and <mark style="background: #FFF3A3A6;">gets better slowly past 1-2 years </mark>
 
 conceptualizing grief 
 kubler ross stages of grief = just be aware 
@@ -53,28 +53,28 @@ we move past htis , no empirical support
 
 
 dual process model of coping with grief
-2 broad stressors in griefing
-- loss oriented stressors - loss experience itself, and secondary stressors associated with it 
-- restoration oriented - attending to **life changes**
+<mark style="background: #FFF3A3A6;">2 broad stressors in griefing</mark>
+- <mark style="background: #FFF3A3A6;">loss</mark> <mark style="background: #FFF3A3A6;">oriented stressors -</mark> loss experience itself, and secondary stressors associated with it 
+- <mark style="background: #FFF3A3A6;">restoration</mark> oriented - attending to<mark style="background: #FFF3A3A6;"> **life changes**</mark>
 - we need to see confrontation v avoidance of these, which is dynamic 
 - we bounce back and forth between the 2 in a dynamic process
 - maybe you're loss oriented sometime and then restoration oriented some other times
 oscillation is imperative!!!<mark style="background: #FFF3A3A6;">over reliance on any one strat will keep the griever STUCK! you need to tend to the loss and also the restoration</mark>
 
-meaning making model of bereavement
+m<mark style="background: #FFF3A3A6;">eaning making model of bereavement</mark>
 - death of loved one shatters fundamental assumptions of life
-- we need to fit this death in the ideas and functionality of our life, our important asusumptions and meaning 
+- we need to<mark style="background: #FFF3A3A6;"> fit this death in the ideas and functionality of our lif</mark>e, our important asusumptions and meaning 
 
 prolonged grief dz
 - start to see diff in how ppl grief at <mark style="background: #FFF3A3A6;">6 months</mark>
 - resilient are chill 
-- common grief go down startng at 6 months 
-- chronic grief = prolonged grief disorder PGD or complication grief CG or persistent complex bereavement disorder PCBD 
+- c<mark style="background: #FFF3A3A6;">ommon grief go down startng at 6 months </mark>
+- ch<mark style="background: #FFF3A3A6;">ronic grief = prolonged grief disorder PGD or complication grief CG or persistent complex bereavement disorder PCBD </mark>
 seen in 8-13% 
 - higher rates for sudden/violent causes of death 
 - PTSD and maojr depression distnct profile from this 
 	- PTSD= truama
-	- PGD = separation distress
+	- <mark style="background: #FFF3A3A6;">PGD = separation distress</mark>
 	- MDD = deficient response-contingent poz reinforcement 
 - overall rumination, feeling stuck, hard to accept 
 
@@ -104,7 +104,7 @@ consider risk factors
 - suddennes + violent nature
 - low support network 
 
-dual burden of traumatic bereavement
+dua<mark style="background: #FFF3A3A6;">l burden of traumatic bereavement</mark>
 - survivors of truamatic death - violent or caused by humans = sudden. 
 - - both grief/trauma. ods, suicides, vehicle crashes, murders 
 - inc risks of pgd, ptsdd, mdd

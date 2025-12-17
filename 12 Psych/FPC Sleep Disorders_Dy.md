@@ -8,7 +8,7 @@ basically 6-10 hrs is the best as possible.
 there's a u shaped curve, lesser or greater = bigger with too much sleep too like inc tau protein for upper limit too. 
 
 4-5 sleep cycles normal sleep pattern 
-1-3 = nonREM 
+<mark style="background: #FFF3A3A6;">1-3 = nonREM </mark>
 - stage 1 = transitional 
 - majority of sleep = stage 2 ; slowly metabolic processes + muscle relax 
 - stage 3 = deep sleep - lots of muscle regen + body stuff 
@@ -20,9 +20,9 @@ brain waves - think awake to sleeping
 awake stage = alpha waves basically 
 stage 1 = beta waves
 stage 2. = we have the theta waves with some <mark style="background: #FFF3A3A6;">spindles which are thickened spots that look like alpha waves</mark> with a lot of small peak things plus <mark style="background: #FFF3A3A6;">K-complexes which are randomlike inc in amplitude with negative + poz deflection</mark>
-- K complexes happen to block out outside noise to keep u asleep
+-<mark style="background: #FFF3A3A6;"> K complexes happen to block out outside noise to keep u asleep</mark>
 - might have somthing to do with memory 
-Stage 3 = delta sleep , slowly and deeper sleep 
+Stage 3 = d<mark style="background: #FFF3A3A6;">elta sleep , slowly and deeper sleep </mark>
 REM sleep = a lot of calming back to beta waves I think? 
 
 ---

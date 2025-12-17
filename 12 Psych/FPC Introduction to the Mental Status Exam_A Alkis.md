@@ -36,16 +36,16 @@ how are they functioning psychologically during interview
 		reactivity = change in response to content of discussion 
 		motility - pace of movement from one emotion to the next; sluggish in depression and labile = fast 
 		is it congruent or incongruent with stated mood? 
-		- euthymic - this is like "normal" in the middle
+		- eu<mark style="background: #FFF3A3A6;">thymic - this is like "normal" in the </mark>middle
 		- flat , blunted, constricted and restricted all reduced ability to emote... 
 			- flat is the most to the left followed by blunted then constricted then the restricted 
 		- and manic is all the way on the other end 
 			- superficially bright -> elevated -> expansive and labile. -> manic at the very end of increased affective response. 
 	thought content
-		what can't u help BUT think about? 
+		wh<mark style="background: #FFF3A3A6;">at can't u help BUT think about? </mark>
 	perceptions
-		how is ur brain perceiving the world? 5 senses
-		hallucination = experience brain creats
+		h<mark style="background: #FFF3A3A6;">ow is ur brain perceiving the world? 5 senses
+		hallucination = experience brain creats</mark>
 		illusion = misperception of real physical experience
 		active dissociation during interview can be commented here 
 	thought process 
@@ -53,19 +53,19 @@ how are they functioning psychologically during interview
 		how are you thinking? 
 		3 elements
 		- linearity = does one thoguht lead to the next?
-			- flight of ideas bipolar dz = quickly framing thought - challenging to follow 
-				- mostly logical in terms of connectedness to the previous sentence but the topic repeatedly and quickly changes. 
-				- there IS a thread but shifts too fast in topic 
-			- loosening of association - stuck on a paragraph... can't follow how someone cme to the 2nd 2 thougths from the 1st 2 . 
+			- f<mark style="background: #FFF3A3A6;">light of ideas bipolar dz = quic</mark>kly framing thought - challenging to follow 
+				- mostly <mark style="background: #FFF3A3A6;">logical in terms of connectedness to the previous sentence but the topic repeatedly and quickly changes. </mark>
+				- there IS <mark style="background: #FFF3A3A6;">a thread but shifts too fast in topic </mark>
+			- lo<mark style="background: #FFF3A3A6;">osening of association - stuck on a paragr</mark>aph... can't follow how someone cme to the 2nd 2 thougths from the 1st 2 . 
 				- no topical connction bt statemetns or connection isn't a logical one 
 		- organization = are thoughts arranged logically in a way that's ez understood?
 			- must rudimentary - 
-			- word salad, clang association (not making sense but statements based on rhyme/alliteration of wors)
+			- w<mark style="background: #FFF3A3A6;">ord salad, clang association (not</mark> making sense but statements based on rhyme/alliteration of wors)
 			- signitificantly disordered thoughts at this level. 
-		- goal direction = do statements have a purpose and are meaningful 
+		- <mark style="background: #FFF3A3A6;">goal direction</mark> = do statements have a purpose and are meaningful 
 			- first thing to go in the <mark style="background: #FFF3A3A6;">most complex function... circumstantial -> tangential</mark>
-			- circumstantial = going the long way, giving a lot of infrmation, a bit long-winded. 
-			- tangential will be following the threat but will show some other things that aren't related to the purpose
+			- cir<mark style="background: #FFF3A3A6;">cumstantial = going the long way, giving a lot of infrmation, a bit long-winded</mark>. 
+			- tangential will be f<mark style="background: #FFF3A3A6;">ollowing the threat but will show some other things that aren't related to the purpose</mark>
 	insight
 		ability to recognize pathology + how it impacts life 
 	judgement
@@ -78,7 +78,7 @@ what's their neurocognitive functioning like during interview
 	intelligence
 		generally an estimation based on conversation but shouldn't change with time 
 	concentration 
-		great to ask bc delirium is huge 
+		great to ask bc <mark style="background: #FFF3A3A6;">delirium</mark> is huge 
 		wide range 
 		attending to the interview?
 		distractable
@@ -90,9 +90,9 @@ what's their neurocognitive functioning like during interview
 		immediate - new learning names of pts, registration + delayed recall in 5 min 
 		recent. - short term, events of day? circumstances of hospitalization 
 		remote = long term historical life events
-		non-verbal - directions/following a task 
+		n<mark style="background: #FFF3A3A6;">on-verbal - directions/following a task </mark>
 
-MMSE - folstein mini mental state exam 
+<mark style="background: #FFF3A3A6;">MMSE - folstein mini mental state exam </mark>
 - one type of this 
 - scored out of 30 
 - 25 or greater is "normal"

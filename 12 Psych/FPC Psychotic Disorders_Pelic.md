@@ -33,7 +33,7 @@ neg. =
 
 
 differential 
-- schizophrenia/schizophreniform, brief psychotic disorder
+- schizophrenia/<mark style="background: #FFF3A3A6;">schizophreniform</mark>, brief psychotic disorder
 	- criteria - 2 more of this following: 
 	- delusions
 	- hallucinations
@@ -47,8 +47,8 @@ differential
 	- equal gender distribution 
 	- <mark style="background: #FFF3A3A6;">age onset 18-35 ; age of onset is huge! men usually early 20s, women late 20s </mark>
 	- course <mark style="background: #FFF3A3A6;">chronic and unremitting in industrialized countries + acute and episodic in developing countries</mark>.
-	- <mark style="background: #FFF3A3A6;">good prognostic factors</mark> - good premorbid functioning, abrupt onset, fam hx of mood disorder 
-	- <mark style="background: #FFF3A3A6;">poor prognostic factors </mark>= early onset, fam hx of psychosis, gradula onset 
+	- <mark style="background: #FFF3A3A6;">good prognostic factors</mark> - good premorbid functioning, abrupt onset,<mark style="background: #FFF3A3A6;"> fam hx of mood disorder </mark>
+	- <mark style="background: #FFF3A3A6;">poor prognostic factors </mark>= early onset<mark style="background: #FFF3A3A6;">, fam hx of psychosi</mark>s, gradula onset 
 	- <mark style="background: #FFF3A3A6;">decreased activity in the dorsolateral prefrontal cortex is associated with impaired exec functionig/working memb</mark>
 	- <mark style="background: #FFF3A3A6;">abnormal prefrontal cortex function</mark>
 	- <mark style="background: #FFF3A3A6;">hypofrontality in left inf frontal gyrus with poor social cognition</mark>
@@ -67,19 +67,19 @@ differential
 		- dopamine is bining to this stuff, 20% of dopa receptors are bound at baseline compared to just 10% 
 		- can induce psychosis with cocaine or lsd or something - giving dopamine products cause psychosis 
 		- <mark style="background: #FFF3A3A6;">and blocking dopamine will stop psychotic symptms</mark>
-	1. nigrostriatal tract - extrapyramidal pathway starts in the substantia nigra and ends in caudate nuc + putamen of basal ganglia 
+	1. nigrostriatal tract - e<mark style="background: #FFF3A3A6;">xtrapyramidal pathway starts in the substantia nigra and ends in caudate nuc</mark> + putamen of basal ganglia 
 		1. tends to be with movement 
-	2. mesolimbic tract - from midbrain tegmentum + innervates nucleus accumbens + adjacent limbic structures 
+	2. mesolimbic tract - from <mark style="background: #FFF3A3A6;">midbrain tegmentu</mark>m + innervates nucleus <mark style="background: #FFF3A3A6;">accumbens</mark> + adjacent limbic structures 
 		1. think poz symptoms of schizophrenia 
-	3. mesocrotical tract- from midgran tegmentum + innervates ant cortical areas 
+	3. m<mark style="background: #FFF3A3A6;">esocrotical tract- from midgran tegmentum + innervates ant cortical areas </mark>
 		1. some positive and **<mark style="background: #FFF3A3A6;">negative</mark>** symptoms
-	4. tuberoinfundibular tract - projects from arcuate + periventrcular nuclei of the hypothalamus to the pituiatry 
+	4. tuberoinfundibular tract - projects from <mark style="background: #FFF3A3A6;">arcuate + periventrcular</mark> nuclei of the hypothalamus to the pituiatry 
 		1. affects the <mark style="background: #FFF3A3A6;">prolactin</mark> 
 cell bodies 
-- ach nucleus basalis of meynert = in the basal forebrain, in substantia innominata of basal forebrain ; **alzheimers** 
-- serotonin = raphe nuclei- clusters that would release this , along the midline of the brainstem ; **OCD** 
-- NE = locus ceruleus ; P**anic disorder** 
-- substantia nigra = **dopamine** 
+- a<mark style="background: #FFF3A3A6;">ch nucleus basalis of meynert =</mark> in the basal forebrain, in substantia innominata of basal forebrain ; **alzheimers** 
+- s<mark style="background: #FFF3A3A6;">erotonin = raphe nucle</mark>i- clusters that would release this , along the midline of the brainstem ; **OCD** 
+- N<mark style="background: #FFF3A3A6;">E = locus cerule</mark>us ; P**anic disorder** 
+- sub<mark style="background: #FFF3A3A6;">stantia nigra </mark>= **dopamine** 
 
 antipsychotic effects= think about all the pathways we block!!! 
  - in a perfect world we would just block the mesolimbic and mesocortical pathways ... 
@@ -103,7 +103,7 @@ we have to block 65% of receptors for them to get better, efficacy
 	- just goes away for no reason 
 
 - delusional disorder
-	- just false beliefs or delusions that last 1+ month
+	- just <mark style="background: #FFF3A3A6;">false beliefs or delusions that last 1+ month</mark>
 	- fairly well encapsulated
 	- fuctioning not significantly impaired
 	- types
@@ -113,8 +113,8 @@ we have to block 65% of receptors for them to get better, efficacy
 		- persecutary ,
 		- somatic 
 		- mixed
-- schizoafective disorder - SAFD
-	- chronic psychosis all the time, but long perioids of depression or mania 
+- schiz<mark style="background: #FFF3A3A6;">oafective disorder - SAFD</mark>
+	- chronic psychosis all the time, but<mark style="background: #FFF3A3A6;"> long perioids of depression or mania </mark>
 	- affective. = mood
 	- one bout of depression + schizophrenia it's just unspecified
 	- <mark style="background: #FFF3A3A6;">chronic mood is key too</mark>

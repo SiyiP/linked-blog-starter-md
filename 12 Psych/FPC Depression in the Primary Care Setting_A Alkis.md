@@ -36,9 +36,9 @@ note
 	only condition - treat with ssri and experience immediate relief 
 
 1. major depressive disorder
-	1. 5 symptoms for 2 wks or more 
+	1. <mark style="background: #FFF3A3A6;">5 symptoms for 2 wks or more </mark>
 	2. one **must** be either: depressed mood and loss of interest/pleasure 
-	3. AND sig E caps at least 4 from here
+	3. AND s<mark style="background: #FFF3A3A6;">ig E caps at least 4 from here</mark>
 		1. sleep difficulties 
 		2. loss interest
 		3. guilt
@@ -49,18 +49,18 @@ note
 		8. suicide
 
 case 2
-2. persistent depressive disorder = dysthymia 
-- depressed mood mostly more days than not for at least 2 yrs but only 1 yr in kids
+2. <mark style="background: #FFF3A3A6;">persistent depressive disorder = dysthymia </mark>
+- depressed mood mostly more days than not for a<mark style="background: #FFF3A3A6;">t least 2 yrs </mark>but only 1 yr in kids
 - pre**sence of 2+ depressive sympt**oms 
-- chronic, smoldering type of depression part of persionality at this poit 
+- <mark style="background: #FFF3A3A6;">chronic, smolderin</mark>g type of depression part of persionality at this poit 
 - treatment - with meds + psyhchotherapy = less responsive to treatment? 
 
 case 3 
-3. depressive dz due to antoher medical condition 
+3. depressive <mark style="background: #FFF3A3A6;">dz due to antoher medical condition </mark>
 - address other morbidity for max treatment of this 
 	- depressed mood/anhedonia
 	- demoralization vs depression 
-		- demoralization = a normal rxn 
+		- d<mark style="background: #FFF3A3A6;">emoralization = a normal rxn </mark>
 		- depression = more common with depression = hopelessness, anhednia, worthlessness, psychomotor retardation, suicidal ideation 
 	- need evidence from h+P or labs for diret pathophys consquence of another med condition = hypothyroid, stroke, seizures, cancer, b12 def, folic acid def, hiv 
 	- treat the problem = symptomatically treat the pt if unsure. 
@@ -72,20 +72,20 @@ case 4
 	3. attempt to tease out substance use + mood issues in time course
 	4. abstinence +/- med too can help out 
 
-5. adjustment dsorder = identified stressor
+5. adjustment dsorder = i<mark style="background: #FFF3A3A6;">dentified stres</mark>sor
 	1. psychotherapy a treatment of choice
 	2. not meet criteria for Major depressive episode 
 	3. follow the stressor
 6. bipolar depression 
 	1. primary dx - type 1 or 2 
-	2. bipolar 1 disorder = mania is prevalent 
+	2. <mark style="background: #FFF3A3A6;">bipolar 1 disorder = mania is prevalent </mark>
 	3. bouts of depression with hx of mania/hypomania 
 	4. depression = <mark style="background: #FFF3A3A6;">presents as first mood episode in them</mark>
 	- hard to treat... pushing meds cause mania potentially 
-	- often has atypical features
+	- often has<mark style="background: #FFF3A3A6;"> atypical features</mark>
 	- l<mark style="background: #FFF3A3A6;">ook for fam hx and seasonal variation </mark>
 
-MSE of someone w/ depression 
+<mark style="background: #FFF3A3A6;">MSE of someone w/ depression </mark>
 - appearnce - poro eye contact
 - speech slow monotne
 - psychomotor retardation 

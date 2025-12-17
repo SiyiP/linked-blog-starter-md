@@ -50,17 +50,17 @@ circadian rhythm
 - light = intrinsically photosensitive retinal ganglion cells = ipRGC
 	- these are like 1% and they're responsible for our rhythm, 
 	- contains **melanopsin, respnoding maximally to blue light.**
-	- ipGRC -> <mark style="background: #FFF3A3A6;">suprachiasmatic nucleus of hypothalamus</mark> (controls all of the thalamus)
+	- ipGRC -> <mark style="background: #FFF3A3A6;">suprachiasmatic nucleus of hypothalamus</mark> (controls all of the thalamus); gving off ACH 
 	- -> superior cervical ganglion -> pineal gland 
 	- pineal gland -< pinealocytes -> melatonin 
 		- note melatonin inc as light decreases. peak is from 2-4 AM 
 		- continuous light = will be maximally suppressing it, 15 minutes is enough to doo that!!! 
 
 neurotransmitters
-- ACH = starting REM sleep, pons and basal forebrain to initiate it 
+- <mark style="background: #FFF3A3A6;">ACH = starting REM sleep, pons and basal forebrain to initiate it </mark>
 - GABA - <mark style="background: #FFF3A3A6;">regulation of suprachiasmatic nucleus. </mark> -> preoptic hypothalamus -> thalamic reticular nuclei 
-	- this regulates non-REM N1,2,3 and the thalamic reticular nuclei which helps generation of sleep spindles 
-- serotonin + norepinephrine = from midbrian and pons,
+	- this r<mark style="background: #FFF3A3A6;">egulates non-REM N1,2,3 and the thalamic reticular nuclei which helps generation of sleep spindles </mark>
+- <mark style="background: #FFF3A3A6;">serotonin + norepinephrine = from midbrian and pons,</mark>
 	- high lvls = wakefullness
 	- low lvls = non-REM sleep
 - dopamine = from midbrain and pons, promotion of wakefulness 
@@ -74,15 +74,15 @@ circadian rhythm would impact -
 - hormones like temp, potassium, cortisol, melatonin, grown hoormone and more... 
 
 disorders/path 
-1. irregular sleep-wave rhythm disorder
-	1. dysfunction or destruction of suprachiasmatic nucleus 
-	2. completely fragmented sleep cycles unrelated to time of the day 
+1. irr<mark style="background: #FFF3A3A6;">egular sleep-wave rhythm disorder</mark>
+	1. dysfunction or <mark style="background: #FFF3A3A6;">destruction of suprachiasmatic nucleus </mark>
+	2. completely<mark style="background: #FFF3A3A6;"> fragmented sleep cycles unrelat</mark>ed to time of the day 
 	3. dementia, tumors, trauma can all cause this 
 	4. they sleep whenever they feel like it, no pattern
-2. non-24-hr sleep-wake phase disorder
-	1. seen in totally blind ppl 
+2. n<mark style="background: #FFF3A3A6;">on-24-hr sleep-wake phase disorder</mark>
+	1. seen in tota<mark style="background: #FFF3A3A6;">lly blind ppl </mark>
 	2. no light -> no melatonin, no more retinal input which resets the rhythm from 24.2 hours to 24 hours. 
-	3. **every day, u wake up a little later than u do before, and ur cycle will move bit by bit for no reason**
+	3. **every day, u wake<mark style="background: #FFF3A3A6;"> up a little later than u do befor</mark>e, and ur cycle will move bit by bit for no reason**
 	4. TREAT: melatonin + melatonin receptor agonists 
 3. advanced + delayed sleep hpase syndrome
 	- when ur circadian rhythm is more pronounced than 24.2 hours
@@ -114,12 +114,12 @@ disorders/path
 		3. or dmg to SDN 
 		4. so muscle activity = acting our your dreams in the last 1/3 of night, behavior correlates with dream content, this is basically just dream enacting behavior. 
 		5. hug safety concern 
-6. NonREM parasomnias - not associated with dream contents aka the person doesnt really remember
-	- happens in first 1/3 of night, worsens with alterations in sleep schedule or routine 
+6. <mark style="background: #FFF3A3A6;">NonREM parasomnias - not associated with dream contents aka the person doesnt really remember</mark>
+	- happens i<mark style="background: #FFF3A3A6;">n first 1/3 of night, worsens with alterations in sleep schedule or routine </mark>
 	- TREAT: reassurance 
 	- note - **non-benzodiazepine GABAa receptor agonists can inc the incidence of parasomnias**; like ambien 
-	1. sleep-walking, peaking 8-12 yrs, purposeless walking 
-	2. sleep terror = in young, 4-12 yrs - agitated, runs, screaming, tachycardia, etc. <mark style="background: #FFF3A3A6;">they don't remember what happens</mark>
+	1. <mark style="background: #FFF3A3A6;">sleep-walking</mark>, peaking 8-12 yrs, purposeless walking 
+	2. sleep <mark style="background: #FFF3A3A6;">terror</mark> = in young, 4-12 yrs - agitated, runs, screaming, tachycardia, etc. <mark style="background: #FFF3A3A6;">they don't remember what happens</mark>
 7. obstructive sleep apnea
 	1. repeated resp effort related airway obstruction during sleep 5+ per hours
 	2. obstruction of airway by tongue/soft tissues
@@ -147,9 +147,9 @@ disorders/path
 
 
 brief stimulant pharmacology 
-- sodium oxybate - boost GABA-b, which will inc amt of time in nonREM sleep 
-- methylphenidate, amphetamines = all NE / dopa reuptake inhibitors, so more presynaptic NE/dopamne release 
-- pitolisant = histamine H3 antag = more ACH, NE, andDA 
+- s<mark style="background: #FFF3A3A6;">odium oxybate</mark> - boost GABA-b, which will <mark style="background: #FFF3A3A6;">inc amt of time in nonREM sleep </mark>
+- methylphenidate, amphetamines = al<mark style="background: #FFF3A3A6;">l NE / dopa reuptake inhibitors, so more presynaptic NE/dopamne release </mark>
+- <mark style="background: #FFF3A3A6;">pitolisant = histamine H3 antag </mark>= more ACH, NE, andDA 
 - Soiriamfetol = another stimulant, NE/Dopa reuptake inhibitors 
 - modafanil / armodafinil - NE/dopa reuptake inhibitor but in the hypothalamus this time 
 not for narcolepsy but 

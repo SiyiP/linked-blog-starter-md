@@ -33,9 +33,9 @@ shcool to prison pipeline - kids expelled and suspended missing critical time =m
 
 disparities in latinos
 - lower risk for psych disorders compared to nonhispanic whites
-- us born hispanics - higher rates of psych disorders due to stress/discrim
+- <mark style="background: #FFF3A3A6;">us born hispanics</mark> - higher rates of psych disorders due to stress/discrim
 - hispanic adults+kids are very vulnerable with psych distresses linked with immigration + acculturation stress
-- hispanics - more likley to get mental services from a pcp 
+- hispanics - <mark style="background: #FFF3A3A6;">more likley to get mental services from a pcp </mark>
 
 asian disparities
 - fewer serious psych illness
@@ -50,8 +50,8 @@ indigenous communities
 - disproportionate high suicide rates, earlier initiation of sud 
 - need culturally sensitive care which often isn't given. think about the language we are using - and about approaching treatment with personalization and individualization of care
 
-AA - often get poor quality of care only 1/3 ppl who need it receive care
-- aab - lower rates of mental health servic use but inpatient mental health care is higher
+AA - often g<mark style="background: #FFF3A3A6;">et poor quality of care only 1/3 ppl who need it receive care</mark>
+- aab -<mark style="background: #FFF3A3A6;"> lower rates of mental health servic use but inpatient mental health care is higher</mark>
 - more likely to be misdx with schizoprhrenia and less freq with mood disorders 
 - aab with mental health conditions more likely to be incarcerated
 - less included in research, and more liley to have to resort to emergency care or pcp over mental health specialists 
@@ -80,7 +80,7 @@ disparities in ptsd
 - treatment seeking behaviors are lower than the norm among these minorties 
 - ppl with less edu, access to insurance etc 
 
-criterion A delimma !!!
+<mark style="background: #FFF3A3A6;">criterion A delimma !!!</mark>
 - limited - must include a criterion A event
 - "traumatic experience" is limited to death, threatened death, actual or threatened serious injury, or threated sexual violation 
 - among ppl who experienced it, witnessed it happen , learned about it happening to a close relative/friend
@@ -103,10 +103,10 @@ it can cause ptsd and inc ptsd vulnerabiliity
 
 ---
 dispartieis in alc use disorder
-- highest drinking binge use among indigenous ppl 
-- consequences of alc consumption more profound in AA + hispanic adult drinkers to report depenence symptoms + social consequences
+- <mark style="background: #FFF3A3A6;">highest drinking binge use among indigenous ppl </mark>
+- <mark style="background: #FFF3A3A6;">consequences of alc consumption more profound in AA + hispanic adult drinkers to report depenence symptoms + social consequences</mark>
 - high riks drinking = more severe consequencs among racial minorities
-- AA low to mod levels of heavy drinking 3x more likely to experience negative social consequences from drinking and 5x more likely to get depenence sypmtoms compared to european americans. 
+- AA low to mod levels o<mark style="background: #FFF3A3A6;">f heavy drinking 3x more likely to experience negative social consequences from drinking and 5x more likely to get depenence sypmtoms compared to european americans. </mark>
 
 ---
 disparities in opioid epidemic
@@ -114,15 +114,15 @@ disparities in opioid epidemic
 - inc by 44% in 2020 
 - associated with criminal activitiy among them 
 	- epidemic victims = nonblack
-	- "criminal " = black victim of opioid epidemic , seen in how media portrayed the crack epidemic 
+	- "c<mark style="background: #FFF3A3A6;">riminal " = black victim of opioid epidemic , seen in how media portrayed the crack epidemic </mark>
 	- fear lead to criminalization of a drug issue, they tried to get rid of ppl instead of the probem, leading to fale narrative of race and criminals , affecting how ppl treat black patietns and ppl today 
-		- doctors prescribe less oppioids to black ppl 
+		- d<mark style="background: #FFF3A3A6;">octors prescribe less oppioids to bl</mark>ack ppl 
 		- but this is bad ): more barriers about pain in healthcare 
 		- ppl addicted to opioids tend to still be associated with criminality 
 - less than 15% of black ppl with oud are getting effective treatments! 
 compassion vs indifference - "black drugs" and how double standards are 
 - criminal crackdowns are still towards crack and weed 
-- but opioid is seen as a "crisis and epidemic victmizing it"
+- but <mark style="background: #FFF3A3A6;">opioid is seen as a "crisis and epidemic victmizing it"</mark>
 
 ----
 TREATMENT evidence based treatments

@@ -23,7 +23,7 @@ young man with subacute dev of paranoid delusions with negative UDS (drug screeN
 diferntial 
 - brief psychotic disrder
 - bipolar
-- chizophrenia
+- schizophrenia
 - substances induced by agent missed by uds 
 - possible but less likely - 
 - - nonconvulsive status epilepticus or paraneoplastic syndrome 
@@ -99,7 +99,7 @@ toxins
 heavy metals 
 
 how to eval the delirious pt
-- start with ABCs - airways breathing circuilation 
+- start wi<mark style="background: #FFF3A3A6;">th ABCs - airways breathing circuila</mark>tion 
 - phys ex with vitals
 - corollary hx - pt will give incoherent hx so gather from others
 - review meds - often a cause or a contributer. 
@@ -109,7 +109,7 @@ how to eval the delirious pt
 	- optimize some things in their care!!
 - get labs - cbc, bmp, urinalysis, urine drug screen, ck if nms suspected, considering blood cultures, lumbar puncture
 - imging - cxray, ct of head
-- eeg considerations, only confirms dx 
+- <mark style="background: #FFF3A3A6;">eeg considerations, only confirms dx </mark>
 - consider the LP - invasive af 
 
 management - treat underlying causes 
@@ -125,9 +125,9 @@ case 3
 - unable to access, very very sleepy 
 - 65 yo man with CAD and diabetes admitted for NSTEMI s/p pci with acute onst of somnolence + confusoin 
 this is all delirium - stat head CT 
-- since he's on new blood thinners!!! 
+- since <mark style="background: #FFF3A3A6;">he's on new blood thinners!!! </mark>
 - no acute bleeding
 - review meds
-	- he couldn't sleep so given benadryl + sedating mediations too
+	- he couldn't sleep so given <mark style="background: #FFF3A3A6;">benadryl</mark> + sedating mediations too
 - plan - hold meds and then consider cxr and urinalaysiss
 
