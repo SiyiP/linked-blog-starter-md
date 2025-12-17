@@ -164,8 +164,3 @@ some types of neuronal cell injury/death due to glutamate -induced excitotoxicit
 2. lecanemab - binds to amyloid beta protofibrils preventing formation of A beta plaques/depo
 	1. controversial 
 	2. SE: infusion rxn like flushing, chills, fever, rash, and can cause amyloid related imging abnormallities liek brain swelling or small bleeds which lead to headache, confusion, dizziness, vision changes + seizures 
-
-
-
-- 
-- 
