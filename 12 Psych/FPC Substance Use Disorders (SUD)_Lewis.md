@@ -211,6 +211,8 @@ pcp/angel dust
 - mod doses = conusion, dissociation decreased pain 
 - high dose = mimic schizophrenia, 
 - causing <mark style="background: #FFF3A3A6;">nystagmus</mark> and really high htn and agitation 
+- wayy too much glutamate 
+- need benzos to bring back gaba 
 
 ---
 inhalants 

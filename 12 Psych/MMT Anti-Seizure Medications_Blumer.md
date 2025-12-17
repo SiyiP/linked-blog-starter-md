@@ -80,9 +80,11 @@ broad spec - both generalized onset/focal onset seizure
 	4. SE: <mark style="background: #FFF3A3A6;">steven johnson syndrome if you don't start low...</mark> - diplopia too 
 4. levetiracetam
 	1. elevator = has a SV2A 
-	2. binds selevtively to the synpatic vesicular protein <mark style="background: #FFF3A3A6;">SV2A, modding synpatic release of glutamate and GABA.... reducing these</mark> huge amoutns of excitatory things 
-	3. for add - on focal seizures, gen tonic clonic + generalized myoclonic ones 
-	4. note - t<mark style="background: #FFF3A3A6;">his is very well tolerated. </mark>
+	2. sleeping in the elevator on the job 
+	3. to <mark style="background: #FFF3A3A6;">prevent seizure recurrence.</mark>
+	4. binds selevtively to the synpatic vesicular protein <mark style="background: #FFF3A3A6;">SV2A, modding synpatic release of glutamate and GABA.... reducing these</mark> huge amoutns of excitatory things 
+	5. for add - on focal seizures, gen tonic clonic + generalized myoclonic ones 
+	6. note - t<mark style="background: #FFF3A3A6;">his is very well tolerated. </mark>
 
 narrow spec - mostly focal ; wide variety of targets 
 1. carbamazepine

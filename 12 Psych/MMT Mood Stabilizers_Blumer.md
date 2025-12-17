@@ -147,7 +147,7 @@ manage their ADs
 	- reduce decline by 27% 
 
 1. donepezil - ache inhibitor, 70 hr half life
-	1. mild to moderate dementia
+	1. **mild to moderate dementia**
 	2. SE: n/v headache, appetite, suppression, diarrha, insomina, msucle cramps -= sludge
 	3. causes bradycardia/heart block + syncope too 
 
