@@ -134,7 +134,7 @@ what meds should i choose?
 	- use it as the deicison making process but it's not the only one obviously 
 - what does data tell us abt each option 
 - what's their preference 
-	- superrrr prevalent. 
+	- super prevalent. 
 	- provide psycheducation, tey're not gonna take a med they don't agree with anyways 
 
 
