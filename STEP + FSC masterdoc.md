@@ -187,7 +187,7 @@ basic dedicated typical ISP
 - some review time daily 
 - one cumulative review day/week - meaning we look thru all the things we already reviewed that week and more? 
 - 1/2 or full day off 
-- CBSE ~2-4 practice NBME, free 120 ; often we take more NBMEs... 4-5 average taken.
+<mark style="background: #FFF3A3A6;">- CBSE ~2-4 practice NBME, free 120 ; often we take more NBMEs... 4-5 average taken.</mark>
 time commitment - 
 - ==5.5-6.5 days a week== 
 - ==avg: **9-5 hours a day!!!**==
