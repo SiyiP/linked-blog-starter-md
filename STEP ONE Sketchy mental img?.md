@@ -1,2 +1,3 @@
-- succinylcholine - kid on skateboard above blocked nmj, depolarizing nmj agent similar acting as ach but keeps it irrevrsibly depolarized at phase 1 on skateboard, and electricuted
-- phase 2 = reverses it at the hose. 
+- succinylcholine - kid on skateboard above blocked nmj, depolarizing nmj agent similar acting as ach but keeps it irrevrsibly depolarized at phase 1 on skateboard, and electrocuted 
+	- phase 2 = reverses it at the hose. 
+- 
