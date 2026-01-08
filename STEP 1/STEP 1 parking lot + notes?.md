@@ -94,4 +94,77 @@ prolif of mature adipocytes =? lipoma formation !
 
 keloids = hyperprolif of **fibroblasts, resulting in disorg overproduction of collagen types 1 nad 3....**
 
-malignant transformation of keratino cytes = <mark style="background: #FFF3A3A6;">cutaneous squamous cell carcinoma sCCC</mark> = pl
+malignant transformation of keratino cytes = <mark style="background: #FFF3A3A6;">cutaneous squamous cell carcinoma sCCC</mark> = plaque like, nodular, verrucous, ulcerative in elderly men 
+
+hypertrophic scarrs - <mark style="background: #FFF3A3A6;">excess paralell depo of type 3 collagen</mark>
+
+transferenc - feels from pas experience unconsciously by the patient into anther obj with perceived similarity 
+
+displacement - if someone else yells at you and then you yell at a different person. or a new third party 
+
+projection - how u feel about yourself onto someone else 
+
+mycobacterium tb = fever, cough, hemoptysis, letharcgy + lung lesions.. 
+- <mark style="background: #FFF3A3A6;">these are UPPER cavitary lesions.</mark>
+
+
+pseudomonas aeruginosa - lobar pneomonia, fever, cough,hemoptysis, lethargy 
+minimal consolidation or diffuse reticular opacity 
+- this is nosocomial infection + immunocompromised pneumonia 
+
+secondary bac pneumonia - complication of influenza in older ppl....
+strep pneumoniae, s. aureus, h. influenzae. 
+<mark style="background: #FFF3A3A6;">pneumatoceles = thin walled cystic spaces with air luid levels.</mark> = s. aureus \
+
+legionnaires - diarrhea and neuro manifestations + interstitial infiltrates 
+
+RSV = bronchiolitis in infants/children, and nonsignificant xray 
+
+klebsiella pneumoniae = lobal pneumonia , but more with ppl with alcoholism and diabetes. consodlidation sseen 
+
+esophagitis - most likely AE of medication if you're looking up what impacts the throad the most. 
+
+CMV = esophagitis cause in immunocompromised pts. only occur when <mark style="background: #FFF3A3A6;">CD4 less than 50 mm</mark>
+- we see EGD deep linear or longitudinal ulcers+distal mucsal erosion? 
+
+HSV <mark style="background: #FFF3A3A6;">CD4 less than 100</mark>
+- aids defining illness 
+
+achalasia - impaired LES relazation... dysphagia, regurg, sternal pain, weight loss. 
+- caused by <mark style="background: #FFF3A3A6;">ganglion cell degeneration in the myenteric plexus</mark>..... 
+- <mark style="background: #FFF3A3A6;">bird beak</mark>
+
+diffuse esophageal spasm - predictable triggers, nrmal mucosa, and you can test with barium swallow 
+- <mark style="background: #FFF3A3A6;">corkscrew esophagus</mark>
+
+primary hyperparathyroidism - parathyroid hrmone 
+- causes 
+- <mark style="background: #FFF3A3A6;">hyperca, neprholithiasis, bone/joint pain, lack of appetite, n/ constipation</mark>
+
+gastrinoma - pacreatic/duodenal tumor, seen in MEN1 syndrome 
+also see prolactinoma in MEN1 as well 
+
+MEN 2A 
+
+conn syndrome - inc aldosterone to renin ratio = primary hyperaldosteronism. 
+- <mark style="background: #FFF3A3A6;">constantly elevated bp, fatigue, muscle cramps, due to hypokalemia.</mark>
+
+cushing syndrome
+- midnight salivary cortisol - 
+
+urine 5-HT = like seen with metabolites of serotonin indicate carcinoid tumors = <mark style="background: #FFF3A3A6;">neuroendocrine cancer in the GI tract, leading to carcinoid syndrome if metastasizes to liver.</mark>
+- watery diarrhea, cutaneous flushing + sweating 
+
+MEN2A and 2B = pheochromocytoma - inc catecholamine metabolites like metanephrites in urine or serum. 
+
+
+digoxin tox = abd pain, n/v, vision , confusion, bradycardia, PVCs , and hyper kalemia 
+- cardiac glycosides = inhib Na/K ATPases.. 
+- digoxin is the only drug of this used as poz inotrope of heart failure 
+
+cyanide poisoning - uses hydroxocobalamin - to bind directly to it making cyanocobalamin excreted by kidneys 
+- can be caused by nitroprusside used to treat htn crises. 
+
+heparin od = suggested by prolonged aPTT
+
+PCC = vitamin K - dependent clotting factors II, 7, 9, 10 to reverse warfarin effects 
