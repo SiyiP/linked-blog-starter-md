@@ -1,3 +1,4 @@
+group B 
 
 session 1 
 https://next.amboss.com/us/article/uS0pYf#m0aVgQ = long qt syndrome 
@@ -24,6 +25,12 @@ turners
 	- this causes <mark style="background: #FFF3A3A6;">brachial-femoral pulse delay, delay in palpable pulses bt brachial + femoral arteries</mark>
 	- often asymptomatic in kids 
 - bicuspid aortic valve 
+- chromosomal nondisjunction during meiosis or mitosis 
+- XO female phenotype 
+- delayed puberty, amenorrhea, infertility 
+- cystic hygroma - obstructure of jugular lymph sac - swelling of posterior triangle of neck 
+- hypergonadotropic hypogonadism = insufficient sex steroid prod in gonads -> low serum concentrations of E and androgens with <mark style="background: #FFF3A3A6;">compensatory inc in FSH and LH pituitary gonadotropins!!!</mark> ,
+- give E and progesteogen sub, and GH 
 
 hocm - subvalvular ventricular outflow obstruction murmur = systolic that inc in intensity iwth maneuvers which dcrease venous return like standing up or active phase valsalva. 
 
@@ -363,7 +370,8 @@ ANCA associated glomerulonephritis = <mark style="background: #FFF3A3A6;">negati
 	- C-ANCA/PR3-ANCA
 - microscopic polyangiitis = small cell necrotizing vasculitis in renal, pulm, and skin involvement 
 	- just not granulomas and no nasopharynx involvement 
-	- respiratory symptoms = dyp
+	- respiratory symptoms = dypanea, cough, hemoptysis 
+	- p-anca/mpo-anca 
 - eosinophilic granulomatosis w/ polyangiitis = churg strauss syndrome 
 	- small vessel necrotizing granulomatous vasculitis with pulm and skin invovlement
 	- can <mark style="background: #FFF3A3A6;">impact ntestines + kdidneys</mark>
@@ -438,9 +446,44 @@ know more about the types of collagen!!!
 
 
 multiple sclerosis - demyelination with partial axon preservation + immune cell infiltration, macrophage accumulation with phagocytized myelin + parenchyma edema 
+- treat - with interferons, antibodies, or primary progressive with ocreelizumab, and then relapsing/remitting with interferons, glatiramer acetate, and monoclonal antibodies 
 - autoimmune rxn where many t helpers are activated against CNS 
 - ebv or hhv 6, uv radiation, not enough vitamin D or cig smoking 
 - focal demyelination with n destruction, gliosis + inadequate remyelination 
+- women mainly 
+- management with glucocorticoids + long term disease modding therapy is interferons + monoclonal antibodies 
+- optic neuritis = the earliest manifestation usually unilateral 
+- internuclear ophthalmoplegia - lesion in the MLF 
+	- connects nuclei that control -extraocular muscles with the vestibular nuclei 
+	- horizontal movement conugate of eyeball + adjustments of eyes with head position changes. 
+- demyelination of spinal 
+- cerebellar involvement 
+- trransverse myelitis = asym paraplegia , unilat sensoory loss, bladder dys 
+- CN palsies - diplopia, facial palsy, trigem neuralgia 
+- MRI = many sclerotic plaques in <mark style="background: #FFF3A3A6;">periventricular white matter with dawson fingers/fingerlike radiations.</mark>
+- CSF = oligoclonal bands in CSF 
+- inc myelin basic protein = moderate lymphocytic pleocytosis 
+
+
+neuromyelitis optica spectrum disorders = NMOSD
+- demyelinating, primary impact the optic nerve/spinal cord 
+- reccurrent acute attacks with rapid stepwise deterioration no prog bt attacks
+- optic neuritis but <mark style="background: #FFF3A3A6;">bilateral</mark>
+- transverse myelitis - symmetric paraplegia, sensory loss, bladder dysfunction 
+	- this is myelopathy resulting in motor, sensory, autnomic symptoms below the level of impaction 
+	- idiopathic or parainfectious , 
+	- mri of brain 
+	- inflam markers 
+- <mark style="background: #FFF3A3A6;">AQP4. = anti-aquaporin-4</mark>
+
+acute disseminated encephalomyelitis - ADEM
+- acute demyelinating, parainfectious like measles or after vaccinations
+- mainly kids
+- rapidly progressing, monophasic course with multifocal symptoms 
+- motor, sensory CN, and brainstem impairment! 
+- optic neuritis
+- get lumbar puncture, spinal mri 
+- treat - corticosteroids, igG therapy, and acyclovir empirically 
 
 
 brain tumors 
@@ -491,3 +534,132 @@ ependymomoas
 - tumor in early childhood 
 - <mark style="background: #FFF3A3A6;">perivascular pseudorosettes + rod shaped blepharoplasts.</mark>
 - <mark style="background: #FFF3A3A6;">NF type 2</mark>
+
+
+- - **  
+        C-ANCA:** Strongly associated with Granulomatosis with Polyangiitis (GPA) (Wegener's). 
+    
+    - **P-ANCA:** Common in Microscopic Polyangiitis (MPA), Churg-Strauss Syndrome (EGPA), and sometimes other conditions like ulcerative colitis.
+
+fibroblasts - from mesenchymal stem cells, to organize + synthesize ecm
+fibrocytes = fibroblast with low metabolic activity 
+myofibroblasts - contractile hybrid cells with feats of both ibroblasts + SM cells 
+- to make ECM components, 
+- involved in proilf phase of wound healing 
+
+collagen fibers = type 1 collagen 
+- dense and loose ct. 
+- cllagen in Gly-X-y structure, with glycine being 1/3 of it 
+- X = mostly proline 
+- Y = mostly hydroxyproline 
+reticular fibers = type 3 collagen, tensile strength, in basement membrane + reticular CT/ 
+elastic fibers associated with fibrillin + fibulin-5 .... in tissues that req high elasticity + ability to recoil like in aorta, lungs, skin. 
+- FBN1 fibrillin gene = marfan syndrome mutation 
+Type ONE [collagen](https://next.amboss.com/us/article/ro0fWS#Zf300f7a0c31e992a872dd5061a567b0e) is in bONE.  
+Type TWO [collagen](https://next.amboss.com/us/article/ro0fWS#Zf300f7a0c31e992a872dd5061a567b0e): carTWOlage  
+Type THREE [collagen](https://next.amboss.com/us/article/ro0fWS#Zf300f7a0c31e992a872dd5061a567b0e) is deficient in the vascular type of Ehlers-Danlos syndrome (3D = ThreE D).  
+Type FOUR [collagen](https://next.amboss.com/us/article/ro0fWS#Zf300f7a0c31e992a872dd5061a567b0e) is under the FLOOR (part of [basement membrane](https://next.amboss.com/us/article/Io0YWS#Zc577c83117227bc9769d4398c5594e93)).
+
+type 1 collagen = mostly it. bone, skin , tendon, ligaments, fascia, scar tissue , intrnal organs, dentin, cornea
+- dentin 
+- osteogenesis imperfecta type 1 
+- this is due to impaired triple helix formation 
+
+type 2 - cartilage like hyaline, vitreous humor, , intrvertebral discs, nucleus pulposus 
+- type 2 achrondrogenesis 
+
+type 3 - reticulin, in reticular fibers of skin, bv, granulation tissue, uterus, scar tissue in early stages, fetal tissue 
+- this is messed up in the vascular ehlers-danlos syndrome 
+
+type 4 - basement membranes, lens 
+- alport syndrome = dec production 
+- goodpasture = autoantibodies target this type of collagen 
+
+type 5 collagen 
+- bone, skin, fetal tissue, placenta
+- ehlers-danlos syndrome classic 
+	- happens due to defective procollagen cleavage 
+
+scurvy = vitamin c deficiency = impairs hydroxylation of procollagen chains 
+
+menkes - due to defective cross-linking of tropocollagen 
+- x-linked
+- atp7A 
+- can't take copper from enterocytes to liver and other cells = dec copper 
+- kinky brittle hair , epilepsy, tissue abnormalities 
+
+sex development disorders DSDs
+congenital adrenal hyperplasia - autosomal recessive gene mutation of 
+- 21-hydroxylase
+	- hypotension 
+	- precocious puberty in boys 
+- 17a-hydroxylase
+	- htn, 
+	- delayed puberty in girls 
+- 11b-hydroxylase 
+	- hypertension 
+	- precocious puberty in boys 
+- this would inc or dec the androgen production 
+
+aromatase def = CYP19A1 gene mutation AR, 
+- defective/absent **aromatase** 
+	- -> lower conversion of testosterone to estrogen -> serum e falls with rising testosterone 
+- dec estrogen + inc androgens 
+- in girls, ambiguous ext genitalia with normal internal, virilization, amenorrhea 
+- <mark style="background: #FFF3A3A6;">maternal virilization during pregnancy due to fetal androgens crossing placenta....</mark>
+- post birth = testosterone up, androstenedione(intermediate in biosynthesis of estrone + testosterone released by the adrenal gland) up, e down. 
+- impaired maturation of secondary sex characteristics in females 
+- hyperglycemia + weight gain + fatty liver (insulin impaired tissue response to it)
+- tall due to excessive bone growth with slowed mineralization, osteoporosis 
+
+ovotesticular disorder - SRY gene translocation from Y to X chromosome 
+- in XY ppl - hypospadias, cryptochidism, testicular enlargement, gyno
+- mixed testicular + ovarian dysgenesis 
+- ovotestis = ambiguous genitalia 
+- 
+- 
+
+kallmann syndrome - multiple gene mutations that are responsible for migrating GnRH releasing neurons from olfactory 
+- hypogonadotropic hypogonadism 
+- infert , absent puberty changes
+- anosmia/hyposmia
+- renal agensiss
+- cleft lip;/palate 
+
+androgen insensitivity - x linked recessive, normal androgen production, but no response, blind ended vag pouch, uterine agenesis, infertiliity, no pubic hair 
+- androgen receptor gene defect 
+- befoer puberty a lot of testosterone
+- after puberty, LH, estrogen up and normal testosterone levels with no virilization. 
+
+5 alpha reductase def - AR loss of function f SRD5A2 gene = 
+- decrease conversion of T to DHT 
+- DHT is dependent on masculinization of external genitalia and the prostate! 
+- female ext genitalia with male internal genitalia at birth 
+- secondary sexual male characteristics in puberty 
+
+
+
+persistent mullerian duct syndrome - autosomal recessive mutation of AMH/AMHR2 
+- dec prod of OR insensitivity to the anti-mullerian hormon AMH 
+- AMH made by seertoli cells inside testes which suppress paramesonephric duct formation (becomes fallopian tubes, uterus, upper vagina )
+
+swyer syndrome - xy gonadal dysgenesis - 
+- mutations of sry , map3k1, nr5a1 , or dhh gene 
+- testicular dysgenesis ,<mark style="background: #FFF3A3A6;"> streak gonads </mark>, and dec androgen production 
+- female phenotype, small uterus, big clitoris, delayed puberty, absence of brest enlargement, amenorrhea
+
+xx gonadal dysgen = bmp15 or nr5a1 gene = female phenotype, infertility, ovarian dysgenesis + streak gonads 
+
+imperforate hymen - failed apoptosis 
+anomalies of mullerian duct fusion = defect in fusion of mullerian ducts during dev 
+
+klinefelter syndrome= XXY + barr body 
+- cause of male hypogonadism 
+- nondisjunction of sex chromosomes during meiosis 
+- associated with adv maternal age, 
+- <mark style="background: #FFF3A3A6;">seminiferous tubules dysgenesis -> loss of sertoli cells -> inhibin B down, -> FSH up</mark> (FSH made and synthesized by anterior pituitary gland ... stimulating maturating germ cells)
+- inhibin B = made by sertoli cells in males and ovarian granulosa cells in females that suppress release of FSH 
+- leydig cells in testicular interstitium bt the seminiferous tubules would be unfunctional, so testosterone down therefore LH up (anterior pituiatary gland)
+both LH and FSH going up would mean more conversion of T to E 
+- gyno, no hair, testes atrophy, reduced fertility, eunuchoid growth (long slim stature bc growth plate closure delayed)
+- neurocog dysfunction + mitral valve prolapse 
