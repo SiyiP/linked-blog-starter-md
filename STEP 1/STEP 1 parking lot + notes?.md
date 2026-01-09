@@ -165,6 +165,72 @@ digoxin tox = abd pain, n/v, vision , confusion, bradycardia, PVCs , and hyper k
 cyanide poisoning - uses hydroxocobalamin - to bind directly to it making cyanocobalamin excreted by kidneys 
 - can be caused by nitroprusside used to treat htn crises. 
 
+<mark style="background: #FFF3A3A6;">look over clotting and bleeding/blood!!!!</mark>
+
 heparin od = suggested by prolonged aPTT
+- protamine sulfate reverses it ..... 
 
 PCC = vitamin K - dependent clotting factors II, 7, 9, 10 to reverse warfarin effects 
+
+vitamin K = cofactor, <mark style="background: #FFF3A3A6;">gamma carobxylation of glutamic acid residues in factors 2,7,9,10</mark>
+- so this reverse effects of warfarin (vitamin K antagonists)
+- warfarin therapy is usually indicated in DVTs, but not given to pregnant women bc it crosses placenta + teratogen 
+
+alteplase = conversion plasminogen to plasmin... which will break down clots 
+- for thrombolysis in pts with acute ischemic stroke and ST-elevation MIs. 
+
+fresh frozen plasma - which contains all coagulation factors, can be used in managing major bleeding after warfarin use.... 
+- <mark style="background: #FFF3A3A6;">this is not given to her bc it's teratogenic. and this is not used to reverse this heparin toxicity bc FFP also has antithrombin... alr activted in the presence heparin and inhibit activity of other coag factors.</mark>
+
+questioning SUD 
+• C: Have you ever driven a car while high or ridden in a car with someone who was high?  
+• R: Do you ever use alcohol or drugs to relax, feel better about yourself, or fit in?  
+• A: Do you ever use alcohol or drugs when alone?  
+• F: Do you ever forget things you did while using alcohol or drugs?  
+• F: Do your family or friends ever tell you to cut back on your drinking or drug use?  
+• T: Have you ever gotten into trouble while you were using alcohol or drugs?
+
+reactive arthritis triad = 
+- arthritis
+- urethritis 
+- conjunctivitis 
+- reactive arthritis happens after getting campylobacter, salmonella, shigella, but not viral infections 
+- <mark style="background: #FFF3A3A6;">HLA-B27 genotype is present in most of these patients, and we should screen them for ankylosing spondylitis + acute anterior uvelitis</mark>
+
+borrelia burgdorferi 
+- lyme arthritis - would cause them to get 
+- asymmetrical migratory polyarthritis 
+
+norovirus gastroenteritis
+- very common cause of viral gastroenteritis in adults 
+- triad of arthritis but... 
+- self limiting + resolving in 2-3 days 
+
+SLE = anti-dsDNA antibodies
+- malar rash 
+- arthritis 
+
+IVDU = septic arthritis , like iwht s. aureus, presenting with acutely inflamed joint + systemic symptoms 
+
+chondrocalcinosis of L knee = 
+- caused by cppd crystal (calcium phosphate) depo in the joints 
+- seen in pseudogout 
+- warm, tender joints .... occurs in wilson dz, hypophosphatemia, hemochromatosis, renal osteodystrophy, and hyperparathyroidism/hypothyroidism 
+
+
+neisseria gonorrhoeae - 
+- dysuria, vag discharge
+- <mark style="background: #FFF3A3A6;">milky white</mark>
+- cervicitis causing 
+- these are facultative intracellular bacterium = group of bacteria which can replicate in host cells but can replicate in ext environment 
+	- has salmonella + fancisella + yersinia , legionella pneumophila, and listeria monocytogenes 
+
+treponema pallidum 
+- syphilis, RFs for infection is sex 
+- primary syphilis = painless chancrees + nontender lymphadenopathy no discharge 
+- spirochetes 
+
+
+- 
+
+
