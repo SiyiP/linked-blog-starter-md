@@ -120,7 +120,7 @@ id dural infoldngs + dural venous sinuses
 - lok at the dural venous sinuses 
 - ![[nucleus in medulla.png]]
 
-![[image-1.png]]![[Screenshot 2025-10-28 at 2.54.55 PM.png]]
+![[nephrotic v nephritic.png]]![[Screenshot 2025-10-28 at 2.54.55 PM.png]]
 
 floor of ant cranal fssa removed by faculty 
 

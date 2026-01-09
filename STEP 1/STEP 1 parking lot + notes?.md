@@ -220,8 +220,9 @@ chondrocalcinosis of L knee =
 
 neisseria gonorrhoeae - 
 - dysuria, vag discharge
-- <mark style="background: #FFF3A3A6;">milky white</mark>
+- <mark style="background: #FFF3A3A6;">milky white</mark> / pus like, <mark style="background: #FFF3A3A6;">yellow</mark>, green, whitish 
 - cervicitis causing 
+- discharge and pain during bowel movements 
 - these are facultative intracellular bacterium = group of bacteria which can replicate in host cells but can replicate in ext environment 
 	- has salmonella + fancisella + yersinia , legionella pneumophila, and listeria monocytogenes 
 
@@ -230,7 +231,263 @@ treponema pallidum
 - primary syphilis = painless chancrees + nontender lymphadenopathy no discharge 
 - spirochetes 
 
+chlamydia 
+- dysuria + discharge, 
+- <mark style="background: #FFF3A3A6;">milky white</mark> !! or clear and watery 
+- vaginal bleeding bt periods 
+- causes cervicitis 
+- these are intracellular organisms 
 
+gardnerella vaginalis - 
+- discharge, gray and milky with <mark style="background: #FFF3A3A6;">fishy</mark>
+- no pruritis + pain 
+- clue cells. - type of vaginal epithelial cells covered with bacteria 
+
+trichomonas vaginalis
+- trichomoniasis manifests with vaginal 
+- pruritus 
+- dysuria 
+- <mark style="background: #FFF3A3A6;">strawberry cervix</mark> 
+- motile trophozoites on wet mount 
+- <mark style="background: #FFF3A3A6;">for sure GREEN YELLOW malodorous discharge.</mark>
+
+
+the stress incontinence - invol urinary leakage during exercise after vaginal deliveries
+- implicated commonly is levator ani 
+- this forms the pelvic floor made up of pubococcygeus, iliococcygeus, and puborectalis 
+
+S1-2 = roots give to inf gluteal nerve innervating glueteus maximus muscle + also piriformis motor innervation 
+
+superior gluteal nerve innervating the gluteus medius, minimus, and tensor fascia latae 
+
+superior hypogastric plexus - sympathetic innvervation ot ovaries + ureter
+
+obturator from L2-4 - obturator externus (medial compartment of thigh from obturator membrane into the posterior aspect of greater trochanter to adduct + laterally rotate hip joint), adductor longus + brevis, gracilis, pectineus, and adductor magnus 
+- also sensory innervation to medial thigh 
+
+S3-4 = 
+- innervate pelvic floor msucles levator ani + ext urethral sphincter
+- <mark style="background: #FFF3A3A6;">pudendal nerve will innervate ext urethral sphincter, maintaining continence.</mark>
+
+ilioinguinal n from L1 = sensory innervation to anterior scrotum + penis root + labia majora + mons pubis. 
+- and motor to the internal oblique + transverse ab muscles 
+
+**nephritic syndrome**
+- hematuria with rbc casts, sterile pyuria, mild to mod proteinuria -> htn, oliguria, and fluid retention with mild to mod peripheral edema 
+- majority of peds = psgn 
+- where proteinuria < 3.5 g/day, and hematuria + htn !!! 
+- kidney function down, oliguria + azotemia 
+- glomerulonephritis - <mark style="background: #FFF3A3A6;">acute glomerular inflam in which it occurs....</mark>
+- cuased by inflamm -> cytokine release -> glomerular CAPILLARY dmg!!!
+	- 	- we see acanthocytes with any glomerular dmg in the urine 
+- oliguria bc infiltrates reduce fluid movement across membrane 
+- azotemia - prevention of urea filtring = <mark style="background: #FFF3A3A6;">inc in lvl of nitrogenous waste. like urea + creatinine</mark>
+- salt retension too 
+
+poststreptococcal glomerulonephritis psgn 
+- rbc casts, mild proteinuria, elevated creatinine, htn 
+- nephritic syndrome. =periorbital edema too
+- happens 3 weeks post bacterial tonsillitis = group A beta hemolytic streptococcal infections. 
+- <mark style="background: #FFF3A3A6;">periorbital edema!!!</mark>
+- <mark style="background: #FFF3A3A6;">granular depos of igG, IgM, C3 along the glomerular basement membrane + mesangium on IF = starry sky or lumpy bumpy!!!</mark>
+- enlarged and hypercellular glomeruli on light microscopy 
+- subepithelial immun complex depos = lumps 
+- ipmact KIDS!!!! <mark style="background: #FFF3A3A6;">type 3 hypersensitivity.</mark>
+	- self lim in kids, can turn into rpgn in adults 
+	- C3 down 
+- <mark style="background: #FFF3A3A6;">immune complexes trigger the complement activtaion which destroys glomeruli.... and these are rapidly cleared by immune cells.</mark>
+- this can PROGRESS into rpgn
+
+
+<mark style="background: #FFF3A3A6;">nephrotic syndrome</mark> = dmg to glomerular filtration barrier 
+<mark style="background: #FFF3A3A6;">- proteinuria 3.5+ g/24 hrs</mark>
+- hypoalbuminemia 
+- edema 
+- common in adults = fsgs focal segmental + membranous nephropathy 
+- in kids = mcd most common 
+- manifestation of advanced renal disease in systemic conditions like diabetic nephropathy 
+- <mark style="background: #FFF3A3A6;">fatty casts + hyperlipidemia</mark>
+	- - ↑ Plasma levels of [cholesterol](https://next.amboss.com/us/article/1p02oS#Ze08bc636c83ae44d6c771f5646271b57), [LDL](https://next.amboss.com/us/article/1p02oS#Zbb13b68a7df6923c5e64b205eaf78aa2), [triglycerides](https://next.amboss.com/us/article/1p02oS#Z2bfd946a638ffba7c38eda3282c46859), and [lipoproteins](https://next.amboss.com/us/article/1p02oS#Za6c680cea324b39057fe4a333986a9b0) (mainly LPA) to compensate for the loss of [albumin](https://next.amboss.com/us/article/Ln0wFg#Z9110b2994a3ccd57883efb00defab92b) → lipiduria ([fatty casts](https://next.amboss.com/us/article/kg0mv2#Z0ea861d8905146b734b08252bae188b2)) [21]
+- podocyte dmg
+loss of negative chaarge of glomerular basement membrane = loss of selectivity of barrier esp for negatively charged albumin 
+- loss of antithrombin III, protein C and S tooo .. hypercoagulatbility 
 - 
+![[nephrotic v nephritic.png]]
+
+as a whole - we need RAAS inhibitor to manage proteinuria/htn 
+- also can cause vitamin D deficiency due to loss of DBP vitamin D binding protein and bound Vitamin D 
+- this causes <mark style="background: #FFF3A3A6;">hypocalcemia, which causes rise in PTH, and then bone disease!</mark>
+- the sediment = maltese cross and lipiduria, fatty casts under polarized light! 
+- frothy urine bc protein duh 
+
+diabetic glomerulonephropathy 
+- mesangial matrix expansion, thickening of glomerular memb
+- and kimmelstiel wilson lesions = nodular eosinophilic glomerulosclerosis 
+
+membranous nephropathy = spike and dome 
+- nephrotic syndrome instead. 
+- hepatitis b infection + autoimmune/thyroid disease 
+- anti-pla2r antibodies!! making complexes activating copmlement system 
+
+alport syndrome 
+- this one has visual disturbances + sensorineural hearing loss 
+membranoproliferative glomerulonephritis = MPGN
+- both nephritic 
+- secondary to infection like hep C or autoimmune 
+
+Mesangial IgA deposits on immunofluorescence 
+- Mesangial IgA based immune complex deposits -immunofluorescence are a typical finding of igA nephropathy 
+- the type of glomerulonephritis might manifest with nephritic syndrome 
+- IgA happens during or IMMEDIATELY following Upper resp/GI tract infection and not 2-4 wks 
+- igA nephropathy is not typically associated with bacterial tonsillitis 
+
+minimal change disease - MCD
+- podocyte foot process effacement 
+- nephrotic syndrome 
+- idiopathic but might be triggered by infections or happen secondary to lymphoma 
+- seen in kids 
+
+rapidly progressive glomerulonephritis RPGN = 
+- glomerular crescent moon formation
+- rapid destruction of renal glomeruli = nephritic syndrome 
+- caused by breaks in the wall and gbm dysfucntion and passing of inflammatory things into bowman spac
+- <mark style="background: #FFF3A3A6;">damage to membrane of bowman space + passing cells.... forming fibrin clots + cell proliferation = crescent moon making</mark>
+- cure with biopsy, glucocorticoids,s cyclophosphamide 
+
+ANCA associated glomerulonephritis = <mark style="background: #FFF3A3A6;">negative immunofluoresence microscopy pattern.</mark> 
+- granulomatosis w/ polyangiitis = necrotizing vasculitis that most commonly affects small and medium-sized vessels in the upper and lower respiratory tract, eyes, and kidneys.
+	- antineutrophil cytoplasmic antibodies + noncaseating granulomas 
+	- type of vasculitis of small + medium sized vessels 
+	- hemoptysis, strawberry gingivitis, purpura, rapidly progressive GN, and chronic <mark style="background: #FFF3A3A6;">rhinosinusitis</mark> 
+	- chronic sinusitis, nasal ulcers + septum perforation 
+	- C-ANCA/PR3-ANCA
+- microscopic polyangiitis = small cell necrotizing vasculitis in renal, pulm, and skin involvement 
+	- just not granulomas and no nasopharynx involvement 
+	- respiratory symptoms = dyp
+- eosinophilic granulomatosis w/ polyangiitis = churg strauss syndrome 
+	- small vessel necrotizing granulomatous vasculitis with pulm and skin invovlement
+	- can <mark style="background: #FFF3A3A6;">impact ntestines + kdidneys</mark>
+	- least common 
+	- <mark style="background: #FFF3A3A6;">asthma, allergic rhinitis, peripheral neuropathy</mark>
+	- peripheral <mark style="background: #FFF3A3A6;">eosinophilia, this is p-ANCA.</mark>
+
+GBM - anti glomerular basement membrane associiate 
+- anti-GBM= goodpasture disease = 
+	- - circulating type 4 collagen antbodiies, attackng pulm too 
+	- <mark style="background: #FFF3A3A6;">linear immunofluorescence pattern</mark>
+	- plasmapheresis indicated too in combination with some immunosuppression. 
+	- to remove harmful substances like autoantibodies 
+	- issues in kidneys + lungs = <mark style="background: #FFF3A3A6;">antibodies against basement membranes!</mark>
+	- glomerular invovement ALONE = anti gbm glomerulonephritis 
+	- <mark style="background: #FFF3A3A6;">type 2 hypersensitivity rn with autoantibodies against collagen type 4</mark>
+
+immune mediated complex glomerulonephritis = these all have granular appearance 
+- low c3 
+	- lupus nephritis , 
+	- psgn 
+- normal c3 
+	- iga nephropathy / berger disease
+		- gross hematuria, flank pain, trigger by uri and gi infections 
+		- common in mainly men 
+		- type 3 hypersensitivity 
+		- mesangial cell + complement activation duh 
+		- <mark style="background: #FFF3A3A6;">asymptomatic microhematuria with intermittent gross hematuria after uri and gi infections or exercise.</mark>
+		- 40 or 20% progress to ESRD in 20 yrs 
+		- too much IgA in serum 
+	- iga vasculitis 
+		- small cell vasculitis in kids from uri and tetrad:
+		- palpable purpuraa
+		- arthritis/arthralgia
+		- abd pain
+		- renal dz 
+
+pancytopenia - dec reticulocyte count, normal smear, and bone marrow hypocellularity = this means dc in all blood cell lineages = > anemia, thrombocytopenia + leukopenia 
+- aplastic anemia = ebv/cmv , just viral infections, drugs, radiation, and congenital stuff and leukemia can cause this 
+
+multiple myeloma 
+- classically hypercalcemia (abd pain), renal impairment, anemia, bony lesions 
+- rouleaux formations + abnormal plasma cells 
+- not in kids but adults 
+
+primary myelofibrosis 
+- pancytopenia + bone marrow hypocell, but hcornic + <mark style="background: #FFF3A3A6;">splenomegaly usually, shows erythrocyte precursors + immature myeloid cells</mark>
+
+idiopathic thrombocytopenic purpura = ITP = autoimmune targetting platelets = thrombocytopenia + bleeding 
+- normal everything else. 
+
+acute lympoblastic leukemia ALL
+- kids 2-5 yrs, hepatosplenomegaly + B symptoms 
+- anemia, thrombocytopenia , hyperleukocytosis 
+- b symptoms = fever, night sweats, and weight loss, which together are classically associated with lymphomas. Sometimes used to refer to the same symptoms in patients with other conditions (e.g., tuberculosis, inflammatory conditions, rheumatologic conditions).
 
 
+meningitis. - gram neg diplococci 
+
+clostridium perfringens - gas gangrene myonecrosis 
+- alpha toxin 
+
+s. aureus - protein A , in clusters 
+
+LOS = endotoxins - component of outer membrane in g-neg bacteria after cellular lysis or endocytosis it's released
+- cause shock + fever, hypotension, coagulation. 
+adhesive pili - N meningitidis - causes it to adhere + invade epithelial + endothelial celels, going into the brain and the brain's postcapillary venules/choroid plexus, causing meningitis 
+
+
+know more about the types of collagen!!! 
+
+
+
+multiple sclerosis - demyelination with partial axon preservation + immune cell infiltration, macrophage accumulation with phagocytized myelin + parenchyma edema 
+- autoimmune rxn where many t helpers are activated against CNS 
+- ebv or hhv 6, uv radiation, not enough vitamin D or cig smoking 
+- focal demyelination with n destruction, gliosis + inadequate remyelination 
+
+
+brain tumors 
+VHL = von hippel lindau dz 
+hemangioblastomas = highly vascularized infratentorial brain tumors, <mark style="background: #FFF3A3A6;">manifestation of von hippel lou disease.</mark>
+- inc intracranial pressure (headache, vomitting, blurred vision, papilledema)
+- polycythemia 
+- histo - shows densly packed, thin walled capillary vessels  with lipid inclusions 
+- in early adulthood, happns in spine, cerebellum, retina 
+- <mark style="background: #FFF3A3A6;">renal cell carcinomas, pheochromocytomas + pancreatic cysts</mark>
+
+medulloblastomas - 
+- infratentorial region 
+- inc icp symptoms too 
+- first decade of life 
+- homer-wright rosettes! 
+- <mark style="background: #FFF3A3A6;">association turcot's syndrome</mark>
+
+pilocytic astrocytomas 
+- infratentorial region 
+- icp 
+- younger than 20  yo
+- rosenthal fbers + poz staining for glial fibrillary acidic protein !!!
+- <mark style="background: #FFF3A3A6;">neurofibromatosis type 1</mark>
+
+craniopharyngiomas - headache + vomitting
+- in supratentorial region 
+- <mark style="background: #FFF3A3A6;">bitemporal hemianopsia, hyperprolactinemia, hypopituitarism...</mark>
+- histo - see metaplastic squamous cells or reticular epithelial cells, cysts, keratin nodules 
+
+glioblastomas 
+- icp symptoms, 
+- seen in supratentorial cerebral hemispheres 
+- seizures, focal deficits, personality changes too 
+- median onset of 65-75 yo
+- pleomorphic anaplastic cells that form <mark style="background: #FFF3A3A6;">pseudopalisades</mark> and poz staining for glial fibrillary acidic protein 
+
+oligodendroglioma 
+- presenting with headache + vom
+- in cerebral hemispheres/supratentorial 
+- seizures, foocal neuro deficits + personality changes are common 
+- <mark style="background: #FFF3A3A6;">fried egg cells + chicken wire capillary anastomoses</mark>
+- and also 40-50 yo median 
+
+ependymomoas
+- infratentorial region, icp symptoms 
+- but no retinal vascular changes 
+- tumor in early childhood 
+- <mark style="background: #FFF3A3A6;">perivascular pseudorosettes + rod shaped blepharoplasts.</mark>
+- <mark style="background: #FFF3A3A6;">NF type 2</mark>
