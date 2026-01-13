@@ -706,10 +706,95 @@ adrenal glands
 note the right suprarenal V drains blood from it into the IVC
 L suprarenal vein into the L renal V and THEN into the IVC. 
 - medulla = from NCCs(chromaffin cells, secretion of **catecholamines** NE, EPI, dopamine) - made up of modded sympathetic postganglionic neurons 
-	- 
+	- <mark style="background: #FFF3A3A6;">tumors from here are pheochromocytomas.</mark>
+catecholamine biosyn
+1. phenylalnine hydroxylated into tyrosine via phenylalanine hydroxylase with cofactor THB tetrahydrobiopterin 
+2. tyrosine then hydroxylated again with tyrosine hydroxylase and cofactor THB into DOPA 
+3. DOPA decarboxylated by dopa decarboxylase with cofactor **B6** into dopamine 
+4. dopamine then will be hydroxylated with cofactor Vita C into NEpi 
+5. NEPI methylated with cofactor SAM into Epinephrine (shortest half life)
+- catecholamines bind to adrenergic receptors of all types... sympathetic activation 
+	- a1 = Gq = stimulation of plc -> pip2 -> ip3 and dag => more calcium inside, contraction of SM and vasoconstriction, in addition to sphincters ... located in vasculature, gi tarct and bladder 
+	- a2 = Gi = inhibition of Adenylate cyclase = lower the cAMP , in the white adipose tissue, gi , bladder, and pancreas... <mark style="background: #FFF3A3A6;">muscular contraction down, and lipolysis and insulin secretion all down</mark>
+	- b1 = Gs meaning cAMP up heart and kidney, chronotrope, inotrope, and dromotropy (more conductive, contraction stronger, and more HR) as well as more renin = RAAS activation 
+	- B2 = Gs cAMP up, in everything including the brnchi and uterus and skeletal muscles, vasodilation and bronchodilation, glycogenolysis up, lipolysis up, insulin secretion up, and tocolysis (<mark style="background: #FFF3A3A6;">slowing of cervical dilation</mark>)
+	- B3 = cAMP up, insid brown adipose tissue this will cause lipolysis 
+	- degradation of Catecholamines is <mark style="background: #FFF3A3A6;">by COMT and MAO, which are blocked by MAO inhibitors to elevate concentration in the synaptic cleft....</mark>
+	- end stage metabolite is VMA in pheochromocytoma + neuroblastoma 
 - Adrenal cortex = mesoderm , production of steroid hormones ... outermost to innermost 
 	- ZG - mineralocorticoids - sodium and water and potassium 
 		- <mark style="background: #FFF3A3A6;">aldosterone prod</mark>
+		- pregenolone from cholesterol -> 3b-hydroxysteroid dehydrogenase makes progesterone 
+		- progesterone -> 11-deoxycorticosterone via 21-hydroxylase 
+		- 11-deoxycorticosterone -> corticosterone via 11b-hydroxylase and aldosterone synthase 
+		- corticosterone -> aldosterone 
+		- MOA - binds to recetpors in the <mark style="background: #FFF3A3A6;">distal tubule and collecting duct</mark>, making protein syn + the following: 
+			- <mark style="background: #FFF3A3A6;">rise of Na/K+ATP-ase in the membrane, making more Na+ transport out and K+ into the tubule cells.</mark>
+			- more apical<mark style="background: #FFF3A3A6;"> H+/ATPase -> H+ excretion </mark>
+			- more NA+ channels for ENAC, Na+ resorption 
+			- K+ channels = ROMK in the luminal membrane for more K+ EXCRETION. 
+			- these efffects raise bp, make hypokalemia and raise pH 
 	- ZF - glucocorticoids - glucose metabolism
 	- ZR - androgens 
+- for cortisol and Dehydroepiandrosterone / DHEA
+- CRH from the hypothalamus -> secretion of ACTH in the pituitary gland -> secreton of glucocorticoids + andorgens in the adrenla crotex 
 think GFR, deeper you go, the sweeter it gets: salt, sugar, and sex 
+
+more about RAAS
+1. stimulus triggers renin secretion from the renal juxtaglomerular cells in response to low bp, b-1 adrenergic activation and NaCl deficiency to secure a more stable GFR 
+2. renin promotes conversion of angioteniogen made in liver to angiotensin I 
+3. AT1 turned to AT2 via angiotensin converting enzyme 
+4. AT2 causes <mark style="background: #FFF3A3A6;">vasoconstriction, triggering secretion of aldosterone</mark>
+- too high serum K+ = stimulation of ZG, meaning more secretion of aldosterone 
+- negative feedback: if BP gets too high, <mark style="background: #FFF3A3A6;">ANP is released from atrial myocytes -> **inhibition of renin release** -> vasodilation, natriuresis + up more diuresis!!!</mark>
+
+glucocorticoid synthesis!!! 
+from pregnenolone pathway.... 
+1. using 17a-hydroxylase to make 17-hydroxypregnenolone 
+	1. then: 17-hydroxypregnenolone turns into 17-hydroxyprogesterone with the enzyme 3b-hydroxysteroid dehydrogenase. 
+2. using 2b-hydroxysteroid dehydrogenase to make progesterone 
+	1. then: progesterone turns into 17-hydroxyprogesterone with using 17a-hydroxylase enzyme. 
+3. common pathway: 
+	1. 17-hydroxyprogesterone turns into 11-deoxycortisol via using enzyme 21-hydroxylase 
+	2. 11-deoxycortisol will then be made into cortisol via enzyme 11-b-hydroxylase 
+cortisol will 
+- inc gluconeogenesis
+- glycogen synthesis
+- protein catabolism (resulting in muscular atrophy)
+- lipolysis 
+- appetite up 
+- insulin resistance 
+- and antiinflammatory/immunosuppressive effects 
+- wound healing down via fibroblast inhibition 
+- ultimately with more CRH -> ACTH -> glucocorticoid secretion up .... 
+	- CRH triggers are: pain and stress, epinephrine, histamine, hypoglycemia, hypotension 
+
+androgen synthesis 
+from pregnenolone pathway.... 
+1. using 17a-hydroxylase to make 17-hydroxypregnenolone 
+	1. then: 17-hydroxypregnenolone turns into DHEA or dehydroepiandrosterone with the enzyme 17,20-lyase
+2. with progesterone, using 17a-hydroxylase to make 17-hydroxyprogesterone 
+	1. then: 17-hydroxyprogesterone turns into **androstenedione** with using 17,20-lyase enzyme. 
+	2. this same hormones also made in the gonads (regulated by ACTH in the adrenal, but gonadotropins in the gonads.)
+	3. the androstenedione -> testosterone -> DHT via 5a-reductase (the inhibitors for this is used in treating BPH)
+meanwhile aromatase converts T into E and androstenedione, which is then transfrmed into estrone. 
+- DHT = prostate, penis, scrotum differentiation 
+- T = epididymis, vas def, seminal vesicles 
+
+---
+blood pressure regulation
+- barorecptors - stretch - wall of carotid sinus, ao arch, atria, vena cavas.... 
+	- bp down -> firing req lowers, -> brain stem vasomotor center signalling down -> parasympathetic stimulation lowers and sympathetic up -> vasoconstriction -> HR , SV and BP up 
+	- bp up -> baroreceptor firing up -> baroreceptor reflex in vasomotor center of stem -> parasympathetic up and sympathetic down etc. 
+	- these are only for short term changes like acute hemorrhage... 
+- cushing reflex -> icp up -> compensatory constriction of cerebral arterioles - > perfusion down -> hypercapnia(elevation of CO2 above 45 mmhg in arterial blood!!!) + acidosis -> chemoreceptor mediated sympathetic response -> bp up -> stimulation of ao arch baroreceptors -> vagal activation -> **reflex bradycardia!!!**
+
+volume receptors are like releasing based on flow changes in pulm circulation, releasing ANP and ADH etc. 
+
+chemoreceptors - detect pH changes and resp gases which regulate pH, o2 and co2 
+	peripheral chemoreceptors - in the carotid body + aortic body, measuring PaO2 <60 mmHg, CO2 and pH 
+	central chemoreceptors = <mark style="background: #FFF3A3A6;">medulla oblongata</mark> - measures PaCO2 and pH of Cerebral interstitial fluid 
+		less sensitive to PO2 lvls, become <mark style="background: #FFF3A3A6;">desensitized in response to chronic hypoxia/hypercapnia like in COPD</mark>
+basically CO2 up , O2 down, and pH down = sympathetic innervation up 
+- this modulates breathing in resp center of medulla 
+- 
