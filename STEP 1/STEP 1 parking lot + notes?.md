@@ -588,18 +588,39 @@ menkes - due to defective cross-linking of tropocollagen
 - can't take copper from enterocytes to liver and other cells = dec copper 
 - kinky brittle hair , epilepsy, tissue abnormalities 
 
-sex development disorders DSDs
-congenital adrenal hyperplasia - autosomal recessive gene mutation of 
-- 21-hydroxylase
-	- hypotension 
-	- precocious puberty in boys 
+
+![[biosyn of adrenal steroid hormones.png]]
+congenital adrenal hyperplasia - autosomal recessive gene mutation of enzymes responsible for cortisol, aldosterone and sometimes androgens. 
+all forms have: 
+	low cortisol(ZF of adrenal cortex) -> lack of negative pituitary feedback -> 
+	 increased ACTH (anterior pituitary gland, stimulating glucocorticoids + androgen secretion in adrenal cortex) 
+		 - <mark style="background: #FFF3A3A6;">note about this - Melanocyte stimulating hormone is cleaved from ACTH's precursor so HYPERPIGMENTATION in areas!</mark>
+	 -> adrenal **hyperplasia**  + inc synthesis of adrenal precursor steroids 
+	 - chance of getting adrenal crisis due to low glucocorticoids !! fever , abd pain, n/v , impaired consciousness, shock 
+- 21-hydroxylase = most common 
+	- h**ypo**tension = saltwasting of hypoaldosteronism + hypocortisolism 
+	- precocious puberty in boys + female pseudohermaphroditism !!! and or male genitalia along with female testes 
+	- virilization. 
+	- 11-Deoxycorticosterone DOC goes <mark style="background: #FFF3A3A6;">down, as a compound formed from progesterone by this enzyme!!!</mark>
+		- has some mineralcorticoid activity , as a mineralcorticoid precursor <mark style="background: #FFF3A3A6;">which leads to the suppression of RAAS usually resulting from low aldosterone lvls</mark>
+		- we basically losing a lot of water and salts = hypotension 
+	- <mark style="background: #FFF3A3A6;">fludrocortisone therapy as aldosterone substitution</mark>
 - 17a-hydroxylase
-	- htn, 
-	- delayed puberty in girls 
+	- htn, in *spite* of hypoaldosteronism due to DOC activity 
+	- delayed puberty in girls , normal fem genitalia at birth 
+	- in boys, female genitalia with blind ending pouch + testes inside. 
+	- 11-deoxycorticosterone goes UP 
+	- spironolactone = to block mineralocorticoid receptors 
 - 11b-hydroxylase 
 	- hypertension 
+	- similar deal to the precocious puberty in boys + female pseudohermaphroditism !!! and or male genitalia along with female testes , virilization!
 	- precocious puberty in boys 
+	- spironolactone = to block mineralocorticoid receptors 
 - this would inc or dec the androgen production 
+think = one doc.... if deficient enzyme starts with 1 there's increased doctor 
+<mark style="background: #FFF3A3A6;">AND one = if it ends with 1 , androgens are INC!!!</mark>
+
+
 
 aromatase def = CYP19A1 gene mutation AR, 
 - defective/absent **aromatase** 
@@ -620,11 +641,12 @@ ovotesticular disorder - SRY gene translocation from Y to X chromosome
 - 
 
 kallmann syndrome - multiple gene mutations that are responsible for migrating GnRH releasing neurons from olfactory 
-- hypogonadotropic hypogonadism 
+- hypogonadotropic hypogonadism  = pituitary gonadotropins FSH and LH low and subsequently low E and T.... 
+- defective GnRH releasing neurons from olfactory bulbs from bad migration to the hypothalamic preoptic nuclei = <mark style="background: #FFF3A3A6;">GnRH secretion down, underdev of olfactory bulbs</mark> => therefore low pituitary secreton of FSH/LH therefore low T in males, low E in females
 - infert , absent puberty changes
-- anosmia/hyposmia
-- renal agensiss
-- cleft lip;/palate 
+- **anosmia**/hyposmia
+- **renal agenesis**
+- **cleft lip;/palate** 
 
 androgen insensitivity - x linked recessive, normal androgen production, but no response, blind ended vag pouch, uterine agenesis, infertiliity, no pubic hair 
 - androgen receptor gene defect 
@@ -640,8 +662,10 @@ androgen insensitivity - x linked recessive, normal androgen production, but no 
 
 
 persistent mullerian duct syndrome - autosomal recessive mutation of AMH/AMHR2 
-- dec prod of OR insensitivity to the anti-mullerian hormon AMH 
+- dec prod of **OR** insensitivity to the anti-mullerian hormon AMH 
 - AMH made by seertoli cells inside testes which suppress paramesonephric duct formation (becomes fallopian tubes, uterus, upper vagina )
+- basically - male ext genitalia and secondary sexual characteristics but female internal genitalia 
+- inc risk of cryptorchidism (balls don't destend) and inguinal herniation infancy 
 
 swyer syndrome - xy gonadal dysgenesis - 
 - mutations of sry , map3k1, nr5a1 , or dhh gene 
@@ -649,6 +673,14 @@ swyer syndrome - xy gonadal dysgenesis -
 - female phenotype, small uterus, big clitoris, delayed puberty, absence of brest enlargement, amenorrhea
 
 xx gonadal dysgen = bmp15 or nr5a1 gene = female phenotype, infertility, ovarian dysgenesis + streak gonads 
+
+xy gonadal dysgen= mutation of SRY gene in chromosome Y , 
+- impaired testes and therefore: 
+- underprod T and AMH 
+- resulting in persisting mullerian ducts -> female genitalia without ovaries 
+- underdev of wolffian ducts = absence of male genitalia 
+- <mark style="background: #FFF3A3A6;">dev of streak gonads = low E and prog = neg feedback = FSH and LH up = delayed puberty + infertility</mark>
+- small uterus, no breast enlargement, female phenotype typically 
 
 imperforate hymen - failed apoptosis 
 anomalies of mullerian duct fusion = defect in fusion of mullerian ducts during dev 
@@ -663,3 +695,21 @@ klinefelter syndrome= XXY + barr body
 both LH and FSH going up would mean more conversion of T to E 
 - gyno, no hair, testes atrophy, reduced fertility, eunuchoid growth (long slim stature bc growth plate closure delayed)
 - neurocog dysfunction + mitral valve prolapse 
+
+17b-hydroxysteroid dehydrogenase 3 def 
+- AR of HSD17B3 which encodes this enzyme
+- no conversion of androstenedione to testosterone, lowering t levels => hypoandrogenism 
+- before puberty there's internal male testes, ambiguous genitalia too 
+- after puberty = dev of male secondary sex charisteristics + gyno + infertility 
+---
+adrenal glands 
+note the right suprarenal V drains blood from it into the IVC
+L suprarenal vein into the L renal V and THEN into the IVC. 
+- medulla = from NCCs(chromaffin cells, secretion of **catecholamines** NE, EPI, dopamine) - made up of modded sympathetic postganglionic neurons 
+	- 
+- Adrenal cortex = mesoderm , production of steroid hormones ... outermost to innermost 
+	- ZG - mineralocorticoids - sodium and water and potassium 
+		- <mark style="background: #FFF3A3A6;">aldosterone prod</mark>
+	- ZF - glucocorticoids - glucose metabolism
+	- ZR - androgens 
+think GFR, deeper you go, the sweeter it gets: salt, sugar, and sex 
