@@ -587,6 +587,40 @@ menkes - due to defective cross-linking of tropocollagen
 - atp7A 
 - can't take copper from enterocytes to liver and other cells = dec copper 
 - kinky brittle hair , epilepsy, tissue abnormalities 
+---
+dev of repro system? 
+weeks 7-8 = diff of mesonephric + paramesonephric ducts begin 
+- both are there at first 
+- in males: MIF <mark style="background: #FFF3A3A6;">mullerian inhibitory factor from sertoli cells</mark> -> degen of paramesonephric ducts -> **appendix testis**
+	- "leydig cells Lead to male diff, Sertoli cells Suppress female diff?"
+	- SEED = mesoneprhic duct = seminal vesicles, epididymis, ejac duct, ductus defs
+- then Leydig cells make T -> <mark style="background: #FFF3A3A6;">differentiation of mesoneprhic duct into male internal genitalia except prostate</mark>
+- in female : default phenotype and absence of MIF means paramesophric ducts turn into female internal genitalia like fallopian tubes, uterus, prox vagina ... and the mesonephric ducts dege into <mark style="background: #FFF3A3A6;">gartner ducts with absence of T</mark>
+wk 12 = ext genitalia 
+wk 20 - phenotypic diff complete 
+wk 33 = descent of gonads 
+embryology 
+genital tubercle -> primordial phallus -> 
+- glans penis, corpus cavernosum, corpus spongiosum 
+- or glans clit, vestibular bulbs 
+cloaca -> urogenital sinus -> precursor of bladder + urethra in both sexes
+- bulbourethral / cowper glands, prostate gland
+- in women: bartholin or greater vestibular glands, skene/urethral+paraurethral glands, distal vagina, vestibule 
+urogenital folds
+- ventral penile shaft + penile urethra
+- labia minora
+labioscrotal swelling
+- scrotum 
+- labia majora 
+
+gonads must migrade caudally from their initial retroperitoneal location thru inguinal ring into scrotum 
+- <mark style="background: #FFF3A3A6;">gubernaculum induces intraabdominal migration = gubernaculum is a band of tissue that then becomes the scrotal ligament in men and the ovarian + round ligament of uterus in women</mark>
+- inc in Intra abd pressure forces them thru inguinal canal 
+- gubernaculum regresses 
+processus vaginalis - evagination of peritoneum accompanying the testis into scrotum before closing -> <mark style="background: #FFF3A3A6;">turns into the tunica vaginalis but is obliterated in the female.</mark>
+- in males - failure to close or patent processus vaginalis = hydrocele or <mark style="background: #FFF3A3A6;">indirect inguinal hernia</mark>
+- if dysfunctional it's testicular torsion as well 
+
 
 
 ![[biosyn of adrenal steroid hormones.png]]
@@ -747,6 +781,27 @@ more about RAAS
 4. AT2 causes <mark style="background: #FFF3A3A6;">vasoconstriction, triggering secretion of aldosterone</mark>
 - too high serum K+ = stimulation of ZG, meaning more secretion of aldosterone 
 - negative feedback: if BP gets too high, <mark style="background: #FFF3A3A6;">ANP is released from atrial myocytes -> **inhibition of renin release** -> vasodilation, natriuresis + up more diuresis!!!</mark>
+- inhibitors of ACE - angiotensin converting enzyme inhibitor: -**pril** , for htn and dm and HFREF, and Hx of MI 
+	- no more converting at1 to at2, so AT2 down!!! 
+	- GFR going down due to <mark style="background: #FFF3A3A6;">dilation of efferent arteriole</mark> -> inc in renin secretion due to this -> AT1 up. 
+	- more bradykinin breakdown -> vasodilation -> BP down 
+		- dry cough , and angioedema 
+		- hyperkalemia too due to RAAS overactivation , and GFR down which means more creatinine = AKI 
+	- this does cause protinuria, so preogression of proteinuric CKD goes down 
+	- teratogen 
+- ARBs - blocking the angiotensin receptors -**sartans** 
+	- 2nd line if ace not tolerated 
+	- <mark style="background: #FFF3A3A6;">notably no bradykinin elevation.</mark>
+	- teratogen
+	- still angioedema's possible 
+- ARNIs - angiotensin receptor-neprilysin inhibitors 
+	- sacubitril / valsartan 
+	- impairs the <mark style="background: #FFF3A3A6;">breakdown of at2, substance P and natriuretic peptides, meaning natiuresis, diuresis. + vasodilation.</mark>
+	- stage C or D HFrEF 
+	- teratogen 
+- direct renin inhibitor = aliskiren - for arterial htn if neither are tolerated 
+	- teratogen 
+
 
 glucocorticoid synthesis!!! 
 from pregnenolone pathway.... 
@@ -797,4 +852,184 @@ chemoreceptors - detect pH changes and resp gases which regulate pH, o2 and co2
 		less sensitive to PO2 lvls, become <mark style="background: #FFF3A3A6;">desensitized in response to chronic hypoxia/hypercapnia like in COPD</mark>
 basically CO2 up , O2 down, and pH down = sympathetic innervation up 
 - this modulates breathing in resp center of medulla 
-- 
+- carotid massage = stimulation of baroreceptors in carotid sinus, to reduce HR by inc the refactory period of AV node... 
+
+central bp regulation - in solitary nucleus of medulla oblongata 
+- gets afferent info from CN IX from carotid sinus + carotid body chemoreceptor and CN X from ao chemo and baroreceptor and atrial vol receptors 
+- sends info via <mark style="background: #FFF3A3A6;">sympathetic cervical chain + sympathetic fibers to vessels and SA + AV node.</mark>
+- parasympathetic information to CN X to AV node and SA node 
+
+myogenic autoregulation - myocytes in arteries + arterioles reacting to bp changes to maintain constant flow in vessels. 
+- in all organs except the lungs 
+- NO 
+	- made in endothelium by no-synthase from arg -> vasodilation , triggered by inc in BP, activation of enodthelial receptors by vasoactive substance binding like serotonin, bradykinin 
+	- and histamine, prostaglandins, thromboxane. 
+heart autoreg
+- adenosine + NO = vasoodilation of coronary arteries for inc blood flw + o2 delivery 
+in lungs
+- <mark style="background: #FFF3A3A6;">hypoventilation -> vasoconstriction </mark> - very unique for this! this is to ensure that perfusion only happens in areas that are well-ventilated. 
+
+---
+inguinal hernias ....
+- indirect - protruding lateral to inferior epigastric vessels thru the deep inguial ring 
+	- has to be into the inguinal canal ... 
+	- most commonly congenital, this is due to processus vaginalis not being obliterated completely or can be acquired. 
+	- surrounded by <mark style="background: #FFF3A3A6;">external spermatic fascia, cremasteric muscle fibers, int  spermatic fascia.</mark>
+- direct - protrudes medial to the inf epigastric vessels thru the defect in posterior wall of inguinal canal 
+	- thru the posterior wall of inguinal canal 
+	- acquired due to transversalis fascia weaknening , common in oldies 
+	- hesselbach triangle: rectus abd muscle, lateral are inf epigastric vessels, inferior are inguinal ligament. 
+	- only surrounded by the external spermatic fascia 
+- femoral hernia - more common in women due to inc intraabdominal pressure or weakened pelvic floor 
+	- thru femoral ring into the canal, below inginal ligament, lateral to pubic tubercle and medial to femoral vein 
+---
+spinal cord
+white matter = bundles of myelin = tracts or fasciculi 
+gray matter - horns . cell bodes, etc. 
+- anterior horn - alpha motor neurons + lower motor neurons = induction of contraction of skeletal muscle. 
+	- medial motor neurons will innervate proximal musculature like <mark style="background: #FFF3A3A6;">trunka nd shoulders</mark>
+	- while lateral motor neurons -> to distal, hands and feet. 
+	- <mark style="background: #FFF3A3A6;">flexors are dorsal and extensors are ventrally located motor neurons</mark>
+- renshaw cells = <mark style="background: #FFF3A3A6;">inhibitory interneurons in anterior horn.</mark>
+	- these secrete glycine and are targeted by clostridium tetani 
+- dorsal horns - 2nd order sensory neurons, spinal reflexes and sensory stimuli transportation 
+- lateral horn - from <mark style="background: #FFF3A3A6;">T1-L2</mark>, inclusion of the Clarke nucleus or the posterior thoracic nucleus 
+	- <mark style="background: #FFF3A3A6;">preganglionic cell bodies of sympathetic neurons</mark>
+	- CLARKE = <mark style="background: #FFF3A3A6;">relays unconscious proprioception like relative movement and position of the body to the cerebellum.</mark>
+- nerve roots = will be exiting the canal via the intervertebral foramina, with cervical above their corresponding vertebra and everything else below. 
+	- anterior roots = <mark style="background: #FFF3A3A6;">motor/efferent fibers controlling muscle</mark>
+	- dorsal roots = sensor fibers 
+- dorsal root ganglia - on every dorsal nerve root; they are pseudo-unipolar. 
+- ventral rami - anterior part of it, innervates the skin + skeletal muscle of specifically anterolateral trunk + limbs ; mixed nerves both sensory + motor 
+- dorsal rami - posterior part of spinal nerve, innervating back skin + dorsal neck, deep back muscles, adn superficial ligamenta flava and others. mixed nerves 
+- <mark style="background: #FFF3A3A6;">cervical = C5-T1</mark> -> brachial plexus of upper limb.... 
+	- large anterior horn, no lateral horn and both dorsal columns present!!! (gracile fasciculus + cuneate fasciculus)
+- thoracic region - T1-12 , no enlargements, and make the <mark style="background: #FFF3A3A6;">intercostal nerves</mark> of thoracic wall, parietal pleura of lungs, abdominal wall, peritoneum 
+- lumbar region - large anterior horn, one dorsal column present  
+- conus medullaris - upper and lower motor neurons, <mark style="background: #FFF3A3A6;">origin of S2-5 spinal nerves, ending in L2 in adults.</mark>
+- cauda equina - L2 - Co1; innervation of lower limb, perineum, pelvic stuff, inc the sphincters, parasympathetic to the bladder too. 
+- filum terminal - thin extension of pia mater. 
+
+spinal tracts 
+conscious sensations... 
+1. spinothalamic tract = 
+	1. pressure anterior 
+	2. protopathic like temp, pain, in the lateral and crude touch which is anterior ![[ascending and descending tracts of the spinal cord.png]]
+	3. sensory nerve fibers A-delta and C fibers = pseudounipolar cell bodies in dorsal root anglia 
+	4. enters SC, ascending or descending segments in the posterolateral tract located at dorsal horn tips 
+	5. synapsing in dorsal horn 
+	6. then ipsilateral SC in substantia gelatinosa or nucleus proprius going above or below 
+	7. then axon decussates in the <mark style="background: #FFF3A3A6;">anterior white commissure and then ascends contralaterally.</mark>
+	8. <mark style="background: #FFF3A3A6;">3rd neuron in the ventral posterolateral nucleus of thalamus -> somatosensory cortex</mark>
+2. dorsal column 
+	1. proprioception, fine touch, vibration, pressure, sensation 
+	2. axon enters SC ascending <mark style="background: #FFF3A3A6;">ipsilaterally</mark>
+		1. gracile fasciculus = sensation from LOWER limbs are more MEDIAL , T6 and below 
+		2. cuneate fasciculus - from upper limbs, T5 and above, is lateral - think it has a "u" in it, so uppr limbs. 
+	3. to <mark style="background: #FFF3A3A6;">ipsilateral medulla oblongata</mark>
+	4. axon decussates to the contralateral side of the <mark style="background: #FFF3A3A6;">medulla, ascending contralaterally in the medial lemniscus</mark>
+	5. to the 3rd neuron in the VPL nucleus of thalamus as well -> somatosensory 
+3. spinocerebellar - proprioception unconscious 
+	1. from dorsla root ganglion 
+	2. ipsilateral posterior horn of spinal root 
+	3. axons from this posterior horn to cerebellum via <mark style="background: #FFF3A3A6;">superior cerebellar peduncles</mark> 
+4. spinoolivary tract - proprioception unconscious
+	1. cell body in dorsal root ganglion -> 
+	2. isilateral posterior horn of SC
+	3. axons from this to the <mark style="background: #FFF3A3A6;">olivary nuclei of medulla</mark>
+---
+descending tracts 
+1. corticospinal tract - part of the pyramidal 
+	1. motor cortex body , precentral gyrus 
+	2. descending ipsilaterally via the <mark style="background: #FFF3A3A6;">internal capsule, and going to either or:</mark>
+	3. mainly lateral corticospinal tract (80%)
+		1. crosses in the <mark style="background: #FFF3A3A6;">caudal medulla, pyramidal decussation</mark>
+		2. descends in SC contralaterally and then cervical = medial, sacral = lateral descending , opposite of the cortex 
+	4. anterior corticospinal tract
+		1. <mark style="background: #FFF3A3A6;">crosses at same lvl of spine as it innervates .</mark>
+	5. anterior horn cells of gray matter anterior column 
+	6. lower motor neurons 
+	7. to teh NMJ
+2. extrapyramidal tracts  = regulate motor neuron actions, involuntary movements like reflexes, muscle tone, msuculature. 
+	1. rubrospinal pathway = red nucleus of midbrain 
+	2. reticulospinal tract= from reticular formation of pons/medulla 
+	3. vestibulospinal tract= from vestibular nuclei 
+	4. tectospinal tract = from the brainstem 
+myostatic stretch reflex 
+- afferent signals via type Ia fibers + type II fibers and the dorsal root ganglion to the spinal cord 
+	- muscle spindles are also innervated by type 2 fibers which transmit info about static muscle legnth, not dynamic length changes
+	- activation of: alpha motor neurons - innervate agonist muscle = mnosynaptic AND inhibitoory interneurons which inhibit the alpha motor neurons of the antag muscle (disynaptic 
+	- this causes the muscle which is stretched to contract 
+- golgi tendon organ inverse myostatic stretch reflex 
+	- in the tendons of skeletal muscle 
+	- afferent signals travel thru the <mark style="background: #FFF3A3A6;">type Ib sensory fibers + dorsal root ganglion to the spinal cord</mark>
+	- activate inhibitory intrneurons that inhbiit the alpha motor neurons of agonist muscle = dysynaptic 
+	- relaxation of the agonist muscle preventing exhaustive tension 
+	- <mark style="background: #FFF3A3A6;">causes muscle relaxation of agonist muscle before tendon dmg occurs. this is the sudden releaxation when weightliter uses very heavy weight</mark>
+
+deep tendon reflexes = ipsilateral, monosynaptic, 
+- afferent: sensory neuron from muscle spindles to spinal cord
+- efferent limb = lower motor neuron, from SC to the NMJ 
+- biceps, brachioradialis = C5-6 
+-  triceps = C7-8 
+- quadriceps; knee reflex = L3-4 
+- gastrocnemius ; ankle reflex/achilles = S1-2 
+- cremaster = L1-2 
+- ext anal sphincter ; anal wink reflex S3-5 
+S1,2 buckle my shoe (ankle), L2-4, kick the door (knee), C5-6, pick up sticks (with biceps and brachioradialis/arms) C7-8, lay them straight (triceps) , L1-2 testicle move, S3-5 winking dive. 
+
+---
+dermatomes.... 
+CNS:
+V1 = opthalmic br of trigeminal, upper face, dorsum of nose + orbit , forehead etc
+V2 = maxillary br, lateral nose, midface 
+V3 = mandibular br, external auditory meatus and preauricular area , lwer lip and chin , TMJ
+C1-4 = cervical plexus, the angle of mandible, 
+ext ear, inframandibular region, and occipital protuberance 
+
+- C2 = posterior 1/2 of skull
+- C3 = upper neck, under mandible 
+- C4 = above clavicle, upper shoulders + trapezius inclusive
+- C5 = below clavicle, lower shoulders and medial biceps 
+- C6 = lteral aspect of forearms and thumbs 
+- C7 =<mark style="background: #FFF3A3A6;"> index + middle fingers, </mark>middle triceps + mid-palm 
+- C8 = medial tricpes and medial palm, including <mark style="background: #FFF3A3A6;">ring and small fingers.</mark>
+- T4 = level of nipples
+- T7 = xiphoid process
+- T10 = umbilicus 
+	- referred pain from appendix via greater splanchnic nerve here 
+	- also from the midgut or whatever supplied by the SMA 
+- L1 = inguinal ligament 
+	- referred pain from the hindgut into the hypogastrium and groin 
+- L4 = patella + large toe 
+- L5 = dorsal <mark style="background: #FFF3A3A6;">web space bt first and 2nd toes</mark>
+- S2-4 penile and anal regions 
+![[dermatomes of lower limb.jpeg]]
+![[dermatomes of upper limb.jpeg]]
+![[dermatomes on back.png]]
+
+**referred pain** 
+C3-5 = diaphragm via phrenic n = > <mark style="background: #FFF3A3A6;">shoulder</mark>
+T10 = appendix via the greater splanchnic nerve => <mark style="background: #FFF3A3A6;">umbilical region</mark>
+T1-4 = heart , to the upper thorax <mark style="background: #FFF3A3A6;">and left arm</mark>
+T5-9 = foregut (organs supplied by the celiac trunk), refer pain to the lower thorax + epigastrum 
+T10-12 = midgut supplied by the superior mesenteric artery = umbilical region 
+L1-2 = hindgut = supplied by the inf mesenteric artery = refer to the hypogastrium + groin 
+
+embrology of SC
+- neurulation = 3rd week , neural plate folds at midline to fuse and make the neural tube 
+- notochord - induces overlying ectoderm -> neuroectoderm, making the neural plate on day 18 .... (derivative of the nucleus pulposus of intervrtebral disc)
+- neural plate on the dorsal portion of trilaminar germ disk would then make neural tube 
+- neural folds grow dorsally to the midline, fusing to make it , -> derivative of NCCs
+- NCCs will transition from epithelial to mesenchymal -> dorsal rooot ganglia, autonomic ganglia, schwann cells, adrenal medulla 
+- Neural tube = 2 plates
+	- <mark style="background: #FFF3A3A6;">alar = dorsal , regulated by TGF-b family proteins bone morphogenetic protein, and BASAL / ventral regulated by sonic hedgehog protein</mark>
+		- TGF-beta - immune cell , and growth factors which induce formation of bone + cartilage = ALAR = <mark style="background: #FFF3A3A6;">sensory neurons</mark>
+		- sonic hedgehog - maintaining limb polarity in the embryo ; and <mark style="background: #FFF3A3A6;">basal plate gives rise to motor neurons</mark>
+
+central cord syndrome - lesion near central canal of SC, with hyperextension of neck, syringomyelia and other tumors
+- selective dmg = motor weakness, loss pain, temp sensation in upper limbs and trunk 
+- anterior cord syndrome - anterior 2/3 usually ASC occlusion, complete bilateral paralysis + loss of pain and temp below the lesion, with spaired vib/proprioception due to spared dorsal column. 
+- posterior cord syndrome - loss proprioception, vib sensation + touch discrimination. also caused by B12 deficiency 
+- brown-sequard syndrome - hemisection of SC, half gone. ipsilateral loss prooprioception, tactile discrimination + vibration and ipsilateral flaccid paralysis + <mark style="background: #FFF3A3A6;">contralateral loss of pain + temp</mark>
+- syringomyelia - fluid filled cavity in the central canal of the SC, result of bad CSF drainage from central canal most likely caused by chiari malform or previous trauma 
