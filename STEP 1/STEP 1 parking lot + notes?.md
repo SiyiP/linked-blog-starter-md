@@ -223,7 +223,8 @@ vitamin K = cofactor, <mark style="background: #FFF3A3A6;">gamma carobxylation o
 
 alteplase = conversion plasminogen to plasmin... which will break down clots 
 - for thrombolysis in pts with acute ischemic stroke and ST-elevation MIs. 
-- this is <mark style="background: #FFF3A3A6;">iv recombinant tissue plasminog</mark>
+- this is <mark style="background: #FFF3A3A6;">iv recombinant tissue plasminogen activator, tPA.</mark>
+- aspirin 24-48 symptom onset bc it's to prevent it, it's antiplatelet therapy 
 
 paradoxical embolism - venous thromboembolism like due to DVT esp, in patients with a R-> L cardiac shunt like in ASD or persistent foramen ovale -> paradoxical embolism goes to the head passing from RA -> LA-> cerebral arterial system 
 - from leg-> IVC -> RA -> ASD -> LA-> LV-> aorta !!!! 
@@ -242,6 +243,31 @@ watershed infarc
 - border zone infarc in region bt 2 major arteries, sudden <mark style="background: #FFF3A3A6;">decrease in bp or flow cessation = ischemia in susceptible region.</mark>
 - pca-mca region = bilateral visual loss
 - aca - mca = proximal limb weakness with facial sparing, hands, and feed = man in the barrel syndrome. 
+
+stroke vessels
+- MCA = contralateral weakness + sensory loss in upper limbs and lower 1/2 of face more than lower limbs
+- <mark style="background: #FFF3A3A6;">gaze deviates to side of infarc, and contralat homonymous hemianopia withtout macular sparing</mark>
+- aphasia - brocas if it's to inferor frontal gyrus 
+- and wernikes if it's in lesion to the superor temporal gyrus, supplied by the inf division  of the MCA 
+ACA - contralateral weakness and sensory loss in lower limbs more marked... abula - mutism and urinary ncontenince mostly 
+PCA 
+- contralateral homonymous hemianopa wth macular sparing due to occipital lobe involvement 
+- contralat sensory loss due to lateral thalamc involvement 
+PICA = lateral medullary syndrome/wallenberg 
+AICA = lateral pontine syndrome 
+basilar artery = consciousness preserved, vertgo, drop attacks, tinnitus , lateral pontine syndrome and locked in syndrome too if it's both 
+extracranial arteries
+- int carotid artery - ipsilateral amaurosis fugax - binocular loss of vision 
+- common carotid artery = horner syndrome = neurologic disorder that causes triad miosis, partial ptosis and facial anhidrosis ; caused by sympathetic nervous supply stellate ganglion 
+- vertebral a - 
+	- lateral medullary syndrome - wallernberg syndrome -collection of this relted to lateral medullary ischemia; ataxia, vertigo, nystagmus, dysphagia, dysphonia, ipsilateral horner syndrome 
+	- medial medullary syndrome - oclusion of the paramedian brs.... the medial part of medulla - contralateral hemiparesis triad with contralateral loss proprioception, fine touch, and vibration sensations, ipsilateral hypoglossal nerve palsy 
+- anterior spinal artery - medial medullary syndrome 
+- dorsal midbrain syndrome - compression results in this , or occlusions in brs of the posterior cerebral artery 
+	- the tectal plate(structure located posterior to the cerebral aqueduct that makes roof of midbrain , has superior and inferior colliculi) and medial longitudinal fasciculus - 
+	- vertical gaze palsy, eyelid retraction, pupillary light near dissociation, convergence-refraction nystagmus 
+
+lateral pontine syndrome 
 
 questioning SUD 
 • C: Have you ever driven a car while high or ridden in a car with someone who was high?  
@@ -1533,3 +1559,4 @@ lateral plate mesoderm - lateral to intermediate mesoderm,
 - somatic mesoderm = dorsal layer , underlying ectoderm, makig the lining of <mark style="background: #FFF3A3A6;">pleural, pericardial, peritoneal cavities.</mark>
 - visceral mesoderm/splanchnic mesoderm = ventral part that overlies endoderm, making visceral lining of int organs 
 - space in between = coelom 
+
