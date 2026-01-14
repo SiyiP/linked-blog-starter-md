@@ -223,9 +223,25 @@ vitamin K = cofactor, <mark style="background: #FFF3A3A6;">gamma carobxylation o
 
 alteplase = conversion plasminogen to plasmin... which will break down clots 
 - for thrombolysis in pts with acute ischemic stroke and ST-elevation MIs. 
+- this is <mark style="background: #FFF3A3A6;">iv recombinant tissue plasminog</mark>
+
+paradoxical embolism - venous thromboembolism like due to DVT esp, in patients with a R-> L cardiac shunt like in ASD or persistent foramen ovale -> paradoxical embolism goes to the head passing from RA -> LA-> cerebral arterial system 
+- from leg-> IVC -> RA -> ASD -> LA-> LV-> aorta !!!! 
 
 fresh frozen plasma - which contains all coagulation factors, can be used in managing major bleeding after warfarin use.... 
 - <mark style="background: #FFF3A3A6;">this is not given to her bc it's teratogenic. and this is not used to reverse this heparin toxicity bc FFP also has antithrombin... alr activted in the presence heparin and inhibit activity of other coag factors.</mark>
+
+lacunar infarc - nnocrtical infarcs, absence of signs. 
+- chronic htn vasculopathy -> lipohyalinosis of Small vessels-> <mark style="background: #FFF3A3A6;">occlusion of small penetrating arteries like lenticulostriate artery, and then lacunar stroke</mark>
+- htn 
+- internal capsule, pons, basal ganglia 
+- acute transient focal neuro symptoms that often have a stuttering course 
+- pale infarc at periphery of cortex is seen 
+
+watershed infarc
+- border zone infarc in region bt 2 major arteries, sudden <mark style="background: #FFF3A3A6;">decrease in bp or flow cessation = ischemia in susceptible region.</mark>
+- pca-mca region = bilateral visual loss
+- aca - mca = proximal limb weakness with facial sparing, hands, and feed = man in the barrel syndrome. 
 
 questioning SUD 
 • C: Have you ever driven a car while high or ridden in a car with someone who was high?  
@@ -1418,6 +1434,11 @@ days 6-14
 - and the -> cytotrophoblast, making the chorionic cavity which surrounds the embryoblast inner layer 
 	- this will be inner layer of <mark style="background: #FFF3A3A6;">chorionic villi, mitotically active.</mark>
 	- <mark style="background: #FFF3A3A6;">cytos = making cells, syn = synthesize hormones</mark>c
+	- chorionic cavity happens when you have the trophoblast growing faster, and making a gap bt it and the amniotic cavity which is then lined by **extraembryonic mesoderm.... which them splits into the <mark style="background: #FFF3A3A6;">somatopleuric and splanchnopleuric mesoderm staying connected at connecting stalk</mark>
+		- connecting stalk = becomes umbilical cord 
+		- <mark style="background: #FFF3A3A6;">somatopleuric mesoderm = lines trophoblast</mark>
+		- splanchnoopleuric or visceral mesoderm - surrounds the amniotic cavity + yolk sac with intermediate embryonic disk 
+		- space bt the somatopleuric and splanchnopleuric layers = extraembryonic coelom, chorionic cavity lined by the chorion 
 - embryonic disk becomes bilaminar -> epiblast and hypoblast
 	- epiblast =  form amniotic cavity  which later makes hte embryo... 
 	- hypoblast = yolk sac, lining of chorionic cavity 
@@ -1425,9 +1446,50 @@ days 6-14
 	- epiblast and hypoblast fusing -> prechordal plate -> mouth!!! 
 wks 3-4 
 - gastrulation = <mark style="background: #FFF3A3A6;">epiblast cells -> primitive streak on that -> trilaminar disc of</mark> endoderm, mesoderm, ectoderm
+	- primitive streak - elongated epiblasts accumulation 
+	- mesoderm development of intraembryonic mesoderm. epiblasts will detach from below the primitive streak, and then make a primitive pit, which the mesoderm cells migrate thru. eventually they proliferate between the layers of epiblast + hypoblast 
+	- endoderm dev - epiblast migrate from streak and the primitive node to the hypoblast layer... hypoblast cells invaded by epiblast cells making an endoderm. 
 - notogenesis -> axial mesoderm -> notochord -> induces neural plate dev from the ectoderm layer 
+	- notochord will degenerate leaving the nucleus pulposi in the intervertebral discs 
 - neurulation - ectoderm -> neural plate -> neural tube with pores , neural crest (which closes by wk 4 ending)
+	- anterior neuropore = closes day 24-25
+	- posterior neuropore - closes on days 26-27 
+	- (Cranial bones, Adrenal medulla, Leptomeninges, Melanocytes, Enterochromaffin cells, Tracheal [cartilage](https://next.amboss.com/us/article/7o04WS#Zde961151d845714430b6e0600d08840e), PNS [ganglia](https://next.amboss.com/us/article/560ilS#Z6294d6fa1c5c81f5f7a565e8cb39567c), Odontoblasts, Spiral membrane, and Endocardial cushions): Embryos have CALMEST POSE.
 - branchial apparatus -> pharyngeal arches, pouches, and grooves. 
+	- these are composed of mesodermal + NCCs bound by ectodermal cleft externally and internally by an endodermal pouch 
+	- groove = ectoderm
+	- pharyngeal arch = central mesenchymal core, having nerve, artery, cartilage. from ncc and mesoderm 
+	- pharyngeal pouch = **endodermal** orgin 
+
+	- First arch = mandibular arch, CNV3 innervates this 
+		- **maxillary artery** = remnant of obliterated first arch  
+		- muscles of masstication, mylohyoid muscle, digastrc , tensor tympani m, tensor veli palatini m, anterior 2/3 of tongue 
+		- mandibular prominence with meckel cartilage, mandible, maxillary prominence like maxilla, zygomatic bones, malleus + incus, sphenomandibular ligament 
+	- first POUCH = <mark style="background: #FFF3A3A6;">eustachian tube, tympanic cavity, mastoid air cells</mark>
+	- first GROOVE = develops into external auditory meatus, auditory canal, and ext aspect of tympanic membrane 
+	- 2nd arch - hyoid arch - CN 7 , muscles of facial expression, digastric posterior, stylohyoid muscle, stapedius muscle, platysma, posterior 1/3 of tongue 
+		- <mark style="background: #FFF3A3A6;">hyoid artery, stapedial artery too</mark>
+		- stapes, styloid process, stylohyoid ligament, hyoid bones 
+		- <mark style="background: #FFF3A3A6;">this arch will develop faster than the others, overlapping and merging with the 3rd and 4th arches... formation of the cervical **sinus**</mark>
+		- but this sinus is later obliterated by again the 2nd arch mesenchyme. <mark style="background: #FFF3A3A6;">falure of this to close = lateal cervical fistula formation, anterior to SCM muscles (swelling doesnt move with swallowing unlike a thyroglossal duct cyst)</mark>
+	- 2nd POUCH = **epithelial crypts of palatine tonsils, supratonsillar fossa**. 
+	- 3rd arch - 
+		- CN IX, **common** <mark style="background: #FFF3A3A6;">carotid artery, stylopharyngeus muscle, and posterior one third of tongue </mark>
+		- also hyoid bonds - greater horn + body 
+	- 3rd POUCH -<mark style="background: #FFF3A3A6;"> dorsal wings into inferior parathyroid</mark> glands, and <mark style="background: #FFF3A3A6;">ventral wings are thymus </mark>
+		- this inferior parathyroid glands arise cranially but migrate caudally 
+	- 4th arch 
+		- CN <mark style="background: #FFF3A3A6;">X, superior laryngeal nerve, and left = arotic arch, right = subclavian artery...</mark>
+		- mid+inf pharyngeal constrictors, cricothyroid muscle , palatopharyngeus, levator veli palatini, and posterior 1/3 of tongue 
+		- upper thyroid cartilag 
+	- 4th POUCH - dorsal wings (superior <mark style="background: #FFF3A3A6;">parathyroid glands</mark>) and ventral wings, <mark style="background: #FFF3A3A6;">ultimobranchial body , parafollicular C cells of the thyroid</mark>
+		- c cells = calcitonin secreting clls in between thyroid follicles 
+		- these parathyroid glands will arise more caudal but migrate cranially , eventually becoming super, the superior poles of thyroid gland
+	- 6th arch 
+		- CN X, <mark style="background: #FFF3A3A6;">recurrent laryngeal n</mark>
+		- int larynx muscles other than cricothyroid, lower pt of thyroid cartilage, arytenoid cartilage, corniculate cartilage, and cuneiform cartilage 
+		- <mark style="background: #FFF3A3A6;">right pulmonary artery and LEFT pulmonary artery + ductus arteriosus</mark>
+	- grooves 2-4 are obliterated in utero by rapid growth of the 2nd pharyngeal arch. 
 - aortic arches 
 - development of limb buds 
 - first heartbeat at wk 4 
@@ -1440,3 +1502,34 @@ wk 8 - <mark style="background: #FFF3A3A6;">organogenesis completely by here.</m
 wk 9-12 
 - fetogenesis - maturation and growth 
 - genetalia are sex determined by wk 12 
+
+lateral folding happens = endoderm and overlying lateral plate mesoderm on both sides converging -> gut tube formation 
+- midgut stays connected to yolk sac remnants via vitelline duct / omphalomesenteric duct (later obliterated....)
+- this if persists is the meckel diverticulum 
+
+buccopharyngeal and cloacal membrane formation 
+- buccopharyngeal membrane - region without mesoderm at cranial embryonic pole - like a prechordal plate... 
+- as a mesodermal plate - it supplies cells for the development of the head 
+
+disruption - breakdown of previously normal structure or tissue; 
+- amniotic band syndrome where entrapment of fetal parts in fibrous amniotic bands happen 
+deformation - interruption of normal dev due to extrinsic form like large leimyomas , occuring <mark style="background: #FFF3A3A6;">after week 8!!!</mark>
+malformation - bad since the start, bt wk 3-8 
+- like AV malformation - high flow connection bt a + vs 
+field defect - development of malformations in a specific contiguous area - holoprosencephaly - failure of the anterior portion of embryonic brain or prosencephalon = developping into 2 central hemispheres. association with patau syndrome/trisomy 13 
+
+axial mesoderm - central region , making of notochord + prechordal mesoderm ,, directly cranial to the mesoderm 
+paraxial mesoderm - tube shaped area of mesoderm surrounding the notochord, made up of <mark style="background: #FFF3A3A6;">somites, of segmented round cell clusters along the neural tube in week 4....</mark>
+	these somites determine body segmentation after degenerating and forming pairs. 
+	- sclerotome - medial migration of cells to the notochord and fusion of both sclerotomes of somite pair 
+	- dermomyotome 
+		- dermatome - migration towards surface ectoderm
+		- myotome - subdivision into dorsal and ventral skeletal muscles 
+
+intermediate mesoderm - lateral to paraxial ones -> urogenital fold, nephrogenic and genital ridge 
+lateral plate mesoderm - lateral to intermediate mesoderm, 
+- folds will develop week 2 
+- and then we see folds split horizontally: 
+- somatic mesoderm = dorsal layer , underlying ectoderm, makig the lining of <mark style="background: #FFF3A3A6;">pleural, pericardial, peritoneal cavities.</mark>
+- visceral mesoderm/splanchnic mesoderm = ventral part that overlies endoderm, making visceral lining of int organs 
+- space in between = coelom 
