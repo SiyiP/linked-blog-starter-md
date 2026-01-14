@@ -4,11 +4,13 @@ session 1
 https://next.amboss.com/us/article/uS0pYf#m0aVgQ = long qt syndrome 
 fam hx sudden death + syncope with exercise + long qtc on ecg = 
 1. long qt syndrome! no indication of electrolytes 
-2. congenital long qt syndrome = [Romano-Ward syndrome](https://next.amboss.com/us/article/uS0pYf#Z312565f6d43d0ed1268a466e00d40604) and Jervell and Lange-Nielson syndrome;
+2. congenital long qt syndrome = [Romano-Ward syndrome](https://next.amboss.com/us/article/uS0pYf#Z312565f6d43d0ed1268a466e00d40604) and Jervell and Lange-Nielson syndrome; most common, <mark style="background: #FFF3A3A6;">loss of function on KCNQ1 gene on chromosome 11p</mark> = defective slow delayed rectifier v-gated K+ channel -> affected repolarization phase 
 	1. romano ward syndrome 
 		1. more AD, more commno but unlikely in a patient with unaffected parents 
-	2. lange nielson syndrome = sensorineural deafness , AR, and more likely bc the patient has affected grandparent
+	2. jervell and lange nielson syndrome = sensorineural deafness , **AR**, and more likely bc the patient has affected grandparent
 		1. mutation in outward rectifying K+ channels which are meant to repolarize cardiac myocytes and neurons of the inner ear 
+		2. <mark style="background: #FFF3A3A6;">congenital deafness</mark>
+	3. treat - beta blockers propranolol first line and then give ICD or defib at other high risk patients. 
 
 down syndrome 
 - oblique palpebral fissures = opening of upper+lower eyelid 
@@ -34,10 +36,18 @@ turners
 
 hocm - subvalvular ventricular outflow obstruction murmur = systolic that inc in intensity iwth maneuvers which dcrease venous return like standing up or active phase valsalva. 
 
+postural tremors: 
+physiologic tremors - bilateral , from sympathetic stimulation via stress or caffeine etc , and activates with certain postures. 
 essential tremor = Isolated bilateral postural tremor of the upper limbs in the absence of other neurological signs (e.g., dystonia, ataxia, or parkinsonism)
 - worsens with vol movements , improves with alc consumption 
 - give hyperthryoidism drug .... propranolol - manage this as <mark style="background: #FFF3A3A6;">nonselective bb, reduces sympathetic effects of hyperthyroidism + inhibits T4 to more active T3 in periphery.</mark>
 - good for htn management + afib + migraine prophylaxis 
+resting tremor - unilateral initially, lke pill rolling, <mark style="background: #FFF3A3A6;">parkinson disease dysfunctin of the basal ganglia esp substantia nigra</mark>, imrpove by **voluntary movement....**
+intention tremors - most common in upper limbs
+- slow zigzag movement with inc amplitude towards a target
+- <mark style="background: #FFF3A3A6;">cerebellar lesion - strok</mark>e, trauma, MS , or substance induced 
+- activates with any movements 
+- imrpovoed by rest 
 
 motion sickness meds = antihistamines - sedatives , diphenhydramine + meclizine = first gen 
 
@@ -486,7 +496,51 @@ acute disseminated encephalomyelitis - ADEM
 - treat - corticosteroids, igG therapy, and acyclovir empirically 
 
 
-brain tumors 
+**brain tumors** 
+
+cell type 
+1. gliomas = astrocytomas + oligodendrogliomas 
+	1. astrocytomas - are gliomas or neuroepithelial cells from astrocytes.
+	2. pilocytic astrocytoma - <mark style="background: #FFF3A3A6;">slow grow, localized, NF 1 , in kids + YA and in cerebellum mostly and is cerebral hemispheres. favorable long survival.</mark>, most common peds tumor benign 
+		1. ![[rosenthal fibers of pilocytic astrocytoma.png]]
+		2. rosenthal fibers = eosinophilic fibers with corkskrews
+	3. optic glioma - NF 1 and also slow growing and low grade , typically grade  pilocytic astorocytoma 
+	4. glioblastoma multiforme - GBM = <mark style="background: #FFF3A3A6;">malignant</mark> tumor rapid growht, abrupt onset of symptoms + death in weaks ... in older and most common malignant primary brain tumor. 
+		1. garland-like, enhanced margins with hypointense necrotic core. 
+		2. dense, pleomorphic anaplastic cells that <mark style="background: #FFF3A3A6;">pseudopalisade due to central necrosis / hemorrhage.... ****GFAP**** positive!!!! microovascular prolif</mark>
+		3. ![[gbm pseudopalisading necrosis.png]]
+		 TREAT: with temozolomide 
+		4. in <mark style="background: #FFF3A3A6;">cerebral white matter + butterfly glioma if bilateral</mark> aka crossing the corpus callosum 
+2. choroid plexus tumors like papilloma + carcinoma 
+3. neuronal + mixed neuro-glial tumors - paraganglioma, central neurocytoma 
+4. meningiomas  = arachnoid cap cells
+	1. extra-parenchymal tumor in the supratentorial or infratentorial regions
+	2. spingle cells are in whorls
+	3. <mark style="background: #FFF3A3A6;">psammoma bodies</mark>
+	4. ![[psammoma bodies of meningiomas.png]]
+5. embryonal neuroectoodermal tumors - medulloblastoma, CNS neuroblastoma
+6. pituitary - adenoma, craniopharyngioma 
+7. pineal gland tumor = male more often, 
+	1. dorsal midbain compression 
+	2. tectum compression (structure posterior to cerebral aqueduct making roof of midbrain, containing superior + inf colliculi) = vertical gaze palsy 
+	3. cerebral aqueduct compression = noncommunicating hydrocephalus 
+	4. compressing hypothalamic inhibiting pathways = inc hCG, precocious puberty 
+8. tumors of cranial and paraspinal nerve like schwannoma, neuroma, neurofibroma 
+	1. schwannoma - schwann cells
+	2. cerebellopontine angles (infratentorial)
+	3. spindle cells in palisades alternating with myxoid areas...
+	4. <mark style="background: #FFF3A3A6;">S-100 positive?</mark>
+9. mesenchymal nonmeningeothelial tumors = hemangiomas, hemangioblastoma, lipoma, hamartoma 
+	1. hemangioblastomas - benign and <mark style="background: #FFF3A3A6;">highly vascular</mark>
+		1. mainly in old ppl this is in <mark style="background: #FFF3A3A6;">von hippel-lindau disease</mark>
+		2. **<mark style="background: #FFF3A3A6;">cerebellum</mark>** mostly + then compression of 4th ventricle = non communicating hydrocephalus 
+		3. erythropoietin prod of tumor cells = <mark style="background: #FFF3A3A6;">polycythemia</mark>
+		4. cytic mass ith non enhancing wall + enhancing mural nodule 
+		5. highly densly packed 
+		6. <mark style="background: #FFF3A3A6;">thin walled capillary vessels, packed with scarce parenchyma</mark>
+10. germ cell tumors = teratomas
+11. primary central NS lymphoma = PCNSL 
+
 VHL = von hippel lindau dz 
 hemangioblastomas = highly vascularized infratentorial brain tumors, <mark style="background: #FFF3A3A6;">manifestation of von hippel lou disease.</mark>
 - inc intracranial pressure (headache, vomitting, blurred vision, papilledema)
@@ -495,24 +549,33 @@ hemangioblastomas = highly vascularized infratentorial brain tumors, <mark style
 - in early adulthood, happns in spine, cerebellum, retina 
 - <mark style="background: #FFF3A3A6;">renal cell carcinomas, pheochromocytomas + pancreatic cysts</mark>
 
-medulloblastomas - 
-- infratentorial region 
+medulloblastomas - very malignant from neuroectodermal tissue 
+- infratentorial region ; cerebellum, cerebellar defects. many are in the vermis -> truncal ataxia 
 - inc icp symptoms too 
-- first decade of life 
+- first decade of life ; young ; <mark style="background: #FFF3A3A6;">most common malignnat peds primary brain tumor</mark>
 - homer-wright rosettes! 
-- <mark style="background: #FFF3A3A6;">association turcot's syndrome</mark>
+- <mark style="background: #FFF3A3A6;">we see small round blue cells!!!</mark>
+- <mark style="background: #FFF3A3A6;">synaptophysin positive</mark>
+- ![[homer wright rosettes.png]]
+- <mark style="background: #FFF3A3A6;">association turcot's syndrome</mark> - syndrome where combination of many primary brain tumors + colorectal cancers 
 
-pilocytic astrocytomas 
+pilocytic astrocytomas - check below 
 - infratentorial region 
 - icp 
 - younger than 20  yo
-- rosenthal fbers + poz staining for glial fibrillary acidic protein !!!
+- **rosenthal** fbers + poz staining for glial fibrillary acidic protein !!!
 - <mark style="background: #FFF3A3A6;">neurofibromatosis type 1</mark>
 
-craniopharyngiomas - headache + vomitting
+craniopharyngiomas - headache + vomitting= **good prognosis!** but high recurrence 
 - in supratentorial region 
 - <mark style="background: #FFF3A3A6;">bitemporal hemianopsia, hyperprolactinemia, hypopituitarism...</mark>
 - histo - see metaplastic squamous cells or reticular epithelial cells, cysts, keratin nodules 
+- tumor from the <mark style="background: #FFF3A3A6;">remnant o the rathke pouch, benign!!!</mark>
+- <mark style="background: #FFF3A3A6;">bimodal distribution, 5-14 yrs and then at 50-75</mark>
+- compressin the pituitary gland due to intrasellar extension = hypopituitarism 
+- compressing the hypothalamic nucleus = think hyperphagia and obesity, and the stalk compression is hyperprolactinemia 
+- compressing the optic chiasm = bitemporal hemianopsia 
+- we see <mark style="background: #FFF3A3A6;">suprasellar calcified cyst!!!! and cholesterol crystals found too</mark>
 
 glioblastomas 
 - icp symptoms, 
@@ -520,22 +583,23 @@ glioblastomas
 - seizures, focal deficits, personality changes too 
 - median onset of 65-75 yo
 - pleomorphic anaplastic cells that form <mark style="background: #FFF3A3A6;">pseudopalisades</mark> and poz staining for glial fibrillary acidic protein 
+- but the 
 
-oligodendroglioma 
+oligodendroglioma - a type of glioma 
 - presenting with headache + vom
-- in cerebral hemispheres/supratentorial 
+- in cerebral hemispheres/supratentorial ; <mark style="background: #FFF3A3A6;">in the frontal lobes thoo...</mark>
 - seizures, foocal neuro deficits + personality changes are common 
 - <mark style="background: #FFF3A3A6;">fried egg cells + chicken wire capillary anastomoses</mark>
 - and also 40-50 yo median 
-
+- ![[fried egg oligodendroglioma.png]]
 ependymomoas
 - infratentorial region, icp symptoms 
+- from ependymal cells of the venticles...
 - but no retinal vascular changes 
-- tumor in early childhood 
+<mark style="background: #FFF3A3A6;">- tumor in early childhood + KIDS </mark>
 - <mark style="background: #FFF3A3A6;">perivascular pseudorosettes + rod shaped blepharoplasts.</mark>
 - <mark style="background: #FFF3A3A6;">NF type 2</mark>
-
-
+- ![[ependymoma - pseudorosettes and rosettes.png]]
 - - **  
         C-ANCA:** Strongly associated with Granulomatosis with Polyangiitis (GPA) (Wegener's). 
     
@@ -1033,3 +1097,43 @@ central cord syndrome - lesion near central canal of SC, with hyperextension of 
 - posterior cord syndrome - loss proprioception, vib sensation + touch discrimination. also caused by B12 deficiency 
 - brown-sequard syndrome - hemisection of SC, half gone. ipsilateral loss prooprioception, tactile discrimination + vibration and ipsilateral flaccid paralysis + <mark style="background: #FFF3A3A6;">contralateral loss of pain + temp</mark>
 - syringomyelia - fluid filled cavity in the central canal of the SC, result of bad CSF drainage from central canal most likely caused by chiari malform or previous trauma 
+- myelopathy - injury to SC cuases this, extrinsic compression of either this or the cauda equina. 
+- subacute combined degen of SC - progressive and <mark style="background: #FFF3A3A6;">symmetric demyelinating disease</mark>, B12 deficiency most likely, spasticity, ataxia, dec proprioception + vib sensation 
+- cauda equina syndrome - involving compression of2+ of L2-S5 nerve roots - bowel dysfunction, etc. 
+- conus medullaris syndrome - dmg to T12-L2, sudden onset lower back pain, symmetrical and hyperreflexic distal paresis of lower limbs, perianal numbness and incontinenc 
+- spina bifida - failure of neural tube to close
+- tabes dorsalis - degen of dorsal columns caused by <mark style="background: #FFF3A3A6;">tertiary syphillis. dysthesias, gait ataxia, prog loss of proprioception</mark>
+- hereditary spastic paraplegia - corticospinal tract + dorsal column is mipacted 
+- spinal muscular atrophy - SMA - progessive apoptosis of lower motor neurons 
+
+---
+hypersensitivity reactions 
+type 1 
+- food pollen allergies, asthma, anaphylaxis and immediate 
+- needs a sensitization then an effect. 
+- <mark style="background: #FFF3A3A6;">preformed IgE antibodies coating mast cells and basophils are crosslinked with contact with antigen -> degranulation -> hiistamine release etc.</mark>
+- drug rxns and food allergies and insect venom allergies too 
+- crosslinking then degranulation immediately 
+type 2 - many classic autoimmune diseases 
+- autoimmune hemolytic anemia, goodpasture, cytotoxic, with tissue-specific antibodies causng cell destruction 
+- <mark style="background: #FFF3A3A6;">IgM and or IgG antibodies bind to antigens on cells of some tissue types, and complement system activation + lysis or phagocytosis of cells... this is antibody dependent -> natural killer cells</mark>
+- acute hemolytic transfusion rxn 
+- hemolytic dz of the fetus and newborn 
+- ITP 
+- rheumatic fever 
+- hyperacute transplant rejection 
+- graves dz, bullous pemphigold, pemphigus vulgaris, myasthenia gravis 
+type 3 - many glomerulonephritides and vasculitides 
+- many vasculitides and glomerulonephritides are immune complex mediated, tissue dmg caused by antigen antibody complex depo 
+- <mark style="background: #FFF3A3A6;">IgG antibodies bind to circulating antigens + immune comoplex formation and deposition in some tissues. deposits in tissues which activate the complement system, attracting NEUTrOPhILs</mark>
+- serum sickness , arthus rxn, drug induced vasculitis, pneumonitis , polyarteritis nodosa, poststreptococcal glomerulonephritis , SLE 
+type 4 
+- TB skin tests, contact derm 
+- deelayed and cell mediated, only one which involves sensitized T lymphocytes rather than antibodies. 
+- contaact of antigens with <mark style="background: #FFF3A3A6;">presensitized t lympocytes, like </mark>
+- CD4 T cells recognize antigens on apcs -> release nflammatoy cytokines -> activate macrophages 
+- CD8+ T cell presensitized-recognize antigens oon somatic cells -> cell-mediated cytotoxicity 
+- <mark style="background: #FFF3A3A6;">transplant rejections, graft v host dz, candida skin test, SJS , and hashimotos thyroiditis, too </mark>
+- also autoantibodies present 
+
+pseudoallergies = mast cell activation + histamine release. 
