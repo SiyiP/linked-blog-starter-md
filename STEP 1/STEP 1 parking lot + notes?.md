@@ -163,10 +163,23 @@ primary hyperparathyroidism - parathyroid hrmone
 - causes 
 - <mark style="background: #FFF3A3A6;">hyperca, neprholithiasis, bone/joint pain, lack of appetite, n/ constipation</mark>
 
-gastrinoma - pacreatic/duodenal tumor, seen in MEN1 syndrome 
-also see prolactinoma in MEN1 as well 
+multiple endocrine neoplasia  = 3 AD syndromes due to hromones 
 
-MEN 2A 
+gastrinoma - pacreatic/duodenal tumor, seen in **MEN1** syndrome 
+also see prolactinoma in MEN1 as well 
+- primary <mark style="background: #FFF3A3A6;">hyperparathyroidism....</mark>
+- insulinoma 
+- vipoma  = this is glucose going up, diarrhea, and MEN1 ... making vasoactive intestinal peptide due to pancreatic tumor 
+- pituitary adenomas... most common prolactinoma
+- angiofibromas, collagenoomas, meningiomas 
+- 
+MEN 2 in general 
+- altered expression of the <mark style="background: #FFF3A3A6;">RET proto-oncogene -> more tyrosine kinase activity</mark>
+- medullary thyroid carcinomas
+- pheochromocytomas 
+
+MEN 2A - primary hyperparathyroidism 
+MEN 2B = <mark style="background: #FFF3A3A6;">mutiple neurinomas, mucosal neuromas, intestinal ganglioneuromatosis and marfanoid!!!!</mark>
 
 conn syndrome - inc aldosterone to renin ratio = primary hyperaldosteronism. 
 - <mark style="background: #FFF3A3A6;">constantly elevated bp, fatigue, muscle cramps, due to hypokalemia.</mark>
@@ -174,8 +187,18 @@ conn syndrome - inc aldosterone to renin ratio = primary hyperaldosteronism.
 cushing syndrome
 - midnight salivary cortisol - 
 
+carcinoid syndrome - intermittent secretion of serotonin and other vasoactive substance by neuroendocrine neoplasms 
+- paraneoplastic condition of sstemic circulation and making of many hormones made by NENs = neuroendocrine neoplasms 
+- most prom = serotonin = see gut peristalsis and intestinal fluid secretion leading to secretory diarrhea, and then carcionoid heart disease with fibroblasts and fibrogenesis 
+- and niacin def due to inc serotonin metabolism 
 urine 5-HT = like seen with metabolites of serotonin indicate carcinoid tumors = <mark style="background: #FFF3A3A6;">neuroendocrine cancer in the GI tract, leading to carcinoid syndrome if metastasizes to liver.</mark>
 - watery diarrhea, cutaneous flushing + sweating 
+- flushing - triggered by alc, phys exertion + tyramine foods
+- abd pain due to mass effect
+- dyspnea/wheezing 
+- cardiac fibrosis via endocardial fibrosis to the right heart, tricuspid insuff , right side hf 
+- TREAT: with somatostatin analogues like octreotide!!! 
+- telotristat = tryptophan hydroxylaste nhibitor 
 
 MEN2A and 2B = pheochromocytoma - inc catecholamine metabolites like metanephrites in urine or serum. 
 
@@ -212,12 +235,15 @@ questioning SUD
 • F: Do your family or friends ever tell you to cut back on your drinking or drug use?  
 • T: Have you ever gotten into trouble while you were using alcohol or drugs?
 
-reactive arthritis triad = 
+reactive arthritis triad = seronegative ... and postinfectious 
 - arthritis
 - urethritis 
 - conjunctivitis 
+- <mark style="background: #FFF3A3A6;">asymmetrical arthritis and migratory!!! predominantly in lower extremities</mark>
 - reactive arthritis happens after getting campylobacter, salmonella, shigella, but not viral infections 
 - <mark style="background: #FFF3A3A6;">HLA-B27 genotype is present in most of these patients, and we should screen them for ankylosing spondylitis + acute anterior uvelitis</mark>
+- mainly young men 
+- see chlamydia post urethritis or post enteritis is shigella, yersiniia, salmonella, campylobacter. 
 
 borrelia burgdorferi 
 - lyme arthritis - would cause them to get 
@@ -576,6 +602,7 @@ craniopharyngiomas - headache + vomitting= **good prognosis!** but high recurren
 - <mark style="background: #FFF3A3A6;">bitemporal hemianopsia, hyperprolactinemia, hypopituitarism...</mark>
 - histo - see metaplastic squamous cells or reticular epithelial cells, cysts, keratin nodules 
 - tumor from the <mark style="background: #FFF3A3A6;">remnant o the rathke pouch, benign!!!</mark>
+	- note about the rathke pouch, it will develop into the anterior pituitary gland. originally made from the surface ectoderm 
 - <mark style="background: #FFF3A3A6;">bimodal distribution, 5-14 yrs and then at 50-75</mark>
 - compressin the pituitary gland due to intrasellar extension = hypopituitarism 
 - compressing the hypothalamic nucleus = think hyperphagia and obesity, and the stalk compression is hyperprolactinemia 
@@ -1340,4 +1367,76 @@ The P450 substrates beta-BLOCKers, THEophylline, WARfarin, STATins, ORAL [c
 
 ---
 ARDs
-- tissue dmg 
+- tissue dmg -> inflam mediators like IL-1 -> rxn -> migrate neutrophils into alveoli -> release of neutrophilic mediators like cytokines, ROS, -> injury to alveolar capilaries + endothelial cells = diffuse alveolar dmg DAD
+	- exudative phase - excess fluid = pulm edema with norml pulm capillary wedge pressure -> dec lung compliance + resp distress
+	- hyaline membrane formation = exudation of neutrophils + protein rich fluid into alveolar space = hyaline membranes = impaired gas exchange = hypoxemia -> resp alkalosis due to hyperventilation compensation.... and <mark style="background: #FFF3A3A6;">chronic hypoxic pulmonary vasoconstriction -> pulm hytn and right to left pulm shunt</mark>
+	- also dmg to type 1 + 2 pneumocytes(secretes surfactants) -> dec surfactant => alveolar collapse -> intrapulm shunting 
+	- in the late/organizing phase = proliferation of tpe 2 pneumocytes + infiltrating fibroblasts mean progressive interstitial fibrosis 
+- this is an dx of exclusion , usually triggered by sepsis, and bilateral opacities seen on xray and ct 
+- hypoxemia = pao2/FiO2 < 300 mmHG = arterial o2/ fraction of oxygen in ninspired air
+- initially we get respiratory alkalosis 
+- TREAT: with ventilation and then underlying cause 
+---
+bleeding disorder and times 
+ptt = partial thromboplastin time 
+measures the intrinsic and common pathways of coagulation cascade - 12,11,10, 9, 8, 5, 2, and 1 
+![[coagulation cascade]]
+protamine sulfate - can neutralize a bunch of heparin in heparin induced stufff.... 
+
+unfractionated heparin - enhances activity of antithrombin .... which is anticoag protein made by liver that inhibits thrombin and other facotrsl. 
+- factor Xa s inhibited, decrease prothrombin activation 
+- thrombin factor 2a is impacted, where unfractionated hepatin and htrombin binds it with antithrombin III .... 
+- these cause more bleeding. short half life this one 
+- <mark style="background: #FFF3A3A6;">this treatment can cause thrombocytopenia</mark> = HIT heparin inhduced.... 
+low molecular weight heparin and synthetic heparin 
+- lmwh = binds antithrombin III => inhib factor Xa 
+- synthetic heparin only selectively binds to antithrombin III more selective inhibt Xa 
+- longer half life, more bioavaliability 
+
+direct thrombin inhbitiros 
+- directly inhibit freely ciruclating and in association with clots thrombin . 
+- use to treat heparin induced thrombocytopenia 
+
+---
+embryogenesis 
+The developmental events from week 2 to week 4 can be remembered as follows: At 2 weeks there are 2 layers ([bilaminar disc](https://next.amboss.com/us/article/vo0AdS#Z4d8fed5f829f57a3c2fbd8c61e46c7d8)), 3 weeks there are 3 layers ([trilaminar disc](https://next.amboss.com/us/article/vo0AdS#Z8c8cc45b7320f7cb16cbb00d122d0ec8)) and 4 weeks there are 4 limb buds and 4 [heart chambers](https://next.amboss.com/us/article/Up0bKS#Zd2d1de68820fdac6dba8d60b3f5efe1f) present.
+
+day 0 - 
+- capacitation - maturation of sperm in female genital tract
+- conception/fertilization happens most commonly n the ampulla of the fallopian tubes (the middle part), within 1 day of ovulation 
+	- acrosome rxn = dissolution of sperm cell membrane + zona pellucida of ovum 
+	- impregnantion - pentration of sperm into the ovum 
+- conjugation - fusion of sperm + ovum to make zygote 
+days 1-5 - zygote traveling down fallopian tube into the uterus, and division into the <mark style="background: #FFF3A3A6;">morula -> blastocyst which has 2 layers of cells - trophoblasts and inner embryoblasts.</mark>
+	embryoblast - > bilaminar disc.... 
+	trophoblsts = layer of cells surrounding the blastocyst which then divides into 2 layers 
+days 6-14
+- trophoblast divides -> syncytiotrophoblast = development of placenta
+	- syncytiotrophoblast secrete hCG (detectable 1-2 weeks post fertilization)
+		- this maintains the <mark style="background: #FFF3A3A6;">corpus luteum, increases progesterone secretion by it during first trimester + decidua</mark>
+	- <mark style="background: #FFF3A3A6;">this will be outer layer of chorionic villi, will invade endometrium to make **lacunae, which fill with maternal blood**</mark>
+- and the -> cytotrophoblast, making the chorionic cavity which surrounds the embryoblast inner layer 
+	- this will be inner layer of <mark style="background: #FFF3A3A6;">chorionic villi, mitotically active.</mark>
+	- <mark style="background: #FFF3A3A6;">cytos = making cells, syn = synthesize hormones</mark>c
+- embryonic disk becomes bilaminar -> epiblast and hypoblast
+	- epiblast =  form amniotic cavity  which later makes hte embryo... 
+	- hypoblast = yolk sac, lining of chorionic cavity 
+		- cuboidal cells next to the blastocyst cavity or blastocel 
+	- epiblast and hypoblast fusing -> prechordal plate -> mouth!!! 
+wks 3-4 
+- gastrulation = <mark style="background: #FFF3A3A6;">epiblast cells -> primitive streak on that -> trilaminar disc of</mark> endoderm, mesoderm, ectoderm
+- notogenesis -> axial mesoderm -> notochord -> induces neural plate dev from the ectoderm layer 
+- neurulation - ectoderm -> neural plate -> neural tube with pores , neural crest (which closes by wk 4 ending)
+- branchial apparatus -> pharyngeal arches, pouches, and grooves. 
+- aortic arches 
+- development of limb buds 
+- first heartbeat at wk 4 
+wk 5-8 = organogeneiss mostly 
+- like mesonephros -bulges in urogenital ridge etc. 
+wk 7 = ossify of bones proximal 
+wk 8 - <mark style="background: #FFF3A3A6;">organogenesis completely by here.</mark>
+- movements begin!! 
+- finger flap separation 
+wk 9-12 
+- fetogenesis - maturation and growth 
+- genetalia are sex determined by wk 12 
