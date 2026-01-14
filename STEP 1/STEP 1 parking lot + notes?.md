@@ -111,9 +111,14 @@ prolif of mature adipocytes =? lipoma formation !
 
 keloids = hyperprolif of **fibroblasts, resulting in disorg overproduction of collagen types 1 nad 3....**
 
-malignant transformation of keratino cytes = <mark style="background: #FFF3A3A6;">cutaneous squamous cell carcinoma sCCC</mark> = plaque like, nodular, verrucous, ulcerative in elderly men 
+malignant transformation of keratinocytes = <mark style="background: #FFF3A3A6;">cutaneous squamous cell carcinoma sCCC</mark> = plaque like, nodular, verrucous, ulcerative in elderly men 
 
-hypertrophic scarrs - <mark style="background: #FFF3A3A6;">excess paralell depo of type 3 collagen</mark>
+hypertrophic scars - <mark style="background: #FFF3A3A6;">excess paralell depo of type 3 collagen</mark>
+- high fibroblast prolifferation (inc tgf-beta and fibroblast prolif)
+- inc collagen production 
+- <mark style="background: #FFF3A3A6;">higher type 1 collagen - > type 3 collagen production</mark>
+- less elastin depo too 
+- 
 
 transferenc - feels from pas experience unconsciously by the patient into anther obj with perceived similarity 
 
@@ -1107,26 +1112,55 @@ central cord syndrome - lesion near central canal of SC, with hyperextension of 
 - spinal muscular atrophy - SMA - progessive apoptosis of lower motor neurons 
 
 ---
-hypersensitivity reactions 
+hypersensitivity reactions - think ACID 
+A = allergic, C = cytotoxic, I = immune complex depo, D = delayed 
 type 1 
 - food pollen allergies, asthma, anaphylaxis and immediate 
 - needs a sensitization then an effect. 
 - <mark style="background: #FFF3A3A6;">preformed IgE antibodies coating mast cells and basophils are crosslinked with contact with antigen -> degranulation -> hiistamine release etc.</mark>
+	- release of histamine and prostaglandins, platelate activating factors, leukotrienes, heparin, tryptase -> 
+	- smooth muscle contraction -> bronchospasm , cramping. and vasodilation -> hypovolemia, hypotension, etc. 
+	- erythema or redness from vasodilation and then edema is seen too 
 - drug rxns and food allergies and insect venom allergies too 
 - crosslinking then degranulation immediately 
 type 2 - many classic autoimmune diseases 
 - autoimmune hemolytic anemia, goodpasture, cytotoxic, with tissue-specific antibodies causng cell destruction 
+- we can use autoantibody testing and the coombs test. 
 - <mark style="background: #FFF3A3A6;">IgM and or IgG antibodies bind to antigens on cells of some tissue types, and complement system activation + lysis or phagocytosis of cells... this is antibody dependent -> natural killer cells</mark>
+	- resulting in cellular destruction via 
+		- antibody dependent cell mediated = NK or macrophages 
+		- target cell opsonization -> phagocytosis or complement activation 
+	- inflammation 
+		- Fc receptor mediated immune activation 
+		- antibodies bind to cellular surfaces -> **activating the complement system**
+	- impaired cellular function 
+		- antibodies binding to cell surface receptors -> inhibition or activation of downstream signaling pathays -> impaired cellular function 
 - acute hemolytic transfusion rxn 
 - hemolytic dz of the fetus and newborn 
 - ITP 
 - rheumatic fever 
 - hyperacute transplant rejection 
 - graves dz, bullous pemphigold, pemphigus vulgaris, myasthenia gravis 
+	- can be complement dependent reactions 
+		- IgM -> MAC -> cell lysis 
+		- IgG -> C3a, C4a, C5a neutrophil activation, chemotaxis , then it goes to FCR , cell lysis 
+		- IgG or C3b -> phagocyte chomps it up -> phagolyss 
+	- complement-independent reaction 
+		- IgG -> apoptosis with perforins, granzymes and natural killer cells 
+		- IgG or IgM -> change in signaling -> cellular dysfunction 
 type 3 - many glomerulonephritides and vasculitides 
 - many vasculitides and glomerulonephritides are immune complex mediated, tissue dmg caused by antigen antibody complex depo 
+- systemic; antigen - binds to IgG to form immune complex 
+- immune complexes are then deposited in tissue esp BVs -> complement cascade -> release of lysosomal enzymes from neutrophils -> cell death -> vasculitis 
+	- think - antigen + antibody + complement 
 - <mark style="background: #FFF3A3A6;">IgG antibodies bind to circulating antigens + immune comoplex formation and deposition in some tissues. deposits in tissues which activate the complement system, attracting NEUTrOPhILs</mark>
 - serum sickness , arthus rxn, drug induced vasculitis, pneumonitis , polyarteritis nodosa, poststreptococcal glomerulonephritis , SLE 
+- immune complexes of antibodies and stuff all latch onto the blood vessel, calling in neutrophils and FCR and stuff to dmg them 
+- arthus reaction 
+	- local subacute type 3 , <mark style="background: #FFF3A3A6;">caused by vaccination against tetanus and or diphtheria</mark>
+	- intradermal antigen injection in a presensitized person who is previously exposed to the antigen when preforemd, having anti-gen specific igG in serum -> formation of antigen-antibody complexes in skin -> complement activation -> necrosis and infalmmation 
+	- localized swelling + erythema + necrosis post shot 
+	- self limited 
 type 4 
 - TB skin tests, contact derm 
 - deelayed and cell mediated, only one which involves sensitized T lymphocytes rather than antibodies. 
@@ -1135,5 +1169,175 @@ type 4
 - CD8+ T cell presensitized-recognize antigens oon somatic cells -> cell-mediated cytotoxicity 
 - <mark style="background: #FFF3A3A6;">transplant rejections, graft v host dz, candida skin test, SJS , and hashimotos thyroiditis, too </mark>
 - also autoantibodies present 
+- DRESS= drug rxn with eosinophilia and systemic symptoms (2-8 wks post drug exposure, antiepileptics)
+- TEN = toxic epidermal necrolysis - 1-3 wks post surgery, more severe form of SJS 
+- hashimoto thyroiditis 
 
 pseudoallergies = mast cell activation + histamine release. 
+
+---
+hemolytic anemia? 
+RBC breakdown... different causes 
+- intrinsic hemolytic anemia or external causes like immune or mechanical dmg 
+- intrinsic hemolytic anemia = inc destructionof RBCs due to defect inside the rbc 
+- extrinsic hemolytic anemia - like abnormal brkdown of normal rbs - 
+	- mechanical destruction in large vessels like with prostetic heart valves
+	- hellp syndrome - mechanical destruction in small vessels like ttp, dic, hus 
+	- autoimmune rxns like autoimmuen hemolytc anemia 
+	- alloimmune rxns like ABO / rh incompatibility 
+	- immune rxns due to infections or tumors 
+- intravascular hemolytic anema
+	- antibody mediated.... like hemolytic dz of newborn, ABO transfusion in compatibility, cold agglutinin dz, PNH, prosthetic valves, microangiopathic anemia, ttp , sle 
+	- haptoglobin down, this is when hb is released from RBC breakdown binding to this haptoglobin meaning it's bound and goes down 
+	- <mark style="background: #FFF3A3A6;">lactate dehydrogenase goes wayyyy up </mark>
+	- reticulocytes increase, heinz bodies and bite cells found in G6Pd deficiency 
+	- schistocytes in MAHA or macroangiopathic hemolysis
+	- hemoglobins in urine and hemosiderin in urine.... with filtered hb reabsorbed by proximal convoluted tubule -> hemic iron removed + stored as hemosiderin -> hemosiderin proximal tubule cells put into the urine 
+- extravascular hemolytic anemia - inc destrution of RBCs by the **reticuloendothelial system like the spleen**
+	- RBC defects like sickle cells, spherocytosis, pyruvate kinase def
+	- and antibody-mediated hemolysis like warm and cold agglutinin disease. 
+	-  haptoglobin down, this is when hb is released from RBC breakdown binding to this haptoglobin meaning it's bound and goes down 
+	- lactate dehydrogenase goes up 
+	- <mark style="background: #FFF3A3A6;">indirect unconjugated bilirubin = more prominent in this one, where Hb is released, and then the heme is catabolized to indirect bilirubin</mark>
+	- Spherocytes are seen in hereditary spherocytosis , rbc <mark style="background: #FFF3A3A6;">in cold agglutinin disease</mark>
+	- <mark style="background: #FFF3A3A6;">target cells in sickle cell disease, thalassemia, and hemoglobin C disease</mark>
+	- teardrop cells in thalassemia 
+	- urobilinogen - with <mark style="background: #FFF3A3A6;">inc indirect bilirubin -> bilirubin breakdown in gut -> more urobilinogen reabsorption into enterohepatic circulation -> excess urobilinogen getting into urine</mark>
+hemolysis with jaundice, pigemnted gallstones and hemoglobinuria 
+- CBC hb, hct and rbc count all down 
+- normocytosis in most hemolytic anemias
+- MCV up due to reticulocytosis = where reticulocytes are bigger than normal RBCS
+- microcytosis = consider thalassemia and or iron deficiency 
+coombs testing 
+- coombs serum added to patient blood samples which has antihuman globulins - AHGs which detect + adhere to immune proteins that mediate hemolysis like igG or complement
+- <mark style="background: #FFF3A3A6;">rbc agglutination = poz result, and absence of rbc agglutination is considered a negative result...</mark>
+- direct
+	- detect antibodies/complement in surface of RBCs
+	- only RBCs are in the patient sample , they add coombs serum, and then agglutinates witth the complement and antibodies that are already present on the surface rbc 
+	- poz = <mark style="background: #FFF3A3A6;">rbcs coated with autoantibodies + complement that are cuasing hemlysis.</mark>
+	- autoimmune hemolytic anemia (warm or cold)
+	- hemolytic dz of the newborn 
+- indirect
+	- detection of <mark style="background: #FFF3A3A6;">anti-RBC antibodies in the serum of patients</mark>
+	- for anyone needing pretransfusion testing + transfusion reactions. 
+	- screening for Rh-negative mothers to determine if anti-D immunoglobulin is indicated 
+	- <mark style="background: #FFF3A3A6;">only serum remains, and then patient serum incubaed with Test RBCs... if there's antibodies in the patient it'll bind and then agglutinate.</mark>
+1. pyruvate kinase deficiency - AR defect of pyruvate kinase, absence of this -> ATP deficiency in RBC
+	1. ATP def disrupts the cation gradient -> rigid RBCs-> extravascular hemolysis 
+	2. typically newborn jaundice + hydrops fetalis in rare cases. 
+	3. burr cells , need phototherapy 
+2. Hgb C disease 
+	1. homozygous ppl for this... 
+	2. glutamic acid is replaced with lys, making hgb C, 
+	3. precipitates as crystals -> extarvascular hemolysis bc of rbc rigidity up 
+	4. b-globin mutation -
+microangiopathic hemolytic anemias
+- primary MAHAs - TTP, HUS
+- sedondary - autooimmune dz, HELLP , htn , DIC, drug induced hemolytic anemia 
+- cbc - anemia + thrombocytopenia , negative DAT , and PBS shows shcistocytes 
+---
+ibds 
+ulcerative colitis 
+- starts in rectum + extending proximally into dstal colon 
+- - <mark style="background: #FFF3A3A6;">bloody diarrhea....</mark>, 
+- sclerosing cholangitis (progressive chronic inflam of both intrahepatic + extrahepatic bile ducts)
+- major copmlications = toxic megacolon + inc risk of colorectal cancers 
+- <mark style="background: #FFF3A3A6;">HLA-B27</mark> gene.... 
+- ashkenazi jewish descent 
+- upreg of lymphatic cell activity in bowel walls -> more immune rxn and cytotox on colonic epithelium? Th2 cell mediated + pANCA against cells 
+- CRP/ESR are elevated , pANCA poz, ALP and GGT elevated 
+- early stages granulocyte/neutrophil infiltration and crypt absesses 
+- in chronic dz - lymphocyte infiltraton + mucosal atrophy with altered crypt architecture ; <mark style="background: #FFF3A3A6;">inflammatoion limited to the mucosa + submucosa.</mark>
+---
+chronic pancreatitis - progressive ifnlam, 
+ - chronic alc use 
+ - or ductal obstruction 
+ - or idiopathic 
+ - tobacco usage tooo
+ - hereditary if <mark style="background: #FFF3A3A6;">gene mutation PRSS1 , age onset less than 20 yo and family hx too</mark>
+ - systemic diseases of Cystic fibrosis can also get this too 
+ - <mark style="background: #FFF3A3A6;">acinar pancreatic cells dmg'd</mark> or premature activation of <mark style="background: #FFF3A3A6;">trypsinogen to trypsin</mark> , which is activating pancreatic zymogens amylase + lipase -> <mark style="background: #FFF3A3A6;">autodigestion of pancreatic tissue</mark>
+ - and see fibrosis = exposure to toxins -> activation of pancreatic stellate clls 
+ - <mark style="background: #FFF3A3A6;">pain radiates to back, relieved by bending forward, exacerbated after eating ... epigastric abd pain, n/v too</mark>
+ - late manifestation = insufficiency = steatorrhea, cramping, bloating, diarrhea, all leading to deficiency f fat soluble vitamins 
+ - do a CT see calcifications or chain of lakes appearnce on the main duct 
+ - <mark style="background: #FFF3A3A6;">note - lipase and amylase are often normal in chronic pancreatitis, but acute pancreatitis is diff</mark>
+ - FE-1 fecal elastase 1 is the most common test to support dx of steatorrhea due to exocrine pancreatic insufficiency 
+---
+influenza 
+A, B, and C 
+influenza A+B - classed by the hemagglutinin and neuraminidase surface antigens 
+- rna viruses, orthomyxoviruses 
+- enveloped virus with helical capsid 
+- single stranded, neg-stranded, segmented 
+- H will bind <mark style="background: #FFF3A3A6;">sialic acid residues on the host cell membrane, allowing fusion into the membrane and entry</mark>
+- the cell replicates in nucleus of cell , and then travels to membrane to budding 
+- <mark style="background: #FFF3A3A6;">N cleaves the neuramininc acid, virions exits the cells like so</mark>
+- antigenic shift = 
+	- where 2 subtypes of virus infect same cell and reassort to make new subtypes 
+	- happen bt human + animals = <mark style="background: #FFF3A3A6;">causing pandemics</mark>
+- antigenic drift - minor changes in HA/NA via randmo mutations  , causing epidemic 
+iinfluenza A 
+- typical 
+Influenza B/c = milder course, no genetic shift, so epidemics risk much lower 
+TREAT influenzas with neuraminidase inhibitors, <mark style="background: #FFF3A3A6;">inhibiting the release of viruses from host cell like oseltamivir + zanamivir</mark>
+
+---
+pharm fundamentals 
+LADME - phases of pharmacokinetcis
+- Liberation - release from pharm form 
+- Absorption - how it reaches bloodstream... like with 
+	- F = bioavailability - rate and concentration at which it reaches circulation , percentage
+	- Area under curve of concentration vs time 
+	- first pass via thru the GI tract and then reaching the liver, and then the liver it undergoes first pass metabolism, lowering the F of the drug 
+	- lipophilic drugs undergo biotransformation in liver to become more hydrophilic in 2 phases. excreted biliary elim without biotransformation. 
+	- hydrophiliic drugs - are transported with predominantly polar compounds, and then facilitated support, which are later excreted renally 
+- Distribution- distribution coefficient is hydrophobicity / hydrophilicity of the drug reprecented by concentrations 
+	- vol of distribution V = M(amt of drug in body) / C(concentration of drug in plasma)
+	- Vd is low = meaning consisting of large molecules, ions, binding to plasma proteins. and is intracellular 
+	- Vd high if made of small lipophillic moelcuels and binds to tissue proteins. in the muscle , adipose tissue etc. 
+- Metabolism - biotransformation in the liver mainly 
+	- zeroo order - rate of metab/elim stays same indpendent of concentration , capcity limited 
+		- ethanol, phenytoin, aspirin 
+	- first order - directly proportional, flow dependent 
+	- phase 1 rxn - <mark style="background: #FFF3A3A6;">drug transform into polar, water soluble metabolite by cytochrome P450 via oxidation/reduction/hydroolysis</mark>
+	- phase 2 rxn - drug is conugated and <mark style="background: #FFF3A3A6;">transformed into veryyy polar metabolite to excrete renally via glucuronidation, acetylation, sulfation, methylation</mark>
+- Excretion = CL = Vd * K (elimination constant)
+- <mark style="background: #FFF3A3A6;">time to reach 1 half life = (.7*Vd) / CL </mark>
+- **complete steady state takes 4-5 half lives!!!** and after 4 half lives mroe than 90% of drug is elminated. 
+- ionized substances can't cross renal tubular membranes and are cleared quick like weak acids and bases (phenoobarbital, methtrexate, aspirin, and bases like tricyclic antidepressants + amphetamines)
+	- clear acidic oes with alkalinization of urine 
+	- and acidification of urine iwth ammonium chloride for instenace 
+loading dose = Cp * Vd / F
+	Cp = target peak plasma concentration at steady state 
+maintenance doese  = (Cp * CL * tau ) /F
+	CL = clearnce 
+	tau = dosing interval (in hours)
+potency - EC50 = potency = concentration to make pharm response of an intensity, like 50% of the max pssible one 
+Efficacy = 
+<mark style="background: #FFF3A3A6;">Therapeutic index = TD50 / ED50 </mark>
+research: 
+phase 0 = exploratory, no therapeutic or dx intent, gaining insight on pharmacokinetics/dyanmics, small sample of healthy ppl or population with dz of interest 
+phase 1 = eval of pharmacodynam/kinetic properties, and **safety** and **toxicity** ... still small similar number 
+phase 2 = moderate number of pts with specific dz, eval efficacy , optimal dose range, SEs
+phase 3 = final confirm safety/eval of efficacy against **placebo or current Standard of care.** - randomized control trial with a lot of patients 
+phase 4 trial - postmarketing surveillance - and safety studies following approval with large amts of patients, open label again 
+
+[P450 inducers](https://next.amboss.com/us/article/7N04cg#Zddb9d4c12e62b5cd750ebf30e5f0c49e): ↓ [warfarin](https://next.amboss.com/us/article/Tm06Ug#Z6d02cb60161e40fe48bf92a4ef26e443) levels (Chronic Alcoholics Steal Phen-Phen and Never Refuse Greasy Carbs): C - Chronic alcohol use, S - St. John's wort, P - Phenytoin, P - Phenobarbital, N - Nevirapine, R - Rifampin, G - Griseofulvin, C - Carbamazepine
+
+[P450 inhibitors](https://next.amboss.com/us/article/7N04cg#Z22d03846ca028f44ee5da263066b1d28) can be remembered with “sickfaces.com group”: S - [Sulfonamides](https://next.amboss.com/us/article/mm0VTg#Ze5643518b44b505b8ca23a9979f4c46a), I - [Isoniazid](https://next.amboss.com/us/article/mm0VTg#Ze97f4360f6ecf96cf0b3b580ad4c43eb), C - [Cimetidine](https://next.amboss.com/us/article/Pm0Wfg#Z23e6ac9ff61b35418ef71dd76c7d4057), K - [Ketoconazole](https://next.amboss.com/us/article/6m0jgg#Z4cb1c17b82ffc973aa1d52670a17c5a8), F - [Fluconazole](https://next.amboss.com/us/article/6m0jgg#Za11c477e8dbd65003749c47c4f14d0ef), A - Alcohol ([binge drinking](https://next.amboss.com/us/article/KP0UfT#Ze7995a37e49163a5e81e5ee2686b7505)), C - [Ciprofloxacin](https://next.amboss.com/us/article/mm0VTg#Z3f1dbc417664139dda097bcd516ceeed), E - [Erythromycin](https://next.amboss.com/us/article/mm0VTg#Zb6aa0417ebf4b5441cad8f5d05d884bd), S - [Sodium](https://next.amboss.com/us/article/_905JR#Z420309902608f05802e6d9d942b6e0b1) [valproate](https://next.amboss.com/us/article/-N0Ddg#Zfe47f4f5fb7f8de32f7919dc8909896e), C - [Chloramphenicol](https://next.amboss.com/us/article/mm0VTg#Zb7986751220aac2d9d37b4a81946774b), O - [Omeprazole](https://next.amboss.com/us/article/rm0fSg#Z99da0d1a320d8e2f7083beb74fad300b), M - [Metronidazole](https://next.amboss.com/us/article/mm0VTg#Z38b86da11311413fd0c09044b27de851), G - Grapefruit juice
+
+The P450 substrates beta-BLOCKers, THEophylline, WARfarin, STATins, ORAL [contraceptives](https://next.amboss.com/us/article/rt0fU3#Z8f41cb91a5acc68fc5c04e73e600eea9), and antiPSYCHO[tics](https://next.amboss.com/us/article/sP0tTT#Ze60b6a3eca1cd32d8297fcbc2e8e0fb8): Let's BLOCK THE WAR between STATes with ORAL and PSYCHOlogical tools.
+
+|CYP|   |Substrate|CYP 450 inhibitors|CYP 450 inducers|
+|---|---|---|---|---|
+|CYP1A2|   |- [Theophylline](https://next.amboss.com/us/article/em0xeg#Z7c1394ed7b7c373863e0add18e08a73b)<br>- [Acetaminophen](https://next.amboss.com/us/article/BN0zWg#Za3da7a7c0e6eb1d1d781615b1c2c7af3)<br>- Some [antiepileptic drugs](https://next.amboss.com/us/article/-N0Ddg#Zcd438fb2824eb980a6d8940c193890ba)<br>- [Haloperidol](https://next.amboss.com/us/article/AN0Rdg#Zcac9fc8b8027afec6ed01debdc2874ed) <br>- [Caffeine](https://next.amboss.com/us/article/oP00fT#Z9cbb9bc1131781093113ffce4e367923)<br>- Some psychotropic drugs|- [Ciprofloxacin](https://next.amboss.com/us/article/mm0VTg#Z3f1dbc417664139dda097bcd516ceeed)<br>- [Fluvoxamine](https://next.amboss.com/us/article/_N05dg#Z11094cddaeb94c6f41fe0354ab337a00)|- Smoking [18]|
+|CYP2C|CYP2C19|- [Proton pump inhibitors](https://next.amboss.com/us/article/rm0fSg#Z2753e50142e2f5b7089b165accdcc900) ([PPI](https://next.amboss.com/us/article/rm0fSg#Z2753e50142e2f5b7089b165accdcc900))<br>- [Clopidogrel](https://next.amboss.com/us/article/Um0bUg#Zb288dda860ff65493b01ea10fbf1e10c) <br>- [Antiepileptic drugs](https://next.amboss.com/us/article/-N0Ddg#Zcd438fb2824eb980a6d8940c193890ba)<br>- [Indomethacin](https://next.amboss.com/us/article/BN0zWg#Zab36d0ab2bf76698bc936a7f0be7fd9d)<br>- [Escitalopram](https://next.amboss.com/us/article/_N05dg#Z1dfb430bcc30f2c9700b00ed0737cc31)|- [Antifungals](https://next.amboss.com/us/article/6m0jgg#Z94404554781be4122edebfc0e6fa8c13) ([azoles](https://next.amboss.com/us/article/6m0jgg#Z22c0acb27ee59b787c952e2e761d77fe), e.g., [itraconazole](https://next.amboss.com/us/article/6m0jgg#Zc8a824377940a4f33da3348d745697e6), [ketoconazole](https://next.amboss.com/us/article/6m0jgg#Z4cb1c17b82ffc973aa1d52670a17c5a8), and [fluconazole](https://next.amboss.com/us/article/6m0jgg#Za11c477e8dbd65003749c47c4f14d0ef))<br>- [Cimetidine](https://next.amboss.com/us/article/Pm0Wfg#Z23e6ac9ff61b35418ef71dd76c7d4057)<br>- [Isoniazid](https://next.amboss.com/us/article/mm0VTg#Ze97f4360f6ecf96cf0b3b580ad4c43eb)<br>- [Proton pump inhibitors](https://next.amboss.com/us/article/rm0fSg#Z2753e50142e2f5b7089b165accdcc900) ([PPI](https://next.amboss.com/us/article/rm0fSg#Z2753e50142e2f5b7089b165accdcc900), e.g., [omeprazole](https://next.amboss.com/us/article/rm0fSg#Z99da0d1a320d8e2f7083beb74fad300b))|- [Carbamazepine](https://next.amboss.com/us/article/-N0Ddg#Zb42030a33ee6196d376ee73775500933)<br>- [Rifampicin](https://next.amboss.com/us/article/mm0VTg#Z965e7647077a8d15304b03fd24ad2f90)<br>- St. John's Wort<br>- [Prednisolone](https://next.amboss.com/us/article/km0mfg#Z2af95e896d7ac640347fef0c7baddd80)|
+|CYP2C9|- [NSAIDs](https://next.amboss.com/us/article/BN0zWg#Z6d53b6cfe3376a70645a5c797293e56a) <br>- [Warfarin](https://next.amboss.com/us/article/Tm06Ug#Z6d02cb60161e40fe48bf92a4ef26e443)<br>- [Antiepileptic drugs](https://next.amboss.com/us/article/-N0Ddg#Zcd438fb2824eb980a6d8940c193890ba)<br>- [Oral antidiabetic medications](https://next.amboss.com/us/article/7m04Sg#Z14ccfbceeb13ce08682d7945a99de48c) (e.g., [rosiglitazone](https://next.amboss.com/us/article/7m04Sg#Z4bdb38c98becda0ea6fa27e915462894))<br>- [Angiotensin II](https://next.amboss.com/us/article/V60GPS#Z5fb00bb85ca59300f9de1c1e429c5578) [antagonists](https://next.amboss.com/us/article/7N04cg#Zc27a035f10e272b3e1d654c01aedeb6c)|- [Sulfonamides](https://next.amboss.com/us/article/mm0VTg#Ze5643518b44b505b8ca23a9979f4c46a) (e.g., [sulfamethoxazole](https://next.amboss.com/us/article/mm0VTg#Z809d534d009c4ba63646a5ed5c8d76c1))<br>- [Sodium](https://next.amboss.com/us/article/_905JR#Z420309902608f05802e6d9d942b6e0b1) [valproate](https://next.amboss.com/us/article/-N0Ddg#Zfe47f4f5fb7f8de32f7919dc8909896e)<br>- [Metronidazole](https://next.amboss.com/us/article/mm0VTg#Z38b86da11311413fd0c09044b27de851)<br>- [Amiodarone](https://next.amboss.com/us/article/Xm09Vg#Z3393daac73fb99b740fbb7164c7ccd9d)<br>- [Antifungals](https://next.amboss.com/us/article/6m0jgg#Z94404554781be4122edebfc0e6fa8c13) ([azoles](https://next.amboss.com/us/article/6m0jgg#Z22c0acb27ee59b787c952e2e761d77fe), e.g., [itraconazole](https://next.amboss.com/us/article/6m0jgg#Zc8a824377940a4f33da3348d745697e6), [ketoconazole](https://next.amboss.com/us/article/6m0jgg#Z4cb1c17b82ffc973aa1d52670a17c5a8), and [fluconazole](https://next.amboss.com/us/article/6m0jgg#Za11c477e8dbd65003749c47c4f14d0ef))<br>- [Chloramphenicol](https://next.amboss.com/us/article/mm0VTg#Zb7986751220aac2d9d37b4a81946774b)|- [Griseofulvin](https://next.amboss.com/us/article/6m0jgg#Zeb02b17a192bd35f9547768145e009e1)<br>- St. John's Wort<br>- [Rifampicin](https://next.amboss.com/us/article/mm0VTg#Z965e7647077a8d15304b03fd24ad2f90)|
+|CYP2D6|   |- Beta‑blockers (e.g., [metoprolol](https://next.amboss.com/us/article/uN0p1g#Z1e78f4f843c103d271865d7092fcc047))<br>- [Antipsychotics](https://next.amboss.com/us/article/AN0Rdg#Ze835049c732df10f537fbaa3b64fe88c) (e.g., [haloperidol](https://next.amboss.com/us/article/AN0Rdg#Zcac9fc8b8027afec6ed01debdc2874ed)) <br>- Some [antidepressants](https://next.amboss.com/us/article/_N05dg#Zbce15ff7dae8faec7f3de858ace84bdb), including several [SSRIs](https://next.amboss.com/us/article/_N05dg#Zb1bb43280a4d0d86f2d53818b9e8afc8), [SNRIs](https://next.amboss.com/us/article/_N05dg#Z6c975a95d83faec61e6ec1a10d958319), and [SSNRIs](https://next.amboss.com/us/article/_N05dg#Z6c975a95d83faec61e6ec1a10d958319) (e.g., [fluoxetine](https://next.amboss.com/us/article/_N05dg#Z18d3c1308a0cfc892f879d66a33cb606), [fluvoxamine](https://next.amboss.com/us/article/_N05dg#Z11094cddaeb94c6f41fe0354ab337a00), [venlafaxine](https://next.amboss.com/us/article/_N05dg#Za9d7939a3ca26fe606e81bdc33d0c8bc))<br>- [Antiarrhythmics](https://next.amboss.com/us/article/jo0_bS#Z6f1d44a8089c67c0d68fdb217ef60d92) (e.g., [flecainide](https://next.amboss.com/us/article/jo0_bS#Zbaaf1409cd0fabc331a97617669ef642))<br>- Several other drugs<br>- [Tamoxifen](https://next.amboss.com/us/article/uk0ppT#Z62c2028efe014cd4faaf82ccb312cd4c)|- [Amiodarone](https://next.amboss.com/us/article/Xm09Vg#Z3393daac73fb99b740fbb7164c7ccd9d)<br>- [Antipsychotics](https://next.amboss.com/us/article/AN0Rdg#Ze835049c732df10f537fbaa3b64fe88c) and [antidepressants](https://next.amboss.com/us/article/_N05dg#Zbce15ff7dae8faec7f3de858ace84bdb) (e.g., [fluoxetine](https://next.amboss.com/us/article/_N05dg#Z18d3c1308a0cfc892f879d66a33cb606), [duloxetine](https://next.amboss.com/us/article/_N05dg#Z0de255eaa8b215aea90a8ffc8eb9e5d3), [paroxetine](https://next.amboss.com/us/article/_N05dg#Zadde17a6531f65278decfb276069024d))<br>- [Metoclopramide](https://next.amboss.com/us/article/qm0Cgg#Z8f9e8e20395b52a71022ff89dbd927da)|- [Rifampicin](https://next.amboss.com/us/article/mm0VTg#Z965e7647077a8d15304b03fd24ad2f90)<br>- [Dexamethasone](https://next.amboss.com/us/article/km0mfg#Z07d2c036e10c62ed8d6b228260483a37)|
+|CYP2E1|   |- Ethanol|- [Disulfiram](https://next.amboss.com/us/article/h80cm3#Z18d2ff4673ed0c6ebe993e96ec0de84c)<br>- Ethanol (acute consumption)|- [Isoniazid](https://next.amboss.com/us/article/mm0VTg#Ze97f4360f6ecf96cf0b3b580ad4c43eb) <br>- Ethanol (chronic consumption)<br>- [Nicotine](https://next.amboss.com/us/article/mr0V3h#Z5d38d834529fab5402737cd95e68a9c7)|
+|CYP3A4|   |- [Statins](https://next.amboss.com/us/article/am0QVg#Zf129c33946d036ad0b7fa897aac6fd20) (except [pravastatin](https://next.amboss.com/us/article/am0QVg#Z3679ca24bcbe7d0228edbfcd3aeeb8cc)) <br>- [Steroid hormones](https://next.amboss.com/us/article/AT0Rt2#Zde0a73cf447720b5ca08445493fcb5d7) (e.g., [estrogen](https://next.amboss.com/us/article/uk0ppT#Z9f773b700d306dca5a1f7c25325b2ece), [glucocorticoids](https://next.amboss.com/us/article/km0mfg#Z521ecba6f9748e7fed6b743a73ccfabd), [testosterone](https://next.amboss.com/us/article/AT0Rt2#Z490ac8f3364fae6d5c3dae347fbe1e1e))<br>- [Oral contraceptives](https://next.amboss.com/us/article/rt0fU3#Z899aa9dfd6a8c31255c1b74109423c32)<br>- [Carbamazepine](https://next.amboss.com/us/article/-N0Ddg#Zb42030a33ee6196d376ee73775500933) and other [antiepileptic drugs](https://next.amboss.com/us/article/-N0Ddg#Zcd438fb2824eb980a6d8940c193890ba) <br>- [Haloperidol](https://next.amboss.com/us/article/AN0Rdg#Zcac9fc8b8027afec6ed01debdc2874ed) <br>- Immunosuppressives<br>    - [Cyclosporin](https://next.amboss.com/us/article/qM0Cpg#Z69f1635e725a4935e6da3c5c4bf6c9e3)<br>    - [Tacrolimus](https://next.amboss.com/us/article/qM0Cpg#Z7f3ef7ccf6c5e96bbef9512146310202)<br>- [Macrolides](https://next.amboss.com/us/article/mm0VTg#Zf79f86226ad3c54388f0fc63d4299aec)<br>- [Benzodiazepine](https://next.amboss.com/us/article/CN0qWg#Zf884f2b003a5889d564461961fb1abc3)<br>- [Oral anticoagulants](https://next.amboss.com/us/article/Tm06Ug#Z610b8b97fce0bea1c76834eb8be99861)<br>    - [Warfarin](https://next.amboss.com/us/article/Tm06Ug#Z6d02cb60161e40fe48bf92a4ef26e443)<br>    - [Phenprocoumon](https://next.amboss.com/us/article/Tm06Ug#Zfbc018d6917843a5dfac1068c8bdd1b0)<br>- Anti-[HIV](https://next.amboss.com/us/article/mf0V52#Z318c3fdbcf10c252f3453a2394e29d91) medication<br>- [Calcium channel blockers](https://next.amboss.com/us/article/cm0aeg#Z7fa413de7e8daaa8f53d0a0a8c202994)<br>- [Itraconazole](https://next.amboss.com/us/article/6m0jgg#Zc8a824377940a4f33da3348d745697e6)|- [Amiodarone](https://next.amboss.com/us/article/Xm09Vg#Z3393daac73fb99b740fbb7164c7ccd9d)<br>- [Macrolides](https://next.amboss.com/us/article/mm0VTg#Zf79f86226ad3c54388f0fc63d4299aec) ([erythromycin](https://next.amboss.com/us/article/mm0VTg#Zb6aa0417ebf4b5441cad8f5d05d884bd), [clarithromycin](https://next.amboss.com/us/article/mm0VTg#Z55af60d72c920924ad0b6eb4b93e9231)) <br>- Several anti-[HIV](https://next.amboss.com/us/article/mf0V52#Z318c3fdbcf10c252f3453a2394e29d91) medications (e.g., [ritonavir](https://next.amboss.com/us/article/mf0V52#Z3453b24037f09fcc7b43d2f430ad617f))<br>- Grapefruit juice<br>- [Sodium](https://next.amboss.com/us/article/_905JR#Z420309902608f05802e6d9d942b6e0b1) [valproate](https://next.amboss.com/us/article/-N0Ddg#Zfe47f4f5fb7f8de32f7919dc8909896e)<br>- [Cimetidine](https://next.amboss.com/us/article/Pm0Wfg#Z23e6ac9ff61b35418ef71dd76c7d4057)<br>- [Chloramphenicol](https://next.amboss.com/us/article/mm0VTg#Zb7986751220aac2d9d37b4a81946774b)<br>- [Antifungals](https://next.amboss.com/us/article/6m0jgg#Z94404554781be4122edebfc0e6fa8c13) ([azoles](https://next.amboss.com/us/article/6m0jgg#Z22c0acb27ee59b787c952e2e761d77fe), e.g., [itraconazole](https://next.amboss.com/us/article/6m0jgg#Zc8a824377940a4f33da3348d745697e6), [ketoconazole](https://next.amboss.com/us/article/6m0jgg#Z4cb1c17b82ffc973aa1d52670a17c5a8), and [fluconazole](https://next.amboss.com/us/article/6m0jgg#Za11c477e8dbd65003749c47c4f14d0ef))<br>- [Isoniazid](https://next.amboss.com/us/article/mm0VTg#Ze97f4360f6ecf96cf0b3b580ad4c43eb) (weak inhibitor)|- [Carbamazepine](https://next.amboss.com/us/article/-N0Ddg#Zb42030a33ee6196d376ee73775500933)<br>- [Rifampicin](https://next.amboss.com/us/article/mm0VTg#Z965e7647077a8d15304b03fd24ad2f90)<br>- St. John's Wort<br>- Several anti-[HIV](https://next.amboss.com/us/article/mf0V52#Z318c3fdbcf10c252f3453a2394e29d91) medications<br>- [Griseofulvin](https://next.amboss.com/us/article/6m0jgg#Zeb02b17a192bd35f9547768145e009e1)<br>- [Nevirapine](https://next.amboss.com/us/article/mf0V52#Z00bc498c7ae65ca1e1cc4957283dbfa7)<br>- [Barbiturates](https://next.amboss.com/us/article/CN0qWg#Z891ff733a1982ef21f3baeae067406eb) (e.g., [phenobarbital](https://next.amboss.com/us/article/-N0Ddg#Zf062af48cd10bc3a870303bc7c55a946))<br>- [Phenytoin](https://next.amboss.com/us/article/-N0Ddg#Ze338d98a64b4a810c498bff53f4eea2f) (also a [CYP](https://next.amboss.com/us/article/7N04cg#Z162bccf66d122a9e192e200f608ebe19) substrate)<br>- [Glucocorticoids](https://next.amboss.com/us/article/km0mfg#Z521ecba6f9748e7fed6b743a73ccfabd)|
+
+---
+ARDs
+- tissue dmg 
