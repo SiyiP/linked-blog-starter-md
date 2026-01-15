@@ -1560,3 +1560,176 @@ lateral plate mesoderm - lateral to intermediate mesoderm,
 - visceral mesoderm/splanchnic mesoderm = ventral part that overlies endoderm, making visceral lining of int organs 
 - space in between = coelom 
 
+---
+visual pathway 
+retina -
+- central scotoma due to macula invovlement / age, trauma, toxins
+- paracentral scotoma - case of macula involvement with foveal sparing like hydrochloroquine maculopathy 
+otpic nerves
+- afferent limb pupillary reflex/accom reflex
+- ipsilateral blindness/anopia/scotoma 
+- happens in optic neuritis and papilledema ; most often happening with MS 
+	- begin with high dose glucocorticoids 
+- note about pathology: anterior ischemic optic neuropathy - AION 
+	-  <mark style="background: #FFF3A3A6;">giant cell arteritis, almost always post 60 years of age, sudden uni loss of vision</mark>\
+	- see ESR and CRP up, and need a temporal artery biopsy 
+	- we need immediate high dose systemic glucocorticoids 
+- toxic metabolic optic neuropathy to the nerve usually due to methanol poisoning, or drug induced like with ethambutol, aminoglycoside,s barbiturate, linezolid, infliximab 
+- papilledema - specifically swelling of optic disc due to icp up ... htn emergency or something usually, or hydrocephalus 
+optic chiasm 
+- fibers from <mark style="background: #FFF3A3A6;">nasal part of retina cross to contralateral side and the temporal part don't cross!!!</mark>
+- middle lesions = bitemporal heteronymous hemianopsia 
+	- you only see the nasal parts, and not the other.... 
+	- bilateral lesions of non crossing fibers = we see binasla hemianopsia
+- see this with pituitary adenoma or craniopharyngioma 
+optic tract
+- transmits info of ipsilateral, nasal visual field 
+- and contralateral temporal visual field 
+- contralateral homonymous hemianopsia 
+- only one side of both visual fields are seen 
+- MCA infarc 
+LGN = lateral geniculate nucleus 
+- gets information of the ipsilateral, nasal visual field + contralateral temporal visual field, projecting to the primary visual cortex
+- contralateral homonymous hemianopsia 
+- infarc of either MCA or pca 
+optic radiations 
+- ant/lat bundle in meyer loop which passes thru that temporal lobe in prox to inferior horn of lateral ventricel 
+	- transmits info of<mark style="background: #FFF3A3A6;"> superior visual field </mark>f<mark style="background: #FFF3A3A6;">rom lower retina </mark>
+- posterior / medial bundle - in the parietal lobe, passes internal capsule, and transmits information of the i<mark style="background: #FFF3A3A6;">nferior visual field from the upper retina </mark>
+- MCA infarc
+- in meyer loop bundle breaks = contralat upper homonymous quadrantanopsia - pie in the sky 
+- posterior/medial superior bunel - contralateral lower homonymous quadrantanopsia - pie on the floor 
+- visual cortex - contralat homonymous hemianopsia with macular sparing = PCA infarc 
+
+---
+inborn errors of metabolism - enzyme defects and accumulation of toxic substances in the body 
+mitochondrial myopathies - impaired energy production , main impact on the brain bc it uses a lot of energy 
+- rare , maternal 
+- variable expression bc heteroplasmy 
+- impaired ox phos -> dec energy , lack of ATP , <mark style="background: #FFF3A3A6;">upregulation of glycolysis therefore overprod pyruvate and accumulate lactate + alanine</mark>
+- <mark style="background: #FFF3A3A6;">uscle biopsy - if we take it we see ragged red fibers, caused by subsarcolemmal + intermyofibrillar accumulation of mt stain red...</mark>
+- normal CK, elevated lactate+ala in everything 
+- crystal inclusions in mitochondria 
+1. MELAS = encephalomyopathy, <mark style="background: #FFF3A3A6;">lactic acidosis, stroke like episodes</mark>
+	1. see tonic clonic seizures and muscle weakness 
+2. MERRF = myoclonic /twitch epilepsy 
+	1. destruction of proteins in ox phos, generalized seizures, 
+	2. cerebellar ataxia
+	3. dementia 
+3. CPEO - chronic progressive external opthalmoplegia with bilat ptosis?
+4. LHON - leber heriditary optic neuropathy 
+	1. <mark style="background: #FFF3A3A6;">common in teens + YA!!! more male</mark>
+	2. point mutation -> complex 1 dysfunction in the ETC 
+	3. cell death of otptic nerve neurons 
+5. LEIGH SYNDROME
+	1. mainly caused by mutation of nuclear but can be mt DNA 
+	2. <mark style="background: #FFF3A3A6;">disruption of complex 1...</mark>
+	3. v/diarrhea, dysphagia, growth stunting, hypotonia, dystonia, ataxia, 
+	4. rapidly progressive psychomotor regression 
+	5. opthalmoparesis, nystagmus, optic atrophy
+	6. peripheral neuropathy 
+	7. hypertrophic cardiomyopathy 
+amino acid metabolism dz = all AR
+6. PKU = defective phenylalanine hydroxylase classic 
+7. PKU malignant = deficient tetrahydrobiopterin - requires BH4 supplementation in addition to dietary phenylalanine restriction + tyrosine supplementatoin 
+	1. in both cases, phenylalanine accumulates ; 
+	2. impaired converting phen -> tyrosine so tyrosine is nutritionally essential. 
+	3. for hyperphenylalanemia due to no conversion to tyrosine -> lower catecholamines .... 
+	4. so lower synthesis of <mark style="background: #FFF3A3A6;">serotonin bc bh4 is a cofactor for tryptophan hydroxylase... see deficiencies of neurotransmitters.</mark>
+	5. musty odor- bc inc in aromatic AA. 
+	6. maternal pku infants = microcephaly, facial dysmorphisms, congenital heart defects, intellect disability 
+	7. light skin + hair, + blue eyes
+	8. growth delay , psychomotor delay,
+	9. seizures
+	10. eczema 
+8. homocystinuria - 
+	1. deficiency in : methionine synthase, cystathione synthase, methylnetetrahydrofolate reductase 
+		1. cystathione synthase - catalyzes homocysteine + serine -> cystathionine using B6 
+			1. serum methionine increases. 
+			2. low methionine , high cysteien diet 
+		2. methionine synthase = impaired conversion of homocysteine to cystathionine. 
+			1. serum methionine lvls dec 
+			2. need a high methionine diet 
+		3. MTHFR = methylenetetrahydrofolate reductase... = involved in folate metabolism that reduces the N5,10-methylenetetrahydrofolate to methyltetrahydrofolate.... 
+	2. accumultion of homocystine 
+	3. marfanoid feats, 
+	4. <mark style="background: #FFF3A3A6;">downward lens subluxation </mark> = what sets it apart from actual marfans in spite of marfanoid features. 
+	5. thromboembolism 
+	6. <mark style="background: #FFF3A3A6;">urine sodium nitroprusside test - urine turns red in presence of homocysteine...</mark>
+	7. progressive intellectual disability, psych and behavior disorders
+	8. light skin 
+	9. osteoporosis 
+	10. TREAT: <mark style="background: #FFF3A3A6;">some ppl respond to large pyridoxine B6 ... and stuff bc the impaired affinity of cystathionin synthase can happen for B6 </mark>
+9. hartnup disease - impaired Na+ dependent neutral AA transporter on enterocytes and prox renal tubular cells
+	1. decreased renal and intestinal absorption of tryptophan = <mark style="background: #FFF3A3A6;">inability to make B3 !!! niacin!!!</mark>
+	2. tryptophan buildup 
+	3. B3 deficiaency = pellagra, cerebellar ataxia 
+	4. niacin def = glossitis and 3Ds = diarrhea, dermatitis, dementia . 
+	5. only way to dx = too many neutral AAs
+	6. TREAT: high protein diet to replinish constant loss of AAs in small intestine + prox renal tubule + supplements 
+10. alkaptonuria - lack of homogentisic acid dioxygeniase
+	1. <mark style="background: #FFF3A3A6;">homogentisate</mark> buildup ; due to mutation in <mark style="background: #FFF3A3A6;">HGD gene, impaired tyrosine catablism due to the deficiency.</mark>
+	2. <mark style="background: #FFF3A3A6;">ochronosis</mark> - bluish black discoloration of cartilage, tendons, skin, etc 
+	3. <mark style="background: #FFF3A3A6;">sweat turns black when exposured to air and other body fluids too</mark> 
+	4. arthritis
+	5. nephrolithiasis 
+	6. impaired conversion of homogentisate -> 4-maleylacetoacetate. 
+	7. tissue discoloration + organ dmg 
+	8. usually benign tho 
+	9. cartilage might be attacked causing arthritis!!! 
+11. maple syrup urine dz - 
+	1. absent or deficient branched chain alpha ketoacid dehydrogenase def 
+	2. branched chain AAs build up = valine, leucine, isoleucine ; elevated alpha-ketoacid formation. 
+	3. sweet urine 
+	4. intellectual disability 
+	5. vomiting, lethargy, poor feeding
+	6. TREAT: avoid foods with branched chainAAs, and supplement with <mark style="background: #FFF3A3A6;">thiamine which is a cofactor of br chain alpha ketoacid dehydrogenase!!!!</mark>
+12. cystinuria - impaired renal absorption of dibasic AAs - like cystine, ornithin, arginine, lysine 
+	1. see cystine in urine 
+	2. disruption of AA transporter in the prox tububle , so accumulation of this in the urine - hexagonal cystine stones!!! 
+	3. recurrent nephrolithiasis - hexagonal cystine stones 
+	4. TREAT: hydration, urinary alkalinization - acetazolamide, potassium citrate, and penicillamine the chelating agent 
+13. organic acidemias
+	1. propionic acidemia - no propionyl coa carboxylase , buildup propionic acid 
+		1. see amonia  build up
+		2. impaired conversion of propionyl-coa to MMA -> high propionic acid and low MMA ...
+	2. methylmalonic acidemia - deficient methylmalonyl coa mutase
+		1. methyllmalonic acid buildup and ammonia buildup 
+		2. <mark style="background: #FFF3A3A6;">can be missing the mutase OR be B12 deficient.</mark>
+		3. MMA -> succinyl coA by the MMA mutase... which requires B12 
+	3. both have vomiting, feeding hard, growth faltering 
+	4. reason for high ammonia - <mark style="background: #FFF3A3A6;">due to the urea cycle inhibition !!! gluconeogenesis inhbition too bc of hypoglycemia during fasting periods and inc risk ketoacidosis</mark>
+	5. lethargy 
+	6. hypotonia, seizures, intellectural disability/delay, 
+	7. <mark style="background: #FFF3A3A6;">hepatomegaly</mark>
+	8. hypoglycemia during fasting
+	9. <mark style="background: #FFF3A3A6;">ketoacidosis</mark> 
+	10. TREAT: diet low in proteins, esp in these acids... 
+14. pyruvate dehydrogenase complex deficiency 
+	1. impaired X linked recessive or AR... 
+	2. PDC absent -> no converstion of pyruvate to Acetyl coa, -> citrate down -> impaired TCA, energy deficit and dysfunction 
+	3. <mark style="background: #FFF3A3A6;">excess pyruvate to the cahill cycle to make lactate and alanine</mark>
+	4. TREAT: keto diet
+
+fatty acid metabolism 
+- AR - all lead to hypoketotic hypoglycemia, liver function decrease, encephalopathy with seizures, coma, lethargy 
+- `this happen bc elevated concentrations of fatty acyl-coA in the blood`, very impacted by prolonged fasting and inc metabolic demand like exercise 
+1. MCAD - deficiency in medium chain brkdown 
+	1. acyl coAs accumulate, 
+	2. vomitting, cns symptoms, cardiopulm collapse 
+	3. low ketone, hypoglycemia, hyperammonemia , metabolic acidosis 
+2. LCHAD - deficient long chain hydroxyacyl-coa dehydrogenase
+	1. long chain ones build up, 
+	2. <mark style="background: #FFF3A3A6;">cardiomyopathy, peripheral neuropathy, retinopahty, skeletal myopathy, rhabdomyolysis -  breakdown of skeletla msucle</mark>
+	3. poor feeding, growth faltering, irritability, lethargy, hypoglycemia 
+	4. ketones down,,, and hyperammonemia, metabolic acidosis 
+	5. more 3-hydroxydicarboxylic acid in urine 
+3. primary carnitine deficiency - defective carnitine transporter
+	1. <mark style="background: #FFF3A3A6;">long chain FA buildup</mark>
+	2. leads to renal loss, systemic carnitine def, impaired fatty acid ox of the carnitine transporter
+	3. -> imapired <mark style="background: #FFF3A3A6;">entry of long chain FAs into mitochondria due to carnitine dependent shuttle - impaired beta oxidation metabolism... so less gluconeogenesis bc no energy prod from FA = no prod of ketones = hypoketotic hypoglycemia...</mark>
+	4. dilated cardiomyopathy, hypotonia, weakness , liver dysfunction 
+	5. 
+4. carnitine palmitoyltransferase II deficiency - CPT II deficiency 
+	1. long chain acylcarnitines 
+	2. cardiomyopathy, skeletal myopathy, rhabdomyolysis 
