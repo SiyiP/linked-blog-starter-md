@@ -1729,7 +1729,125 @@ fatty acid metabolism
 	2. leads to renal loss, systemic carnitine def, impaired fatty acid ox of the carnitine transporter
 	3. -> imapired <mark style="background: #FFF3A3A6;">entry of long chain FAs into mitochondria due to carnitine dependent shuttle - impaired beta oxidation metabolism... so less gluconeogenesis bc no energy prod from FA = no prod of ketones = hypoketotic hypoglycemia...</mark>
 	4. dilated cardiomyopathy, hypotonia, weakness , liver dysfunction 
-	5. 
 4. carnitine palmitoyltransferase II deficiency - CPT II deficiency 
 	1. long chain acylcarnitines 
 	2. cardiomyopathy, skeletal myopathy, rhabdomyolysis 
+	3. CPT2 normally <mark style="background: #FFF3A3A6;">removes LCFAs in the mitochondria which is necessary for FA oxidation... so we see carnitine can't be removed from LCFAs...</mark>
+	4. carnitine stuck on the fatty acids = no substrate for gluconeo and ketogenesis 
+	5. <mark style="background: #FFF3A3A6;">rise in ALT and AST happens too!!</mark>
+	6. diet low in long chain triglyceride , high in MCAD FAs and high in carbs 
+
+purine salvage deficiencies 
+1. lesch-nyhan syndrome - <mark style="background: #FFF3A3A6;">X linked </mark>recessive 
+	1. <mark style="background: #FFF3A3A6;">defect in enzyme hypoxanthine-guanine phosphoribosyltransferase HGPRT</mark> -> impaired conversion of hypoxanthine to IMP and guanine to GMP... -> resulting in an <mark style="background: #FFF3A3A6;">overproduction of uric acid </mark>
+	2. <mark style="background: #FFF3A3A6;">orange sand-like sodium urate crystals - can be found in the diapers of infants with hyperuricemia</mark>
+	3. pyramidal and extrapyramidal symptoms 
+	4. dev delay + cognitive impairment 
+	5. <mark style="background: #FFF3A3A6;">gouty arthrits, urate nephropathy = uric acid accumulation</mark>
+	6. aggression self-injurious behavior 
+	7. DX: hyperuricemia, HGPRT gets lower, macrocytosis (Megaloblastic anemia may occur)
+	8. TREAT: reduce uric acid lvls like with allopurinol, febuxostat, low-purine diet 
+	9. HGPRT = he's got purine recovery troubles OR hyperuricemia, gout, poor intellect, rage/aggression, abnormal muscle tone 
+2. adenosine deaminase deficiency 
+	1. impaired metabolism of deoxyadenosine during DNA breakdown 
+	2. AR
+	3. deficiency in adenosine deaminase -> lower brkdown of adenosine and deoxyadenosine -> deoxyadenosine dATP accumulation -> enzyme activity ribonucleotide reductase -> lymphocyte toxicity -> immunodeficiency 
+	4. clinical features - recurrent infections that are severe, growth faltering. 
+
+urea cycle disorders 
+ornithine transcarbamylase deficiency - OTC deficiency = most common 
+- X linked recessive - 
+- defective ornithine transcarbmylase - carbamoyl phosphate and orotic acid accumulation 
+- most common 
+- can't excrete ammonia 
+- defect in enzyme ornithine transcarbamylase -> <mark style="background: #FFF3A3A6;">impaired conversion of carbamoyl phosphate and ornithine to citrulline and phosphate</mark> -> ammonia can't eliminated and accumulates 
+- conversion of<mark style="background: #FFF3A3A6;"> excess carbamoyl phosphate to orotic acid </mark>occurs as part of the pyrimidine synthesis pathway 
+- first days of life but can develop at any age , n/v , irritability, poor feeding 
+- delayed growth and cognitive impairment 
+- in severe metabolic encephalopathy with coma and death 
+- <mark style="background: #FFF3A3A6;">does NOT cause Megaloblastic anemia </mark> = large, nucleated RBC precursors that contain uncondensed chromatin, caused by DNA inhibition of synthesis from B12 or folic acid deficiency, leading to G2 cell arrest, and immature nuclei compared to cytoplasm 
+- hyperammmonemia obviously, <mark style="background: #FFF3A3A6;">orotic acid due to excess carbamoyl phosphate turning into it for pyrimidine synthesis!</mark>, BUN down!!! (signifies completion fo the urea cycle after protein degradation.)
+- c<mark style="background: #FFF3A3A6;">itrulline goes down in the serum </mark>
+- reduce sr ammonia an<mark style="background: #FFF3A3A6;">d arg supplementation to promote urea formation!! </mark>
+2. arginase deficiency - AR 
+	1. impaired conversion of arginine to ornithine... accumulation of ammonia + arginine in the serum 
+	2. acute - episodic hyperammonemia - 
+		1. often asymptomatic 
+		2. triggered by metabolic stress - infections, trauma, surgery 
+	3. chronic - delayed growth, poor cog def 
+	4. <mark style="background: #FFF3A3A6;">progressive spasticity - esp of lower extremities</mark>
+	5. dystonia, ataxia, seizures 
+	6. DX" arginine, and normal/mildly elevated, , and orotic acid up in urine/blood, BUN down 
+	7. TREAT: low protein 
+3. carbamoyl phosphate synthetase 1 - CPS1 deficiency 
+	1. CPS1 gene mutations and subsequent **hyperammonemia**
+	2. due to N-acetylglutamate synthase deficiency 
+	3. suspect this if clinical features in hyperammonemia, <mark style="background: #FFF3A3A6;">high lvls of ammonia + ornithine and normal urea cycle enzymes!! a dx of exclusion?</mark>
+4. orotic aciduria - elevation of orotic acid ; de novo pyrimidine synthesis 
+	1. defective <mark style="background: #FFF3A3A6;">UMP synthase</mark>
+	2. AR
+	3. UMP synthase normally converts orotic acid into uridine monophosphate 
+	4. de novo pyrimidine syn deficiency, growth faltering in early childhood, delayed physical and mental dev
+	5. <mark style="background: #FFF3A3A6;">megaloblastic anemia, doesn't respond to folate/B12 supplementation</mark>
+	6. orotic acid crystalluria 
+	7. hb down, MCV up, orotic acid up, but normal ammonia lvls nad BUN
+
+---
+sarcoidosis - noncaseating granuloma formation, in <mark style="background: #FFF3A3A6;">lungs and hilar lymph nodes</mark>
+- constitutional symptoms, cough dyspnea ; arthritis, erythema nodosum, anterior uveitis 
+- <mark style="background: #FFF3A3A6;">lupus pernio - pathognomonic, excessive, violaceous skin plaques on nose, cheeks, chin and ears. and butterfly rash.</mark>
+	- plaques - elevated skin lesions that are larger and well demarkated 
+- cxray for this = <mark style="background: #FFF3A3A6;">bilateral hilar lymphadenopathy with or without ground glass opacities/pulmonary infiltrates</mark>
+- this is also restrictive spirometry!!!
+- 30-55 yrs , more male than fem 
+- widespread immune mediated formatoin of noncaseating granulomas 
+- inhalation of foreign antigen -> monocyte -> activation of nterstitiall dendritic cells and alveolar macrophages 
+- the interstitial dendritic cells- migrate towards mediastinal lymph nodes and alveolar macrophages which differeentiate ... -> <mark style="background: #FFF3A3A6;">they serve as antigen presenting cells to the circulating T helper Th cells...</mark>
+- t cell recruitment and B cell activity increases-> making local immune hyperactivity then noncaseating granulomas = <mark style="background: #FFF3A3A6;">macrophage collection without central necrosis!</mark>
+mature granulomas - epithelioid cells and macrophages that are surrounded by lymphocytes + fibroblasts, 
+- macrophages activate Th1 , which the macrophage would secrete IL-12 which stimulates differentiation of CD4+ Th cells into Th1 cells, a subset which activates macrophages + cytotoxic T cells (induced by IL-12 and IFN-gamma)
+	- inhibited by IL-4 and IL-10 
+- Th1 cells then stimulate the formtaion of epithelioid cells and <mark style="background: #FFF3A3A6;">multinucleated giant cells by releasing IFN-gamma</mark>
+- epithelioid cells will then make ACE and release cytokines to get more immune cells. 
+- fibrosis !!! = from epithelioid cells secreting cytokines that recruit fibroblasts 
+- <mark style="background: #FFF3A3A6;">calcium dysregulation = from activated pulm alveolar macrophages -> higher 1-alpha hydroxylase expression -> more calciTRIOL, the 1,25-dihydroxyvitamin D-> hypervitaminosis D -> hyperphosphatemia, hypercalcemia, and then renal failure</mark>
+	- note macrophages lack negative feedback usually present in 1-alpha hydroxylase of kidney cells
+	- so elevated lvls of active calcitriol or vitamin D leads to inc ca resorption...  = <mark style="background: #FFF3A3A6;">hypercalcemia</mark> 
+	- elevated ca levels 
+	- inc risk of nephrocalcinosis + renal failure 
+
+compare to hodgkin lymphoma 
+- hx of infectous mononucleosis - this means like highly contagious,, EBV!!!
+- bimodal age distrib, 
+- painless lymphadenopathy, typically first cervical then the spread happens. 
+- <mark style="background: #FFF3A3A6;">b symptoms = night sweats and weight loss and fever...</mark>
+- elevated or dec WBC, anemia, eosinophilia 
+- <mark style="background: #FFF3A3A6;">CD15/30 positives since it's from B cells.</mark>
+- alcohol induced <mark style="background: #FFF3A3A6;">pain!! noncaeasting granulomas but also reed-sternberg cells</mark>
+![[reed-sternberg hodgkin lymphoma.png]]
+these are large, multinucleated primarily from B-lymphocytes - typically bilobed nucleus with dark centers and an <mark style="background: #FFF3A3A6;">owl eye apperance.</mark>
+1. nodular sclerosing classical HL - NSHL = most common, good prognosis ... reed-sternberg cells are in lacunae separated by collagenous tissue with sclerosing apperance meaning = hard tissues, more collagen 
+2. mixed cellularity classical HL- MCHL- in <mark style="background: #FFF3A3A6;">immunocomppromized pts, nodules with inc number of histiocytes, eosinophils and plasma cells</mark>
+3. lymphocyte-rich classical HL = rare, very good prognosis with the RS cell, and then reactie lymphocytosis causing distortion of structure of lymph node 
+4. lymphocyte depleted classical HL - inmmunocompromised, dec number of lymphocytes, poor prognosis \
+5. lymphocyte predominant hodgkin lymphoma - very good prognosis, presence of popcorn cells, lymphocyte predominant cells have CD20, and CD45 unlike classical. 
+
+
+non-hodgkin lymphomas - 
+- also infection but like ebv or helicobacter pylori 
+- indolent lymph node enlargement
+- splenomegaly 
+- bone marrow suppression and large abd mass. like in burkitt lymphomas 
+- noncaseating granulomas without reed-sternburgs etc. 
+
+pneumoconiosis - exposure to silica - chronic productive cough . 
+- noncaseating granulomas and silica or asbestos bodies
+
+tb -immunocompromised, 
+- fever, weight loss, night sweat,, productive cough 
+- hemoptysis
+- acid fast = m tuberculosis 
+- <mark style="background: #FFF3A3A6;">caseating</mark> granulomas ;; and langerhans giant cells 
+
+---
+pulmonary functi
