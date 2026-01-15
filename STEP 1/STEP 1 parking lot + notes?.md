@@ -1737,9 +1737,11 @@ fatty acid metabolism
 	5. <mark style="background: #FFF3A3A6;">rise in ALT and AST happens too!!</mark>
 	6. diet low in long chain triglyceride , high in MCAD FAs and high in carbs 
 
-purine salvage deficiencies 
+purine salvage deficiencies  - 
 1. lesch-nyhan syndrome - <mark style="background: #FFF3A3A6;">X linked </mark>recessive 
 	1. <mark style="background: #FFF3A3A6;">defect in enzyme hypoxanthine-guanine phosphoribosyltransferase HGPRT</mark> -> impaired conversion of hypoxanthine to IMP and guanine to GMP... -> resulting in an <mark style="background: #FFF3A3A6;">overproduction of uric acid </mark>
+		1. basically prpp can't be made into gmp nor imp.
+		2. <mark style="background: #FFF3A3A6;"> compensatory rise in purine synthesis with PRPP amidotransferase activity!!!</mark> so the xanthine made at the end of de novo == becomes the uric acid due to xanthine oxidase . 
 	2. <mark style="background: #FFF3A3A6;">orange sand-like sodium urate crystals - can be found in the diapers of infants with hyperuricemia</mark>
 	3. pyramidal and extrapyramidal symptoms 
 	4. dev delay + cognitive impairment 
@@ -1747,12 +1749,18 @@ purine salvage deficiencies
 	6. aggression self-injurious behavior 
 	7. DX: hyperuricemia, HGPRT gets lower, macrocytosis (Megaloblastic anemia may occur)
 	8. TREAT: reduce uric acid lvls like with allopurinol, febuxostat, low-purine diet 
-	9. HGPRT = he's got purine recovery troubles OR hyperuricemia, gout, poor intellect, rage/aggression, abnormal muscle tone 
-2. adenosine deaminase deficiency 
+	9. HGPRT = he's got purine recovery troubles OR hyperuricemia, gout, poor intellect, rage/aggression, abnormal muscle tone .... or
+		1. Hyperuricemia 
+		2. Gout
+		3. Pissed off
+		4. red orange crystals in urine 
+		5. tense muscles dystonia
+2. adenosine deaminase deficiency -> SCID!!
 	1. impaired metabolism of deoxyadenosine during DNA breakdown 
 	2. AR
 	3. deficiency in adenosine deaminase -> lower brkdown of adenosine and deoxyadenosine -> deoxyadenosine dATP accumulation -> enzyme activity ribonucleotide reductase -> lymphocyte toxicity -> immunodeficiency 
-	4. clinical features - recurrent infections that are severe, growth faltering. 
+	4. cannot make inosine means purine metabolites like deoxyadenosine builds up in lymphocytes -> death in lymphocytes!!!
+	5. clinical features - recurrent infections that are severe, growth faltering. 
 
 urea cycle disorders 
 ornithine transcarbamylase deficiency - OTC deficiency = most common 
@@ -1850,4 +1858,67 @@ tb -immunocompromised,
 - <mark style="background: #FFF3A3A6;">caseating</mark> granulomas ;; and langerhans giant cells 
 
 ---
-pulmonary functi
+pulmonary function testing 
+- TLC - air after max inhalation vol = 6-6.5l
+- vital capacity - vol bt maximal exhalation and max inhalation = 4.5-5 L 
+- residual vol = after maximal exhalation, remaining 1-1.5 L 
+- Tidal vol = ~500 mL 
+altered pfts. 
+in obstructive lung disease: 
+- FEV or the forced expiratory vol in 1 sec = falls... <80% of the base 
+- FEV/FVC(forced vital capacity) is lower bc of FEV1 being lower 
+- VC vita capacity is lower. 
+- flow volume loop shows scalloppin of the expiraotyry limb - 
+	- air trapped in alveoli bc flow rate during expiraion is initially very slow bc of bronchial collapse in over compliant lung 
+- <mark style="background: #FFF3A3A6;">RV is higher, and TLC is higher to normal. FRC or functional residual capacity is by effect higher too.</mark>
+- variable DLCO or transfer factor for CO
+	- this means ability of lungs to transfer gas from inhaled air to rbcs in the pulm capillaries. 
+	- lower in emphysema, normal in bronchial asthma 
+1. copd, bronchial asthma, bronchiectasis, Cystic fibrosis. 
+2. narrowing of extrathoracic airways, etc. AA gradient alwyas going up 
+	1. diff bt pressure of o2 in alveoli and arteries. normally like 5-10 mmhg ..
+	2. as it goes up, it's increasing with ventilation perfusion mismatch 
+
+in restrictive lung dz : 
+- normal or lower slightly FEV1
+- normal or slighly higher FEV1/FVC bc the FVC falls!!! 
+- lower Vital capacity 
+- narrow flow vol looop 
+- normal or lower residual vol 
+- FRC and TLC are all low. 
+- variable DLCO ; normal extrinsic causes, but low if intrinsic causes 
+1. sarcoidosis , insterstitial lung dz - ards, idiopathic pulm fibrosis, etc. 
+2. extrinsic causes - chronic pleural effusion, pleural adhesion, kyphoscoliosis, ankylosig spondylitis, obesity, resp muscle weakness too 
+
+---
+myasthenia gravis - autoimmune dz of nmj 
+- weakness that worsens with activity, improves with rest. 
+- autoantibodies towards <mark style="background: #FFF3A3A6;">postsynaptic molecules like acetylcholine receptors AchR....</mark>
+- association with thymoma , or thymic hyperplasia 
+- thymus involved bc <mark style="background: #FFF3A3A6;">myoid cells in thymus express AChR -> autoreactive targetting by T cells</mark> -> production of ACH receptor antibodies 
+- eye muscles - diplopia + blurred vision, difficulty chewing and swallowing, proximal muscle weakness 
+- normal deep tendon reflex 
+- TREAT: pyridostigmine bc cholinesterase inhibitor, !!! 
+
+---
+lambert-eaten myasthenic syndrome LEMS
+- proximal muscle weakensa + autonomic dysfunction 
+- paraneoplastic - small cell lung carcinoma association 
+- autoantibodies against <mark style="background: #FFF3A3A6;">presynaptic voltage gated ca channels -> ca influx down - > less presynaptic vesicle fusion, no ACH release.</mark>
+- proximal m weakness means it <mark style="background: #FFF3A3A6;">will improve with repetitive or ongoing use, reduced or no reflexes,</mark>
+- dry mouth, constipation, erectile dysfunction 
+- lambert sign = hand grip strength graudlaly inc over several seconds. 
+
+---
+lynch syndrome/HNPCC
+- AD mutation in mismatch repair genes, varied penetrance
+- adenomas -> carcinomas, colorectal cancers, earlier symptom onset compared to sporadic colorectal cancer
+- also other cancers like endometrial, gastric, ovarian cancer. 
+- MLH1, MSH2, MSH6, PMS2 = <mark style="background: #FFF3A3A6;">microsatellite instability.</mark>
+	- microsatellites are repeated 2-6 nucleotide sequences, defects here cause these dna regions to expand.
+- symptmatic til crc develops. usually the right or proximal colon
+1. <mark style="background: #FFF3A3A6;">turcot syndrome - presence of lynch syndrome and BRAIN tumors like gliomas</mark>
+confirmatory test- germline testing 
+
+---
+biostats specific stuff
