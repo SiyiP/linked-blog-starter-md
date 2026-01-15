@@ -1922,3 +1922,61 @@ confirmatory test- germline testing
 
 ---
 biostats specific stuff
+2x2 table 
+
+|                         | disease outcome | no disease/oucome | total   |
+| ----------------------- | --------------- | ----------------- | ------- |
+| exposure/risk factor    | a               | b                 | a+b     |
+| no exposure/risk factor | c               | d                 | c+d     |
+|                         | a+c             | b+d               | a+b+c+d |
+absolute risk - likelihood of an event happening under specific conditions, equal to the <mark style="background: #FFF3A3A6;">cumulative incidence, which is = incidence rate * the time of follow up</mark>
+- measure prob of individual in a study population gettin gan outcome 
+- cohort studies - observational analytical study in which grp of ppl with and without exposure to something is monitored over time to see whether it's associated wiht an outcome. can be prospective or retrospective. 
+- = number of new cases / total ppl in a study group 
+- a+c / a+b+c+d = absolute risk 
+
+relative risk = (a/(a+b))/(c/(c+d))
+- compare prob of outcome happening in an exposed group to the prob of it happening to the unexposed group. 
+- 1+ = <mark style="background: #FFF3A3A6;">exposure inc risk of the outcome</mark>
+
+odds ratio (a/c)/(b/d) = (ad/bc)
+- measure of assocition bt exposure + event / outcome - an event happening in the presence of a particular exposure divided by the event/ outcome of it happening in the absence of it!! 
+- CASE control studies, observational study that retroactively compares exposure status with the outcome to the exposure status of indivduals without the outcome. 
+- OR 1+ = outcome is more likely to occur in exposed individuals 
+
+hazard ratio = effect of an intervention on the outcome at any point 
+- HR>1 = the outcome of interest's more likely to happen in exposed individuals 
+
+Attributable risk = a/(a+b) - c/(c+d) ; absolute risk attributable to exposure in that exposed group... incidence rate in exposed group - incidence rate in unexposed. 
+- cohort studies
+- to measure the excess risk of an outcome attributed to the exposure. 
+
+attributable risk percentage ARP = (RR-1) / (RRx 100)
+alternatively,, AR/incidence of dz in the exposed group times 100
+
+absolute risk reduction ARR = c/(c+d) - a/(a+b); 
+- diff in risk attributable to exposure as compared to a nonexposure. risk in non exposed group - risk in exposed. 
+
+relative risk reduction RRR = 1-RR
+measure of risk - the propportion of decreased risk <mark style="background: #FFF3A3A6;">due to an intervention compared to the control group</mark>
+
+absolute risk reduction / risk difference / ARR
+- diff bt risk in exposure group after intervention and the risk in the nonexposure group 
+= absolute risk in unexposed - absolute risk in exposed = c/(c+d) - a/(a+b)
+
+number needed to treat is NNT = 1/ARR
+- number of ppl that MUST be treated in a particular time period for one person to benefit from treatment. 
+- inverse the to effective ness of a treatment or the ARR
+
+number needed to harm NNH = 1/AR 
+- number of individuals who need to be exposed to risk factor be4 one develops disease or injury 
+- direct correlation to the <mark style="background: #FFF3A3A6;">safety of the exposure.</mark>
+
+positive prediction value  = true poz / (true poz + false neg) = all subjects with positive test results is TP+FP
+
+Negative predictive value = true neg / (false neg + true neg)
+- likelihood that person with negative test doesn't have the condition being tested
+
+sensitivity = true poz rate = TP / (TP+FN)
+
+specificity = true negative rate = TN / (FP+TN)
