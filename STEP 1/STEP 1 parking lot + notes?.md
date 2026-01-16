@@ -23,7 +23,7 @@ down syndrome
 
 turners
 - webbed neck, 
-- coarctation f aorta(narrowing of aorta distal to L subclavian artery = upper extremity htn and weak femoral pulses.)
+- <mark style="background: #FFF3A3A6;">coarctation f aorta</mark>(narrowing of aorta distal to L subclavian artery = upper extremity htn and weak femoral pulses.)
 	- this causes <mark style="background: #FFF3A3A6;">brachial-femoral pulse delay, delay in palpable pulses bt brachial + femoral arteries</mark>
 	- often asymptomatic in kids 
 - bicuspid aortic valve 
@@ -1978,5 +1978,92 @@ Negative predictive value = true neg / (false neg + true neg)
 - likelihood that person with negative test doesn't have the condition being tested
 
 sensitivity = true poz rate = TP / (TP+FN)
+- this means the proportion of ppl with the dz who actually test positive
+- this high sensitivty means low false negative rate... often used for screening 
 
 specificity = true negative rate = TN / (FP+TN)
+- this means ppl without the dz who actually test negative, 
+- high specificity means low false poz rate, so this is to confirm dx. 
+
+TEST EFFICIENCY = (TP+TN)/(TP+FN+FP+TN)x100
+- this means that the true results over the rest 
+
+positive likelihood ration LR+ 
+- ratio of sensitivity true poz rate to the false poz rate 
+- LR = TP rate / FP rate = sensitivity / (1-specificity)
+- LR bigger than 10 means it's good at ruling this dz in 
+negative likelihood
+- FN rate / TN rate = (1-sensitivity) / specificity 
+- LR <.1 = test is good at ruling out or screening for disease. 
+---
+acyanotic Heart defects 
+1. ASD - defect in interatrial septum, L-> R shunt , RA and RV vol overload!!!
+	1. down syndrome 
+	2. fetal alcohol syndrome 
+	3. TORCH
+	4. look out for paradoxycal embolisms 
+	5. in large or medium defects - exertional dyspnea, fatigue, recurrent bronchopulm infections.
+	6. systolic ejection murmur  bc of <mark style="background: #FFF3A3A6;">pulmonary stenosis </mark>and widely split heart sound bc of inc in stroke volume 
+		1. RV vol od, resulting in prolonged emptying of right ventricle and delayed closure. ofthe pulm valve. 
+2. VSD - defect in septum, Ventricular L->R shunt, RV/LV overloaded
+	1. can cause pulm htn 
+	2. maternal diabetes
+	3. down syndrome 
+	4. TORCH/intrauterine infections 
+	5. most common! usually associated with membranous part of the septum 
+	6. RV vol od = RV eccentric hypertrophy! 
+	7. excessive pulm blood flow -> inc in pulm artery pressure -> pulmonary htn. 
+	8. LV od too -> LV eccentric hypertrophy 
+	9. symptomatic after high PVR present at birth start to decrease, meaning that the RV pressure falls so the L to R shunt starts! 
+	10. usually asymptomatic, failure to thrive in larger defect tho, and bronchopulm infections, exercise intolerance and eventually heart failure.
+	11. <mark style="background: #FFF3A3A6;">holosystolic</mark> murmur!!! louder in smaller defects and maneuvers which inc left ventricular afterload = more intensity like with hand grip. 
+3. AVSD - atrioventricular septal defect - in the AV septa, L-> R shunt still possible, mainly AV valve regurg 
+	1. down syndrome 
+	2. pulm htn 
+	3. maternal diabetes too 
+	4. pulm htn and heart failure in complete form. and in both forms we have an abnormal AV valve -> regurg -> in utero heart failure or nonimmune hydrops fetalis. 
+4. patent foramen ovale - persistence after 1 yr of age 
+	1. embolic strokes might happen in adults 
+	2. asymptomatic
+	3. <mark style="background: #FFF3A3A6;">failure of atrial septum primum to fuse with septum secundum following birth -> a mild L->R shunt....</mark>
+	4. but a R to L shunt can be induced by maneuvers which inc RA pressure like valsalva 
+	5. PFO - enough tissue but <mark style="background: #FFF3A3A6;">problems with fusion.... whereas ASD just straight up is a Septal tissue difficiency</mark>
+5. patent ductus arteriosus pda - persistence of ductus arteriosus connecting main pulm artery and the aorta to divert blood from the lungs in utero... 
+	1. again a L-> R shunt from ao to pulm artery. 
+	2. fetal alc syndrome
+	3. <mark style="background: #FFF3A3A6;">congenital rubella</mark>
+	4. down syndrome 
+	5. prematurity, <mark style="background: #FFF3A3A6;">regularly the ductus arteriosis enables the underdev lungs to be bypassed by fetal circulation and remains patent in utero....</mark> but after birht the PVR is supposed to decrease, allowing the reversal of that shunt from R to L to L to R... 
+	6. but fail to close -> persistently volume overloading the pulm vessels. - continuous RV or LV strain = heart failure 
+	7. TREAT: <mark style="background: #FFF3A3A6;">indomethacin and ibuprofen to induce it by inhibiting prostaglandin synthesis - indomethacin the NSAID that blocks both COX1 and 2, as well as a good tocolytic agent to inhibit contraction.</mark>
+6. coarctation of the aorta = narrowing of arch, LV outflow OBSTRUCTION, collateral circulation, differential bps, and distal hypoperfusion 
+	1. TURNER syndrome 
+	2. acquired in takayasu arteritis and severe atherosclerosis 
+	3. narrowing of aorta -> flow proximal to the narrowing goes up and flow distal going down. 
+	4. cyanosis of lower extremities, weak femoral pulses, and bp high in upper extremities, low in lower. 
+	5. see rib notching 
+7. pulmonary valve stenosis - obstruction of outflow from R ventricle into pulm arteries during systole 
+	1. congenital usually systolic murmur and S2 wide splitting. 
+on the other hand, L-> R shunts mean 
+- oxygenated blood from lungs is shunted back to pulm circulation via the ASD/VSD/or PDA- > <mark style="background: #FFF3A3A6;">pulm htn</mark>
+- basically means that RV pressure overloaded means that Right sided heart hypertrophy, and heart failure is seen but iwith no cyanosis 
+
+R->L shunts - blood flows from the right to the left heart meaning deoxygenated blood would enter the systemic circulation -> cyanosis !!! 
+- Eisenmenger syndrome - how shunt direction can reverse... increased pulm flow from L to R shunting causes pulm htn and RV hypertrophy, so when the <mark style="background: #FFF3A3A6;">right ventricular pressure exceeds the left ventricular pressure, the R to left shunting would then occur</mark>
+	- has nail clubbing too which measns chronic hypoxemia 
+----
+many kids with duodenal stenosis or atresia get polyhydramnios from not being able to swallow amnionic fluid 
+
+omphalocele - herniation thru the umbilicus 
+- persistent herniation of midgut derivatives bc of <mark style="background: #FFF3A3A6;">impaired closure of the lateral umbilical folds,covered with amniotic membrane and peritoneum still.</mark>
+- associations with trisomies and beckwith - wiedemann syndrome 
+gastroschisis - paraumbilical herniation without formation of a hernia sac. 
+- failed formation of a sufficiently large peritoneal cavity itself -> rupture of anterior abd wall at weakes point 
+- <mark style="background: #FFF3A3A6;">this happen later in development so additional anomalies are rarely present in contrast.</mark>
+
+
+----
+
+atropine - competitive antag w/ activity against all M receptors. 
+- antidote for the muscarinic effects of achesterase 
+- 
