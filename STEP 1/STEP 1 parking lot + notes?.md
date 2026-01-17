@@ -570,7 +570,7 @@ acute disseminated encephalomyelitis - ADEM
 
 
 **brain tumors** 
-
+most often brain tumors present w seizures are often supratentorial... 
 cell type 
 1. gliomas = astrocytomas + oligodendrogliomas 
 	1. astrocytomas - are gliomas or neuroepithelial cells from astrocytes.
@@ -580,29 +580,35 @@ cell type
 	3. optic glioma - NF 1 and also slow growing and low grade , typically grade  pilocytic astorocytoma 
 	4. glioblastoma multiforme - GBM = <mark style="background: #FFF3A3A6;">malignant</mark> tumor rapid growht, abrupt onset of symptoms + death in weaks ... in older and most common malignant primary brain tumor. 
 		1. garland-like, enhanced margins with hypointense necrotic core. 
-		2. dense, pleomorphic anaplastic cells that <mark style="background: #FFF3A3A6;">pseudopalisade due to central necrosis / hemorrhage.... ****GFAP**** positive!!!! microovascular prolif</mark>
-		3. ![[gbm pseudopalisading necrosis.png]]
+		2. on CT it is <mark style="background: #FFF3A3A6;">poorly demarcated, hypodense, intraaxial lesion that infitrates white matter.</mark>
+		3. dense, pleomorphic anaplastic cells that <mark style="background: #FFF3A3A6;">pseudopalisade due to central necrosis / hemorrhage.... ****GFAP**** positive!!!! microovascular prolif</mark>
+		4. ![[gbm pseudopalisading necrosis.png]]
 		 TREAT: with temozolomide 
-		4. in <mark style="background: #FFF3A3A6;">cerebral white matter + butterfly glioma if bilateral</mark> aka crossing the corpus callosum 
+		5. in <mark style="background: #FFF3A3A6;">cerebral white matter + butterfly glioma if bilateral</mark> aka crossing the corpus callosum 
 2. choroid plexus tumors like papilloma + carcinoma 
 3. neuronal + mixed neuro-glial tumors - paraganglioma, central neurocytoma 
 4. meningiomas  = arachnoid cap cells
 	1. extra-parenchymal tumor in the supratentorial or infratentorial regions
 	2. spingle cells are in whorls
-	3. <mark style="background: #FFF3A3A6;">psammoma bodies</mark>
-	4. ![[psammoma bodies of meningiomas.png]]
+	3. on MRI, usually <mark style="background: #FFF3A3A6;">round, well circumscribed, extra-axial mass that's hyperdense!!! with homogenous enhancement!!!</mark>
+	4. <mark style="background: #FFF3A3A6;">psammoma bodies</mark>
+	5. ![[psammoma bodies of meningiomas.png]]
 5. embryonal neuroectoodermal tumors - medulloblastoma, CNS neuroblastoma
 6. pituitary - adenoma, craniopharyngioma 
+	1. see bt 35-60, headaches, seizures depending on size + location. 
+	2. endocrine disorders
+	3. <mark style="background: #FFF3A3A6;">img is an intrasellar hyperintens mass w foci of calcification or necrosis!!!</mark>
 7. pineal gland tumor = male more often, 
 	1. dorsal midbain compression 
 	2. tectum compression (structure posterior to cerebral aqueduct making roof of midbrain, containing superior + inf colliculi) = vertical gaze palsy 
 	3. cerebral aqueduct compression = noncommunicating hydrocephalus 
 	4. compressing hypothalamic inhibiting pathways = inc hCG, precocious puberty 
 8. tumors of cranial and paraspinal nerve like schwannoma, neuroma, neurofibroma 
-	1. schwannoma - schwann cells
-	2. cerebellopontine angles (infratentorial)
-	3. spindle cells in palisades alternating with myxoid areas...
-	4. <mark style="background: #FFF3A3A6;">S-100 positive?</mark>
+	1. schwannoma - schwann cellsi benign... 
+	2. sensorineural hearing loss, tinnitus and facial nerve palsy, also heterogenously hyperintense extra-axial lesions (external to the brain parencyma, rim of csf.)
+	3. cerebellopontine angles (infratentorial)
+	4. spindle cells in palisades alternating with myxoid areas...
+	5. <mark style="background: #FFF3A3A6;">S-100 positive?</mark>
 9. mesenchymal nonmeningeothelial tumors = hemangiomas, hemangioblastoma, lipoma, hamartoma 
 	1. hemangioblastomas - benign and <mark style="background: #FFF3A3A6;">highly vascular</mark>
 		1. mainly in old ppl this is in <mark style="background: #FFF3A3A6;">von hippel-lindau disease</mark>
@@ -663,6 +669,7 @@ oligodendroglioma - a type of glioma
 - presenting with headache + vom
 - in cerebral hemispheres/supratentorial ; <mark style="background: #FFF3A3A6;">in the frontal lobes thoo...</mark>
 - seizures, foocal neuro deficits + personality changes are common 
+- <mark style="background: #FFF3A3A6;">hypodense usually!</mark>, sometimes with hyperdense regions due to calcification and or hemorrhage. 
 - <mark style="background: #FFF3A3A6;">fried egg cells + chicken wire capillary anastomoses</mark>
 - and also 40-50 yo median 
 - ![[fried egg oligodendroglioma.png]]
@@ -670,6 +677,7 @@ ependymomoas
 - infratentorial region, icp symptoms 
 - from ependymal cells of the venticles...
 - but no retinal vascular changes 
+- fourth ventricle in kids and the spinal canal in adults. 
 <mark style="background: #FFF3A3A6;">- tumor in early childhood + KIDS </mark>
 - <mark style="background: #FFF3A3A6;">perivascular pseudorosettes + rod shaped blepharoplasts.</mark>
 - <mark style="background: #FFF3A3A6;">NF type 2</mark>
@@ -2065,5 +2073,56 @@ gastroschisis - paraumbilical herniation without formation of a hernia sac.
 ----
 
 atropine - competitive antag w/ activity against all M receptors. 
-- antidote for the muscarinic effects of achesterase 
-- 
+- antidote for the muscarinic effects of achesterase inhibitor poisoning - think miosis and altered consciousness... , bradycaria, lacrimation, bronchorrhea, bronchospams, urination, emesis , diarrhea = think sludge and some seizure/commas and especially resp arrest. 
+
+put on anki
+dantrolene -<mark style="background: #FFF3A3A6;"> a ryanodine receptor antagonist acts like an antidote for malignant hyperthermia </mark>
+- preventing release of ca from the sarcoplasmic reticulum. 
+
+recall - major opioid receptors - mew, k-, and delta receptors 
+
+flumazenil - competitive inhibitor of benzodiazepine activity at GABA-A receptor + treatment for benzo toxicity = 
+benzo tox = respiratory depression and altered consciousness. 
+GABA-A receptor - 
+
+phentolamine - nonselective a-adrenergic receptor antag used for hypertensive crisis . 
+
+cyproheptadine - nonspecific antag f H1, 5-HT1a , 5-HT2a receptors - used as antidote for serotonin syndrome. 
+
+what does congenital parvovirus B19 cause? - hydrops + aplastic anemia 
+
+congenital toxoplasmosis =- chorioretinitis, intracranial calcifications, hydrocephalus 
+
+congenital CMV infection - sensorineural hearing loss, chorioretinitis, periventricular calcifications, microcephaly ... also might see blueberry muffin rash too. 
+
+congenital syphilis. - sensorineural hearing loss as a late finding at 8-10 , rhinorrhea with white r bloody nasal discharge and maculopapular rash on palms and soles early on. with skeletal abnormalities like saber shins and saddle nose, notched teeth, mulberry molars and generalize lymphadenopathy 
+
+cocaine intoxication 
+
+phencyclidine intoxication 
+
+amphetamine intoxication 
+
+ipratropium bromide = blocks m receptors and prevents bronchoconstriction, for maintenance therapy to reduce obstructive airway symtpoms in pts w asthma and copd 
+
+albuterol - short acting b2 agonist... for acute asthma exacerbations and to improve spirometry metrics 
+
+methoxyflurane - inhaled anesthetic causing short acting sedation and analgesia ... 
+
+simple pneumothorax - sob, hypoxemia, reduced breath sounds, and absent tactile fremitus, but also <mark style="background: #FFF3A3A6;">absent or reduced lung markings beyond a pleural line.</mark>
+
+tension pneumothroax -  sob, hypoxemia, reduced breath sounds, and absent tactile fremitus, <mark style="background: #FFF3A3A6;">additional symptoms of this are tachycardia, hypotension, jvd, and contralateral deviation f trachia... reduced or absent lungs on xray with mediastinal shift contralaterally.</mark>
+
+positive end expiratory pressure is high within the alveoli at the end of an expiration, causing barotrauma and pneumothorax from that. 
+
+
+pneumonia - happens w difficulty breathing and an opacity on cxray.... fever, crackles and **increased** tactile fremitus is seen!!!
+
+pleural effusion - difficulty breathing, cough, hypoxemia, and reduced breath sounds and reduced tactile fremitus and **blunting of the L costophrenic angle, and sometimes shift of the mediastinum to the contralateral side.**
+
+methicillin. - antibiotics... penicillinase-resistant penicillin, 
+many AEs. 
+
+alprazolam - benzodiazepine which is short acting and can be for anxiety . 
+
+acetazolamide - carbonic anhydrase inhibitor commonly used to treat glaucoma, altitude illness, metabolic alkalosis and normal pressure hydrocephalus ... 
