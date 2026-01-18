@@ -2072,9 +2072,6 @@ gastroschisis - paraumbilical herniation without formation of a hernia sac.
 
 ----
 
-atropine - competitive antag w/ activity against all M receptors. 
-- antidote for the muscarinic effects of achesterase inhibitor poisoning - think miosis and altered consciousness... , bradycaria, lacrimation, bronchorrhea, bronchospams, urination, emesis , diarrhea = think sludge and some seizure/commas and especially resp arrest. 
-
 put on anki
 dantrolene -<mark style="background: #FFF3A3A6;"> a ryanodine receptor antagonist acts like an antidote for malignant hyperthermia </mark>
 - preventing release of ca from the sarcoplasmic reticulum. 
@@ -2097,8 +2094,6 @@ congenital CMV infection - sensorineural hearing loss, chorioretinitis, perivent
 
 congenital syphilis. - sensorineural hearing loss as a late finding at 8-10 , rhinorrhea with white r bloody nasal discharge and maculopapular rash on palms and soles early on. with skeletal abnormalities like saber shins and saddle nose, notched teeth, mulberry molars and generalize lymphadenopathy 
 
-cocaine intoxication 
-
 phencyclidine intoxication 
 
 amphetamine intoxication 
@@ -2115,7 +2110,6 @@ tension pneumothroax -  sob, hypoxemia, reduced breath sounds, and absent tactil
 
 positive end expiratory pressure is high within the alveoli at the end of an expiration, causing barotrauma and pneumothorax from that. 
 
-
 pneumonia - happens w difficulty breathing and an opacity on cxray.... fever, crackles and **increased** tactile fremitus is seen!!!
 
 pleural effusion - difficulty breathing, cough, hypoxemia, and reduced breath sounds and reduced tactile fremitus and **blunting of the L costophrenic angle, and sometimes shift of the mediastinum to the contralateral side.**
@@ -2126,3 +2120,144 @@ many AEs.
 alprazolam - benzodiazepine which is short acting and can be for anxiety . 
 
 acetazolamide - carbonic anhydrase inhibitor commonly used to treat glaucoma, altitude illness, metabolic alkalosis and normal pressure hydrocephalus ... 
+
+hypoxemia - low partial pressure of o2 in blood like pao2 <60 mmHg. 
+- high altitude
+- hypoventilation meaning PACO2 inc
+- diffusion defect = pao2 not able to push as much o2 into the blood due to <mark style="background: #FFF3A3A6;">thicker diffusion barrier like interstitial pulm fibrosis </mark>
+- v/q mismatch = blood bypass oxygenated lung (circulation problem, r to l shunt), or o2 air can't reach blood (ventilation problem, atelectasis)
+
+CO poisoning = cherry red appearance of skin , headache, etc. 
+
+methemoglobinemia = iron in heme oxidized to Fe3+, which can't bind o2... 
+- seen w/ oxidant stress like sulfa and nitrate drugs or in newborns. 
+- <mark style="background: #FFF3A3A6;">cuanosis w/ chocolate colored blood.</mark>
+- TREAT w/ IV methylene blue which reduces Fe3+ back . 
+
+low ATP->
+- Na and water build up in cell bc of NA-K pump
+- Ca+ buildup in cytosol of cell bc of Ca+ pump 
+- lactic acid build up. =low pH 
+so cellular swelling is first = reversible inury 
+then = membrane dmg is hallmark of irreversible dmg. see troponins and enzymes leaking in 
+
+cell death = loss of nucleus 
+- pyknosis = condensation 
+- karyorrhexis = fragmentationo 
+- karyolysis = dissolution 
+
+coagultaive necrosis - cell shape and structure preserved by coag of proteins but nucleus disappears 
+- for any ischemic infarc except the brain!! 
+liquefactive necrosis - liquefied - enzymatic lysis of cells
+- brain infarc bc proteolytic enzymes of microglia liquefy the brain 
+- abscess = proteolytic enzymes from neutrophils liquefy tissue
+- pancreatitis these same enzymes from pancreas 
+gangrenous necrosis 
+- coag necrosis resembling mummified tissue.... 
+- ischemia of lower limb + GI tract... 
+- called wet gangrene if superimposed infection of thes tissues occurs, causing liquefactive necrosis
+caseous
+- bc of coag + liquefactive together
+- characteristic of granulomatous inflammation bc of tb or fungaL! 
+fibrinoid necrosis
+- necrotic dmg to bv wall, leak proteins into vessel = bright pink staining of wall
+- result of malignant htn and vasculitis 
+
+apoptosis -> caspases which activate 
+- proteases brk down cytoskeleton
+- endonucleases brk down DNA 
+pathways - intrinsic mt pathway 
+- cellular injury, dna dmg or dec hormonal stim -> Bcl2 inactivation!
+- lack of Bcl2 -> cytochrome c leaking from inner mt matrix into cytoplasm, activating caspases 
+
+extrinsic r-ligand pathway 
+- FAS ligand binds FAS death receptor CD95 on target cell, activating caspases
+- TNF binds its TNF receptor on target cell 
+cytotoxic CD8+ t cell mediated
+- perforins secreted by CD8 + T cell make pores in target cell 
+- granzyme from T cell enters pores and activates caspases. 
+
+primary amyloidosis - systemic depo of AL , from ig light chain 
+- association w/ plasma cll dyscrasias like multiple myeloma 
+
+SAA - acute phase reactant in chronic inflam states, malignancy, and familial mediterranean fever - which is a dysfunction of neutrophils 
+- pts with this have high SAA during attacks which deposit as AA amyloid
+
+acute infalmmation mediators 
+- TLRs = on cells of innate system like macrophages + dendritic cells
+- activated by PAMPS on microbes 
+- CD14 = coreceptor for TLR4 on macrophages recognizes lps (pamp) on gram negative bacteria
+- activation of TLR -> upreg of NF-kB, nuclear transcription afctor that activates immune response genes 
+- also present on cells of adaptive immunity and plays a role in chronic inflam 
+
+Arachidonic acid metabolites 
+- AA released from phospholipid cell membrane by phospholipase A2 and then acted upon by cyclooxygenase or 5-lipoxygenase 
+	- cyclooxygenase makes PGs!!!
+		- PGI2, pgd2 , and pge2 = vasodiation and vascular permeability 
+		- PGE2 = pain and fever too , inc temp set point. 
+	- 5-lipo makes LTs !!!
+		- ltb4 = attracts and activates neutrophils 
+		- LTC4, LTD4, LTE4 = slow reacting substances of anaphylaxis - vasoconstriction, bronchospasm, inc vascular perm. 
+- MAST cells are activated by C3a and C5a as well as crosslinking of cell surface IgE by antigen 
+	- after histamine release, it will make AA metabolites as its delayed response particularly LTs. 
+
+classical pathway complement 
+- C1 binds IgG or IgM bound to antigen
+- Alt = microbial prods directly activate
+- mannose binding lectin pathway - MBL binds mannose on microorganisms activating complement 
+All eventually make C3 convertase which turns C3->C3a and C3b which then makes C5 convertase and then the C5b will complex with C6-9 making the MAC
+- C3a and C5a = anaphylatoxins make mast cell degranulation 
+- C5a = chemotaxis for neutrophils , integrin upreg 
+- C3b = opsonin for phagocytosis 
+
+Hagman factor Factor XII
+- made in liver
+- only activated upon exposure to subendothelial or collagen = 
+	- coag and fibrinolytic system activation 
+	- complement
+	- kinin which cleaves high molecular weight kininogen HMWK to bradykinin, mediating vasodilation + permeability , and PAIN! 
+
+neutrophils 
+selectin speed bumps on endothelial cells 
+- p selectin release from weibel-palade bodies mediated by histamine 
+- e-selectin induced by TNF and IL-1
+- they bind sialyl lewis X on leukocytes -> rolling along the vessel wall 
+
+ICAM and VCAM on endothelium upreg by TNF and IL-2 - adhesion molecules
+integrins upreg on wbcs by c5a and LTB4
+integrins x CAMs = firm adhesion to vessel wall, any deficiency in this is commonly CD18 AR defect of integrins 
+
+neutrophils attrached by bacterial prods, IL-8, C5a and LTB4
+neutrophils disappear within 24 hrs after stimulus resolution 
+
+opsinins like IgG and C3b enhance phagocytosis 
+
+chronic granulomatous disease = nadph oxidase defect
+- recurrent infections and grnuloma formation w/ catalse poz organisms 
+- colorless nitroblue tetrazolium tests 
+
+MPO deficency = defective conversion of h2o2 to hocl
+- inc risk of candida but mostly asymptomatic 
+
+macrophages will peak 2-3 days post inflammation beginning, 
+-  in resolution and healing macrophages make IL-10 and TGF-b antiinflammatory cytokines 
+- continued acute inflammation - pus formation, IL-8 from macrophages recruit additional neutrophils 
+- abscss - fibrosis surrounding acute inflammation, fibrotic growth generated by macrophages 
+- chronic inflammation - macrophages present antigen to activate CD4+ helper T cells which take it from here 
+
+chronic inflamm= presence of lymphocytes + plasma cells in tissue 
+t lymphocytes are made in marrow as progenitor t cells -> thymus develop T-cell receptor goes thru rearrangement and progenitors become CD4+ or CD8+ 
+- CD4+ - MHC class 2 (which presents the extracellular antigen, expressed on APCs)
+	- b7 on the APC binds CD28 on CD4+ helper cells giving the 2nd activation signal 
+	- Th1 subset makes IFN-gamma - activating macrophage, promoting b cell class switching from IgM to IgG 
+	- Th2 subset makes IL-4 which facillitates B cell switching to IgE and IL-5 chemotaxis and activation and class switching to IgA
+- CD8+ MHC class 1 
+	- intracellular antigen is processed + presented on MHC class 1 expressed by **all nucleated** cells and plateelets 
+	- IL-2 from Th1 = 2nd activation signal 
+	- killing via perforin and granzyme making pores and activating apoptosys or FasL doing the same 
+
+B cells made in bone marrow undergo Ig rearrangements to become naive b cells which express surface IgM and IgD 
+- activate by antigen binding -> maturation to secreting plasma cells
+- or presentation to CD4+ helpers via Class 2 = 
+	- CD40 R on B binds to CD40L on T helper 
+	- helper T cell -> secretes IL-4 and 5 =
