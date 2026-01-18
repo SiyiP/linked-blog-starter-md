@@ -2071,8 +2071,6 @@ gastroschisis - paraumbilical herniation without formation of a hernia sac.
 
 
 ----
-
-put on anki
 dantrolene -<mark style="background: #FFF3A3A6;"> a ryanodine receptor antagonist acts like an antidote for malignant hyperthermia </mark>
 - preventing release of ca from the sarcoplasmic reticulum. 
 
@@ -2260,4 +2258,90 @@ B cells made in bone marrow undergo Ig rearrangements to become naive b cells wh
 - activate by antigen binding -> maturation to secreting plasma cells
 - or presentation to CD4+ helpers via Class 2 = 
 	- CD40 R on B binds to CD40L on T helper 
-	- helper T cell -> secretes IL-4 and 5 =
+	- helper T cell -> secretes IL-4 and 5 => isotype switching etc. 
+
+granuloma = collection of epithelioid histiocytes (macrophages w/ pink cytoplasm) surrounded by giant cells + rim of lymphocytes 
+- macrophages procss + present antigen via MHC 2 to CD4+ 
+- macropahges secrete IL12, inducing CD4+ to Th1 subtype 
+- Th1 cells make IFN-y, converting macrophages to epithelioid histiocytes and giant cells 
+
+primary immunodef
+1. digeorge 22q11 3rd and 4th pharyngeal pouch developmental failure, 
+	1. no t cells bc no thymus, hypocalcemia bc no parathyroid, abnormalities of heart and vessels and face
+2. SCID
+	1. cytokine receptor defects 
+	2. Adenosine deaminase deficiency = ADA to deaminate adenosine + deoxyadenosine for excretion -> build up of these is toxic to lympohcytes 
+	3. MHC.2 deficiency 
+	4. susceptibl to fungal, bacterla, viral, protozoal, + live vaccines 
+	5. bubble baby and stem cell transplant 
+3. X linked agammaglobulinemia
+	1. complete lack of Ig due to disordered b cell maturation 
+	2. pre/pro b cells can't mature , due to mutated bruton tyrosine kinase, X linked 
+	3. presents after 6 months of life w/ recurrent bacterial, enteroviral and giardia infections, aftr the maternal antibodies wear off 
+4. Common variable immunodeficiency 
+	1. low Ig due to b or helper t defects
+	2.  recurrent bacterial, enteroviral and giardia infections in late childhood 
+	3. inc risk of autoimmune dz 
+5. IgA - 
+	1. low sr and mucosal IgA = common 
+	2. inc risk for mucosal infection, usually viral but most are asymptomatic 
+6. Hyper-IgM syndrome 
+	1. elevated IgM 
+	2. due to mutated CD40L on helper T cells or CD40 R on b cells. 
+	3. 2nd signal can't be delivered to helper t cells, so class-switching cytokinees aren't producted
+	4. low IgA, G, and E => recurrent pyogenic infections 
+7. C5-9 deficiency = neisseria infection risk 
+8. C1 eserase inhibitor deficiency 
+	1. hereditary angioedema 
+
+
+---
+negative selection of t cells is happening in the thymus medulla after the double positive cell become single positive. 
+- dendritic cells are in the medulla and the medullary epithelial cells all have antigens on the surface to see if the SP binds to any antigens there = > this will cause the cell to die bc it means it reacts to self 
+- on the medullary epithelial cell  there is a transcription factor called AIRE, which is necessary to make a subset of the self antigens on the surface. 
+- AIRE mutation causes central tolerance and for that cell to ESCAPE - develop autoimmunity which destroys endocrine glands as autoimmune poly endocrine syndrome 
+	- hypoparathyroid 
+	- adrenal failure
+	- candida 
+
+bone marrow central tolderance - b cells 
+- dendritic cells will be in the marrow having self antigens 
+	- RAG genes are re-expressed, editing the Ig light chains to make sure the cell doesn't bind to self anymore 
+	- apoptosis if we can't edit 
+
+peripheral tolerance 
+- this Fas apoptosis is huge for this when the 2nd interaction can't happen, so the CD28 CD4+ can't bind to the B7 Dendritic cell... no secondary signal ->
+- need to go thru anergy 
+- but if it doesn't go thru anergy, CD4+ t cell goes thru apoptosis!!!
+	- CD95 = FAS receptor will develop on that T cell ... and then FASL will start to appear on that T cell as well
+	- binding of the 2 cause apoptosis , and binding of the FASL on another cell -> apoptosis of other cells as well. 
+	- caspase 10 activated to cause apoptosis 
+ALPS - Fas apoptosis pathway mutations 
+- caspase 10, or FasL or FAS receptor itself 
+- IgG will be made towards things in the blood -> expanding lympoid compartments are large, lymphadenopathy and hepatosplenomegaly , and lymphomas . 
+
+regulatory T cells - protective against autoimmunity 
+- block cell activation, CTLA expressed by the T regulatory cell will bind that B7 on that B cell instead, competing with the CD4+ self reactive cell to stop that coactivation signal -> anergy 
+- t reg secretion of IL-10 (lim expression of MHC class 2 and B7 costim molecule) and TGF-b (inhibit macrophage activation)
+
+CD25+ = IL-2 receptor = regulatory t cells need IL-2 
+- CD25 polymorphisms = autoimmunity in MS and T1DM 
+FOXP3 - regulatory t regulatory cells need this phenotype as well 
+- IPEX syndrome = foxp3 mutation, immune , endocrinopathy, and enteropathy (autoiummne , diarrhea), exczema X 
+
+mediators from paracrine signalling etc
+- TGF-a = epithelial and fibroblast growth facto
+- TGF-b = important fibroblast growth factor, inhib inflammation 
+- platelet derived growth factor - for endothelium, SM and fibroblasts 
+- fibroblast growth factor - angiogenesis and skeletal dev 
+
+copper is a cofactor for lysyl oxidase - crosslinks lysine + hydroxylysine to make stable colalgen 
+
+zn - cofactor for collagenase, which replaces the type 3 collagen of granulation tissue w/ stronger type 1 collagen. 
+
+---
+in b cell lymphocytes
+- normal is kappa to lambda light chain ratio 3 to 1 
+- ratio inc to more than 6 to 1 or is inverted in monoclonal lympohmas. but maintained in hyperplasia which is polyclonal 
+
+pathoma ch 3 stuff - alphabet soup on anki 
