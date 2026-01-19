@@ -184,8 +184,21 @@ MEN 2B = <mark style="background: #FFF3A3A6;">mutiple neurinomas, mucosal neurom
 conn syndrome - inc aldosterone to renin ratio = primary hyperaldosteronism. 
 - <mark style="background: #FFF3A3A6;">constantly elevated bp, fatigue, muscle cramps, due to hypokalemia.</mark>
 
-cushing syndrome
+cushing syndrome - can be caused by exogenous glucocorticoid administration or endogenous cortisol overproduction 
 - midnight salivary cortisol - 
+- exogenous / iatrogenic cushing 
+	- prolonged glucocorticoids -> hypercortisolism -> <mark style="background: #FFF3A3A6;">decreased ACTH -> bilateral adrenal atrophy</mark>
+- endogenous - priamry hypercortisolism 
+	- ACTH-independent, autonomous overproduction of <mark style="background: #FFF3A3A6;">cortisol by adrenal gland -> ACTH suppression -> atrophy of CONTRALATERAL adrenal gland.</mark>
+- secondary hypercortisolism 
+	- pituitary adenomas - <mark style="background: #FFF3A3A6;">cushing DISEASE... -> ACTH secretion high -> bilateral adrenal gland hyperplasia</mark>
+	- ectopic ACTH  prod from a paraneoplastic syndrome like small cell lung cancer or lung NE tumors. -> ACTH high -> bilateral adrenal gland hyperplasia again. 
+- skin - stretch marks, hirsutism, acne, thin, easily bruisable skin , hyperpigmentation if secondary due to melanin over product
+	- excessive acth production bc melanocyte-stimlating hormone is cleaved from the same precursor POMC - not a feature of primary hypercortisolism 
+typically - hypenatremia, hypokalemia, metabolic alkalosis 
+- 11b-hydroxysteroid dehydrogenase converts cortisol to cortisone - preventing cortisol from binding to the renal mineralocorticoid receptor 
+	- if cortisol surge, 11b-hydroxysteroid dehydrogenase gets saturated, 
+	- excess cortisol is free to bind to mineralocorticoid receptor - causing increased water sodium retention and inc K+/H+ excretion 
 
 carcinoid syndrome - intermittent secretion of serotonin and other vasoactive substance by neuroendocrine neoplasms 
 - paraneoplastic condition of sstemic circulation and making of many hormones made by NENs = neuroendocrine neoplasms 
@@ -2356,9 +2369,18 @@ prerenal aki
 - hypovol, hypotension, cardiorenal syndrome in congestive HF. 
 - acute pancreatitis too (pain radiates to back )
 - this leads to intrinsic injury!! decreased renal perfusion -> tubular necrosis! 
+- decreased GFR - RAAS activation, aldo sterone inc, -> inc NA+ resorption, 
+- increased urine osmolality bc na and h2o is being absorbed. low sodium in urine as a finding 
+- secretion of ADH... -> inc resorption of <mark style="background: #FFF3A3A6;">h2o and urea!!!!</mark>
+- therefore <mark style="background: #FFF3A3A6;">BUN creatinine ratio increases since creatinine is still being secreted in prox tubules.</mark>
 
 intrinsic aki = direct kidney dmg 
 - ATN = ischemia due to prolonged hypotension, nephrotox drugs (GAGs, cisplatin, mthotrexate, ethylene glycol) , endogenous toxins 
+	- injury due to decreased renal blood flow like in shock. 
+	- or nephrotox substances. 
+	- <mark style="background: #FFF3A3A6;">muddy brown granular casts , epithelial casts too</mark>
+- <mark style="background: #FFF3A3A6;">with necrosis or apptosis of tubular cells, electrolytes are not resorbed, so inc na and h2o in urine = decreased urine osmol</mark>
+- meaning <mark style="background: #FFF3A3A6;">high sodium concentration in. theurine!!!!</mark>
 - acute interstitial nephritis = antibx, phenytoin , interferon, ppis, nsaids, cyclosporine , infection by legionella or strep, dandida, hcv etc. and dz like sarcoidosis 
 - vascular diseases = HUS, TTP, HTN emergency, vasculitis, glomerulonephritis 
 	- HUS
@@ -2366,4 +2388,8 @@ intrinsic aki = direct kidney dmg
 
 postrenal aki 
 - any obstruction of urinary flo, bph , tumors, stones, bleeding with clot formation
-- neurogenic bladder - due to ms, spinal le
+- neurogenic bladder - due to ms, spinal lesions, peripheral neuropathy 
+- inc retrograde hydrostatic pressure in renal tubules -> <mark style="background: #FFF3A3A6;">decreased GFR!!! -> acidosis, fluid od, and inc BUN, Na and K+</mark>
+- but note - GFR can be maintained with just one kidney.
+
+uremia - anorexia, n/v, pruritus, pericarditis, peripheral neuro and cns abnormalities and inc bleeding/infection due too too many waste products like uremia in blood bc kidney failure
