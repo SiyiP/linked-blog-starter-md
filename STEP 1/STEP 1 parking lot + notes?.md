@@ -2132,6 +2132,7 @@ methemoglobinemia = iron in heme oxidized to Fe3+, which can't bind o2...
 - <mark style="background: #FFF3A3A6;">cuanosis w/ chocolate colored blood.</mark>
 - TREAT w/ IV methylene blue which reduces Fe3+ back . 
 
+pathomas ch1-3 
 low ATP->
 - Na and water build up in cell bc of NA-K pump
 - Ca+ buildup in cytosol of cell bc of Ca+ pump 
@@ -2345,3 +2346,6 @@ in b cell lymphocytes
 - ratio inc to more than 6 to 1 or is inverted in monoclonal lympohmas. but maintained in hyperplasia which is polyclonal 
 
 pathoma ch 3 stuff - alphabet soup on anki 
+
+---
+pathoma 4-6? 
