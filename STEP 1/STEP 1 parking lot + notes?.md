@@ -199,6 +199,15 @@ typically - hypenatremia, hypokalemia, metabolic alkalosis
 - 11b-hydroxysteroid dehydrogenase converts cortisol to cortisone - preventing cortisol from binding to the renal mineralocorticoid receptor 
 	- if cortisol surge, 11b-hydroxysteroid dehydrogenase gets saturated, 
 	- excess cortisol is free to bind to mineralocorticoid receptor - causing increased water sodium retention and inc K+/H+ excretion 
+- free urine cortisol found 
+- <mark style="background: #FFF3A3A6;">low dose dexamethasone suppression test. -if you give small dose of glucocorticoids, you would see higher serum cortisol</mark>
+number one - measure serum ACTH levels 
+- low = suspect primary hypercortisolism !!! overproduction of cortisol 
+	- accss for adrenal tumor or otherwise, and see if contralateral to the tumor its atrophic bc of reduced acth 
+- if you see inappropriately normal or elevated ACTH, suspect secondary hypercortisolism 
+	- pituitary MRI = adenoma will confirm it 
+hypothalamus -> CRH -> pituitary -> ACTH -> adrenal gland -> cortisol 
+
 
 carcinoid syndrome - intermittent secretion of serotonin and other vasoactive substance by neuroendocrine neoplasms 
 - paraneoplastic condition of sstemic circulation and making of many hormones made by NENs = neuroendocrine neoplasms 
@@ -2393,3 +2402,80 @@ postrenal aki
 - but note - GFR can be maintained with just one kidney.
 
 uremia - anorexia, n/v, pruritus, pericarditis, peripheral neuro and cns abnormalities and inc bleeding/infection due too too many waste products like uremia in blood bc kidney failure
+
+---
+anemia - decrease in RBCs circulating 
+fatigue, dyspnea, conjunctival pallor, tachycardia 
+microcytic - insufficient hb production i 
+- defective heme synthesis like lead poisoning, iron deficiency anemia 
+- defective globin chain 
+	- thalassemia ! 
+- anemia of chronic disease
+- sideroblastic anemia - delta-ALA-synthase gene defect , alc use disorder can give u this, high ferritin, high iron, but low or normal TIBC. 
+- <mark style="background: #FFF3A3A6;">ferritin low or normal.... or ferritin and tibc high = iron deficiency</mark>
+- chronic dz = if ferritin is high and normal but tibc low 
+- both of these got iron levels down in the serum 
+
+normocytic - dec blood vol + or decreased erythropoiesis 
+- hemolytic anemia - intrinsic defect of hemoglobinopathies or enzymes i sickle cell, hbc disease... pyruvate kinase deficiency or g5pd deficiency 
+- extrinsically - think autoimmune hemolytic annemia or microangiopathic hemolytic anemia like ttp, hus, and dic and hellp 
+- nonhemolytic anemia - blood loss, aplastic anemia, anemia of chronic dz 
+
+macrocytic 
+- insufficient nuc maturation relative to cytoplasm, like problem with DNA 
+- megaloblastic with b12 or folate def 
+- nonmegaloblastic - liver dz 
+
+---
+hemochromatosis 
+- when body ironis too high.... and usually in women postmenopausal 
+- hereditary = HFE, chromosome 6 impact on C282Y and H63D.... 
+- HLA-A3 genotype 
+- AR w/ incomplete penetrance. 
+2ndary 
+- transfusion related like from someone w/ b-thalassemia major or something needing treatments. 
+- sickle cell anemia - ineffective erythropoiesis 
+type 1 
+- hfe -> defective binding <mark style="background: #FFF3A3A6;">transferrin to receptor -> low hepcidin synthesis by liver (therefore thereis no decrease in iron absorbing nor is there inhibition on iron transport)</mark> -> unregulated ferroportin activity -> too much intestinal iron abs -> iron accumulation thruout the body 
+- usually transferrin high, high serum iron, low tibc 
+- drugs that delete iron = deferoxamine, deferasirox, deferiprone 
+
+---
+thalassemias - group of heriditary hb disorders, on the alpha or b globin chains = they all get microcytic hypochromic anemia usually 
+- alpha has 4 alleles - 4 variant s i locus in chronosome 16 
+	- usually asian or african 
+	- silent carrier - noanema
+	- alpha thalassemia trait = 2 defective, no or mild anemia 
+	- hemoglobin H dz- 3 defective alleles - jaundice, anemia at birth, chronic hemolytic anemia, need transfusions, secondary hemochromatosis, hepatosplenomegaly 
+	- hb barts disease = 4 defective, intrauterine ascites/hydrops fetalis 
+- b = has 2 alleles , 2 variants. locus in chromosome 11
+	- mediterranean descent 
+	- b-thalassemia minor - no or mild 
+	- beta thalassemia intermedia - 2 defective alleles or coinheritance of other variant =variable anemia, during periods of stress 
+	- beta thalassemia major = 2 defective alleles , severe hemolytic anemia needs transfusions, 2ndary hemochromatosis, hepatosplenomegaly, growth regardation, skeletal deformities, transient aplsatic crisis 
+	- sickle cell bet thalassemia - one defective allele, and other HbS allele
+	- for all of the hbf, it is high 
+	- <mark style="background: #FFF3A3A6;">	- HBA2 is high </mark>
+
+---
+inside lower half of crypts of lieberkuhn we have enteroendocrine cells 
+
+CCK = A hormone secreted by I cells in the small intestine after a meal. Stimulates gallbladder contraction and secretion of pancreatic enzymes, relaxes the sphincter of Oddi, and inhibits gastric emptying in order to digest fats and proteins.  
+
+secretin A hormone produced by duodenal S cells. Increases pancreatic bicarbonate secretion and bile secretion into the duodenum. Decreases gastric acid secretion.  
+
+gastric inhibitory polypeptide A hormone produced by the K cells of the duodenum and jejunum. Increases pancreatic insulin secretion and decreases gastric acid secretion.
+
+paneth cells - lysozyme, defensin, tnf-alpha = has acidophillic granules to protect 
+
+golbet cells - mucous
+
+The Duodenum is the site of Iron (Fe2+) absorption. The Jejunum is the primary site of Folate absorption. The terminal Ileum is the site of B12 (dependent on IF) and Bile salt absorption
+
+
+migratory motor complex - slow basal electric rhythm w/ low amplitude waves - stimulated by Mo cells motillin - 
+MMC- mainly during fasting phase 
+- stomach 3/min 
+- duodenum 12/min 
+- ileum 9/min 
+- colon 3/min 
