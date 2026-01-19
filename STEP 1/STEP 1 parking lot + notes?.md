@@ -2349,3 +2349,21 @@ pathoma ch 3 stuff - alphabet soup on anki
 
 ---
 pathoma 4-6? 
+
+---
+kidney stuff - AKIs. 
+prerenal aki 
+- hypovol, hypotension, cardiorenal syndrome in congestive HF. 
+- acute pancreatitis too (pain radiates to back )
+- this leads to intrinsic injury!! decreased renal perfusion -> tubular necrosis! 
+
+intrinsic aki = direct kidney dmg 
+- ATN = ischemia due to prolonged hypotension, nephrotox drugs (GAGs, cisplatin, mthotrexate, ethylene glycol) , endogenous toxins 
+- acute interstitial nephritis = antibx, phenytoin , interferon, ppis, nsaids, cyclosporine , infection by legionella or strep, dandida, hcv etc. and dz like sarcoidosis 
+- vascular diseases = HUS, TTP, HTN emergency, vasculitis, glomerulonephritis 
+	- HUS
+	- TTP
+
+postrenal aki 
+- any obstruction of urinary flo, bph , tumors, stones, bleeding with clot formation
+- neurogenic bladder - due to ms, spinal le
