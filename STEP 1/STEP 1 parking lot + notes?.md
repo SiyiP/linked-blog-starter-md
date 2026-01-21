@@ -1236,6 +1236,15 @@ type 2 - many classic autoimmune diseases
 		- antibodies binding to cell surface receptors -> inhibition or activation of downstream signaling pathays -> impaired cellular function 
 - acute hemolytic transfusion rxn 
 - hemolytic dz of the fetus and newborn 
+	- antigens of major blood groups usually ... 
+	- Rh hemolytic dz = Rh- pregnant patient w/ Rh + fetus... so 
+		- first pregnancy, pt exposed to fetal blood -> makes the anti-D igG.... 
+		- in subsequent pregnancies - the antibody would cross placenta to attack the newborn 
+		- hydrops fetalis, jaundice after bith, **kernicterus**... 
+		- administer anti-D IgG to Rh - pregnant patients during thrid sem + early postpartum 
+	- ABO hemolytic - type O pregnant pt, type A or B fetus. 
+		- mild jaundice in neonate, need 24 hrs of birth phototherapy. 
+		- 
 - ITP 
 - rheumatic fever 
 - hyperacute transplant rejection 
