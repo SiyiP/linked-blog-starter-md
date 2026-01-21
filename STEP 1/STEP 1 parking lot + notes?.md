@@ -1843,7 +1843,7 @@ sarcoidosis - noncaseating granuloma formation, in <mark style="background: #FFF
 - the interstitial dendritic cells- migrate towards mediastinal lymph nodes and alveolar macrophages which differeentiate ... -> <mark style="background: #FFF3A3A6;">they serve as antigen presenting cells to the circulating T helper Th cells...</mark>
 - t cell recruitment and B cell activity increases-> making local immune hyperactivity then noncaseating granulomas = <mark style="background: #FFF3A3A6;">macrophage collection without central necrosis!</mark>
 mature granulomas - epithelioid cells and macrophages that are surrounded by lymphocytes + fibroblasts, 
-- macrophages activate Th1 , which the macrophage would secrete IL-12 which stimulates differentiation of CD4+ Th cells into Th1 cells, a subset which activates macrophages + cytotoxic T cells (induced by IL-12 and IFN-gamma)
+- macrophages activate Th1 , which the macrophage would secrete IL-12 which stimulates differentiation of CD4+ Th cells into Th1 cells, a<mark style="background: #FFF3A3A6;"> subset which activates macrophages + cytotoxic T cells</mark> (induced by IL-12 and IFN-gamma)
 	- inhibited by IL-4 and IL-10 
 - Th1 cells then stimulate the formtaion of epithelioid cells and <mark style="background: #FFF3A3A6;">multinucleated giant cells by releasing IFN-gamma</mark>
 - epithelioid cells will then make ACE and release cytokines to get more immune cells. 
