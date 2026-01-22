@@ -2539,4 +2539,22 @@ for imprinting think prader willis syndrome and angelman syndrome bc one is sile
 copd - big black lung fields/large lungs,, flattened diaphragm. 
 - air trapping = cardiac sillouette is narrower and pushed to the midline 
 - CHF = heart is lateralized instead 
-- 
+- tricuspid regurg = right sided murmurs accentuated with **inspiration** 
+	- as u breathe in, diaphragm goes down, dec Intrathoracic pressure , inc pulm compliance of small cap beds -> inc venous return to the <mark style="background: #FFF3A3A6;">right atrium, accentuating right sided murmurs</mark>
+	- most murmurs get worse with more preload or vol in heart 
+	- loud p2 = pulm htn, valve slams shut with a lot of pressure 
+	- l side murmurs = louder with expirations 
+- pulmonary htn = cor pulmonale = <mark style="background: #FFF3A3A6;">tricuspid regurg.... seen in carcinoid syndrome, ivdu,a nd cor pulmonale(r heart failure 2ndary to any lung problem)</mark>
+	- pulm capilary wedge pressure must be normal to dx this, need L heart to be normal. 
+	- pcwp = left atrial pressure = any elevations is an issue of the L heart. like cardiogenic shock. left heart origin - if there's edema in the lungs 
+
+S2 = closure of aortic and pulmonic valves
+- a2 before p2 always in healthy persn 
+- greater the pressure in the ventricls, the later the respective valve clothes 
+- in R ventricular hypertrphy, widens splitting f S 2, meaning more pressure on the r ventricle 
+- L ventricular hypertrophy can also cause paradoxical splitting 
+- <mark style="background: #FFF3A3A6;">loud p2 = pulm htn, slamming that pulm valve shut hard.</mark>
+
+**lobar** pneumonia in an immunocompromised OR immunocmpetent 
+- mostly strep **pneumo**. 
+immunocompromised ground glass bilateral = pneumocystis jiroveci. 
