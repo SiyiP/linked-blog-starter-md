@@ -2488,3 +2488,55 @@ MMC- mainly during fasting phase
 - duodenum 12/min 
 - ileum 9/min 
 - colon 3/min 
+
+---
+note about direct bilirubuin vs indirect
+- direct = glucuronditized lol, soluble + excreted by liver = 
+	- mostly this would be low in any other thing = this high direct is rare except in obstruction. 
+- indirect = not yet conugated 
+	- high in autoimmune mediated hemolysis for instance, hasnt gotten to liver yet 
+- ALP+GGT = <mark style="background: #FFF3A3A6;">secreted by the bile duct epithelium</mark>
+- if all are up = suggestive of canaliculus obstruction in bile duct 
+budd chiari syndrome - like thrombosis of the hepatic vein = 
+
+ciguatera toxin - reef fish like mahimahi - sodium channels acting??? 
+- temperature dysfunctions 
+- paralysis 
+tetrodigtoxin - fugu , blocks sodium channels, another paralytic agent 
+saxotoxin - shellfish on the usmle - blocks sodium channels 
+scambroid - allergc like rxn from REEF fish - histidine metabolism 
+
+
+br septae hyphae - mucomycosis right angled , a broad 
+- absidia atrospoora = 
+- rhizopus 
+- 
+br septae hyphae 45 degrees aspergillus - acute bronchial pulm - asthma like hypersensitivity 
+
+histoplasma capsulatum - pigeons, ohio valley splunking - veryyy small
+- <mark style="background: #FFF3A3A6;">disseminates to adrenal glands, causing adrenal crisis similar to how tb does it.</mark>
+
+paraneoplastics
+- small cell carcinoma of lung - cushing SIADH 
+- lambert eaton - 
+- squamous cell carcinoma of lung = pthrp hypocalimia -
+- renal cell carconoma - pthrp + epo = hypocalcemia, polycythemia 
+
+polymyositis - weakened muscle strength on physical exam + elevated creatine kinase , immune system attacking muscles 
+polymyalgia rheumatica - an inflammatory condition causing significant muscle pain and stiffness, especially in the neck, shoulders, hips, and thighs, classically <mark style="background: #FFF3A3A6;">giant cell arteritis.</mark>
+
+
+mt disorders tetrad, heteroplasmy 
+- hypotonia 
+- lactic acidosis 
+- eye problem 
+- ear problem 
+- ragged red fibers 
+for imprinting think prader willis syndrome and angelman syndrome bc one is silented. 
+- prader = fathers silenced gene, so imprinted on mother
+- angelman - paternal imprinting 
+
+copd - big black lung fields/large lungs,, flattened diaphragm. 
+- air trapping = cardiac sillouette is narrower and pushed to the midline 
+- CHF = heart is lateralized instead 
+- 
