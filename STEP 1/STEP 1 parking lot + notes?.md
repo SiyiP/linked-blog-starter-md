@@ -2562,3 +2562,32 @@ immunocompromised ground glass bilateral = pneumocystis jiroveci.
 
 spiro. - aldosterone RECEPTOR antagonist... causing all renin at1 and at2 and aldosterone to inc 
 - <mark style="background: #FFF3A3A6;">aldosterone causes K+ secretion from the blood into the urine, blocking these cause hypercalemia.</mark>
+
+pneumonia types??
+interstitial /atypical = inflam lung interstitium and then diffuse and batchy , 
+- due to mycoplasma pneumoniae, chlamydophila pneumoniae, legionella, cox, etc. 
+- gradual onset, dry cough, low fever = <mark style="background: #FFF3A3A6;">walking pneumonia</mark>
+- cxr = difffuse interstitial and bilat multifocal opacities
+
+bronchopneumonia - 
+- acute inflam infiltrates spreading from brinchioles into adjacent alveoli, patchy distrib. 
+- s pneumoniae, aureus, h. influenza, klebsiella pneumoniae
+- fever, cough dyspnea
+- <mark style="background: #FFF3A3A6;">patchy infiltrates and more than 1 lobe potential</mark>
+
+lobar - s. pneumoniae 
+- intra-alveolar exudate = consolidation of entire lobe or the lung... 
+- sudden onset, high fever, productive cough 
+- pleuritic chest pain 
+
+aspiration pneumonia = 
+- entry of oral/oropharyngeal or gastric contents to liungs - infection or inflammation 
+- fever, cough, dyspnea, and complications like abscess or empyema 
+- RLL if upright 
+- RUL if laying 
+
+cryptogenic organizing pneumonia 
+- inflam of bronchioles, alveolar granulation tissue
+- unknown et. secondary to infections, drugs, ct diz 
+- subacute presentation 
+- ground glass opacities 
