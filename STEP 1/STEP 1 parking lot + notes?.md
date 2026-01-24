@@ -2558,3 +2558,7 @@ S2 = closure of aortic and pulmonic valves
 **lobar** pneumonia in an immunocompromised OR immunocmpetent 
 - mostly strep **pneumo**. 
 immunocompromised ground glass bilateral = pneumocystis jiroveci. 
+
+
+spiro. - aldosterone RECEPTOR antagonist... causing all renin at1 and at2 and aldosterone to inc 
+- <mark style="background: #FFF3A3A6;">aldosterone causes K+ secretion from the blood into the urine, blocking these cause hypercalemia.</mark>
