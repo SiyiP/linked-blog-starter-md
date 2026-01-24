@@ -2591,3 +2591,8 @@ cryptogenic organizing pneumonia
 - unknown et. secondary to infections, drugs, ct diz 
 - subacute presentation 
 - ground glass opacities 
+
+
+
+PECAM-1 = endothelial marker, cavernous hemangioma 
+- 
