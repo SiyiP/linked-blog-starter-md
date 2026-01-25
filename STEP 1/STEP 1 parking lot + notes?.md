@@ -2595,4 +2595,57 @@ cryptogenic organizing pneumonia
 
 
 PECAM-1 = endothelial marker, cavernous hemangioma 
-- 
+
+rewatch some endocrine videos and pulm videos and renal. prioritize those videos.. 
+
+
+note that in pulm circulation low PaO2 -> vasoconstriction - hypoxic vasoconstriction to shunt blood away from poorly ventilated areas. to give more blood to well ventilated areas, 
+- key for fetal circulation, low o2 will constrict pulm aa in womb to give a shunt .... 
+
+rate of air diffusion 
+- pressure diff, and the surface area and the thickness of alveoli. 
+- V gas = area / thic * D * (P1-P2)
+- area of diffusion fall in emphysema
+- thickness up in fibrosis 
+- both = hypoxia 
+
+diffusion - perfusion limitations 
+- as the gas moves across the capillary it changes (the partial pressure in the blood does)
+as it moves across the capillary, it would have the blood gas partial pressure rise with N2o very fast, reaching PA which it's cappe at 
+on the other hand, CO2 rises very slow, <mark style="background: #FFF3A3A6;">never reaching equilibrium with the alveolus.</mark>
+o2 evntually does but will reach it more slowly than n2o 
+
+for gas in blood to rise - gas must diffuse, perfusion must carry gas away, and it can't dissolve in the blood 
+- as blood flows past the membrane,, will be picked up by the flowing blood. 
+- N2O is quickly picked up by the blood = perfusion limited, only limited by the amount of bloo d that goes into the capillary. 
+	- <mark style="background: #FFF3A3A6;">however much blood you give = however much is picked up, very perfusion limited.</mark>
+- CO, harder to get the gas thru, and it takes longer for the partial pressure to rise in the blood. 
+	- diffusion limited. = <mark style="background: #FFF3A3A6;">once it gets across the emmbrane too it binds to hb and doesn't get into the partial pressure</mark>
+	- DLCO = pulm test of ppl with dz to see how they diffuse with their lungs 
+	- norm = 75=-140, and severe dz is less than 40%. 
+- oxygen. -usually perfusion limited, only diffusion lim when fibrosis/emphysema 
+	- at rest the blood flows slowly = blod has plenty of time to pick up o2. 
+	- in ppl who are exercising the slope is a lot slower, but they still get equilibrium so they can't get hyposemic 
+taking breath = stretch alveolar vessels = inc resistance
+exhaling = will narrow ARTERIOLES = inc resistance of those instead 
+this the PVR... the point where the total PVR is lowest is the FRC 
+
+pulm htn - 
+- mean 10-14 mmHg
+- but any mean pressure 25+ mmHg = pulm htn, p2 loud 
+- untreated pulm htn = cor pulmonale 
+	- shit spread to heart and kidneys, can die from HF and arrhythmias 
+	- can measure presure w/ R heart cath 
+- V = speed of movement * R or resistance
+- P = Q x R 
+- change in pressure = cardiac output x resistance 
+pressure in fluid pushing to lungs. = 20 , 
+pressure going from lungs = P = 5 
+Pulm a pressure = co x pvr + Pressure in left atrium 
+
+high LA pressure = most common cause of pulm htn . 
+pulm arterial htn = high pvr. 
+- secondary causes are copd, chronic pe, fibrosis like scleroderma. apnea or high altitude and hiv. 
+- primary - rare, young women, <mark style="background: #FFF3A3A6;">inc endothelin and dec NO... SMsucle proliferation, BMPR2 gene mutation</mark>
+high flow stats = L-> R shunts 
+
