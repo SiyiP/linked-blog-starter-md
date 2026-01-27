@@ -2649,3 +2649,62 @@ pulm arterial htn = high pvr.
 - primary - rare, young women, <mark style="background: #FFF3A3A6;">inc endothelin and dec NO... SMsucle proliferation, BMPR2 gene mutation</mark>
 high flow stats = L-> R shunts 
 
+---
+volatile acids = CO2 derived
+non volatile - not from co2, 
+
+bicarb must be replenished by kidneys to buffer things 
+
+- kidneys need to excrete protons and then reabsorb/generat the bicard
+- most bicarb reabsorption = in prox tubule.  
+entire process pulls protons into urine to capture more bicarb, and hco23- goes back into bloood 
+80% in the pct. 
+
+in collecting duct = 
+once its reabsorbed, intercalated cells in the Cllcting duct, 
+- this will generate NEW bicarb !!! with Carbonic anhydrase to make new proton into urine and then hco3- 
+- buffers are needed in the urine so that the h+ can be soaked up in urine to avid dmg 
+
+hpo4- fitered by glomerulus making h2po4 int he urine to suck up the H+... 
+and then phosphate would carry it out into the urine 
+the other titratabie = ammonias NH3
+
+making ammonium 
+ammonia helps H+ excretion aka hco3- generation 
+
+
+acidosis 
+- hyperventilation kussmaul 
+- an attempt to bring the co2 concentration down, to make things more basic. 
+- depression of <3 contractility 
+- inc cerebral blood / icp with cerebral vasodilation 
+acidosis from high co2 
+- cns depression 
+- hyperkalemia bc <mark style="background: #FFF3A3A6;">high H+ will shift into cells kicking out co2.</mark>
+- bohr effect, low pH = hb releasing more o2. 
+- curve shifted to the right , o2 pushed out of hb. 
+
+alkalosis 
+- inhibition of resp drive 
+- depression <3 
+- cerebral vasoconstrictoin 
+- hypokalemia 
+- bohr effect, just to the left this time = wants to retain co2. 
+
+7.45+ = alkalos/s 
+<7.35 = acidosis 
+
+<mark style="background: #FFF3A3A6;">for metabolic acidosis only = calculate anion gap</mark>
+and winters formula to check for any mixed disiorders 
+- 
+hyperventilation. - blow off co2, plasma co2 level alls, pH rises. 
+
+acidosis= excess H+ filtered/secreted into nephron 
+- hpo4, nh3, and etc all urinary buffers excreted. 
+- <mark style="background: #FFF3A3A6;">urinary buffer excretion also goe up in acidosis </mark>
+
+if there's another abnormality or normaility without any other thing ... mixed thing 
+
+aspirin od 
+- shortly after = respiratory due to hyperventiatlation 
+- metabolic acidosis anion gap hours later bc li.polysis is down from salicylates, uncoupling ox phos and inhiibiting TCA, accumulating pyruvat, lactate, ketoacids. 
