@@ -2708,3 +2708,7 @@ if there's another abnormality or normaility without any other thing ... mixed t
 aspirin od 
 - shortly after = respiratory due to hyperventiatlation 
 - metabolic acidosis anion gap hours later bc li.polysis is down from salicylates, uncoupling ox phos and inhiibiting TCA, accumulating pyruvat, lactate, ketoacids. 
+
+contraction alkalosis 
+- dec ECV = RAAS activation 
+- H+ secretion up in <mark style="background: #FFF3A3A6;">prox tubule due to Angiotensin 2, HCO3- resorption up in PCT, and H+ secreiton up in the collecting duct</mark>
