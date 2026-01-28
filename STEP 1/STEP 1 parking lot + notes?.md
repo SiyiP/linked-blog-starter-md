@@ -2769,3 +2769,7 @@ o2 partial pressure in alveoli = 104 mmhg
 - in pulm caps = 40 mmhg 
 co2 40 mmhg in alveoli 
 - in pulm caps 45 mmhg 
+pressure flow loop 
+- reciprocal of slope = dynamic airway resistance 
+- step = low resistance = healthy/restrictive 
+- flat slope = obstructive high resistance 
