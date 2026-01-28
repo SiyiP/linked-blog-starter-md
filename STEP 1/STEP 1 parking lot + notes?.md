@@ -2712,3 +2712,60 @@ aspirin od
 contraction alkalosis 
 - dec ECV = RAAS activation 
 - H+ secretion up in <mark style="background: #FFF3A3A6;">prox tubule due to Angiotensin 2, HCO3- resorption up in PCT, and H+ secreiton up in the collecting duct</mark>
+
+bohr eq
+VT = .5 L/breath usually 
+minute ventilation = 7.5 L/min (VT x RR)
+VD = VT x ([PaCO2](https://next.amboss.com/us/article/zL0rZS#Z471da3269389f090f632f81e0e47746e) - PeCO2)/([PaCO2](https://next.amboss.com/us/article/zL0rZS#Z471da3269389f090f632f81e0e47746e)) 
+finding out the physiological dead space. 
+typically vd should = anatomic deadspace which is approx 150 ml / breath
+- and in V/Q perfusion mismatches, like in PEs, the Vd is greater than the anatomic dead space 
+- VA = (VT - VD) x RR = this is the alveolar ventilation 
+- if alveolar ventilation goes up = more co2 is exhaled, decreasing the PACO2. 
+TLC = 6-6.5L 
+VC = diff in lung vol bt max exhalation + max inhalation = TV + IRV + ERV 4.5-5 L 
+
+RV = 1-1.5 L 
+tidal vol = 500 mL or 7 mL/kg. 
+
+inspiratory reserve vol = max vol air that can be forcibly inhaled following normal inhalation 
+
+inspratory capacity = IC = max air inhaled after normal TV exhalation 
+
+mean pulm at pressure = 10-14 mmHg 
+pulm cap prssure = 8 
+PVR pulm vascular resistance = P artery pressure. - P LA(pulm cap wedge pressure) / Q (CO)
+R = change in Pressure / Flow 
+
+
+while sitting and standing = circulation greatest at lung base, and in supine nearly eq distrubution of blood 
+
+VQ ratio = vol ratio of air reaching alveoli (vent) to alveolar blood supply (perfuse) per min 
+- ideal is 1, but often its .8 
+	- <mark style="background: #FFF3A3A6;">at apex 3 , V>Q and at the base, .6 Q>V </mark>
+
+if lung is perused but noot vent, vasoconstriction!!! 
+- apical segments have higher o2 partial pressures .... <mark style="background: #FFF3A3A6;">favored by some bugs like tuberculosis due to higher o2</mark>
+
+mismatches
+- characterized by inc A-a gradient diff bt partial pressure of o2 in alveoli and in the arteries 
+	- normal is 75-100 mmhg 
+	- inc with age, high  concntration inhaled o2, RtoL shunts, fluid in alveoli and vq mismatches. and alveolar hypoventilation 
+	- PAO2 - PaO2. 
+	- alveolar gas eq = PAO2 = PiO2 - (PaCO2/R)
+		- PiO2 = partial pressure of o2 in inspired air 
+		- <mark style="background: #FFF3A3A6;">R - respiratory quotient of co2 produced / o2 consumed, typically .8 </mark>
+- inc V/Q ratio = <mark style="background: #FFF3A3A6;">dead space, venting poorly perfused alveoli, like in blood flow obstructions like PEs, and in exercise where CO inc a lot.</mark>
+	- pao2 <mark style="background: #FFF3A3A6;">improved by 100% o2.</mark>
+- dec VQ ratio - perfusing poorly ventilated alveoli, airway obstructure, <mark style="background: #FFF3A3A6;">pneumonia, atelectasis, CF, pulm edema!!!</mark>
+	- <mark style="background: #FFF3A3A6;">not improved by 100% o2.</mark>
+
+diffusion = Vgas = Surface area of Blood air barrer  x diffusion coef of gas x (P1-P2) / thickness of alveolar wall 
+- co2 more soluble than o2 than n2. 
+- alveolar cap membrane surface area is dec in emphysema 
+- thickness of alveolar memb inc in fibrosis = hypoxia occurs. 
+
+o2 partial pressure in alveoli = 104 mmhg 
+- in pulm caps = 40 mmhg 
+co2 40 mmhg in alveoli 
+- in pulm caps 45 mmhg 
