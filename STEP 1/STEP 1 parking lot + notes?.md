@@ -528,6 +528,15 @@ primary myelofibrosis
 idiopathic thrombocytopenic purpura = ITP = autoimmune targetting platelets = thrombocytopenia + bleeding 
 - normal everything else. 
 
+thombotic thrombocytopenic purpura 
+- acquired autoantibodies against proteolytic enzyme ADAMTS13 that cleaves vWF 
+	- <mark style="background: #FFF3A3A6;">without the cleavage of it, it causes small vessel platelet rich thrombus depo with subsequent hemolytic anemia, thrombocytopenia and possible organ dmg</mark>
+	- vWf multimers accumulatee on endothelial cell surfaces. = more platellet adhesion !!! 
+	- hemolytic anemia with the rbcs shearing 
+	- <mark style="background: #FFF3A3A6;">remember, indirect bilirubin can also be elevated in hemolytic anemia</mark>
+- pentad = fever, neuro, thrombocytopenia, microangiopathic hemolytic anemia, and impaired renal functions 
+- TREAT plasma exchange therapy immediately + glucocorticoids. 
+
 acute lympoblastic leukemia ALL
 - kids 2-5 yrs, hepatosplenomegaly + B symptoms 
 - anemia, thrombocytopenia , hyperleukocytosis 
@@ -2773,3 +2782,63 @@ pressure flow loop
 - reciprocal of slope = dynamic airway resistance 
 - step = low resistance = healthy/restrictive 
 - flat slope = obstructive high resistance 
+lung compliance = up in emphysema with lungs filling up ez or when we have a lot of surfactant. 
+- in old age our lung compliance inc due to loss of elastic recoil while chest wall compliance decreases bc of chest wall stiffening 
+down in fibrosis, ards, etc. 
+
+resp center 
+central = medullary center, makes rhythmic innervation of resp muscles and is influenced by various resp stim 
+	pco2 going up = strongest resp drive usually 
+	po2 going down = <mark style="background: #FFF3A3A6;">strongest resp drive in chronic hypercpnia... where we develop a tol for inc pco2.</mark>
+	and pH going down. 
+	- in the <mark style="background: #FFF3A3A6;">central chemoreceptors = detect pCO2 up and pH down</mark>
+pontine - mods activity of the medullary center 
+- apneustic = <mark style="background: #FFF3A3A6;">controls breathing intensity + promotes deep gasping inspiration</mark>
+- pneumotaxic centr  = controls RR ... limits or delays inspiration 
+
+peripheral chemoreceptors in ao and cartids = <mark style="background: #FFF3A3A6;">via 9 and 10 detect pO2 dropping below 60 mmhg , pco2 up and pH down.</mark>
+
+hering-breuer inflation reflex = inhib inspiration to prevent overinflation of lungs nad alveolar dmg 
+- mediated by pulm stretch receptors. 
+
+diving reflex. = immersing head = peripheral vasoconstrictoin and redirecting blood to heart and brain and slowing the pulse rate. 
+
+hypoxemia 
+- with normal Aa gradient
+	- hypoventilation where PaO is decreased due to an inc in PaCO2 ... 
+	- conditions associated with this are cns depression, obesity hypoventilation syndrome, resp muscle weakness 
+	- high altitude too - dec of the inspired o2 tension due to low barometric pressure 
+- inc Aa gradient 
+	- diffusion defect - fibrosis 
+	- vq mismatch 
+		- vq up = pulm embolism 
+		- vq down = foreign body aspiration 
+	- R->L shunt VSD ARDs
+- Ischemia - decreased blood supply 
+
+cheyne-stokes respiration = central sleep apnea, heart failure, dmg to the resp center 
+
+respiration and exercise
+- inc o2 and co2 consumption/production = hyperventilation 
+	- venous co2 up and venous o2 down 
+- paCO2 and PaO2 remain normal despite hypereventilation 
+- HR and SV = inc with co, - inc pulm blood flow = <mark style="background: #FFF3A3A6;">reduced alveolar dead space and optimized v/q matching</mark>
+- <mark style="background: #FFF3A3A6;">lactic acidosis = decreased pH</mark>
+- right shift of o2 dissociation curve, so o2 diffusion becomes diffusion lim 
+- VQ ratio is up 
+
+---
+high altitude 
+pao2 down = ventilation rate up stimulated by hypoxemia = <mark style="background: #FFF3A3A6;">paco2 down and arterial pH up resp alkalosis</mark>
+- inc in renal hco3- excreetion to compensate for resp alk 
+- pulm vascular resistance  up due to chronic hypoxia = pulm vasoconstricton = pulm htn = <mark style="background: #FFF3A3A6;">right ventricular hypertrophy</mark>
+- hb and hematocrit up 
+- 2,3-bpg up = <mark style="background: #FFF3A3A6;">hb lower affinity to o2, - rightward shift of the o2 dissociation curve</mark>
+---
+resp adapting in elderly 
+- chest wall compliance down 
+- lung comply up 
+- pao2 down 
+- Aa gradient up 
+- vq mismatch up 
+- fvc forced vital capacity down 
