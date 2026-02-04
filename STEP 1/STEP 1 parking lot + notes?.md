@@ -1,4 +1,6 @@
-group B 
+
+
+![[image-1.png]]
 
 session 1 
 https://next.amboss.com/us/article/uS0pYf#m0aVgQ = long qt syndrome 
