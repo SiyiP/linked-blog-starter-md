@@ -1,5 +1,54 @@
 
+AD song - row row row ur boat 
+von von als, rb, M E N, tubes and spheres and hungtindon, marfan, ehlers dan. 
+NF 1 and 2, don't FAP too much, 
+autosomal dominant yes this song is clutch 
+- von hippel lindau 
+- von willebrand dz
+- ALS
+- retinoblastoma 
+- MEN 
+- tuberous sclerosis 
+- hereditary spherocytosis 
+- huntingdon dz 
+- marfan's syndrome 
+- ehler's danlos syndrome 
+- NF 
+- FAP 
+---
+xlinked recessive dx 
+itsy bitsy spider
 
+the itsy bitsy hunter's name was lesch fabry
+he shot the meinke, WASP and G6P
+up came bruton, what a douchey guy 
+A+B are x linked, don't forget DI
+- hunter's dz 
+- lesche nyhan 
+- fabry disease 
+- meinke's disease
+- Wiskott aldrich syndrome 
+- G6pdh 
+- bruton's agammaglobulinemia 
+- duchenne's msucular dystrophy 
+- hemophilia A 
+- hemophilia B 
+- diabetes insipidus 
+
+note about liver enzymes
+ALT= more specific to the liver 
+- fatty liver, hep, toxic dmg 
+- common in NASH to have this way higher than the other 
+
+AST = liver, heart and muscle. 
+- this one's higher in alc hepatitis 
+
+
+decidual = thickening of endometrium and formation of decidua (secretion by lytic enzymes by syncytiotrophoblast during decidua invasion = nutrient uptake by syncytiotrophoblast.)
+- inc progesterone = **transformation of decidual vessels into spiral arteries**
+- decidua basalis = maternal placenta
+- decidua capsularis = grows over blastocyst , making cap like structure
+- parietalis = lining uerusanywhere lese but the eimplantation site 
 ![[image-1.png]]
 
 session 1 
