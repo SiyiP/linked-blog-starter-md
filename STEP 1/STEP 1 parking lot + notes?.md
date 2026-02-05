@@ -51,6 +51,59 @@ decidual = thickening of endometrium and formation of decidua (secretion by lyti
 - parietalis = lining uerusanywhere lese but the eimplantation site 
 ![[image-1.png]]
 
+notes on female hormone synthesis and later on the axis 
+- theca cells = cholesterol to androstenedione stimulated by LH
+- granulosa = convert androstenedione to estradiol, stimulated by FSH
+	- also makes inhibin to suppress FSH to suppress pituitary release 
+
+hypothalamus -> GnRH -> LH -> theca cell desmolases -> androstenedione 
+hypothalamus -> GnRH -> FSH -> aromatase in granulosa cells -< estradiol ANd inhibin
+
+- theca + granulosa make more estradiol to help follicular growth 
+
+progesterone made by **corpus luteum in ovaries (after ovulation)** 
+- oppose esrogen, decreases ERs. 
+- favorable to pregnancy 
+- secretory phase, thcikens mucus, uterine contraction prevention, and raises temp 
+- inhibits LH/FSH release 
+
+pcos = **more LH secertion will disrupt the LH/FSH balance, impaired follicle matureation with cyst = anovulation **
+
+---
+renal tubular acidosis 
+non ag metabolic acidoses = 
+- diarrhea, acetazolamide, spiro/addisons dz , saline infusion, hyperalimentation
+- renal tubular acidosis = **rare disorder of nephron ion channels, often asymptomatic but found on bloodwork with low hco or abnormal K+**
+
+type 1 distal rta = distal nephron cells <mark style="background: #FFF3A3A6;">can't acidify urine, can't excrte H+ and can't resorb K+</mark>
+- dstal tubule/CD 
+- **very low bicarb level, often under 10. and urine pH is high bc can't acidify.... 5.5 pH**
+	key - chronic kidney stones (bilateral stones) and rickts bc acidosis means Ca from bones and acidosis suppresses ca resorption = more ca in urine 
+- growth failure in kids 
+- <mark style="background: #FFF3A3A6;">association with RA and sjorgrens = autoimmune dz and amphotericin B</mark>
+- give sodium bicarb 
+Na + K - cl since nh4 leaves with the cl. 
+should have a negative anion gap in acidosis. but distal RTA = poz UAG.... 
+neg UAG in acidosis = **GI cause (listed above)**
+poz UAG in acidosis = RTA!!!
+
+
+type 2 proximal RTA = defect in pct HCO-3 **resorption**
+- this time urine pH <5.5 acidic... and distal tubule excretes H+ as the acidosis gts estabilishd = so its milder than type.1 
+	- <mark style="background: #FFF3A3A6;">seen with fanconi's syndrome as it's a pct disease. in kids we see loss of phosphates. and bone wasting from it. but no kidney stones.</mark>
+- <mark style="background: #FFF3A3A6;">loss of hco3- resorption = diuresis = vol contraction -> aldostrone wants to keep water in -> K+ excretion -> hypokalemia.</mark>
+- TREATI again with sodium bicarb. 
+
+type 4 RTA = <mark style="background: #FFF3A3A6;">distal tubule can't respond to aldosterone due to deficiency or resistance</mark>
+- so decreased excretion of K+ = <mark style="background: #FFF3A3A6;">only RTA with hyperkalemia</mark>
+- urine pH remains low and impaired nh4+ excretion = acidosis
+- when the pH is high in the pro tubule, there's no NH4+ production!!!
+- dec aldo = diabetic renal dz , ace/arb, nsaids, adrenal insuffficiency 
+- aldosterone resistance = K+ sparing diuretics and **tmp/smx.**
+- treat with fludrocortisone mineralocorticoids 
+
+
+
 session 1 
 https://next.amboss.com/us/article/uS0pYf#m0aVgQ = long qt syndrome 
 fam hx sudden death + syncope with exercise + long qtc on ecg = 
