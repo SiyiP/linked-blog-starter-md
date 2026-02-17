@@ -61,6 +61,12 @@ small cell lung cancer paraneoplastic syndromes
 - neurologic/cerebellar dysfunction with anti-hu/yo antibodies
 
 squamous cell lung cancer paraneoplasticI hypercalcemia with PTHrp!!! 
+- smoking + weight loss + kidney stone + coin lesion cxr 
+
+blood in urine + L flank pain + weight loss + headaches + blur vision + heterogenous mass in L kidney 
+- **renal cell carcinoma**
+- secretion of PTHrp -> high ca low phosphate and pth down.... 
+- **note - this can also secrete EPO -> secondary polycythemia hyperviscosity syndrome with headache, blurry vision, raynaud phenomenon.**
 
 with psychogenic polydipsia, ADH will be LOW to allow for water micturition.... but serum sodium will be low bc the ADH is appropriately low. 
 
@@ -106,4 +112,48 @@ with TBG being low then the total T4 lower bc = total T4 = bound T4 and free t4.
 alcoholics susceptible to hypomagnesemia bc of dietary deficiency!!!!
 - low mg -> hypocalcemia and hypokalemia **bc basal levels of mg is required for proper pth gland functioning!!!**
 so low ca, high po4, low pth and low mg with alcoholism 
+
+B cells in digeorge syndrome is not impacted as much!!!!
+- recall hypocalcemia, po4 up, pth down and **t cells down bc of thymic shadow absence**
+- now if you had both thymic shadow down AND scant lymph nodes (B cell deficiiency) it would be SCID
+- if just the scant lymph nodes/tonsils -> bruton agammaglobulinemia 
+
+long standing htn type 2 and large BUN and creatinine = renal failure 
+- **secondary hyper pth usually due to renal faliure**
+- ca low bc it can't aborb in the late DCT 
+- kidney can't make vitamin D3 so serum ca is also lower. 
+and low sr ca -> pth go up.... phosphate is high in renal failure bc in spite of the high pth, the kidneys not able to downregulat the pct phosphate transporters, too much phosphate reabsorption 
+- so secondary hypterparathyroidism is opposite ca and po4- arrows than the primary 
+
+
+in ATN 
+- high anion gap metabolic acidosis bc **reduced abililty to reabsorb bicarb in PCT and later secrete protons in CD**
+- Na - (Cl+Hco3)
+- mudpiles and co2 is acidic and blown offf to compensate 
+
+
+chronic renal failure 
+- K+ up in renal failure bc impaired distal renal secretion (normally done via aldosterone)
+- po4 up in serum bc phosphate absorption in the pct can't be impaired.... normally pth will downreg pct phosphate reabsorption transporters 
+
+pth adenoma - 
+- pth high, so ca high and the urinary ca is high 
+- **cAMP high in urine bc pth acts thru Gs proteins where adenyl cyclase activity and cAMP is increased**
+
+familial hypocalciuric hypercalcemia 
+- decreased but not absent sensitivity of CSRs at parathyroid glands and kidneys = higher setpt of ca in blood , s mostly asymptomatic 
+- urine will have lower ca and ca will be higher in serum since reabsorbing more 
+
+pseudohypoparathyroidism = defective pth receptor!!!
+- type 1 = albright hereditary osteodystrophy phenotype 
+- shortened 4+5 metacarpals, round face, bony abnormalities and osteoma cutis - nodules of boney stuff. 
+- no response to exogenous pth ofc 
+- low sr ca, high phosphate high serum pth levels. 
+- low urinary ca too 
+
+tertiary hyperpth 
+- renal failure = secondary where ca low, phos high and pth is high bc of failure of reabsorbing ca, and decreased syn of vitamin d and failure to downregulate pct reabsorption pumps keeping po4 high. pth high bc ca is low. 
+- tertiary = **hyperplasia of the pth glands in pts with long standing secondary hyperparathyroidism!!!**
+	- autonomous scretion of pth at higher basal levels, resetting ca level homeostasis to a high level 
+	- and po4 is always high in **renal failure bc we can't have kidney downreg pct reabsorption pumps!**
 
