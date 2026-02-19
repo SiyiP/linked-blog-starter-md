@@ -2946,3 +2946,118 @@ resp adapting in elderly
 - Aa gradient up 
 - vq mismatch up 
 - fvc forced vital capacity down 
+
+---
+ischemic heart injury 
+contraction bands ? = return of blood flow to dead card, dead myocyte puts ca into the cell causing muscle contraction. myocyte w no nucleus = dead cell + pink stuff of contraction 
+and reperfusion injury of free radicals 
+
+R coronary artery = feeds the papillary muscles 
+dresslers syndrome - antibodies made against the pericardium a month or a 6-8 weeks later, from the infarction opening it up and the immune system having the time to react to it , autoimmune pericarditis 
+
+congestive HF 
+**clinical consequencs of left side HF = pulm edema and nocturnal dyspnea, orthopnea, and CRACKLES = interstitial lung sounds effusions**
+- hemosiderin laden macrophages in the alveolar air sack - with the dead cell matter
+- decreased forward perfusion =. **activation of RAAS**
+
+R side HF = congestion of things that feed into. r heart 
+- **hepatosplenomegaly and cirrhosis and JVP and pitting edema!**
+---
+vsd. = association with fetal alc syndrome 
+L->R shunt, if small asymptomatic. but if **high, then too much blood going there and we have pulm htn** and then reversal of the shunt R->L shunt, cyanosis eisenberger syndrome 
+- polycythemia from EPO bc of cyanosis and hypoxia 
+
+mostly ASD due to ostium secundum but specifically down syndrome ASd common due to ostium prinum 
+
+PDA = association with congenital rubella. 
+tetralogy of fallot 
+- stenosis of the pulm valve -> RV goes to the LV insted , a R to L shunt so early cyanosis 
+	- increase the pressure will stop tet spells, making the blood insted go back to the lungs 
+
+transposition of the great vessels - **maternal diabetes** 
+
+truncus arteriosis - large trunk going and mixing all the blood - early cyanosis 
+
+tricuspid atresia - atrium and ventricle doesn't form so we get hyperplastic RV. 
+
+notching of the ribs in adult aorta coarctation bc of intercostal arteries engorging 
+
+high cortisol state = **lymphocytes apoptosis!!!** and also they cause high neutrophil count bc the adhesion is disrupted. no more margination. 
+
+most sensitive cell in body to radiation = lymphocytes 
+inc in 
+
+L shift neutrophils = have decreased Fc receptors, can't recognize as much Ig and they will have decreased CD16 aka Fc receptor!!! 
+
+eosinophilia associated wit hodgkins lymphoma -> inc IL5 
+basophilia = CML
+
+lymphocytic leukocytosis - cd8+ , seen in viral infections, specifically tho bacterial only pertussis which make lyphocytosis producing factor 
+
+ebv -> lymphocytic leukocytosis bc it's a virus, comprised of cd8+ t cells. 
+- when someone gets this -> oropharynx(sore throat), liver(hepatitis) and b cells imapcted 
+- with the cd8 t cell -> lymph nodes paracortex is enlarged. 
+- splenomegaly bc t cell areas expanded = the white pulps periarterolar lymphatic sheath pALs. 
+- atypical lymphocytes are generated. 
+- mono hterophile antibodies monophile test ... **negative if it's mononucleosis due to CMV!!!!**
+
+
+---
+any CD34+ stem cell can become a myeloid or lympoid stem cell.
+acute leukemia 
+- neoplastic blast proliferation 1-2 percent is normal in bone marrow. 
+- AL = greater than 20% blasts in bone marrow, crowding out normal hematopoeisis - loss in the cells that are made. anemia, neutropenia, thrombocytopenia. 
+- blasts enter into the blood = high wbc count 
+AML - presence of MPO = do either a chmical study to see if this is in the cell or see if it <mark style="background: #FFF3A3A6;">**crystalizes into an auer rod!!!**</mark>
+- in older adults , can be from pre-existing dysplasia from alkylating agents and radiotherapy 
+	- originally myelodysplastic syndrome - **cytopenias with hypercellular bone marrows of less than 20% blasts.** cytopenic bc the cells don't get out of the marrow so far. 
+	- most die from infections or bleeding 
+- 15, 17 translocation = **retinoic acid receptor disrupted, acute promyelocytic leukemia.**
+	- contains MANY auer rods. 
+	- risk of DIC is up = emergency 
+	- ATRA given to get the blasts to mature and helps against leukemic burden 
+- can be any lineage of myeloblastic thing 
+- acute **monocytic** leukemia - proliferation of monoblasts = **swelling of gums**, gum infiltration!
+- acute megakaryoblastic leukemia - prolif of megakaryoblasts without MPO, but associated with **down syndrome BEFORE the age of 5.**
+ALL - <mark style="background: #FFF3A3A6;">tdt poz</mark> in the **nucleus**, **dna polymerase** only in it. 
+- in kids = association with <mark style="background: #FFF3A3A6;">down syndrome after the age of 5</mark>
+- B-ALL - CD10, 19, 20, all less than 30. great response to chemo but need prophylaxis to scrotum and CSF immune privileged sites. 
+	- 12, 21 flip = good prognosis commonly seen 
+	- 9, 22 translocation philedelphia also commonly seen in adult's CLL but poor prognosis in kids 
+- T-ALL - CD2-8 .... less than 10  is T 
+	- T = thymic mass duh and in a Teenager. 
+	- we call this **acute lymphoblastic lymphoma** 
+
+chronic leukemia - 
+- insidious proliferation circulation of mature lympocytes
+CLL
+- naive B cells proliferate with coexpression markers **CD5** and CD20. 
+- smudge cells with inc lympohcytes. 
+- can go to lymph nodes -> lymphadenopathy , if in the lymph nodes it's small lymphocytic lymphoma 
+- ofc hypoagamma, autoimmune hemolytic anemia(they canit make ig, so they make it badly, towards its own blood), and transformation to diffuse large B cell lymphoma(pt with enlarging lymph node and spleen as they pick up more mutations)
+hairy cell leukemia 
+- poz for TRAP 
+- splenomegaly with **red pulp enlarging!** instead of the white 
+- dry tap of bone marrow, no lymphadenopathy 
+- TRAP -> cells get **trapped in red pulp and bone marrows, so can't go into the lymph node.**
+- TREAT - 2CDA adenosine deaminase inhibitor bc adenosine part of purine degredation pathway, so adenosine will build up in the b cell kiiling it . 
+ATLL - adult t cell leukemia lymphoma 
+- this is prolif of mature CD4+ T cells
+- HTLV-1 virus... in jp and carribean 
+	- rash, gen lymphadenopathy and splenomegaly 
+	- **they get lytic bone lesions and hypercalcemia!!!** (thinking first of mult myeloma, but these have **RASH**!!!!)
+mycosis fungoides - 
+- rash and  prolif of neoplastic T cells in the epidermis 
+- pautrier microabsesses
+- **if spread to blood = sezary syndrome, have cerebriform nuclei in the cells.**
+
+
+
+myeloproliferative dz = late adulthood - neoplastic proliferation of mature myeloid lineage cells.
+- high wbc count with more granulocyte production and hypercellular bone marrow. 
+- in acute myeloprolif dz = **everything is increased... but we still categorize on our most increased thing.**
+- common - hyperuricemia an 
+polycythemia vera - prolif of rbcs
+CML - if granulocytes like eosinophils, neutrophlis and basophils are overproduced
+essential thrombocythemia - if platelets and megakaryocytes are overprod 
+
