@@ -157,3 +157,5 @@ tertiary hyperpth
 	- autonomous scretion of pth at higher basal levels, resetting ca level homeostasis to a high level 
 	- and po4 is always high in **renal failure bc we can't have kidney downreg pct reabsorption pumps!**
 
+
+done mehlmans 60-100 rn , will do rest soon. 

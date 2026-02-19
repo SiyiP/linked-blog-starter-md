@@ -3140,6 +3140,41 @@ diffuse large b cell lymphoma
 ---
 hodgkins lymphomas - **instead of big mass of malignant cells, we have some weird large B cells with multilobed nuc and large nucleoli called reed-sternberg cells**/owl eyes
 - CD15 and CD20+ genetic markers!!!!
-- reed sternberg cells secrete cytokines, causing b symtpoms and attract reactive cells to make the bulk of the tumor 
+- reed sternberg cells secrete cytokines, causing b symptoms and attract reactive inflammatory cells to make the bulk of the tumor 
+- nodular sclerosis subtype - mediastinal or neck lymph nodes divided by broad bands of fibrosis cutting it into nodules , reed-sternberg cells are in **lacunar lakes, lacunar cells specific.**
+- IL-5 overproduction can attract mixed cellularity lymphoma with eosinophils 
+
+---
+plasma cell disasters
+multiple myeloma. - in bone marrow, IL-6 growth factor increased 
+- common malignancy of bone 
+- make **osteoclast activating factor** with RANK receptor on osteoclast, lytic lesions in vertebra and skull and bone pain w/ hypercalcemia 
+- elevated serum protein of immunoglobulin - serum protein electrophoresis **overprod of gamma spike = M spike tight and narrow spike at end. most common IgG/IgA.**
+- infection = death bc no antigenic diversity 
+- rouleaux formation 
+	primary AL amyloidosis 
+	- overprod of light chain - .> deposit in tissues 
+	- light chains excreted in urine = bence-jones proteins. 
+	- depos in kidney = myeloma kidney failure! 
+
+MGUS = m spike 
+- no lytic lesions, no hypercalcemia, and absent symptoms 
+- common in old, might get MM
+
+waldenstrom macroglobulinemia 
+- B cell lymphoma with monoclonal IgM prod (pentamer, macroglobulin)
+- no lytic lesions 
+- **we get a lot of hyperviscosity from macroglobulin igM too damn big**= inc bleeding from platelets not aggregating, headaches, visual too 
+- treat with plasmaphoresis remove IgM from serum 
+
+---
+langerhans cells = in skin from bone marrow monocytes = might be low yield 
+- antigen presenting to naive t cells
+langerhans cells hisiocytosis
+- birbeck granules, tennis rackets shapes
+- CD1a+ and S100+ markers 
+- eosinophillic granuloma subtype = benign prolif of these, in adolescents in BONE - pathologic fracture! abundant eosinophils and langerhans cells. differential in osteosarcoma land etc. 
+- hand-schuller christian = scalp rash annd lytic skull and DI and exopthalmos in a kid. 
+- 
 - 
 
