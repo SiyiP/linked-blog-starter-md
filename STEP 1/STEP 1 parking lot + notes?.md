@@ -3056,8 +3056,90 @@ mycosis fungoides -
 myeloproliferative dz = late adulthood - neoplastic proliferation of mature myeloid lineage cells.
 - high wbc count with more granulocyte production and hypercellular bone marrow. 
 - in acute myeloprolif dz = **everything is increased... but we still categorize on our most increased thing.**
-- common - hyperuricemia an 
+- common - hyperuricemia and gout bc of high turnover! 
+- marrow fibrosis eventually - spent phase 
+- can transform to ACUTE leukemia... arresting the stem cell in the blast phase. 
 polycythemia vera - prolif of rbcs
+- note that the granulocytes and platelets are also increased 
+- JAK2 kinase mutation 
+- symptoms of hyperviscosity = blurry vision, headaches, venous thrombosis, most common is **budd-chiari syndrome infarc of vein and liver.**, flushing of face, and 
+- itching after bathing = extra mast cells!! 
+- phlebotemy + hydroxyurea for treatment 
+- to distinguish from reactive polycythemia = EPO would be increased in reactive cases but decreased in vera. ectopically epo can be produced by **renal cell carcinoma.** 
 CML - if granulocytes like eosinophils, neutrophlis and basophils are overproduced
-essential thrombocythemia - if platelets and megakaryocytes are overprod 
+- **basophils are characteristically increased!!!**
+- 9,22 translocation, BCR and ABL fusion, increase tyrosine kinase activity, signal for growth is overgrown 
+- TREAT imantinib will block this activity 
+- splenomegaly is very common - chronic phase enlarged. but enlarging spleen = accelerated phase, a huge sign of transformation to an acute leukemia, either AML or ALL. 
+- also distinguish this from **leukemoid rxn**, from an acute infection!!! 
+	- CML granulocytes are LAP negative(enzyme of secondary granules of these, to fight the infection) aside from other genetic differences and the cellular difference. 
+essential thrombocythemia - if platelets are overproduced 
+- JAK2 kinase mutation 
+- a TON of platelets 
+- distinguish from iron deficiency anemia! 
+- either inc risk of bleeding or thrombosis due to platelets being wacky 
+- rarely goes to marrow fibrosis or Acute leukemia or gout 
+myelofibrosis - prolif of megakaryocytes
+- jak2 kinase mutation 
+- production of excess PDGF -> marrow fibrosis! pink collagen put in there. 
+- splenomegaly bc hematoposis happens in there now 
+- normal bone marrow has reticulin gates that prevents precursors and immature cells from leaving into circulation 
+- but in spleen, we don't have reticulin gates, so leukoerythroblastic smears, a bunch of immature cells
+- infection, thrombosis and bleeding. 
+- **teardrop cells. altho most is in spleen, some is in the bone marrow, causing RBCs to be stretched as they go into the blood.**
+
+
+lymphadenopathy
+- enlarged lymph nodes. painful when they have an infection. 
+- painless - chronic inflammation, metastatic carcinoma, and or lymphoma 
+REGIONS and expansion of lymph node to what 
+RA and HIV = follicular lymph node expansion (CD4+ t cells which the follicular cells are CD4+ as well.)
+viral infections = paracortex, enlargement of this bc that's where the T cells are 
+lymph node draining this region becoming reactive to the cancer = expansion of sinus hisitocytes (deep in medulla)
+
+non-hodgkins lymphomas - based on cell type
+- small lymphocytes = are undifferentiated grow in normal lymphocyte patterns. 
+- lymph node = b area is cortex. inside it we hvae the follicle and the mantle surrounding it and then the margin sometimes outside of that. 
+- follicular lymphomas = CD20+ b cells 
+	- adulthood late, painless Lymphadenopathy 
+	- distinguish from regular infection based follicular hyperplasia by looking at 
+		- LN architecture disruption in lymphoma 
+		- lack of tingible body macrophages in the germinal center of lymphoma (bc if they follicular cells that fail are truly dying we'd see white space macrophages there to eat and clean up the debris.)
+		- bcl2 in the lymphoma 
+		- **monoclonal b cell, more 20 to 1 kappa to lambda light chains**
+	- lymph node has dozens of follicles
+	- 14,18 translocation. BCL2 = on chr 18
+		- bcl2 - meant to stabilize the mt membrane, keeping cytochrome c from leaking from mt into cytoplasm, blocking apoptosis!!! 
+		- you WANT apoptosis to happen in the follicule bc they undergo somatic hypermutation, updating their immunoglobulins to specific foreign elements and don't want failures to survive. 
+	- chromosome 14 = **immunoglobulin heavy chain**, which is highly expressed in b cells! 
+	-  therefore if you put bcl2 onto chromosome 14 it gets very highly expressed!!!
+	- asymptomatic and they live for a long time , only treat if asymptomatic with rituximab  (CD20 targetted)
+	- can transform into diffuse large b cell lymphomas 
+- mantle cell lymphomas 
+	- CD20+ late adulthood
+	- 11 to 14, **cyclin d1 on chromosome 11 translocates to Ig heavy chain on 14**
+	- overexpression of cyclin D1 promotes G1 to S transition in the cell cycle. 
+- marginal zone lymphomas 
+	- outside of the mantle. cd20+ ofc 
+	- **chronic inflammatory states = bc the margin's produced and visible only in inflammatory states, when the cells get activated in the germinal center**
+		- hashimotos, sjgorens syndrome, and h pylori gastritis MALToma lol 
+
+intermediate sized CD20+ b cells
+- burkitt lymphoma , ebv association 
+	- african mass jaw mass 
+	- sporadic form. inabdomen 
+	- driven by c-myc translocation (on chromosome 8), basically upregulating it by moving to chromosome 14 in 8,14 translocation!
+	- c-myc overexpession = cellular growth 
+	- high mitotic rate = starry sky 
+
+diffuse large b cell lymphoma 
+- cd20+ ofc
+- most common form of non hodgkins, very aggro 
+- can also arise sporadically, presenting in adulthood
+
+---
+hodgkins lymphomas - **instead of big mass of malignant cells, we have some weird large B cells with multilobed nuc and large nucleoli called reed-sternberg cells**/owl eyes
+- CD15 and CD20+ genetic markers!!!!
+- reed sternberg cells secrete cytokines, causing b symtpoms and attract reactive cells to make the bulk of the tumor 
+- 
 
