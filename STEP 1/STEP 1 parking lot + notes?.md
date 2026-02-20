@@ -3174,7 +3174,5 @@ langerhans cells hisiocytosis
 - birbeck granules, tennis rackets shapes
 - CD1a+ and S100+ markers 
 - eosinophillic granuloma subtype = benign prolif of these, in adolescents in BONE - pathologic fracture! abundant eosinophils and langerhans cells. differential in osteosarcoma land etc. 
-- hand-schuller christian = scalp rash annd lytic skull and DI and exopthalmos in a kid. 
-- 
-- 
+- hand-schuller christian = scalp rash annd lytic skull and DI and exopthalmos in a kid.  
 
