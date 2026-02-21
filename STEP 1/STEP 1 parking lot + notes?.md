@@ -2992,7 +2992,7 @@ L shift neutrophils = have decreased Fc receptors, can't recognize as much Ig an
 eosinophilia associated wit hodgkins lymphoma -> inc IL5 
 basophilia = CML
 
-lymphocytic leukocytosis - cd8+ , seen in viral infections, specifically tho bacterial only pertussis which make lyphocytosis producing factor 
+lymphocytic leukocytosis - cd8+ , seen in **viral** infections, specifically tho bacterial only pertussis which make lyphocytosis producing factor 
 
 ebv -> lymphocytic leukocytosis bc it's a virus, comprised of cd8+ t cells. 
 - when someone gets this -> oropharynx(sore throat), liver(hepatitis) and b cells imapcted 
@@ -3006,9 +3006,9 @@ ebv -> lymphocytic leukocytosis bc it's a virus, comprised of cd8+ t cells.
 any CD34+ stem cell can become a myeloid or lympoid stem cell.
 acute leukemia 
 - neoplastic blast proliferation 1-2 percent is normal in bone marrow. 
-- AL = greater than 20% blasts in bone marrow, crowding out normal hematopoeisis - loss in the cells that are made. anemia, neutropenia, thrombocytopenia. 
+- greater than 20% blasts in bone marrow, crowding out normal hematopoeisis - loss in the cells that are made. anemia, neutropenia, thrombocytopenia. 
 - blasts enter into the blood = high wbc count 
-AML - presence of MPO = do either a chmical study to see if this is in the cell or see if it <mark style="background: #FFF3A3A6;">**crystalizes into an auer rod!!!**</mark>
+Acute myeloid L - has presence of MPO = do either a chem study to see if this is in the cell or see if it <mark style="background: #FFF3A3A6;">**crystalizes into an auer rod!!!**</mark>
 - in older adults , can be from pre-existing dysplasia from alkylating agents and radiotherapy 
 	- originally myelodysplastic syndrome - **cytopenias with hypercellular bone marrows of less than 20% blasts.** cytopenic bc the cells don't get out of the marrow so far. 
 	- most die from infections or bleeding 
@@ -3028,10 +3028,9 @@ ALL - <mark style="background: #FFF3A3A6;">tdt poz</mark> in the **nucleus**, **
 	- T = thymic mass duh and in a Teenager. 
 	- we call this **acute lymphoblastic lymphoma** 
 
-chronic leukemia - 
-- insidious proliferation circulation of mature lympocytes
+chronic leukemia - mature leukocyte circulation 
 CLL
-- naive B cells proliferate with coexpression markers **CD5** and CD20. 
+- naive B cells proliferate with co-expression markers **CD5** and CD20. 
 - smudge cells with inc lympohcytes. 
 - can go to lymph nodes -> lymphadenopathy , if in the lymph nodes it's small lymphocytic lymphoma 
 - ofc hypoagamma, autoimmune hemolytic anemia(they canit make ig, so they make it badly, towards its own blood), and transformation to diffuse large B cell lymphoma(pt with enlarging lymph node and spleen as they pick up more mutations)
