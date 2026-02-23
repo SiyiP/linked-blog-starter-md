@@ -3298,4 +3298,64 @@ tibial nerve - cystic fluid collection, **posterior portion of knee**
 - in that popliteal fossa tibial nerve is the most 
 - runs thru the medially located tarsal tunnel at the ankle portion. we can get sensory issues at the bottom of foot if thats compressed. 
 
+hard to climb stairs and can't get up from chair, posterior hip dislocation 
+- this is inferior gluteal nerve, motor to gluteus maximus... 
+- this is we can't flex hip up. 
 
+pudendal nerve
+- urinary incontinence., medial to ischial spine near sacrospinus lg 
+- S2-4 = motor - external urethral and anal spihncter . sensory to peritoneum. 
+
+females get femoral hernias. femoral ring inferior to the inguinal lg. 
+- obturator artery is vulnerable to hernia repair in that region 
+you feel the indirect young male hernia in their scrotal sack. 
+
+cystic mass attached to umbilicus and apex of bladder = **urachal cyst, which will connect the urinary bladder to umbilicus**
+
+urine from umbilicus - urachus is the issue. 
+- pee from bellybutton = persistent urachus 
+
+foot path - limping after rising in the AM, pain in heel and foot, pt tenderness to calcaneus lesion - heel spur usually 
+plantar fasciitis - inflammation at bottom of foot = attached to the medial tubercle of calcaneus 
+
+
+knee
+- pop in knee basket ball player, 
+- knee flex 90 degrees, draw tibia near the examiner = acl = anterior drawer test
+- and posterior cruciate liagment tear = pcl 
+
+football tackied on left lateral side near the knee
+- terrible triad = mcl, acl and lateral meniscus 
+- mcl = prevents hyper abduction of leg at knee + extensiono of the knee. 
+varus = LCL 
+
+meniscus tear = mild effusion = locking sensation , issue with twist and squats. 
+- mcmurrays test. 
+
+ankle sprain - rolling ankile and the high ankle sprain - 
+- this is anterior inferior talofibular lg  overinervsion and supination of foot!!!
+- towards the prox region of metatarsals. 
+
+---
+bone tumors 
+benign 
+- osteochondroma - metaphysis - most common bone tumor, little lateral projections covered by a cartilage cap... chon = cartilage, and oma = swelling 
+- osteoma - middle age, facial bone, gardner syndrome(spectrum of diff tumor grwoths.) , sinus pressur w/ ostium obstruction 
+- osteoid osteoma - males younger than 25, cortex of long bones.. **might time boney pain relieved by NSAIDs**, radiolucent core , puncheed out 
+- osteoblastoma - also in males under 25, night pain, but NOT NSAID pain. same deal on xray too 
+- giant cell tumor - giant cells of bone marrow, in 20-40 y/os, epiphysis of long bones, prom in knee - **soap bubble apperaance, RANK-L expression, pathologic fractures ez**
+	- rank-l on osteoblasts, binding to RANK on the osteoclasts, activating them 
+	- soap bubbly on xray 
+- chondroma - **medulla of small bones like hands and feet**
+malignant - only 3 - osteosarcoma, chondrosarcoma, ewing sarcoma 
+- osteosarcoma - young teen males and some lderly , metaphysis of long bones 
+	- retinoblastoma, paget, li-fraumani... radiation 
+	- osteo-sun-coma 
+	- **sunburst appearancE!!!!** lifting of the periosteum 
+- chondrosarcoma - medulla of pelvis and central skeleton!! 
+- ewing sarcoma - boys young, diaphysis of long bone 
+	- onion skin apperance
+	- neuroectoddermal small blue cells 
+	- t(11,22) translocation EWS-FLI1 
+	- patrick ewing - number 33, 11+22 
+	- ew, and onion! 
