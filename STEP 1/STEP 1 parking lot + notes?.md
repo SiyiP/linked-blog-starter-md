@@ -3175,3 +3175,127 @@ langerhans cells hisiocytosis
 - eosinophillic granuloma subtype = benign prolif of these, in adolescents in BONE - pathologic fracture! abundant eosinophils and langerhans cells. differential in osteosarcoma land etc. 
 - hand-schuller christian = scalp rash annd lytic skull and DI and exopthalmos in a kid.  
 
+---
+distal radius fractures
+- colles fracture = hit ventrarlly at the wrist when it's extended = dinner fork deformity, curved forearm - fall on outstretched hand 
+- smith fracture - get hit dorsally at wrist when it's flexed, anterior displacement of fragment - gonna havee wrist flex 
+carpal bones on outstretched hand - scaphoid, snuffbox hurty + avascular necrosis huge with xray 
+hamate fracture with that ulnar nerve dmg 
+forearm fractures - radial head fracture 
+
+clavicle fracture - holding arm in inferolateral placement 
+outstretched, adducted, thumbs pointed down = **empty can look = supraspinatus, and suprascapular nerve innervated**
+
+15-90 = deltoid
+trapezius 
+serratus anterior long thoracic nerve  = rotator cuff abduction 90-180 
+
+subacromial bursitis - pain when lifting up his arm above head, pain under acromion = caused by repetitive movements
+- use nsaids to help inhibit cox to up pgs. 
+
+elbow swelling - work overuse.  redness, no fever, and tender to palpation. dx = olecranon bursitis
+
+elbows 
+lateral epicondyle 
+- tennis, 
+- extensor tendon 
+
+medial 
+- flexor tendon
+- golfers
+- medial epicondyle 
+
+the annular ligament is also at the radial neck 
+- need to **hyperpronate** or **flex and supinate** 
+
+cubital fossa = lat to medial , all covered by bicipital aponeurosis. 
+biceps brachii tendon 
+brachial artery 
+median n 
+- lunate dislocation causes median nerve dmg 
+tan 
+
+brachial plexus 
+- upper = excessive angle, bt neck and shoulder created 
+	- birth injruy, erb duchenne, C5-6 
+	- upper = deltooid infraspinatus, braceps brachii 
+	- 
+- lower = excessive upper limb pulled up, claw/ape, **horner syndrome or thoracic outlet syndrome!!!!**
+	- miosis anhydrosis and ptosis!!!
+	- lumbricals, interosseus, thenar 
+	- ape hand 
+	- more likely to have "pale and cool to the touch = vacular lesions" = thoracic outlet syndrome , presenting similar to lower brachial injury, sometimes ppl have an accessory rib pinching. 
+winged scapula = serratus anterior = long thoracic nerve 
+
+**lateral posterior sensory portion of hand that's dorsal... = radial nerve sensory**
+
+
+path of cannulation in heart for caath lab 
+femoral a -> ext iliac -> common iliac -> aorta -> coronary artery 
+
+
+lower body msk 
+lateral rotation of leg = femoral neck fracture, pain in the groin area -> avascular necrosis bc of the medial circumflex femoral artery near that neck 
+- groin pain is huge 
+
+sciatic nerve injury = back pain after lifting a box. 
+notochord -> nucleus pulposis -> will be that thing that herniates that nerve. 
+- **weakened hip extension and knee flexion ... = sciatic nerve**
+- sciatic nerve's responsible for hip extension and knee flexion = **hamstring muscles ... biceps femoris short and long head, semitensdonosous, semimembranosus**
+
+
+
+hip dislocation - 
+- MEDially rotate and shorteneed leg
+- - posterior hip dislocation - femoral head taken out of the acetabular head - ischium fractured and **ischiofemoral** lig is torn 
+- might also have **foot drop = sciatic nerve will also branch onto the common peroneal and anterior tibial nerve!!!**
+
+high stepping gait and large contusion with lateral prox right leg
+- common fibular nerve or peroneal nerve
+- gonna get hit by car = getting dmg on lateral side
+- PED = Peroneal EVERTS and DORSIFLEX !!!
+- this is why we have the foot drop! 
+superficial fibular = dorsum of foot. and deeep fibular = the flip flop web. 
+
+fibular neck fractures = common peroneal nerve injury 
+
+trendelenburg gait - injection and then we innure the R superior gluteal nerve = **gluteus medius and minimus**
+- loss of abililty to pull up the hip and thigh. rise up on affected side = injury 
+
+iliohypogastric nerve = pt with burning pain near abdominal surgery = radiating to inguinal and suprapubic region... 
+- this is motor to transversus abdominis - high in the lumbar plexus 
+
+genitofemoral n 
+- absent cremasteric reflex. + anterior thigh beneath inguinal lig and **scrotum** 
+- abdominal pain referred from the region 
+
+lateral femoral cutaneous nerve - weight gain, obese, intermittent anterior and lateral thigh tinging? 
+- tight jeans, pregnancy, obesity etc. lateral thigh will tingle and anterior is included
+
+obturator nerve = pelvic surgery, medial thigh sensation altered AND decreased thigh adduction!!!
+- sensory to medial thigh ... medial sensation. 
+- moto to adductors, gracillis, pectineus
+- anterior hip dislocation too. 
+
+bursitis 
+- medial knee pain and palpation pain over anteromedial proximal tibia = pes answerine bursitis..... **medial knee pain and stuff.**
+- obseity related 
+
+femoral nerve = central access cannulation of fem vein at inguinal lg = multiple attempts
+- dec leg extension + diminished patellar reflex. 
+- L2-4 (patellar reflex)
+- motor - quadriceps and sartorius 
+- sensory to the **anterior thigh**
+
+medial to lateral = VAN
+- femoral Venous to the penis 
+- femoral artery 
+- femoral nerve 
+
+tibial nerve - cystic fluid collection, **posterior portion of knee**
+- can't curl toes in nor plantar flex. issues with **inversion too = you can't plantarflex ... cant'put toes on ground - tibial nerve is motor to plantaris**
+- sensory to toes of the foot 
+- in that popliteal fossa tibial nerve is the most 
+- runs thru the medially located tarsal tunnel at the ankle portion. we can get sensory issues at the bottom of foot if thats compressed. 
+
+
