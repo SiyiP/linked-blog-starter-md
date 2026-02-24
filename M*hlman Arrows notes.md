@@ -159,3 +159,110 @@ tertiary hyperpth
 
 
 done mehlmans 60-100 rn , will do rest soon. 
+in squamous cell carcinoma - kidney stone + coin lesion , Sr Ca up, PO4 doown and PTH down as well 
+- pth down bc it makes PTHrp instead 
+
+renal cell carcinoma 
+- heterogenous kidney mass, L flank pain and weight loss. urine has red 
+- pth down bc we secrete pthrp 
+- also! know that it makes EPO too which raises hb
+
+bowing tibias = think rickets immediately, 
+- low Ca bc no vitamin d, low po4, and pth is way up 
+
+in osteoporosis all labs are normal , osteoblasts are down and osteoclasts are up with RANKL, stimulated by IL-6 and IL-1 and inhibited by estrogen 
+
+pagets just have up ALP which reflects high osteoblast actiivty 
+
+multiple myeloma - lytic lesions of the bone, suppression of pth due to calcium receptor action and ca up, and ESR up 
+- renal(nephrotic renal syndrome) and cardiac Amyloidosis(restrictive) is common 
+
+sarcoidosis has high vitamin D!!!
+- meaning more absorbtion of ca, more PO4- and less PTH 
+- because of their **granulomatous disease of non-caseating granulomas!!! in the center there's activated macrophages aka epithelioid macrophages which secrete plenty of 1-alphahydroxylase of the LUNGS, which converts inactive 25-D3 into active 1,25-D3**
+- note that the kidney 1-alpha hydroxylase activity will go down
+- in the same disease, fecal ca goes down since again absorption of ca is going up, 24,25 OH2 D3 is down and active form 1,25-D3 is up 
+
+parathyroid adenomas -> secretion of a lot of PTH 
+- osteoblast up, clasts up too and RANKL up too bc of 
+- both blasts and clasts go up bc they need each other to activate, and RANKL is a ligand in blasts 
+- Fecal Ca down bc PTH activates 1,25D3 to absorb more Ca too 
+
+cystic fibrosis 
+- steatorrhea -> low vitamin D bc not aborbing it 
+- bone osteoid is down, hydroxyapatite is down, sr Ca down, sr PO4 down and PTH down 
+- note we need vitamin D to convert unmineralized osteoid into hydroxyapatite, which is by definition mineralized!!!
+
+chronic alcoholic who still eats a lot o fish and milk and works outside (plenty of vitamin D synthesis beginning)
+- alcoholism stops the making of active vitamin D by stopping it before it gets that 25 added by the **liver step**!!! so you get more cholecalciferol but you won't have 25-OH nor 1,25-D3.... but renal hydroxylase up and liver hydroxylase down 
+
+never in sun, lots of fish - we get plenty of 7-dehydrocholesterol but not any cholecaciferol which is made from UV. 
+
+in menopause
+- low E, low inhibin B and high LH and high FSH 
+- ovaries decrease E production and inhibin B -> no negative feedback at hypothalamus, so high FSH and LH 
+
+turners syndrome 
+- E and inhibin B low bc streak ovaries, LH and FSH up 
+
+klinefelters syndrome 
+- testicular dysgenesis so less T , less negative feedback at the hypothalamus and anterior pituitary so more GnRH therefore more LH and FSH which increases E bc there's overexpression of aromatase (CYP19) in the testes 
+
+pcos 
+- abnormal GnRH pulsation!!!! increased LH compared to FSH 
+- LH -> theca interna making androgens 
+- FSH -> make it into E , but if its low follicular develoopment is insufficient by the time of LH peak, no ovulation! = no progesterone 
+
+male genitals only develop if DHT is present which is made from 5-alpha-reductase. 
+- the thing about this is that the patient will get a huge surge of hormones at puberty with high T , and male genitals or phallus development. 
+
+prolactinoma male 30 , prolactin goes up , GnRH down and E down - recall that **prolactin supresses hypothalamus GnRH pulses**
+
+severed pituitary stalk means everything from the pituitary goes down except for prolactin 
+
+trisomy 21 - pappa down, beta HCG up, and nuchal translucency up at 9 wks gestation 
+in 17 wks gestation, AFP down, b-hcg still up, estriol down, inhibin A up 
+
+in laxative weight loss, K goes down, and bicarb down too bc stool contains these too! 
+- anion gap is regular 
+
+in cases of loop diuretic abuse, K goes down, Cl up and HCO3 goes up and pH is up, and co2 is up 
+- loop diuretics mean the thick ascending limb is inhibiting Cl and K and Na absorption 
+- so RAAS up with volume loss, meaning more H+ will be secreted, and we get metabolic alkalosis 
+- these are the same with contraction alkalosis wiht vomitting too! same arrows. 
+
+spiro abuse - aldosterone receptor inhibitor 
+- K+ up, HCO3 down, pH down, CO2 down, and androgen receptor down 
+- basically we will be losing the ENACs, so we cant expel K+ nor can we take in bicarb anymore, and co2 will be down in response to that. 
+- Normal anion-gap metabolic acidosis occurs because aldosterone’s ability to activate the secretory apical H+-ATPase is blocked.
+
+hydrocholorothiazide abuse 
+- serum calcium is up and K+ is down and HCO3 is up and pH up .... 
+- with thiazides Na-Cl symporter is inhibited in the early, making it so that Ca reabsorption is more likely in the Distal DCT 
+- Volume depletion caused by thiazides leads to RAAS upregulation and distal secretion of protons and potassium in the cortical collecting duct.
+
+In situations where perfusion to the kidney is acutely decreased (i.e., blood loss or ventricular fibrillation), the answer is acute tubular necrosis, not prerenal. 
+This is because the PCT has the highest oxygen demand in the kidney due to the high concentrations of ATPase pumps, so it is most susceptible to an abrupt drop in oxygenation/perfusion.
+
+Prerenal is the answer for more subacute or chronic etiologies of reduced renal perfusion, such as diuretic use, dehydration, left heart failure, and NSAIDs. These etiologies take days to months to cause prerenal azotemia. In contrast, exsanguination or ventricular fibrillation will cause an abrupt and fast drop in perfusion.
+
+adrenal enzyme deficiencies of sex disorders / hyroxylases. 
+ending in 1 = 17-OH substrates increase, DHEA (male and female hormone precursor) increase, and androstenedione (another precursor) increase, so we get virilization 
+
+21-hydroxylase specific
+- cortisone and aldosterone is low 
+- K+ is high, Na low, pH is low , HO3- is low, glucose is low, and BP is average 
+- we see virilization 
+
+11-hydroxylase specific=
+- Sr K either low or normal, Na, pH and HCO3-, glucose all either high or normal 
+- BP is high bc the precursors are high so there's some mineralocorticoid effects. 
+- cortisol and aldosterone are low 
+
+17-hydroxylase def
+- low 17-OH substrates, low DHEA/androstenedione 
+- low K, high Na, high pH , high HCO3-, high BP because of high aldosterone. 
+- low glucose bc of low cortisol 
+
+
+
