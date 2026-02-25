@@ -3403,3 +3403,14 @@ bullous pemphigoid
 - lesss severe, igG against hemidesmosomes, which are below the epidermis between the basal layer and the dermis. 
 - tense blisters with eosinophils and oral mucosa spared. negative nikolsky sign 
 - linear pattern at epidermal dermal junction. 
+
+---
+retinal 
+retinal artery occlusion - usually due to embolism of carotid artery atherosclreosis but sometimes also giant cell ... 
+- cherry red spot, cloudy retina, can even see the retinal emboli
+
+retinal vein occlusion - due to primary thrombosis - where br retinal v occlusion is due to 2ndary thrombosis at arteriovenous crossings... will see blood and thunder appearaance, hemorrhage and venous engorgement? 
+
+retinal detachment
+- loss of blood supply seen -> degeneration. 
+- will see floaters/flashes, and painless monocular vision loss. will see WRINKLNG of the detached retina ... 
