@@ -3359,3 +3359,32 @@ malignant - only 3 - osteosarcoma, chondrosarcoma, ewing sarcoma
 	- t(11,22) translocation EWS-FLI1 
 	- patrick ewing - number 33, 11+22 
 	- ew, and onion! 
+
+----
+FA rapid reviews?
+I-cell disease pg 45
+
+sorbitol = alcohol counterpart of glucose, to trap it into the cell via aldose reductase and using NADPH.... 
+- some tissues convert sorbitol to fructose with sorbitol dehydrogenase but an insufficient activity of this -> sorbitol accumulation -> osmotic dmg like cataracts and retinopathy etc. 
+- high blood lvl of galactose also cause conversion to galactitol. 
+- livers, ovaries and seminal vesicles have both enzymes so they're fine
+- but lens primarily have aldose reductase, along with retina, kidneys, schwann cells 
+
+pg 317 about shock 
+hypovolemic shock 
+- hemorrhage, dehydration, burns = > low cvp, pcwp, co, svo2 and high svr bc ur trying to keep it all in 
+
+cardiogenic shock due to L heart failure/mi/valvular dysfunction
+- high cvp, pcwp, svr, and low co and svo2 , can't pump shit anywhere, build up in venous system, pressures super high coming in and squeezing it all so hard but it's just not getting anywhere so low co and svo2. 
+
+obstructive shock due to PE/tension pneumothorax
+- cvp and svr high bc trying to compensate for seemingly lost volume, high in CVP bc blood backing up in the venous system 
+- but pcwp, co, and svo2 low bc the lungs are not doing its thing, the blood is NOT flowing well into the lungs so pcwp is low bc that's downstream... and co and svo2 low for obv reasons
+
+obstructive shock due to cardiac tamponade( fluid building up in the pericardial sac, compressing the heart and preventing proper filling)
+- cvp and pcwp and svr all high, cvp and svr high bc compensate for shock and blood building up venously and pcwp high bc the chambers being compressed 
+- co and svo are both low though 
+
+distributive shock due to ... sepsis and anaphylaxis
+- cvp , pcwp and svr are all low, 
+- co and svo2 are high bc 
