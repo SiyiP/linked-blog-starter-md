@@ -3386,5 +3386,20 @@ obstructive shock due to cardiac tamponade( fluid building up in the pericardia
 - co and svo are both low though 
 
 distributive shock due to ... sepsis and anaphylaxis
-- cvp , pcwp and svr are all low, 
-- co and svo2 are high bc 
+- cvp , pcwp and svr are all low, bc all are forced to dilate and relax. 
+- co and svo2 are high bc  ==compensatory action and reduced afterload from massive vasodilation==
+
+distributive shock due to ... cNS injury 
+- SVR low causing literally everything else to be low. we CANT physically make co and svo2 high bc... we just can't do compensatory actions. 
+
+autoimmune blistering skin dz = both type 2 hypersens
+pemphigus vulgaris 
+- fatal potentially 
+- IgG against desmogleni desmosomes which connect keratinocytes in stratum spinosum 
+- we flaccid intraepidermal bullae caused by. **acantholysis which is separation of keratinocytes, see row tombstones and nikolsky sign!**
+- see reticular pattern around epidermal cells 
+
+bullous pemphigoid 
+- lesss severe, igG against hemidesmosomes, which are below the epidermis between the basal layer and the dermis. 
+- tense blisters with eosinophils and oral mucosa spared. negative nikolsky sign 
+- linear pattern at epidermal dermal junction. 
