@@ -3361,7 +3361,7 @@ malignant - only 3 - osteosarcoma, chondrosarcoma, ewing sarcoma
 	- ew, and onion! 
 
 ----
-FA rapid reviews?
+**FA rapid reviews?**
 I-cell disease pg 45
 
 sorbitol = alcohol counterpart of glucose, to trap it into the cell via aldose reductase and using NADPH.... 
@@ -3414,3 +3414,6 @@ retinal vein occlusion - due to primary thrombosis - where br retinal v occlusio
 retinal detachment
 - loss of blood supply seen -> degeneration. 
 - will see floaters/flashes, and painless monocular vision loss. will see WRINKLNG of the detached retina ... 
+
+
+
