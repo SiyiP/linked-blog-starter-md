@@ -3424,3 +3424,5 @@ Extrarenal manifestations of [ADPKD](https://next.amboss.com/us/article/li0v7f#
 ADPKD. = renal tubular system
 ARPKD = CD cystic dilation 
 
+MEAT has low glucose: Malignancy, Empyema, Arthritis (rheumatoid [pleurisy](https://next.amboss.com/us/article/F50gNg#Zd5d9fbbb82bb6501ad7d33a91fc9ce6b)), and Tuberculosis are causes of pulmonary effusion associated with low glucose levels
+
