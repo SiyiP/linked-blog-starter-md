@@ -3416,5 +3416,11 @@ retinal detachment
 - will see floaters/flashes, and painless monocular vision loss. will see WRINKLNG of the detached retina ... 
 
 
+[PDA](https://next.amboss.com/us/article/4403jT#Z3365184e58f830ad3db3436faf283d8a) - Prostaglandins Dilate Afferent [arterioles](https://next.amboss.com/us/article/ZK0ZUS#Z231d06cc8e7e5905367bc711c97a4b72)
 
+ACE - Angiotensin II Constricts Efferent [arterioles](https://next.amboss.com/us/article/ZK0ZUS#Z231d06cc8e7e5905367bc711c97a4b72)
+
+Extrarenal manifestations of [ADPKD](https://next.amboss.com/us/article/li0v7f#Z3ae5ba3e64e635a305fa740a62954d75) include cerebral [saccular aneurysms](https://next.amboss.com/us/article/Wh0P1f#Z94ed37c516d9302027d5efb101455910), hepatic and [pancreatic](https://next.amboss.com/us/article/260T4S#Z0842648c05a9f12b182c77d4baeb7a3a) cysts, [hypertension](https://next.amboss.com/us/article/Xh09cf#Zce0d4554dd0bc7f9fba742d2827ffc63), and [mitral valve prolapse](https://next.amboss.com/us/article/kM0mKg#Z968d7aae14ada4e4cfbf0cb0899a0128).
+ADPKD. = renal tubular system
+ARPKD = CD cystic dilation 
 
