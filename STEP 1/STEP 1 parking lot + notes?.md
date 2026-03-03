@@ -3446,4 +3446,31 @@ To remember that pOX[virus](https://next.amboss.com/us/article/Pn0Wtg#Zcdc83877f
 pox , hbv, and hpv = all **enveloped**
 
 
-circular partial ds dna = hbv 
+enveloped circular partial ds dna = hbv 
+enveloped - dsDNA, linear 
+- variola (smallpx), cowpox, monkey pox , and also molluscum contagiosum virs 
+
+nonenveloped 
+adenovirus is the only one that's dsDNA and linear , - Transmission via contaminated water or fecal-oral route
+Papillomaviridae ds DNA and circular 
+Polyomaviridae are all dsDNA and circular as well inclusive of 
+- JC virus - think HIV afterwards and PML 
+- BK virus - just associate with kidney transplants and getting immunosuppression issues from it 
+
+RSV = a pneumovirus = 
+- helical capside!!!
+- - Linear, -ssRNA!!!!
+- Nonsegmented
+- Fusion protein (F protein) on surface: multi nucleated cells and fusion of respiratory epithelial cell 
+
+influenza!! 
+- [-ssRNA](https://next.amboss.com/us/article/Pn0Wtg#Zc8135a412a7fb67d1d8ffef3b564c342) (8 segments)
+- Linear 
+
+
+hantavirus 
+- [Acute tubulointerstitial nephritis](https://next.amboss.com/us/article/Jg0sw2#Z6e894c0b31d368d8cca8e22483fd8ec5)
+- [Hemorrhagic fever](https://next.amboss.com/us/article/aL0Qwg#Z720542829a1e13bbc36b4698b3324b45) =  potentially life-threatening syndrome involving severe multiorgan failure, usually accompanied by hemorrhage. It is caused by the Ebola, Marburg, Lassa, dengue and yellow fever viruses.
+
+Inhibition of [RNA](https://next.amboss.com/us/article/oo001S#Z08bb44b3ef827dfdc38899fdd440b54c) synthesis via blocking of the [prokaryotic](https://next.amboss.com/us/article/Lo0wcS#Zefdbdc5626333bb72710d70a12e18d57) [DNA](https://next.amboss.com/us/article/oo001S#Za0493ec3415ed9dd482e76317fbd9b9a)-dependent [RNA polymerase](https://next.amboss.com/us/article/po0L1S#Ze21bfeea82a0ce7e729410bccd48be68) is the mechanism of [rifampin](https://next.amboss.com/us/article/mm0VTg#Z965e7647077a8d15304b03fd24ad2f90).
+
