@@ -3426,3 +3426,24 @@ ARPKD = CD cystic dilation
 
 MEAT has low glucose: Malignancy, Empyema, Arthritis (rheumatoid [pleurisy](https://next.amboss.com/us/article/F50gNg#Zd5d9fbbb82bb6501ad7d33a91fc9ce6b)), and Tuberculosis are causes of pulmonary effusion associated with low glucose levels
 
+
+
+To remember the [+ssRNA](https://next.amboss.com/us/article/Pn0Wtg#Zfa4c8291909ebf28ecab817b387d5078) [viruses](https://next.amboss.com/us/article/Pn0Wtg#Zcdc83877f75d9d9b9a07ece6544f646c) (TOGavirus, RETRovirus, HEPevirus, PICornavirus, CAlicivirus, FLAVivirus, and CORonavirus), think “2 Golden Retrievers are Heppily Picturing Cauliflower-Flavoured Corn dogs.”
++ssRNA = TOG, RETR, HEP, PIC , CA, FLAV, COR
+- Two Gol ,,,, retriever ,,, heppily hepevirus picoronavirus calcivirus , flavored corndogs 
+
+To remember the RNA [viruses](https://next.amboss.com/us/article/Pn0Wtg#Zcdc83877f75d9d9b9a07ece6544f646c) that are naked (Picornaviridae, Reoviridae, Caliciviridae, and 
+), think: ”Don't Run around naked, put on some PRetty ClotHes.”
+naked RNAs = Pico, Reo, calci, and hepeviridae, all sexual naked r
+- pico reos calci and gets hepeviridae 
+
+To remember that [ADE](https://next.amboss.com/us/article/yq0dah#Z57dad63eb2dd641b052a52f70a55feb1)novirus, PAPillomavirus, POLyomavirus, and PARvovirus are DNA [viruses](https://next.amboss.com/us/article/Pn0Wtg#Zcdc83877f75d9d9b9a07ece6544f646c) without an envelope, think of “Without [ADE](https://next.amboss.com/us/article/yq0dah#Z57dad63eb2dd641b052a52f70a55feb1)quate PAPers, the POLice will Deny PARole.”
+naked DNA = 
+ade pap (ers) , poly , par
+- adenovirus, papillomavirus, polymavirus, parvovirus 
+
+To remember that pOX[virus](https://next.amboss.com/us/article/Pn0Wtg#Zcdc83877f75d9d9b9a07ece6544f646c), hepatitis B [virus](https://next.amboss.com/us/article/Pn0Wtg#Zcdc83877f75d9d9b9a07ece6544f646c) and HERpesvirus are enveloped DNA [viruses](https://next.amboss.com/us/article/Pn0Wtg#Zcdc83877f75d9d9b9a07ece6544f646c), think of “A bOXer Dog will never B a HERbivore.”
+pox , hbv, and hpv = all **enveloped**
+
+
+circular partial ds dna = hbv 
