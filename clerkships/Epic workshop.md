@@ -73,4 +73,26 @@ and look at their edit for it
 
 
 orders = typically 4th year. 
-- go to orders and search for what we have discussed, and then press save work - ask before you do this, don't do this 
+- go to orders and search for what we have discussed, and then press save work - ask before you do this, don't do this randomly 
+
+MAR tab = **medication administration record!!!**
+- and look at the MAR report , it shows you a table of what has and havent' been given 
+- green = **yes given**
+- black underline = **means it' has been stopped by provider**
+- regular text = it's scheduled but not given yet. 
+
+more -> today's cases for OBGYN and Surgery rotation , takes to the status board 
+next to the time,  there's the **minutes it is estimated to take**
+
+obgyn - day before, your cases are divided and given the cases, know why , know past surg hx , and anything of importance 
+- med student must always intro yourself to the patient before scrubbing into the OR, go in by yourself and introduce yourself, while they're in the waiting room it's in the light blue color , and **when they're in preop you go in and introduce yourself...**
+- find pt by going into the OR, and pre op whiteboard -> which bay = which OR. 
+- purple = in ready in Hol  you have like 5 minutes... 
+- benign gyn / gyn - have the screen up and refresh til it turns light pink 
+- **know what size gloves yoru resident is, and grab them and hand off to circulator, or write to the board**
+- go to whiteboard, Angel MS3 6/6
+- pull your glove size and hand them to the circulating nurse and introduce myself and aks if theres anything to do before. 
+- write resident's name and their glove size when u get there 
+
+
+
