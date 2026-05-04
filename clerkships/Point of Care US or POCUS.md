@@ -17,22 +17,22 @@ types of transducers
 probe movements. 
 "sliding = moving in diff directions."
 rotating probe 
-tilting = **fanning - whereever it is you're angling it up and down.**
+tilting = **fanning - wherever it is you're angling it up and down.**
 rocking - going side to side 
 
 longitudinal plane - long axis - hot dog style with height , **probe marker towards their head**
 transverse plane / short axis - **probe marker to patient right side.**
 
-lung exam pprotocol - can get good with repetition , 90% accuracy and for acutely dyspneic patients. detection of 100+ mL and <20 mL with 100% sensitivity = **better than CXR and CT in many cases for the lung!!!**
+lung exam protocol - can get good with repetition , 90% accuracy and for acutely dyspneic patients. detection of 100+ mL and <20 mL with 100% sensitivity = **better than CXR and CT in many cases for the lung!!!**
 modified BLUE protocol 
 - start with the probe, and we have a 3 point anatomic exam per hemithorax - look at 3 locations
-- anterior = midclavicular, 2nd intercostal to look at upper lobes
+- anterior = mid-clavicular, 2nd intercostal to look at upper lobes
 - lat zone - middle/lingular lobes near the midaxillary line, 4/5th intercostal space
 - posterior zone - lower lobes, rarely can measure bc pt can't sit up, but this is looking where lung connects to diaphragm 
 	this is PLAPS point = most posterior point. **posterolat anterior pulm syndrome - high yield for any pleural effusions/alveolar consolidations.** = most of your pathology is here! 
 these exams = lung POCUS = always in **longitudinal plane, going to the 3 zones.**
 - linear probe = visualize pleural line. 
-	- - pleural line = **very first bright hyperechoic line you see after skin, soft tissue + rib**
+	- pleural line = **very first bright hyperechoic line you see after skin, soft tissue + rib**
 	- ribs are also bright, but there's shadowing under it specifically 
 - phased array probe - for lung parenchyma, lung itself. 
 
@@ -44,7 +44,7 @@ algorithm lung PCUS
 	1. basically more than 3 B lines = pahtologic in a single intercostal space = **thickening fo interlobular septa, fluid, pulm edema, ARDS, infection, fibrosis etc.**
 4. consolidation?- more obvious to see - lack of air in lungs, **looks like liver, hepatcization, no anechoic, but more isoechnoic, and hyperechoic areas which move with respiration, air bronchograms/trapped aerated spaces that move**
 	1. shred sign = see a bunch of B lines. 
-5. effusion? - anechoic space surrounded by typical anatomic boundaries, **best seen at PLAPS point**
+5. effusion? - **anechoic** space surrounded by typical anatomic boundaries, **best seen at PLAPS point**
 	1. jellyfish sign - tip of the lung which will float in space, effusion so large. consolidated lung caused by effusion. 
 	2. fibrous septations seen = lights criteria, this is 
 	3. exudative effusions - tons of proteins ofc = causing **fibrins to connect and cause septations.** 
@@ -118,5 +118,13 @@ nerves = look like veins but they are hyperechoic...
 lymph nodes = tilt the transducer to identify the node margins. difference is to see the walls of lymph node go away. 
 
 ---
+POCUS Workshop - image acquisition 
 
-
+most common 
+- lung exam 
+	- always longitudinal and 3 x 2 points 
+	- anterior = upper lobes , mid clavicular , 2/3 intercost
+	- lateral = middle/lingular lobes, mid ax, down a few intercost 
+	- posterior = lower, just above diaphragm, as far posterior, midax , PLAPs
+- cardiac exam 
+- FAST exam 
