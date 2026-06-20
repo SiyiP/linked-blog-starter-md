@@ -59,7 +59,7 @@ use well lit room, direct face, speak slowly, minimize noise, consider hearing d
 	- prescribing cascade might give too many, 2nd med treats the SE of first med which is ?? bruh 
 	- fall risk increasing drugs = FRIDS= beer's criteria 
 	- <mark style="background: #FFF3A3A6;">deprescribing = medstopper.com, deprescirbing.org, and ags choosing wisely.</mark>
- ![[Screenshot 2025-12-10 at 4.11.30 AM.png|359x204]]
+ ![[fall risk increasing drugs.png|359x204]]
 - M= <mark style="background: #FFF3A3A6;">what matters most to you? advance care plannin</mark>g 
 	- patientprioritiescare.org 
 	- id what matters most, health outcomes goals align with their goals and healthcare prefrences. 

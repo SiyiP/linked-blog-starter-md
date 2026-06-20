@@ -135,7 +135,7 @@ equilibrium is across membrane barrier between the alveolar space and blood
 rapid rise in the beginning + the equilibrium. 
 - basically. the Fa/Fi ratio = fractional amount in ppl's lungs, 
 - will have each curve rise quickly and then plateau. 
-- the curves for each drug differ in position but stays same in shape ![[Screenshot 2025-12-09 at 6.00.06 AM.png]]
+- the curves for each drug differ in position but stays same in shape ![[factors affecting alveolar concentration drugs.png]]
 - inflow of anesthetic gas to the alveoli
 	- ventilation = inc this = faster induction 
 	- concentration 
@@ -159,7 +159,7 @@ lambda x CO x A-v = <mark style="background: #FFF3A3A6;">uptake</mark>
 	- reflects uptake by the tissues. based on 
 		- solubility of gas in tissue (high lipid solubility too = slower)
 shapes of curves are all the same bc the equilium is more of a body part specific thing too thing. 
-![[Screenshot 2025-12-09 at 6.09.38 AM.png]]
+![[Fa vs Fi ratio and equilibrium with diff gases.png]]
 
 how are inhalational anesthtics measured?? 
 - exact concentration of this is hard to measure = the MAC value is used or the <mark style="background: #FFF3A3A6;">minimal alveolar concentration</mark>

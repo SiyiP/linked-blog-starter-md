@@ -1,6 +1,6 @@
 #psych 
 
-![[Screenshot 2025-12-11 at 8.01.47 AM.png]]
+![[headaches chart and comparison.png]]
 
 primary headaches- benign headaches and don't have separate underlying etiology requiring further work up 
 - majority of pts presenting with headaches have a primary headache

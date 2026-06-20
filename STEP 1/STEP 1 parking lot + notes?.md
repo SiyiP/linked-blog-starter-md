@@ -49,7 +49,7 @@ decidual = thickening of endometrium and formation of decidua (secretion by lyti
 - decidua basalis = maternal placenta
 - decidua capsularis = grows over blastocyst , making cap like structure
 - parietalis = lining uerusanywhere lese but the eimplantation site 
-![[image-1.png]]
+![[primary biliary cholangitis vs primary sclerosing.png]]
 
 notes on female hormone synthesis and later on the axis 
 - theca cells = cholesterol to androstenedione stimulated by LH
