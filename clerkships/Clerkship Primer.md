@@ -1,6 +1,6 @@
 #clinics 
 **Clerkship primer.** 
-
+paging: 
 **“This is Angel, your student. Paging about MRN #### Adams. Can we meet in room XYZ for admission / whatever? Call back 8435138949”**
 
 **- do the lowest level page the intern first and maybe they’ll have someone else call you back.** 
