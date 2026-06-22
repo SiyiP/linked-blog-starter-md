@@ -36,4 +36,14 @@ dilation -> effacement -> station (recall in ref to ischial spines, with them be
 - +2/3 station, usually 10 cm pushing 
 
 presentation - whats down at cervix?
-- brank smellls his feet frank breech 
+- Frank smellls his feet frank breech 
+
+---
+
+benign gyn - check wtih team about the prerounding and rounding when you got clinics on pm time. 
+meet pts before surgery where preop holding is. know why you're there 
+on L+D - please pay attention to the triage patient, if there's some1 there 
+- we're responsible to present pts on triage and take hx 
+meet before pushing usually 
+
+----
