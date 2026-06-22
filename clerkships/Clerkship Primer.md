@@ -7,7 +7,7 @@ paging:
 
 Pre rounding - before any team/presentation w/ residents, looking in chart and review normal and abnormal findings. 
 
-Roundingl - with attending, formal presentations polished with team 
+Rounding - with attending, formal presentations polished with team 
 
 - rounding - before see pt, and during seeing pt, and after. 
 
