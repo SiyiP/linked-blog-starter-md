@@ -1,8 +1,39 @@
 #womenchild 
+
+
+*ask about appendicitis/appendix removal.* in terms of surg hx to talk abt scarring 
+don't say irreg/reg, say "reliable or unreliable menstrual cycle"
+transvaginal us **early preg, <10 wks**
+
+- discrim 2500 hcg
+- progesterone - relax uterus + whole body to keep it in uterus. 
+- **7 wks - yolk sac begins to collapse bc placenta takes over.**
+
+partial mole- "part baby part mole lol"
+
+recall moles = "sac of grapes overdistending uterus if super far along. super high bHCG and uterus larger than dates. "
+follow negative bHCG post evac for 3 months 
+
+ectopic follow up hCGs would waver bc they're in the tube 
+diabetes is prob biggest maternal dz cause of early pregnancy loss. 
+- #1 thing is cardiac dz 
+
+hard about inevitable loss/abortion - we can't do anything abt it , can't curette the contracting uterus. 
+
+you should follow hCGs for EPL of confirmed intrauterine pregnancy - even tho it's low risk 
+- j ask them to continue preg tests for 3 wks and if its still poz come in 
+
+for EPL
+medical treat - mifepristone progesterone blocker. and then 24-48 hrs later after misoprostol PGE to cause uterine cramp + dilation. 
+	methotrexate - for ectopic ONLY , very much AEs 
+surgical - MVA manual vacuum aspiration. or suction DNC. *need doxycycline*
+expectant - serial bHCG while waiting 
+
+---
 ACOG practice 
 90% of cases implant in fallopian tube but implantation can be in abdomen, cervix, ovary and cesarean scar (1-3%) and those all cause greater morbidity bc delayed dx 
 - can co-occur with intrauterine pregnancy
-	- <mark style="background: #FFF3A3A6;">heterotropic pregnancy</mark>
+	- <mark style="background: #FFF3A3A6;">heterotropic pregnancy</mark> *super rare no differential*
 - 1/2 dx receivers don't have known risk factors. 
 	- hx of ectopic pregnancy 
 	- previous dmg to tubes (PID, prior surgery)
@@ -17,6 +48,8 @@ dx - transvaginal US or serum hCG level measurement or both
 
 - as for hCG - helps dx but not sole, just to correlate with findings. 
 - accurate Gest age calc is best determinent of normal pregnancy when to see in uterus ... intrauterine sac with yolk visible 5 wks and 6 wks of gestation 
+	- 2500 hCG
+- 5.5-6 wks - fetal pole w Card activity
 
 discriminatory lvl - there's hCG above which the landmarks of normal getation should be visible. 
 - basically when the hCG is high and the sac isn't visible raise the alarm. but this is challenged. 
@@ -145,3 +178,5 @@ treat
 - serial b-hcg 
 - refer malignant to specialist 
 if no metastatic dz - weekly chemo + / - hysto 
+
+----
