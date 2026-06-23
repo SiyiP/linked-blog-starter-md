@@ -29,3 +29,4 @@ coverage - assigned to 1-2 students, remain closed until 5:30 PM
 outpatient stuff - reach out first? 
 
 daily teaching led by either attending wor 
+
