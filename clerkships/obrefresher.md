@@ -27,6 +27,7 @@ after that, it's 15 beats + last 15
 VEAL CHOP
 - early decels gradual, onset to nadir >30 sec, head compression, 
 
+
 - late decels - insuff mostly like hypotension, abruption, tachysystole, again broad, resuscitate repo, IVF bolus, 
 - variable  decels - sharper nadirs, due to cord compressions, PPROM, cord prolapse, oligoamno, resus with repo, amnioinfusion
 

@@ -9,7 +9,7 @@ scheduling notes - CC or what they're in for.
 outpatient. 
 writing notes --> go to the progress notes tag. **for outpatient**
 
-patient list -> 3rd tag, this is important for inpatient. 
+patient list -> 3rd tab, this is important for inpatient. 
 ask the resident to share the patient list with you. 
 
 handoffs - very team dependent, mostly the residents are working on this 
