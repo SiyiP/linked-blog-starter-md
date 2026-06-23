@@ -27,7 +27,64 @@ for EPL
 medical treat - mifepristone progesterone blocker. and then 24-48 hrs later after misoprostol PGE to cause uterine cramp + dilation. 
 	methotrexate - for ectopic ONLY , very much AEs 
 surgical - MVA manual vacuum aspiration. or suction DNC. *need doxycycline*
-expectant - serial bHCG while waiting 
+expectant - serial bHCG while waiting and watching 
+
+reason why giving rhogam for EPL is controversial - 
+- thoughts that there's not enough blood cells in <12 wk fetuses to necessitate this decision. 
+- but rhogam's cheap so ER ppl give it anyways 
+
+surgically removing it consider salpingostomy will make even more scar for more e-pregs 
+no pregnant for 3 month if methotrexate is in the system
+
+warfarin - only one we give if they have mechanical heart valve, we just risk stuff 
+NSAIDs - can stay on them until 30 wks, but better to stop them anyways bc the ductus arteriosus will close at that 30 wks. 
+aspirin - controversial? given to ppl only at 12 wks bc association w miscarriage but used worldwide. 
+- tilefish - board question , makeral and tuna = mercury one but salmon's safe. 
+
+btw 
+for hyperthyroidism 
+- methematazol / ptu = in theory can cause cutaneous aplania but u can use whatever. 
+- they used to put ppl on methamazol until swtich over to ptu. 
+
+first prenatal - 
+- med review, p med/surg/ other 
+- ask them desire/undesire, establish due date, med comorbidities+meds, 
+- by 7 wks, discrepency bt US/menstrual cycle, just redate on next appt
+- prior med hx and ob hx 
+- phys+psych adjustment to pregnancy
+- vaccines
+	- tdap big one 
+	- flu / rsv season dependent 
+- DV screen, prenatal labs, genetic screening offer. 
+- expectations for preg + prenatal care 
+	- tbh vitamin D and prenatals are good supplements 
+
+7-10 wks NIPs - noninvasive, get fetal dna fragments in mom blood as screening test.
+- dx test CVS early <12 wks 
+- amniocentesis later in it 
+
+chronic diabetes
+- check liver and kidney function 
+
+throw in creatiine in urine + CMP for htn/diabetes in mom
+<mark style="background: #FFF3A3A6;">- note - every type and screen need to be done in the **institution itself!!!**</mark>
+- we want our own type and screen done in labs. 
+
+if we have penicillin allergy and mom has syphillis, an **inpatient pharmacist desensitizes them to penicillin with small doses.**
+
+pls go thru the chart and know **previous outcomes of previous pregnancies front to back + comorbidiites.**
+
+according to them, we don't have 1st and 2nd trimester screen bc rn we have NIPs
+- first trimester screen 10-13 wks, nuchal transulency w/ blood test, MSAFP, inhibin, etc. for trisomies. "early anatomy US" - not always covere.
+- quad screen/second trimester screen - 15-22 wks, blood draw, determines riskss o ft18, 21, NTd. 
+
+anatomy scan at 18-22 wks - we look at all anatomy - this is **required.**
+
+cell free DNA/noninvasive prenatal screening - ordered as early as 9 wks. 
+- b4 2020, we need higher risk pregnancy but now we have this 
+
+fetal echo is offered if worried abt heart stuff 4 wks after anatomy scan 
+
 
 ---
 ACOG practice 
