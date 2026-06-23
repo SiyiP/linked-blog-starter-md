@@ -113,3 +113,35 @@ she will be likely to have bleeding heavier than menses and also severe cramping
 - maybe antibiotics / as propylaxis? unknown though 
 
 consider giving th d immune globulin 
+
+---
+gestational trophoblastic neoplasia
+- hysto but metaplastic dz is highly destructive-
+- GTN is inclusive of molar pregnancy 
+- moles = non invasive, partial and copmlete
+	- partial = haploid ovum fert by 2 sperms xxx or xxy, death in utero. 
+	- complete = 2 sperm of an empty ovum, 6-32% chance of getting malignant 
+- GTN. = can be invasive moels into myometrium 
+- choriocarcinoma - syncytiotrophoplast and cytotrophoblast
+- placental ite trophoblastic tumor - no villli, proliferation 
+RF
+- hx of previous dz
+- advanced maternal age 
+- asian, aa, native ancestry 
+
+molar preg complete - large uterus, no HR, hyper, enlargement of ovaries, abnormally high hcg
+parital molar - similar to miscarriage
+malignant gtd - abnormal bleeidng 6+ wks 
+- eval with beta hcg testing 
+
+dx - see snowstorm pattern, diffuse heterogenic pattern 
+- echogenic pattern 
+- or large cystic ovaries 
+post molar gtn - plateaued or inc beta hcg values after mole evac!!
+
+
+treat 
+- suction dilation and curettage or hysto
+- serial b-hcg 
+- refer malignant to specialist 
+if no metastatic dz - weekly chemo + / - hysto 
