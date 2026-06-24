@@ -17,10 +17,15 @@ CCs to research + assessments and plans?
 - secondary amenorrhea 
 	- firstly check b-hcg levels. if negative
 	- if age <45, check for 
-		- primary ovarian insufficiency = FSH up 
-		- hypothyroidism TSH up 
+		- primary ovarian insufficiency = FSH up , ovarian defect decreasing follicle number or results in insufficient follicular response to gonadotropin stim... unknown etiology most of the time. **intermitten function,** low estradiol level with elevated FSH. 
+			- if FSH is normal or low instead, secondary ovarian insufficiency aka inadequate gonadotropic stim of ovaries due to hypothalamus/pituitary should be considered. 
+			- confirmed if vals remain abnormal a month later. 
+			- manage w/ HRT, inferfility management + monitor development like complicating CV or osteoporosis 
+		- hypothyroidism TSH up bc T3/4 not produced, compensating it going up. decrease in basal metabolic rate and cold skin, bradycardia, prolactinemia, 
 		- pituitary adenoma = prolactin up 
-		- PCOS = t up 
+		- PCOS = t up due to insulin resistance, androgen production up in ovarian theca interna cells so there's imbalance bt this vs estrogen made in granulosa cells 
+			- too high LH to FSH, so impaired follicle maturation with cyst formation , no follicle rupture, anovulation. 
+			- exercise/lifestyle changes, OCPs for those who don't want to get pregnant, metformin too to help improve menstrual irregularities? maybe antiandrogens but not sure. 
 		- asherman syndrome = if preivious uterine procedure and hormone panel normal. 
 - abnormal uterine bleeding ? 
 	- polyp
