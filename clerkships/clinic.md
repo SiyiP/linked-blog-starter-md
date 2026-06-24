@@ -2,6 +2,12 @@ single click then find open chart button
 episodes on ob pt -> active episode. all information about their pregnancy on one page 
 then see all ob hx and prenatal labs. 
 
+babyscripts - all the education resources given to all patients. 
+
+note - she does not check for nipple discharge during the exam bc not evidence based, and she recommends doing everything slowly to avoid the most pain on pelvic exam 
+
+virchow's node in the supraclavicular region 
+
 note about fundal height - Between 24 and 36 weeks' [gestation](https://next.amboss.com/us/article/dO0orT#Zeba6f488931dd463917047bb9c5f18f4), the [fundal height](https://next.amboss.com/us/article/RN0lag#Z6de3c9d3568a09a3e3373e6f1db5589b) (in cm) should roughly equal the [gestational age](https://next.amboss.com/us/article/dO0orT#Z92940475655accafc96bc9744150a053) (in weeks). A [fundal height](https://next.amboss.com/us/article/RN0lag#Z6de3c9d3568a09a3e3373e6f1db5589b) of at least 3 cm less than the [gestational age](https://next.amboss.com/us/article/dO0orT#Z92940475655accafc96bc9744150a053), should raise concern for [intrauterine growth restriction](https://next.amboss.com/us/article/al0QvT#Zd8ddbfd3ee387a69f2f5289d209c4b80) ([IUGR](https://next.amboss.com/us/article/al0QvT#Zd8ddbfd3ee387a69f2f5289d209c4b80)).
 - screen all pts above 24 wks gestation on symphysis fundal height. <mark style="background: #FFF3A3A6;">from 20 wks onwards the height in cm should approx the week of gestation </mark>
 
@@ -26,6 +32,7 @@ CCs to research + assessments and plans?
 		- PCOS = t up due to insulin resistance, androgen production up in ovarian theca interna cells so there's imbalance bt this vs estrogen made in granulosa cells 
 			- too high LH to FSH, so impaired follicle maturation with cyst formation , no follicle rupture, anovulation. 
 			- exercise/lifestyle changes, OCPs for those who don't want to get pregnant, metformin too to help improve menstrual irregularities? maybe antiandrogens but not sure. 
+			- clomiphene might be preferred in obese women w anovulatory infertility , hypothalamic e receptors inhibited -> pulsatile secretion of gnRH up making more FSH and LH -> stimulate ovulation. 
 		- asherman syndrome = if preivious uterine procedure and hormone panel normal. 
 - abnormal uterine bleeding ? 
 	- polyp
