@@ -31,4 +31,5 @@ CCs to research + assessments and plans?
 	- pelvic sharp pain
 - spontanoeus abortion 
 
+
 - only an aside bu heavy menstrual bleeding? 
