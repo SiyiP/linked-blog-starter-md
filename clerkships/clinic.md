@@ -4,6 +4,15 @@ then see all ob hx and prenatal labs.
 
 babyscripts - all the education resources given to all patients. 
 
+"fresh test" - some pts will order and bring it in 
+
+concerns with young person you can follow w/ 6 mon and then follow back to back. usually you can follow them 
+
+quickactions is best for the inbasket. 
+
+spinal bifida test in 2nd trimester very time sensitive. 
+
+
 note - she does not check for nipple discharge during the exam bc not evidence based, and she recommends doing everything slowly to avoid the most pain on pelvic exam 
 
 virchow's node in the supraclavicular region 
