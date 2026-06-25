@@ -1,7 +1,7 @@
 - PUBS tmro = percutaneous umbilical blood sampling AKA cordocentesis!!!
 	- techniques for this can also be used for IV medication administration or blood products like platelets, RBCs to the fetus. 
 	- can be performed for genetic dx of severe thalassemias in at risk fetuses. 
-	- antenatal glucocorticoids are put 24 hrs prior to dx and therapeutic procedures in fetuses bt 24-33 6/7 wks . morbidity is preterm delivery for sure. 
+	- antenatal glucocorticoids are put 24 hrs prior to dx and therapeutic procedures in fetuses bt **24-33** 6/7 wks . morbidity is preterm delivery for sure. 
 	- sample of maternal blood is drawn for comparison with fetal samples. and then US exam used to confirm fetal viability and determine fetal positioning ... 
 	- IV catheter is given maternally  
 	- fetal paralytics = might not be necessary but helpful during long procedures . a lot of machines have needle guide. 
@@ -9,6 +9,9 @@
 	- amniocentesis should be done prior to this if it's indicated to avoid contamination. 
 	- easier and safer to sample the umbilical vein. 
 	- in this case we can reverse hydrops in Rh disease and transfuse the fetus. use can also be to get chromosome dx faster than amniocentesis and to dx toxoplasmosis 
+	- vs amniocentesis: amniocentesis is done pretty early on, before we have the structure developped. and PUBs is mainly for larger fetuses which can receive a transfusion or otherwise. 
+	- what doppler study reduced need for dx pubs in fetal anemia? - doppler study reducing need for dx pubs, is MCA doppler? 
+	- why is placenta cord insertion site preferred over free loop? ???
 - syphillis up2date tmro... 
 	- late latent = treat with 3 doses of penG for 3 weeks ... can't tell with
 	- early/primary = treat with 1 dose penG 
