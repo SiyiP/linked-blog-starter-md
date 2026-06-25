@@ -1,3 +1,5 @@
+*bite the bullet and study up on the full repro hormone axis.*
+
 - PUBS tmro = percutaneous umbilical blood sampling AKA cordocentesis!!!
 	- techniques for this can also be used for IV medication administration or blood products like platelets, RBCs to the fetus. 
 	- can be performed for genetic dx of severe thalassemias in at risk fetuses. 
