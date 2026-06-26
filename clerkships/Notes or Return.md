@@ -3,6 +3,9 @@
 
 - PUBS tmro = percutaneous umbilical blood sampling AKA cordocentesis!!!
 	- techniques for this can also be used for IV medication administration or blood products like platelets, RBCs to the fetus. 
+	- **fetal growth test is needed for any indication of PUBs, plus checking where the placental location is with an ultrasound** so we need to know insertion location and baby weight. 
+	- above 1.5 Multiples of median on MCA doppler = we need to do pubs. 
+	- if there's no blood in a freak scenario we can give mom's blood to baby in a pinch. 
 	- can be performed for genetic dx of severe thalassemias in at risk fetuses. 
 	- antenatal glucocorticoids are put 24 hrs prior to dx and therapeutic procedures in fetuses bt **24-33** 6/7 wks . morbidity is preterm delivery for sure. 
 	- sample of maternal blood is drawn for comparison with fetal samples. and then US exam used to confirm fetal viability and determine fetal positioning ... 
@@ -50,3 +53,55 @@ Review HTN protocol and memorize?
 Magnesium sulfate is typically given more close to delivery, 34 wks at the very least or at the time where the baby has to come if not able to stabilize. pay close attention to kdiney and liver numbers. 
 
 labetalol and cocaine 
+
+---
+6/25 
+in a mother with Rh+ in the mom and baby, baby can get antibodies to many things 
+
+calcified placenta? = part of the aging process w over 50% placentas developing some calcification. **but can occur prematurely, restricting o2 flow to fetus.** well documented RF is smoking , vascular stress, infections, etc. 
+
+steroid complete patients for PTD = reminder that steroids are given as a one time thing usually and preferrably if the mom's gonna deliver in a week. if that's not right, we would give a rescue shot again at 2 wks after to make sure she's covered if delivering in another week or so. it's good to make sure to not give too much due to landmark study linking it to poor outcomes in fetal development neurologically speaking. 
+- steroids 1 course before 34 wks, 1 dose. 
+- note that steroids do increase contractions even if they don't put ppl in labor. 
+
+review: htn management with 
+
+WPW syndrome 
+
+what does varicial bleeding look like? 
+
+labs = sipe vs htn how to decide .
+- M + thursday labs are typically taken when the patient is stable. 
+- remember = always check reflexes for SIPE 
+- o2 stat is the biggest indicator / vital besides BP for this!
+if you max out 2 agents, you have to deliver for preeclampsia. 
+- avg amt of time pregnant after preeclampsia = 1-2 weeks expected. 
+
+note - we are bad at guessing the baby's size and weight out of everything else. 
+
+PVL? BPd -> steroids will also be protective against everything including cerebral palsy 
+
+1st thing = BP = stabile yes or no? that's the biggest thing BP and pulse when someone comes in with VB , **so when u report it, make sure you say WHY they're bleeding**
+
+24 hr evetns for overnight transfers = mke sure you list it in the one-liners. **and really listen to whether they have murmurs or not!!!**
+
+
+clinicla evidence = good for rhogam to be given liberally and early on. 
+other antigens we can develop antibodies to 
+- kell, duffy , lewis
+- and lewis lives bc it's igM, can't cross placenta as a pentamer. 
+- D antibody is also similar to blood brain barrier, whatever can cross placentas small, lipophillic, et. 
+
+---
+for postpartum care: 
+in case of C/S ask;
+- pain control feeling, like regimen's working for them 
+- lochia? needs under 1 pad/hr
+- C/s = BMs or flatus? biggest thing is flatus, if they have that but no bm it's still fine 
+- peeing on own 
+- make sure to announce BP if pt had a hx of bp issues, along with asking necessary ROS surrounding it 
+- feel for fundus below belly button 
+- note if bandage is intact, note cleanness around it 
+- leg edema and check calf tenderness, asymmetrical swelling 
+usually ppl p/o day 2 is eligible to leave , 
+usually ppl SVD 24 hrs post delivery is good to leave 
