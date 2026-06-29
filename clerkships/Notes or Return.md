@@ -96,12 +96,17 @@ other antigens we can develop antibodies to
 for postpartum care: 
 in case of C/S ask;
 - pain control feeling, like regimen's working for them 
+- walking 
+- eating - ileus/NG tube 
 - lochia? needs under 1 pad/hr
 - C/s = BMs or flatus? biggest thing is flatus, if they have that but no bm it's still fine 
-- peeing on own 
+- peeing on own / if not check output 
+- breastfeeding/feeding instruction 
 - make sure to announce BP if pt had a hx of bp issues, along with asking necessary ROS surrounding it 
 - feel for fundus below belly button 
 - note if bandage is intact, note cleanness around it 
 - leg edema and check calf tenderness, asymmetrical swelling 
 usually ppl p/o day 2 is eligible to leave , 
 usually ppl SVD 24 hrs post delivery is good to leave 
+
+----
