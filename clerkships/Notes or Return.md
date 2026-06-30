@@ -1,5 +1,6 @@
 *bite the bullet and study up on the full repro hormone axis.*
-*insert data from yesterday and today.*
+
+fibrinogen test = levels for pregnant women? 
 
 - PUBS tmro = percutaneous umbilical blood sampling AKA cordocentesis!!!
 	- techniques for this can also be used for IV medication administration or blood products like platelets, RBCs to the fetus. 
@@ -110,3 +111,12 @@ usually ppl p/o day 2 is eligible to leave ,
 usually ppl SVD 24 hrs post delivery is good to leave 
 
 ----
+
+post op "5 Ws for fever"
+- wind
+- water
+- wound
+	- womb 
+- walking 
+- wonderdrug 
+- Rhogam D
