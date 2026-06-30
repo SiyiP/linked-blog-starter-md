@@ -1,3 +1,7 @@
+look at cerogs over coffee - magpie trial ?
+
+
+
 *bite the bullet and study up on the full repro hormone axis.*
 
 fibrinogen test = levels for pregnant women? 
@@ -113,10 +117,17 @@ usually ppl SVD 24 hrs post delivery is good to leave
 ----
 
 post op "5 Ws for fever"
-- wind
-- water
+- wind = atelectasis after surgery, **we need to do xrays.**
+- water = UTIs/ AKI
 - wound
-	- womb 
-- walking 
+	- womb = like some infection there 
+- walking = PE and DVT can cause it . make sure to check CT for PE 
 - wonderdrug 
-- Rhogam D
+	- Rhogam D, blood products etc cause fever. 
+	- also misoprostol bc prostaglandins 
+- watermelons = mastitis 
+
+in events of post partum hemorrhage, 
+- we can have delayed ones when PP woman gets clots passed
+- 1 blood unit = 1 pt of hgb. monitor for appropriate rise and drop. like this is also = 400 ccs. 
+- 10 hr delivery can be between twins too which is crazy 

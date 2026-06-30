@@ -127,10 +127,35 @@ asking; how long will it take me to be induced b4 i deliver
 - stage 1
 	- until full dilation 
 	- latent phase <6 cm over **long period of time. where we get failed inductions.**
-	- arrest of dilation = 
+	- arrest of dilation = no cervical change w 4 hrs of adequate contractions, or 6 hrs w/ oxytocin admin
 - stage 2 
 	- dilation to delivery 
 	- 6-10 cm change every 1-2 hrs 
 	- push 
+	- arrest of descent - nulliparous push 3-4 hrs, multiparous 2-3 hr 
 - stage 3
 	- deliver the placenta  in 30 min max 
+
+ext fetal monitoring = EFM = HR monitor for each fetus + tocometer. 
+- lower one is the heart monitor
+- the tocometer is on the top of the belly = bc cxns from the fundus. 
+**each small box. = 10 s/beat**
+
+variability 
+- absent = most concerning 
+- minimal - 1-5 bpm from baseline 
+- moderate 6-25 bpm from baseline 
+- marked 25+ bpm from baseline , usually transient 
+- heavy lines. = 1 minute 
+when there's variable decels - basically the baby's pushing agains thte cord most of the time 
+- we can do amnioinfusion pushing saline thru to have more fluid in there
+- or move the mom 
+
+
+NST very diff from categorical stress test 
+- **reactive one - 2 acel in 20 min + normal baselines, normal variability** = this is DIFFEREnt from categorical tracing please know the difference. 
+- this determines whether it's reactive 
+
+if everything is wrong, 
+- category 1 = all the good stuff. 
+- cat 3 = all the bad stuff 
