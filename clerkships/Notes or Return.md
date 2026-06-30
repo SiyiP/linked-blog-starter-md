@@ -1,7 +1,6 @@
 look at cerogs over coffee - magpie trial ?
 
 
-
 *bite the bullet and study up on the full repro hormone axis.*
 
 fibrinogen test = levels for pregnant women? 
