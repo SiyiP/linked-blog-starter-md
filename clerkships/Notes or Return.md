@@ -1,5 +1,6 @@
 look at cerogs over coffee - magpie trial ?
 
+procardia can cause persistent headaches 
 
 *bite the bullet and study up on the full repro hormone axis.*
 
