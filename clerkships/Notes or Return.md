@@ -1,3 +1,33 @@
+
+routine HR based on the previous 10-20 min 
+6-25 bumps = moderate for variability 
+
+"persistent variables" = **50% of decels are variable**
+
+always quantify cxns per min 
+
+variable decels - drop by **15 beats, from baseline**
+sedation, dehydration and baby sleeping = can all cause inactivity or nonreactivity. 
+
+tachysystole = like 5+ contractions in 10 minutes. 
+
+balloon catheter = happens <1 hr post balloon removal, is the aROM. 
+
+if you "need oxytocin," you would probably already be semi favorable, like 3/50/-3... if you were just like 1 cm dilated you might get some cytotec/misoprostol 
+- wouldn't break the water without the epidural a lot of the time. 
+- then you have to wait 4 hrs to check again. 
+
+amp + azithromycin = prophylactic meds. 
+
+common in new moms for the cervix to thin out and THEN dilate. 
+
+active labor = check every 2 hrs
+latent labor = check every 4 hrs 
+active and on Ptt = check every 6 hrs???? 
+
+lateral probe pointing = **see spine and placenta probably**
+if you place your probe at the suprapubic area and then fan it = **see head if cephalic, heart or some gas bubble if breech.**
+
 cord prolapse = association with some breech presentation. if you feel a cord prolapse, you can't remove your hand or else cord compression will happen so you keep it in there and ride w the baby in the bed. 
 
 
