@@ -1,3 +1,6 @@
+cord prolapse = association with some breech presentation. if you feel a cord prolapse, you can't remove your hand or else cord compression will happen so you keep it in there and ride w the baby in the bed. 
+
+
 look at cerogs over coffee - magpie trial ?
 
 procardia can cause persistent headaches 
