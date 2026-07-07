@@ -1,3 +1,5 @@
+LDR 7 ? 
+
 
 routine HR based on the previous 10-20 min 
 6-25 bumps = moderate for variability 
