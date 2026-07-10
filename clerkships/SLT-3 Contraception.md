@@ -77,8 +77,47 @@ peripartum cardiomyopathy - send to cardiology !
 - mortality rate = 30%, recurrence risk is high too so know about that 
 
 for differentials of postpartum depression or worry about baby blue
-- **we need to make sure she doesn't have a hx of hypomania/mania... know tha**
+- **we need to make sure she doesn't have a hx of hypomania/mania... know that sometimes for bipolar/psychosis can occur with symptom onset.**
+- regular depression workup or screening 
+- **ask about mania episodes especially with depressive symptoms**
 
+most of postpartum depression has more of an anxiety focus to it 
 
+baby blues **dont lose a sense of self.**
+**only medication actually FDA approved for postpartum depression = **
+- zuranolone allosteric steroid, allopregnanolone, progesterone breakdown product. this works on the GABA system , **can't drive for 12 hrs, makes ppl sedated. but 1x 14 day course, slowly taper off.**
+- can use first line, but super expensive. 
+- (bc progesterone plummets in pregnancy, so rapid change might've made those symptoms)
+- works well if they aren't adequately controlled with SSRIs- > then insurance would pay for it 
+- for pts with no hx prior of mental conditions, untreated PP depression can last for 2 yrs or indefinite. 
+	- a lot of issues with attachment and bonding = lasting developmental issues 
 
+PP psychosis - mainly characterized by irrational fears. 
+protect sleep @ night for bipolar disorder people, especially protective against psychosis or worse 
+- instrusive thoughts = very common PP ; it is distressing to them "egocentronic and egodystonic, this is egodystonic; the thought is against and very bothersome them." 
+	- **postpartum OCD - more common.** - ppl start becoming fearful of themselves , terrified of harming their baby so they do things to make sure it wont happen 
+	- exposure therpay - "these thoughts are not real." pts with OCD have higher risk of hurting their baby due to compulsive behaviors. 
+	- therapist = will work with them. teach them that they're not. a harm with their child, usually with exposure therapy 
+	- your brain is on overdrive to identify all the risks that might not be realistic, you have to address it by going like "thank you brain", and then letting it flow away . 
+	- "why do these thoughts scare you?" is best to ask 
+- with PP psychosis it's egocentonic, it start making sense 
 
+document in a confidential note 
+
+1. in past yr hit/slapped/kicked or physically hurt?
+2. in relationship w/ someone who threatens or physically hurt?
+3. forced to do sexual activities that made u feel uncomfortable 
+safety 
+- weapons in home?
+- children in danger?
+	- mandated reporting with child in the room. + explain why its mandatory reporting 
+- violence escalating?
+safety plan 
+- DV hotline
+- info about the local shelter
+	- our resources are really bad and stretched thin. 
+	- "only qualification is that the physical assault should be Today."
+- involve social worker = we have speciifc IPV one in the hospital 
+- exit plan= important papers, money, keys ... recommend putting stuff in trunk
+
+try to find community therapist = a minimum of 6 months wait time unfortunately. you'd have to look at specific niches still 
