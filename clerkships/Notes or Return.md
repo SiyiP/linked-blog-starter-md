@@ -1,5 +1,7 @@
-LDR 7 ? 
 
+
+
+we don't have to do speculum exams on patients with HSV if there's no prodromal symptoms 
 
 routine HR based on the previous 10-20 min 
 6-25 bumps = moderate for variability 
