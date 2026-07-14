@@ -2,8 +2,15 @@
 note - 
 early decels look like **mirror images.** 
 - late decels are much more subtle looking and harder to clock 
-- note thta 
+- note that 
+- ask what health issues they might have and how big the baby is? 
+- hypertensive and FGR, good reason why someone might have lates but those aren't lates. 
+- lates come back slowly 
+- **we would also have no variability if we have lates.**
 
+hyperstim = a lot of peaks WITHOUT fetal heart tracing issues. 
+vs 
+tachysystole = more clear peaks, associated with fetal heart rate issues. 
 
 we don't have to do speculum exams on patients with HSV if there's no prodromal symptoms 
 
