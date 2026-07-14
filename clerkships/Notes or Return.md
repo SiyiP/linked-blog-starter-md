@@ -1,4 +1,8 @@
 
+note - 
+early decels look like **mirror images.** 
+- late decels are much more subtle looking and harder to clock 
+- note thta 
 
 
 we don't have to do speculum exams on patients with HSV if there's no prodromal symptoms 
