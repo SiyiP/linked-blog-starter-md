@@ -1,3 +1,9 @@
+after running through the HTN protocol, 
+- labetalol 20 40 80 80 80 is the max? 
+- hydral = 25 max IV 
+- nifidipine = 
+usually max out on 2 orals, but if you can't get them stabilized in spite of everything you will have to deliver them. 
+
 GDMA1 = **target glucose levels achieved without medication**
 	for this, check last growth and list size and weight of baby 
 	plan for hourly fingersticks 
@@ -19,6 +25,7 @@ hx from prior pregnancies too like chorio -
 note = put EFT: in the AP if there's anything suspicious, like list it , and write down how we discussed it with the patient. 
 in the current OB hx make sure to put plans of what yall discussed and whether they elect to continue with TOLAC or otherwise. 
 
+bedside growth? if 
 
 note - 
 early decels look like **mirror images.** 
