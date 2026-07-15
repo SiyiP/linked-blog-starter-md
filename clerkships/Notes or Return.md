@@ -1,3 +1,5 @@
+for labor strip notes - indication of the chunk of time we look at near the beginning of the strip note 
+
 after running through the HTN protocol, 
 - labetalol 20 40 80 80 80 is the max? 
 - hydral = 25 max IV 
