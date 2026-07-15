@@ -1,3 +1,24 @@
+GDMA1 = **target glucose levels achieved without medication**
+	for this, check last growth and list size and weight of baby 
+	plan for hourly fingersticks 
+	2 hr GTT postpartum 
+GDMA2 = target glucose levels achieved with medication 
+
+MRBP = on admission, when outpatient bps are normotensive you would pend labs on pre-e and then monitor intrapartum 
+
+family hx of congenital/genetic condition. - if they have this, list it out in the AP and have the echo listed. 
+
+rh negative = s/p rhogam___ 
+
+list if they're RNI 
+
+when they're AMA = list in current OB hx and make sure to say if they're low/high risk NIPT and msAFP..? - talk about if they've been on ASA or otherwise 
+
+hx from prior pregnancies too like chorio - 
+
+note = put EFT: in the AP if there's anything suspicious, like list it , and write down how we discussed it with the patient. 
+in the current OB hx make sure to put plans of what yall discussed and whether they elect to continue with TOLAC or otherwise. 
+
 
 note - 
 early decels look like **mirror images.** 
