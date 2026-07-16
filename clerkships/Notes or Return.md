@@ -1,3 +1,5 @@
+
+
 furuncle = boils = furunculosis = deep form of bacterial folliculitis (infection fo hair follicle, presenting as 1 or more tender red spots, lumps, etc)
 do capillary refill 
 Plan - sao2 - pulm embolism?
