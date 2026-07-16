@@ -1,3 +1,11 @@
+furuncle = boils = furunculosis = deep form of bacterial folliculitis (infection fo hair follicle, presenting as 1 or more tender red spots, lumps, etc)
+do capillary refill 
+Plan - sao2 - pulm embolism?
+- symptomatic for anemia? = hgb = 7/6 for this 
+
+chest pain and SOB = get EKG 
+
+
 for labor strip notes - indication of the chunk of time we look at near the beginning of the strip note 
 
 after running through the HTN protocol, 
