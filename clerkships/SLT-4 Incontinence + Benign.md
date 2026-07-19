@@ -106,5 +106,88 @@ most helpful test = ultrasound. first test = pregnancy test
 
 nonhormonal options = TXA , but this doesn't regulate WHEN they bleed , helps ligthen it htough 
 hormonal - helps out with cycle regularity 
+- progesterone = slynd? less effects
+- o-pill = otc, good option prog 
+- depo provera = can worsen irregular bleeding, reasonably high rate of weight gain 
+- treat chlamydia before IUD
+- lupron - high dose GnRH agonist , artificial menopause, stops ovulation accelerates osteoporosis risk 
+- NSAIDs - might help but never really enough to be clinically relevant - **recommend as an adjunct instead**
+
+surgical therapes 
+- fibroid myomectomy - cutting thru the outer layer of uterus, find the fibroid and take it out - **<mark style="background: #FFF3A3A6;">best fertility preservation... usually more bloody than hysto</mark>**
+- endometrial ablation  - falling out of fashion, burning the uterine lining 
+	1. bc the uterus doesn't come out; but it doesn't work forever either . consider it for menopausal/perimenopausal pts, so they'd bleed again in a few years. 
+	2. hard to biopsy that lining if they would need it in the future again. 
+- uterine artery embolization - uncommon, usually for <mark style="background: #FFF3A3A6;">big fibroids bad candidate for hystorotomy</mark> - plug material can be permenant or short term 
+- hyesterectomy 
+	1. traditional - abdominal / low down or vertical cut = <mark style="background: #FFF3A3A6;">rarely done these days; onco is usually the service.</mark>
+	2. vaginal hysto = least invasive, taking tissue bites;
+	3. robotic/laproscopic = abdominal or vaginal incisions, for the ports. 
 
 
+incontinence HPI 
+- when does it happy, quantity/freq of voids
+- wear protection? 
+- presence/freq of urge 
+- problems with initiating or stopping voiding 
+- duration of symptoms 
+- triggers
+- uti 
+- nocturnal 
+- fecal incontinence 
+
+lifestyle/meds/pMh all important to look at (pmh diabetes, chf, neuro disorders)
+stress incontinence 
+- leaks w laughter, coughing lifting sneezing , multip or parous , **no nocturnal symptoms**
+- <mark style="background: #FFF3A3A6;">weak pelvic floor, weak sphincter or urethral hypermobility</mark>
+- exercise, slings urethropexy, periurethral bulking injections; or pessaries for nonsurgery 
+urge incontinence 
+- overactive detrusor = freq sensations of urinary urgency "always looking for bathroom"
+- nocturia, situation, position change 
+- bladder training, antimuscarinics/beta3agonist, bladder botox
+overflow incontinence
+- neurogenic 
+- obstruction 
+- constant dribbles, incomplete emptying, **no urge, distended bladder**
+- intermittent catheters / indwelling risk of infection, neuromodulation sometimes, <mark style="background: #FFF3A3A6;">alpha blockers for functional obstruction</mark>
+mixed incontinence - common for stress/urge 
+
+<mark style="background: #FFF3A3A6;">don't miss = VESICOVAGINAL FISTULA</mark>
+- had pelvic surgery or radiation 
+- **constant urinary leakage from vagina.**
+- **crohns disease , GI fistulas usually but CAN get bladder fistulas.**
+
+cystourethroscopy - camera into the bladder = most ppl do this at the end of every hysto to make sure ureters are fine and we didn't nick the bladder. 
+can do it in office but uncomfortable, they get lidocaines. 
+
+think of breast mass
+1. fibroadenoma 
+2. cyst
+3. fibrocystic breast change 
+4. fat necrosis 
+5. breast cancer 
+6. unilat clear/bloody discharge w/ no mass/LAD + **normal** mammogram = intraductal papilloma 
+under 30 ultra sound 
+solid = biopsy + - mammogram 
+cystic = aspiration 
+30+ 
+mammogram first step. 
+- if any scary stuff = core biopsy 
+- benign , borderline (excisional biopsy), or malignancy (lumpectomy+ radiation OR mastectomy)
+- BIRADS 4+ = biopsy 
+- 3 = 3 or 6 month followup depending on patient 
+
+<mark style="background: #FFF3A3A6;">fibrocystic breast changes = discomfort managed with CAFFEINE!!! perimenstrually uncomfortable typically, decrease when abt to have period</mark>
+
+ACOG = annual screening at 40-74 = less radiation than a plane ride. 
+- person doesn't rlly recommend stopping it at 74 lol worth it to continue screening if they're in good health with treating early stage breast cancer. 
+
+<mark style="background: #FFF3A3A6;">fasting lipid panel = good at 45 yos,</mark>
+
+21 = first pap, g/chlamydia pcr ANNUALLY(don't screen if monogamous or no partner change.) continue GC/CT NAAt after 25 if risk factors present 
+	only rlly add HPV test if there's some atypical ones 
+	weird pap smear = colposcopy 
+30 = at age 30, add HPV co-test to pap!!! q5y 
+40 = start mammograms recommend annual 
+45 = lipid panel q5y , colonoscopy q10 yr , 
+65 = DEXA scan, stop pap smears can be done, but some pts choose to keep on it 
