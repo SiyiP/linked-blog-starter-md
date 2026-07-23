@@ -1,4 +1,9 @@
 
+well woman exam for Jacqueline Moore 
+H+Lungs always due to pericardium cardiomyopathy, lymph nodes , thyroid, abdomen, liver size too, **pelvic only if they have a specific complaint past a certain week, but for Jackie esp for older patients she says they expect a pelvic exam**
+- with a pelvic exam, she just personally does it for every patient. but she also does external and internal where she looks inside the vagina and uses lube for it 
+
+removal of IUDs are easy just look it up, but leave it to her if there's no string on the end, she'll get it with alligators 
 
 furuncle = boils = furunculosis = deep form of bacterial folliculitis (infection fo hair follicle, presenting as 1 or more tender red spots, lumps, etc)
 do capillary refill 

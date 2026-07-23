@@ -4,6 +4,17 @@ paging:
 **“This is Angel, your student. Paging about MRN #### Adams. Can we meet in room XYZ for admission / whatever? Call back 8435138949”**
 
 **- do the lowest level page the intern first and maybe they’ll have someone else call you back.** 
+"
+I have a __ y/o [insert pertinent info here, pregnant, etc] F/M at [gestational age] p/w [insert presenting item here, can get from imaging summary]. MRN #####
+
+Current plan: [insert current plan]
+
+Would appreciate any further recs/guidance. Thank you! 
+  
+Angel Li MS3
+Put your phone number too in signature 
+Pager ID too
+"
 
 Pre rounding - before any team/presentation w/ residents, looking in chart and review normal and abnormal findings. 
 
