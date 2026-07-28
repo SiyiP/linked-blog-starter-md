@@ -34,6 +34,11 @@ buboes vs bullae (think impetigo like staph spp...
 buboes = **inflammation or swollen lymph nodes.
 bullae = large blisters **)
 
+they need type and screen within 72 hours of a surgery or an ECV 
+rh negative in 2nd semester blood typing 
+- **need repeat blood typing if they will get any sort of surgery **
+- another pre e lab to have is lactate dehydrogenase and a uric acid lab. 
+
 granuloma inguinale - necrotizing!!! see beefy red velvet. inguinal adenopathy doesn't ocur usually. 
 - donovanosis 
 
