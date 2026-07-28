@@ -1,3 +1,44 @@
+some progestin only pills make acne worse 
+melasma can happen due to OCPs too ! 
+- most responsive to topical hydroquinone creams and tretinoin 
+
+telogen effluvium = loss of terminal scalp hairs postpartum , will regrow 
+not on shelf -- pemphigoid gestationosis = autoimmune herpes. 
+
+PEP?
+- higher maternal weight? abdominal distension? primigravidas, onset third trimester. 6 wks mean duration of eruption, commonly lesions in striae. 
+hidradenitis suppurativa - good to use long term systemic antibiotics like erythromycin or tetracycline but stop tetracycline 
+
+
+cutaneous lupus neonatal = common manifestation of SLE patients , cutaneous lupus and sjogrens = antiro antibodies rash ... risk of congenital heart block usualy bu most infants with just the rahs owuld spontaneously disappear and scarring is unusual. 
+
+livedo reticularis = hallmark of antiphospholipid antibodies 
+
+steroids can have rebound dermatitis. 
+
+lichen planus = **erosions, loss of labia apparent.** , can be on everywher. looks like **surgical adhesions.** 
+lichen simplex chronicus = leathery, intense pruritis 
+lichen sclerosis - well circumscribed, white atrophic change. figure of 8 perianal involvements. sometimes mistaken for abuse so be aware of this since sometimes it appears in kids. 
+	inflamatory skin condition, 
+	always give potent topical cortico steroids. 
+	topical t acts as a emollient but not a recognized treatment. soap substitute? 
+	- keep an eye out for leukoplakia which is concerning 
+
+common finf hypoestrogenic vulva - urethral caruncle = mistaken for ulcer or cancer 
+
+secondary syphillis - mucus patches think of that. **flat wards = condylomata lata.... please contrast with condylomata acuminnata which are genital warts with a more verrucous appearance. note that acuminata means raised.**
+
+note that LGV - lymphogranuloma venereum = ulcers are not typical. edema of labia is more typical, prevelant in tropical areas, **we see buboes.**
+
+buboes vs bullae (think impetigo like staph spp...
+buboes = **inflammation or swollen lymph nodes.
+bullae = large blisters **)
+
+granuloma inguinale - necrotizing!!! see beefy red velvet. inguinal adenopathy doesn't ocur usually. 
+- donovanosis 
+
+sexual abuse = red sore vulva **without discharge**
+foreign body = red itchy vulva **with discharge.**
 single click then find open chart button 
 episodes on ob pt -> active episode. all information about their pregnancy on one page 
 then see all ob hx and prenatal labs. 
