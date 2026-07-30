@@ -1,4 +1,6 @@
 
+genetically inherited htrombophilias are NEVER a cause of recurrent pregnancy loss. testting for certain things like factor V etc. may not tell you whats actually causing the loss. 
+
 well woman exam for Jacqueline Moore 
 H+Lungs always due to pericardium cardiomyopathy, lymph nodes , thyroid, abdomen, liver size too, **pelvic only if they have a specific complaint past a certain week, but for Jackie esp for older patients she says they expect a pelvic exam**
 - with a pelvic exam, she just personally does it for every patient. but she also does external and internal where she looks inside the vagina and uses lube for it 
