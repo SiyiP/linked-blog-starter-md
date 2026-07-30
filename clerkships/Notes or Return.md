@@ -1,4 +1,6 @@
 
+clear cell carcioma arises from endometriosis? omg 
+
 genetically inherited htrombophilias are NEVER a cause of recurrent pregnancy loss. testting for certain things like factor V etc. may not tell you whats actually causing the loss. 
 
 well woman exam for Jacqueline Moore 
