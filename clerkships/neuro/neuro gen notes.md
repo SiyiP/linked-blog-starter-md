@@ -22,3 +22,5 @@ pass thru the :
 - skin, fascia, fat, supraspinous ligament, interspinuous ligament, ligamentum flavum, epidural space, dura mater, arachnoid mater, subarachnoid space. 
 - see loss of resistance bt the supraspinous ligament and ligamenta flava/dura 
 - do L4 identification, insert bt L3-5 to keep spinal cord alive. 
+
+we would be 

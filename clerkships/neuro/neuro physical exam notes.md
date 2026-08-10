@@ -1,5 +1,9 @@
 #sensorimotor #HEENT #clinics 
 
+we should watch a full hour of rehab in our pmr thing - need therapist signing saying that we have watched this. 
+learning assessments - 2 things on one worksheet. 
+
+
 mental status exam includes: 
 - appearance + behavior
 - sensorium/cognition
