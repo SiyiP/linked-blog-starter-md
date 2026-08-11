@@ -163,4 +163,20 @@ other hyperdensity =
 seen with sturge weber for instance 
 subarachnoid hemorrhage - seen with blown out eye pupuil 
 - <mark style="background: #FFF3A3A6;">ruptured berry aneurysm = most commonly seen in posterior communicating artery hemorrhage.</mark>
-- looks like meningitis 
+- looks like meningitis = <mark style="background: #FFF3A3A6;">blood in SA space can acutally cause nuchal rigidity bc it's irritating</mark>
+- congenital = berry or saccular anerysm is most common 
+- 30% die before hospital, worst headache ever, losss of consciousness, coma sevreely, n/v 
+- <mark style="background: #FFF3A3A6;">thunderclap headache</mark>
+- photophobia, pain with lateral eye movements 
+- 50% of posterior commmunicating artery aneurysms have pupillary symptoms before onset of stroke. 
+
+CT scan sensistive 100% if early, 70% if later. 
+<mark style="background: #FFF3A3A6;">look at xanthochromia - yellow inted CSF, RBCs, on LP</mark>
+
+
+treat with surgery - aneurysm clipping/coiling
+- transcranial doppler ultrasounds  = <mark style="background: #FFF3A3A6;">cerebral vasospasm monitor for this, worsening after dx. where other vessels constrict, igivng signs of stroke</mark>
+- treat with intrathecal calcium cahnnel blockers + stinting 
+- <mark style="background: #FFF3A3A6;">nimodipine = ccb to decrease risk of vasospasm</mark>
+- triple H = hypervolemia, htn, hemodilution. make them rlly volume up and BP higher and giving fluids. <mark style="background: #FFF3A3A6;">this is all to avoid cerebral vasospasm.</mark>
+- pain contrl 
