@@ -1,5 +1,10 @@
 #sensorimotor #HEENT 
 
+peg test, 25 ft walk, and simple digit modality test = all good for MS patients. 
+- testing coordination and speed, 
+- time the wwalk 
+- tests cognitive funciton, pairing numbers and shapes together. 
+
 CSF testing for CNS dz 
 - cns infections, subarachnoid hemorrhage, guillain barre, MS 
 - or drain / pressure measure for pseudotumor cerebri, normal pressure hydrocephalus 
@@ -180,3 +185,5 @@ treat with surgery - aneurysm clipping/coiling
 - <mark style="background: #FFF3A3A6;">nimodipine = ccb to decrease risk of vasospasm</mark>
 - triple H = hypervolemia, htn, hemodilution. make them rlly volume up and BP higher and giving fluids. <mark style="background: #FFF3A3A6;">this is all to avoid cerebral vasospasm.</mark>
 - pain contrl 
+
+
