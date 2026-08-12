@@ -5,6 +5,14 @@ peg test, 25 ft walk, and simple digit modality test = all good for MS patients.
 - time the wwalk 
 - tests cognitive funciton, pairing numbers and shapes together. 
 
+billing levels - think about level 5 which is primarily typical monitoring of toxic drugs which some ppl jsut bill anyways 
+
+firstly go to other orders for why they were referred to us. or it's under other media. 
+- uusally AST>ALT when it comes to drinking or alcohol 
+lipoproprotein? 
+
+care everywhere helps out with listing other hospital system notes. 
+
 CSF testing for CNS dz 
 - cns infections, subarachnoid hemorrhage, guillain barre, MS 
 - or drain / pressure measure for pseudotumor cerebri, normal pressure hydrocephalus 
