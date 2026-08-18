@@ -195,3 +195,179 @@ treat with surgery - aneurysm clipping/coiling
 - pain contrl 
 
 
+-----
+demyelinating syndromes
+dysmetria FNF, mild papilledema/optic disc edema, unable to do tandem gait 
+- recurrent HAs, last 6 months 
+- <mark style="background: #FFF3A3A6;">HA in morning = inc ICP</mark>+ papilledema = call residents immediately 
+- differentials - tumor pilocystic astrocytoma, ependymoma, glioma, medulloblastima, can be any space occupying mass. basilar migraine, hydrocephalus 
+
+SNOOP
+- s - systemic symptoms like fevers, arthralgia
+- neurologic symptoms
+- onset - sudden
+- older patient 
+- papilledema / positionally dependent, worsening when laying down 
+
+pediatric brain tumors - commonly in posterior fossa - cerebellum, pons, medulla > spinal cord > supratentorially 
+- marocephaly infants
+- HA
+- n/v
+- papilledema 
+- <mark style="background: #FFF3A3A6;">abnormal eye movements, see a lot of roaming motions due to noncommunicating hydrocephalus</mark>
+- abn gait or coordination 
+- lethargy/irritabiilty
+- CN abnromaliies
+- seizures
+
+gliomas 50% 
+ependymoma
+- intracranial in kids, spinal cord in adults mainly. 
+- resection +- radiation 
+- hyperdense nodules. 
+craniopharyngioma
+- <mark style="background: #FFF3A3A6;">happens in the optic chiasm, so we see peripheral eyes cross at chiasm? but the nasal view will stay along the optic tract of this, so it's not affected.</mark> 
+medulloblastoma 
+- contrast enhancing midline cerebellar tumor, compress 4th ventricle. <mark style="background: #FFF3A3A6;">drop metastases, stain is super blue.</mark>
+- most malignant childhood brain tumor. 
+
+
+- pylocytic astrocytoma - most common brain tumor in childhood, commonly in cerebellum, inc ICP, pressure on 4th ventricle, clean looking cyst 
+
+peds brain tumor 2nd most common cause of death in kids 
+
+---
+gradually worsening HA and word finding difficulty, 3 mon, COPD,<mark style="background: #FFF3A3A6;"> large smoking hx 
+4/5 strength</mark>, in RUE, difficulty naming common itmes, normal sensation, speech slow and monosyllables. 
+- brocas aphasia - on the frontotemproal L side. 
+- brain metastases of lung cancer. 
+- new mass on brain as adult = usually a met. 
+- <mark style="background: #FFF3A3A6;">typically subacute, mets at WATERSHED areas of arterial overlap, like ACA and MCA or whatevers. mostly multiple</mark>
+- increased CIP, HA, N/v
+- focal neuro symptoms 
+- seizures 
+
+"tturkey burger = Buns, mayo, ketchup, cheese, lettuce, Turkey "
+B- breast cancer = most likely to get hemorrhagic transformation of mets
+M = medulloma 
+K = kidney
+Ch = choriocarcinoma 
+L = lung adenocarcinoma 
+T = thyroid , speciifcilaly papillary 
+
+r/o seminoma testicular seminoma in males 
+
+prostate cancer freq mets to spine but not brain!!!
+
+biggest improvement = biggest improvement in survival. chemo more for some tumors like melanoma + testicular CA. 
+dexamethasone = <mark style="background: #FFF3A3A6;">improves function but not survival, brings down edema.</mark>
+
+adult primary tumors
+- glioblastoma - crosses corpus callosum 
+	- seizrues, deficits, surgery, but prognosis is very bad. 
+	- <mark style="background: #FFF3A3A6;">butterfly lesion</mark>
+- pituitary adenoma - typically don't cause a lot of symptoms ; also keep pituitary apoplexy in your head. 
+- meningioma = has a dural tail - which has a tailing of the effect = <mark style="background: #FFF3A3A6;">not in the brain but in meninges.</mark>
+
+----
+case 3
+19 yo f - 6 hr hx severe ha, fever, photophobia, neck stiffness
+- unwell, somnolent, repeated prompting to answer qs. 
+- Fever, HR high, 
+- nonblanching petechial rash on trunk and legs. 
+neisseria gonococcal menigitis? - 
+- 22 or younger. = most common 
+- LP diagnosis officiencially 
+- antibiotics = ceftriaxone , vancomycin ? <mark style="background: #FFF3A3A6;">give it first</mark>
+
+bacterial meningitis 
+- nuchal rigidity 
+- cannot do knee extension = kerning. 
+- altered mental status common 
+- fever usually high 
+- HA
+
+glucose is more important for meningitis 
+CSF = bacterial cloudy straw = up protein and wbc, <mark style="background: #FFF3A3A6;">glucose down</mark>; polymorphonuclear cells 
+viral = this is for most menigitis = ultimately supportive. only have antivirals for <mark style="background: #FFF3A3A6;">HSV and VZV.</mark> lymphocytic predominance 
+fungal = cloudy straw collored ; TB matches a lot of these. 
+- cryptococcus = <mark style="background: #FFF3A3A6;">very high opening pressure</mark>
+
+19+ up in age = typically more Strep pneumoniae,
+- neisseria meningitidis , listeria, gram neg rods increase with age. 
+
+----
+36 M HIV 3 wk hx HA and confusion, elevated Temp, orietnated to self, slowed Fine finger in L hand, walks with unsteady wide based gait, stopped taking aRVT 4 months ago due to GI upset. unknown CD4. 
+- toxo = ring enhancement, only <mark style="background: #FFF3A3A6;">with CD4 less than 100 often in basal ganglia</mark>
+- cns lmphoma 
+- pml (jc virus)
+- cmv
+- crytococcus
+- STIs, nocardia, staph 
+
+causes of ring enhancing lesion s
+- mets, 
+- glioblsatoma multiforme
+- toxoplasmosis 
+- abscess
+- less common: 
+	- tumorfactive MS
+	- actue infarction 
+---
+36 yo w 3 day hx LLe weakness
+- 4 months ago, double vision resolving after 1 wk 
+- +right afferent pupillary defect
+- 4/5 strength in L hip flex, knee flex, knee extension, 2/5 left dorsiflexion 
+- DTR3+/4 in L knee + ankle with +babinski 
+- <mark style="background: #FFF3A3A6;">3 means it's brisk and it SPREADS meaning you can elicit more reflexs.</mark>
+- 4 just means it's sustained clonus. 
+- 2+ brisk = <mark style="background: #FFF3A3A6;">brisk, no spreading.</mark>
+periventricular demyelination = Dawsons finger's , MS 
+- don't just jump to MS if seeing demyelinating
+- <mark style="background: #FFF3A3A6;">neuromyelitis optica or MOGAD</mark>
+- diagnostic criteria = mcdonalds criteria 
+- in 2014 = updated change to dx criteria 
+	- dissemination in space = <mark style="background: #FFF3A3A6;">supratentorially, infratentorially, and spinal cord.</mark> = need dissemination in 2 of these ares
+	- time = clinical event and one in the past? need to see old lesions 
+	- now optic neuritis can be added to it, <mark style="background: #FFF3A3A6;">putting into context of time. and kappa free light chains in the CSF too</mark>
+treat it 
+- 3-5 days of steroids (but we don't have data on either or what time works)
+- minimal vs 5 nothing specific decides, just based on vibes
+- <mark style="background: #FFF3A3A6;">really know = natalizumab = it's just monitoring for JC virus/PML</mark>
+- for CD20 inhibitors, stopping the B cells 
+- make sure to address their depression = huge thing 
+- assistive devices
+- spasticity = use GABA b inhibitors tizanidine etc. 
+- cost = care and ms is very expensive. 
+
+
+pml - sene in mainly HIV / aids before monoclonal therapies
+- natalizumab watch for it 
+- CSF = <mark style="background: #FFF3A3A6;">positive for JC virus is diffinitive dx.</mark>
+new neurologic symptoms
+encephalopathy 
+new seizures
+large confluent white matter lesion on MRI... very large and patchy 
+= mortality in immmunosuppress 20% but significant morbidity 
+
+optic neuritis = <mark style="background: #FFF3A3A6;">painful monocular vision loss</mark>
+- color vision of red desaturation  = <mark style="background: #FFF3A3A6;">pull up ishihara color test</mark>
+- develops over hours to days. 
+- peaks 1-2 wks 
+- vision prbolems can persist post recovery 
+- <mark style="background: #FFF3A3A6;">afferent pupillary defect</mark>
+- LP normal usually sometiems oligoclonal bands? 
+- high dose <mark style="background: #FFF3A3A6;">methylpresdnisolone = recovery improved.</mark>
+- theres no inferiority of oral steroids but gastric SEs are bad. hense why we just do IV
+
+
+neuromyelitis optica
+- <mark style="background: #FFF3A3A6;">transverse myelitis(optic chiasm and into the tract) and optic neuritis .... associated w antibodies to aquaporin 4</mark>
+- - more malignant than MS
+- acute = plasma exchange
+- chronic rituximab or other CD20s 
+
+
+MOGAD
+- antibody is the MOGAD antibody , 
+- more sensitive to test  in the <mark style="background: #FFF3A3A6;">serum, NOT CSF.</mark>
