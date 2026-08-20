@@ -371,3 +371,7 @@ neuromyelitis optica
 MOGAD
 - antibody is the MOGAD antibody , 
 - more sensitive to test  in the <mark style="background: #FFF3A3A6;">serum, NOT CSF.</mark>
+
+
+----
+532 
