@@ -1,5 +1,18 @@
 #sensorimotor #HEENT 
 
+cognitive testing modified
+person place location = 
+
+if your house was on fire what would you do? 
+can you point to the ground after pointing to the ceiling?
+what's the same about a bike and a train? 
+penny nickel dime repeat it 
+squeeze, pull me hard, push me away when they're bedbound. 
+claw hand and don't let me straighten them. 
+hoffman present = what we rlly say instead of positive 
+you're allowed to have one beat of clonus; that's fine. 
+
+
 peg test, 25 ft walk, and simple digit modality test = all good for MS patients. 
 - testing coordination and speed, 
 - time the wwalk 
