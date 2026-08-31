@@ -1,5 +1,20 @@
 #sensorimotor #HEENT 
 
+consider back pain etiologies; 
+- spinal stenosis 
+- degeenrative disc syndrome striaght leg raise 
+
+chronic strokes darker on radiology 
+
+"M1 occlusion with distal reconstitution"
+- meaning most proximal part of the MCA occluded and then distally, the artery recanalized. 
+- recrudescence = after the stroke , the parts of the brain impacted still "act up", note this is temporary = temp return or worsening of old neuro symptoms from older healed stroke; unlike brand new, no clots, but physical trigger overwhelms the old, scarred area. 
+
+note - for assessment nad plan -
+- make sure to say where it is/which part of the brain's affected 
+- and then the etiology or how it was caused bc that will impact the management. 
+- and then what to do for it 
+
 cognitive testing modified
 person place location = 
 
