@@ -407,4 +407,188 @@ MOGAD
 
 
 ----
-532 
+Lecture 4 
+- automatism 
+	- lip smacking, chewing, swallowing oral; manual repetitive hand movements; verbal repetitive vocalizations or speech 
+- aura = before automotism ; <mark style="background: #FFF3A3A6;">only focal epilepsies have this, if you see TC movements, it's a focal onset to bilateral TC seizures.</mark>
+	- myoclonic seizures = sudden movements like jerk/jolt in body 
+- focal seizures = from **commonly structural brain abnormalities. in 30-40% pts no abnormality on MRI = cryptogenic epilepsy**
+	- ppl w ad have more risk of them bc of atrophy 
+- staring into space/unresponsiveness. 
+- feeling sleepy afterwards = post ictal state 
+- focal seizure = impaired awareness = unresponsiveness during events aka complex partial 
+sharp waves/spikes or epileptiform dcs in<mark style="background: #FFF3A3A6;"> **temporal lobe**</mark> = most common place is mesotemporal sclerosis/epilepsy 
+- **for focal seizures there's dystonic <mark style="background: #FFF3A3A6;">posturing contralateral to side of seizure</mark>**
+
+60% of all epilepsy in adults = **temporal lobe epilepsy**
+- often caused by **mesial temproal sclerosis = gliosis of mesial temporal strcuctures including hippocampus+amygdala**
+- common auras = epigastric rising/roller coaster stomach feeling; olfactory/gustatory hallucinations/ psychic / emotional symptoms . 
+
+<mark style="background: #FFF3A3A6;">absence seizures are NOT focal. no auras, there's 3 Hz GENERALIZED spiek and wave d/cs</mark>
+	subtle eye blinking, mouth movements during event, occur many 20+x a day 
+
+juvenile myoclonic epilepsy 
+- generalized TC seizures too - sensitive to sleep deprivation, alc, infections
+- myoclonic seizures usually AM 
+- absence in 30%
+- begins in mid-teens 
+- <mark style="background: #FFF3A3A6;">represents 7-8% of adult epilepsy </mark>
+- genetic component, polygenetic, <mark style="background: #FFF3A3A6;">dx by EEG 5-6 hz generalized spike and wave dcs.</mark>
+- form of generalized epilepsy 
+- valproic acid, lamotrigine, levetiracetam, topiramate, zonisamide(newer med)
+- note the HZ is faster than the absnece seizures tho the wave form is similar 
+
+West syndrome = infantile epileptic spasm syndrome
+- <mark style="background: #FFF3A3A6;">infants, triad developmental delay, epileptic spasms, Hypsarrhythmia(high amp, chaotic disorg pattern with multifocal epileptic spike + wave dcs</mark>
+- 10-33% mortality, 70-90% cognitive impairment moderate to severe
+- TREAT<mark style="background: #FFF3A3A6;">: ACTH or IV steroids </mark>
+- 2nd line is <mark style="background: #FFF3A3A6;">vigabatrin</mark> 
+
+
+lennox gastuat 
+- seizure disorder with multiple seizure types = <mark style="background: #FFF3A3A6;">esp atonic and tonic ones.</mark>
+- intellectual disability 
+- <mark style="background: #FFF3A3A6;">slow 1-2 Hx interictal spike and wave dcs.</mark>
+- 25-30% have preceding epileptic spasms, poorly responsive to therapy ): 
+
+febrile 3% neuro normal kids
+- show on EEG both types
+- simple = generalized, <15 min, 1 in 24 hrs 
+- complex = any feat, 15+ min, **FOCAL**, more than 1 in 24 hrs. warrants <mark style="background: #FFF3A3A6;">mri</mark>
+
+status epilepticus 
+- after 5 min unlikely to resolve spontaneoulsy 
+- after 30 min of continuous seizure activity, brain shows evidence of neuronal injury/death. 
+
+5-20min -> denzodiazepines
+- give either IM midazolam 10 mg > 40 kg, 5 mg 13-40 kg x 1
+- IV lorazepam .1mg/kg, max 4 mg can only repeat 1x
+- IV diazepam .15-.2 mg/kg, max 10 mg, max repeat x1 
+with benzos, continue to monitor, intubate if needed 
+if continued 
+20-40 min 2nd therapy phase 
+- fosphenytoin 20 mg/kg max 1500 PE single dose
+- IV valproic acid 40 mg / kg max max 6000mg single 
+
+<mark style="background: #FFF3A3A6;">40+ min = refractory status epilepticus</mark>
+- no agreed upon treatment ); 
+- continuous EEG 
+- repeat any of above therapies or start IV sedation like midazolam, propofol, pentobarbital 
+with status epilepticus 
+- mortality in treatment responsive pts 10%
+- inc 25 % in treatment refractory pts. 
+xomnolence, ataxia, GI upset, dizziness, cognitive slowing, mood changes = seen in most antiseizure meds. 
+- in addition, most drugs have potential for idiosyncratic SEs. 
+
+seizure mimics = seizure are not the only cause of LOC! 
+syncope can be a mimic = preceded by prodrome 
+- <mark style="background: #FFF3A3A6;">there can be syncopal convulsions FYI</mark>
+and can be postural 
+psychogenic 
+- high amplitude, async, no associated EEG abnormalities, form of conversion dz, functional neurologic dz. 
+
+dizziness - vertigo/disequilibrium /presyncope/lightheadedness
+- vertigo specifically is spinning sensation. 
+
+nystagmus = look in L/R/primary gze
+- <mark style="background: #FFF3A3A6;">peripheral vertigo = unidirectional horizonal</mark>
+- <mark style="background: #FFF3A3A6;">central = torsional or vertical nystagmus = aka direction changing horizonal nystagmus</mark>
+
+
+skew deviation = vertical misalignment f eyes
+- pt looks at nose while covering one eye 
+- rapidly uncover eye , then watch if eye vertically re-aligns itself
+- <mark style="background: #FFF3A3A6;">if the eye is moving and is skew deviation = strong concern for brainstem stroke</mark>
+
+acute persistent vertigo 
+vestibular neuronitis = acute persistent vertigo = cranial nerve part of vestibulocochlear nerve
+- cerebellar stroke / brainstem hemorrage =
+- acute MS flares. 
+
+labyrinitis = hearing loss = vestibular neuritis. 
+50+% have preceding URI sx 
+
+presents with severe vertigo, usually 24-48 + hours, most have profound gait instability , many will vomit. 
+worsened by head positions 
+
+vestibular neuritis exam 
+- horizontal/horizontal torsional nystagmus ; can be suppressed with visual fixation, inc when the eye moves in the direction of fast phase of nystagmus - if they have L beating, if they loookk to L, it inc in freq. 
+- <mark style="background: #FFF3A3A6;">in this case, majority symptoms improve in 48 hrs, may take wks for complete resolution tho</mark>
+- give <mark style="background: #FFF3A3A6;">methylprednisolone = faster recovery... if symptomatic, give IVF, antiemetics, meclizine = symptomatic...</mark>
+- sometimes vesitbular rehab. 
+
+
+acute episodic vertigo 
+- basilar migraine/vestibular migraine
+- meniere's = overproduction endolymph = chochlear and vestibular canal presssure 
+	- sensorineural hearing loss at low freq
+	- tinnitus
+	- vertigo 
+	- minimize salt, caffeine / nic, MSG, ETOH, stress. antiemetics, antihistamines, benzo. 
+- vertebrobasilar insufficiency 
+- multiple scl
+- perilymphatic fistula 
+
+episodes last minutes-hrs 
+ddx = refined by accompanying symptom
+
+--
+77 yo m DM, CAD of edizziness vertigo whenever hen rolls over in bed. laast 30-40 s then resolve but multipel times / night 
+- no hearing loss, no tinnitis 
+- BPPV - confirm with dix-hallpike's maneuver
+	- <mark style="background: #FFF3A3A6;">nystagmus = typically torsional and vertical</mark>
+- epley maneuver 
+- calcium debris in semiciruclar canals ; theyre supposed to be in the utricle but get dislodged. 
+- recurrent episodic positionally dependent vertigo, by specific head movements 
+
+
+<mark style="background: #FFF3A3A6;">Chiari 1 malformation = low lying cerebellar tonsils, syrinx common, less common cause of acute positional vertigo</mark>
+
+
+--
+OSA - in men > women 
+- small crowded palate, tobacco use, adenoid/tonsillar hypertrophy(surgery in kids) 
+- excesssive daytime sleepiness, loud snoring 
+- <mark style="background: #FFF3A3A6;">refractory hypertension, CO2 retention</mark>
+- NAFLD (when you have eps of low o2, or inc co2, <mark style="background: #FFF3A3A6;">cortisol levels inc => inc FA production</mark>, perioperative mortality 
+- dx with <mark style="background: #FFF3A3A6;">polysomnogram.</mark>
+
+--
+RLS
+- recurrent uncomfy need to move legs/ft triggered by rest
+- - can be triggere by <mark style="background: #FFF3A3A6;">antihistamines, antidepressants, dopamine antagonists</mark>
+- also seen in <mark style="background: #FFF3A3A6;">iron deficiency and neuropathy</mark>
+	- all associations. not the cause of it, but seen in it 
+
+<mark style="background: #FFF3A3A6;">20% of them with primary rls -> PD</mark>
+80% have periodic limb movements on polysomnogram. burning, itching, crawling or aching wake ppl up. 
+- <mark style="background: #FFF3A3A6;">always check for iron deficiency, gabapentin treat, or dopaminergic agonists like pramipexole, ropinirole</mark>
+- alternatives = pregabalin, levodopa, etc. 
+
+REM sleep disorders
+- 2% of older adults 60+ 
+- nocturnal vocalization/dream enacting, behaviors correlating with dream content, 
+- <mark style="background: #FFF3A3A6;">worse in 2nd half of night.</mark>
+- 50% risk of developing alpha synucleinopathy within 10 yrs 
+- PD, MSA, Lewy body dementia 
+- treat = safe slepe environment <mark style="background: #FFF3A3A6;">clonazepam</mark> (ofc give at night)
+
+parasomnias - 
+- sleep terrors + sleepwalking
+- seen in children age 4-12 more commonly in younger
+- sleep terrors can +/- flushing, tachycardia
+- REM3 slow wave sleep 
+- don't recall events unlike nightmares. 
+
+--
+fatigue, slept in work meetings, weakness of neck+torso when arguing, 
+cataplexy
+- narcolepsy - w/ cataplexy 
+- <mark style="background: #FFF3A3A6;">orexin deficiency</mark>
+- pts also have hypnagogic / hypnapompic hallucinations, sleep paralysis 
+- give stuff that activates
+- <mark style="background: #FFF3A3A6;">strongly genetic!! hLADQB1 0602... ask about family hx</mark>
+- sleep paralysis
+dx with <mark style="background: #FFF3A3A6;">multipel sleep latency test = connected to polysomnogram, asked to fall asleep in dark room. fall asleep in lss than 8 min, repeated EARLY ENTRY into REM sleep.</mark>
+- treat modafanil, methylphenidate, amphetamines. 
+- <mark style="background: #FFF3A3A6;">cataplexy treat: TCA/SSNRI/SSRIs to decrease REM sleep and hallucinations. and sodium oxybate.</mark>
