@@ -1,5 +1,10 @@
 #sensorimotor #HEENT 
 
+look over Week 2 on amboss when you wanna.... idk 
+
+
+you have issues telling apart wernickes vs other things like delirium tremens or some sorta alcohol hallucinations. remember the ataxia and stuff in the wenickes 
+
 consider back pain etiologies; 
 - spinal stenosis 
 - degeenrative disc syndrome striaght leg raise 
