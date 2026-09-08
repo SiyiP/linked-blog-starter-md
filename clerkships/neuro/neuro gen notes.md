@@ -592,3 +592,107 @@ cataplexy
 dx with <mark style="background: #FFF3A3A6;">multipel sleep latency test = connected to polysomnogram, asked to fall asleep in dark room. fall asleep in lss than 8 min, repeated EARLY ENTRY into REM sleep.</mark>
 - treat modafanil, methylphenidate, amphetamines. 
 - <mark style="background: #FFF3A3A6;">cataplexy treat: TCA/SSNRI/SSRIs to decrease REM sleep and hallucinations. and sodium oxybate.</mark>
+
+
+---
+NM lecture
+- acute weakness distal -> proximal weakness
+- afebrile 
+- mentla status/cranial nerves/ motor 
+- normal vibes, decreased BLE sensation in ankles, DTRs are absent 
+- WBC 12.1 
+- CSF elevated protein at 82. glucose normal. 
+- GBS = initially there's sensory disturbances, usually radicular pain noted. rapid evolving symmetric usually ascending limb weakness, loss of reflexes, absent/mild sensory signs on formal testing
+	- autonomic dysfunction variable, incontinence rare 
+	- usually clinical dx, peripheral nerve based dx. 
+	- **always do imging before the LP for any nerve root enhancements.**
+	- protein cell dissociation = always higher protein, lower wbc. 
+	- <mark style="background: #FFF3A3A6;">wait 1-2 weeks before nerve conduction study shows something, can be normal early in dz </mark>
+	- IVIG for kids, or plasma exchange. **steroids are not indicated**
+	- > miller fisher syndrome - variant with predom affcts CNs and cerebellum. opthalmoplegia, ataxia, areflexia. anti-gq1b 
+
+case 2 
+- ED progressive fatigue, weakness, double vision, drooopy eye lids. 
+- afebrile, normal mental 
+- <mark style="background: #FFF3A3A6;">fatigable</mark> bilat ptosis L>R , decreased abd of L eye, moderate bifacial weaknesss, symmetric weak palate life with mildly nasal dysarthria 
+	- **check fatiguable eye movement by telling them to look in one direction 30 s to a min. then see if they get double vision, and then check upper gaze for ptosis over time**
+motor exam - proximal weakness, intact senssation 1+ thruout reflex, 
+coordination is good. 
+- **myasthenia gravis** = worsening with exercise, ptosis, diplopia, dysarthria, dysphagia. axial weakness. proximal>idstal limb weakness
+- mostly ACH receptor antibodies. 
+- less commmon = antibodies can be against <mark style="background: #FFF3A3A6;">muscle specific kinase MUSK which helps cluster ACHR at synapse</mark>
+- seronegative MG: can do ice pack test. 
+- edrophonium test = achesterase inhibitor, so more ACH ... to see if ptosis improves. downside: cardiac bradyarrhythmias, asthma exacerbations. 
+- curtain sign = look up 30-60 sec, eyelids have gradual ptosis. 
+- we see a jitter variability on EMG
+- look for 2ndary caue such as thymoma. - associated with it <mark style="background: #FFF3A3A6;">the thymoma resection can be curative!</mark>
+	- rec ressession= screening chest CT recommended in pts with generaliezd MG, 
+	- thymectomy ; <mark style="background: #FFF3A3A6;">or use pyridostigmine as ACHesterase inhibitor for symptomatic</mark>
+	- if that doesnt work, immunosuppression start with steroids. steroid sparing agents like ivig/plasma exchange, or biologics. 
+- botulism = descending paralysis - **ocular/bulbar muscles weakness, limb/resp later.**
+	- pupils are <mark style="background: #FFF3A3A6;">dilated, reflex depressed.</mark>
+	- <mark style="background: #FFF3A3A6;">exercise improves ysmptoms </mark>
+	- may have autonomic symptoms 
+	- high freq repetitive nerve stim = incremental response 
+	- botulism ig. 
+	- from raw honey, improperly canned food, deep penetrating wounds, **parts of soil in penn, cali. acts of bioterrorism.**
+LEMS:
+- small cell lung cancer in 40-60%, more of presynaptic etiology 
+- - proximal weakness, ptosis, diplopia, dysarthria, 
+- <mark style="background: #FFF3A3A6;">improves with exercise.</mark>
+- reflexes decreased. 
+- atuonomic symptoms are common too 
+- treat underlying cancer. 
+- - <mark style="background: #FFF3A3A6;">medication = to block presynaptic potassium channels.</mark> =amifampridine
+- immunosuppressants, ivig, steroid azathioprine 
+
+case 3 
+63 yo hx htn and bph presents to er with subacute prog weakness/falls
+- outdoorsman, 
+- 3 wks ago more muscle pain, difficulty carrying things 
+- 3 months prior sun burned rash on chest, back arms, 
+- no lyme/enhrlichia 
+- treated with doxycycline with some improvement 
+- the weakes at hip flexors and stuff = proximal pattern, but pretty weak everywhere esp the proximal. 
+- elevated CK, elevated ANA, ESR and CRP 
+- dermatomyositis = seen <mark style="background: #FFF3A3A6;">heliotropes, gottrons papules, erythema on extensors, shawl sign, etc.</mark>
+- know more subtle on darker skin. look carefully in pigmentation change ... 
+- <mark style="background: #FFF3A3A6;">subacute, rarely can be abrupt or over months. 30% dysphagia.</mark>
+- cutaneous feats precede... <mark style="background: #FFF3A3A6;">children and others can get subq calcification </mark>
+- anti-TIF1-gamma antibodies = elevated cancer risk 
+- <mark style="background: #FFF3A3A6;">methylprednisolone IV acute</mark> over 3-5 days
+- improvement over 3-6 mon this is long term steroid tapering process. 
+- chronic treat with others immnossuppressants. 
+
+
+case 4 
+- 55 yo L handed man with HLD, CC leg twitching + cramping, progressive LUE weakness + atrophy over last 9 months, 
+- LLE 
+- - motor slightly inc tone BUE... 
+- mild atrophy in interossei. + tehnar eminance, no fasciculations, deltoids weaker, extensors and fingers and stuff weakner
+- babinski present on L, absent on R. 
+- dx = concern for LMN invovlement with muscle atrophy, some inc reflex + babinski = UMN 
+- R sided UMN lesion? 
+- <mark style="background: #FFF3A3A6;">mixed UMN/LMN = progressive over a long time ALS. </mark>
+- shows spread + worsening of symptoms over time. 
+- progressive <mark style="background: #FFF3A3A6;">painless weakness.</mark>
+- 75% limb weakness begin, 25% begin with bulbar symptoms. shouldn't have sensory changes, extraocular muscle involvement, tremor, VCs, loss of bowel/bladder function 
+- <mark style="background: #FFF3A3A6;">riluzole inhibits presynaptic glutamate release, blocks voltage gated na channels, inc survival by 2-3 mon</mark>
+- other things you should help supportively 
+- edaravone = may improve function not mortality 
+- for SOD mutation specifically tofersen. 
+
+case5 
+- 5 yo boy , early motor and cog , but didnt walk til 16 mon, by 2 yrs abnormal lordotic posture when standing. 
+- gower's sign =<mark style="background: #FFF3A3A6;"> </mark>duchenne's muscular dystrophy, x linked 
+- steroids - improved pulm function. pT/ot/slp
+- orthopedics etc. 
+- pts should **always be involved in deicisons of ventilatory support/end of life care/resuscitation.** even if they're rlly young 
+
+
+myotonic dystrophy 
+- inability to relax muscles after contracture
+- - proximal muscle trophy prominent
+- cardiac abn
+- prominent early balding 
+- <mark style="background: #FFF3A3A6;">hatchet facial appearance, atrophy of temporalis muscle.</mark>
