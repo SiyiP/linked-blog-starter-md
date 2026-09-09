@@ -1,5 +1,8 @@
 #sensorimotor #HEENT 
 
+when you're updating something to the notes after rounds, make a sign that says "on repeat rounds with attending..."
+- 
+
 look over Week 2 on amboss when you wanna.... idk 
 
 
@@ -696,3 +699,5 @@ myotonic dystrophy
 - cardiac abn
 - prominent early balding 
 - <mark style="background: #FFF3A3A6;">hatchet facial appearance, atrophy of temporalis muscle.</mark>
+
+---
