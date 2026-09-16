@@ -721,4 +721,243 @@ mannitol, hyppertonic saline, pentobarbital and head up and hyperventilation = g
 
 monroe kelly doctrene = only thing inside skull is csf, brain, blood, and any variation of the 3 balance = not enough space. 
 
-kernohan's notch = 
+kernohan's notch = ipsilateral hemiparesis = meaning herniation's so bad that it's squishing this side of the corticospinal tract for uncal herniation 
+
+
+subfalcine herniation = **cingulate gyrus displacement under falx cerebri due to mass**
+- see lateral pressure
+- HA
+- contralateral leg weakness
+- <mark style="background: #FFF3A3A6;">if theres a sufficient midline shift = one of the ONLY instancs of bilateral leg weakness.</mark> that are from brain disruptions 
+
+central herniation - <mark style="background: #FFF3A3A6;">thalamus and bilateral temporal lobes go into midbrain area. entire brainstem squish</mark>
+- RAS squish = coma
+- decorticate flexor posture above red nuc 
+- decerebrate extensor posturing 
+cerebellar / tonsillar herniation 
+
+definitive icp surgery 
+- temporary measures 
+- ventriculostomy to drain 
+- osmotic therapies like mannitol+hypertonic saline 
+- barbiturates decrease metabolic demand = less cerebral blood flow 
+
+
+<mark style="background: #FFF3A3A6;">note = SUBDURAL IS SUBACUTE; DAYS TO WEEKS!!!</mark>
+
+neurologic brain stem death 
+- - <mark style="background: #FFF3A3A6;">have to determine that their current state isn't due to anything else, stop any other medicine that are sedating for instance, correct any metabolic factors, and talk to family/chaplain/social work/ethics, organ</mark>
+- brainstem reflexes absence
+	- <mark style="background: #FFF3A3A6;">oculocephalic reflex, fixed forward gaze like doll eyes</mark>
+	- vestibuloocular reflex = <mark style="background: #FFF3A3A6;">cold water SLOW movement to side of the water delivered and then the FAST NYSTAGMUS TO THE SIDE AWAY.</mark>
+		- COWS cold nystagmus Opposite, Warm nystagmus Same 
+	- other reflexes
+		- pupillary light 2, and 3 
+		- corneal reflex; afferent 5 and efferent 7 
+		- oculocephalic reflex 
+		- oculovestibular 
+		- oropharyngeal reflex <mark style="background: #FFF3A3A6;">afferent 9 and efferent 10</mark> 
+			- gag is back of the throat 
+		- cough reflex = <mark style="background: #FFF3A3A6;">afferent 10 and efferent 10</mark>
+			- cough reflex we check is way deeper into the larynx, which is CN 10 
+		- withdraw to noxious stimuli 
+- apnea test = final 
+	- see PaCO2>=60 and absence of respiratory movements <mark style="background: #FFF3A3A6;">consisstent with death by neurologic criteria. tell the family that as soon as it's done the patient's dead.</mark>
+once they're braindead, <mark style="background: #FFF3A3A6;">we don't continue support no matter what the family wants. if son is power of atterney care can still be withdrawn.</mark>
+- 
+
+end of life care
+how to determine if they have capacity 
+- not based on age/iq. 
+- in an emergent situation default to life sustaining measure.s
+- then you see next of kin 
+- and if next of kin seems unreasonable or in conflict with patient = <mark style="background: #FFF3A3A6;">default to ethnics committee</mark>
+
+radiculopathy vs myelopathy 
+- radiculopathy = <mark style="background: #FFF3A3A6;">neck pain points towards nerve root muscle</mark>
+- myelopathy = <mark style="background: #FFF3A3A6;">hyperreflexia, increased tone, it's upper motor neuron remember?</mark> babinski, incontinence. 
+
+
+disck herniation = msk low  pain vs disc herniation at s1 
+- conservative nsaids/ pt first heat packs 
+
+
+ankylosing spondylitis = ESR up 
+- improvement thruout the day 
+- HLA B27 
+- <mark style="background: #FFF3A3A6;">psoriatic arthritis, ulcerative colitis, enthesiopathy, uveitis</mark>
+- at risk for neurologic conditions: <mark style="background: #FFF3A3A6;"> atlantoaxial instability = cause of compressive myelopathy </mark>
+these ppl in car accidents have very high risk of myelopathy = high C-spine immediate death risk. eval for this prior to any surgeyr!!!
+<mark style="background: #FFF3A3A6;">get flexion extension xray of c spine.</mark>
+
+
+cervical spine **myelopathy**
+- mismatch
+- decreased LMN wasting and strengh in upper extremitites
+- and lower extremitities hyperreflexia etc. 
+- <mark style="background: #FFF3A3A6;">this is NOT ALS bc of the sensory signs.</mark>
+- if it's only pain and temp disruptions = syringomyelia 
+	- <mark style="background: #FFF3A3A6;">fyi you can also get this with trauma or meningitis. most of the time congenital chiari 1</mark>
+	- form from central csf, spasticity (atrophy in UEs, spasticity in LEs. weakness.)
+	- gabapentin / duloxetine for pain, surgery 
+
+definitive fix with surgery , or pain control with duloxetine, gabapentin, pregabalin. 
+- chiari 1 association with syringomyelia = headaches. 
+
+
+myelopathies
+- transverse myelitits
+- infectious
+- spinal cord infarct
+- epidural hematoma
+- b12 deficiency
+- neoplasm
+- syringomyelia 
+
+
+
+cauda equina - mri
+- <mark style="background: #FFF3A3A6;">acute, onset severe low pain in back radiating into L leg, perianal numbness etc.</mark>
+- incontinence or retention 
+- sensory loss/weakness in feeet. 
+- need <mark style="background: #FFF3A3A6;">steroids , surg decompression</mark>
+
+raise a flag to spinal epidural abscess if they're <mark style="background: #FFF3A3A6;">diabetic. or UTI, or skin infection too.</mark>
+
+
+horners 
+- anhidrosis 
+- miosis 
+- ptosis 
+pancoast = plexopathy = hoarseness, etc. 
+radiation injury to BP from breast cancer treatment can happen. 
+
+endometriosi 
+- 6 mon ago, paresthesias in 
+
+
+radial nerve = dorsal part of hand, 
+ulnar = both dorsal and palmar
+
+
+axillary nerve= anterior shoulder dislocaiton, compare with rotator cuff injury 
+
+
+ulnar nerve palsy in wrist - seen in <mark style="background: #FFF3A3A6;">hamate fracture = isolated sensory/motor deficis.</mark>
+
+radial neuropathy = writst drop, <mark style="background: #FFF3A3A6;">weak supination, weak triceps, and extensor sensory</mark>
+- we see saturday night palsy in axilla comparession or crutches wrong. 
+high humoral fracture. subluxation of radius 
+
+midshaft groove of spiral groove = <mark style="background: #FFF3A3A6;">triceps and cutaneous br spared.</mark>
+radial tunnel = no sensory change
+<mark style="background: #FFF3A3A6;">handcuff enuropathy = cheiralgia paresthetica = superricial numbness/tingle/burning sensory change in radial distrib.</mark>
+
+<mark style="background: #FFF3A3A6;">bilateral radial neuropathy - think lead poisoning</mark>
+
+
+meralgia paresthetica = lateral femoral cutaneous neuropathy 
+- strickly above knee 
+- tight jeans, pregnancy , belt ''
+
+
+**femoral nerve injury** 
+- distal to inguinal ligament = spare iliopsoas = normal hip flexion 
+- prox to inguinal ligement = weak iliopsoas, weak hip flexion 
+
+
+inf gluteal nerve = maximus = impaired leg extension 
+
+superior gluteal nerve = medius + minimus hip stabilizer = trendelenburg gait. 
+
+tibial = posterior compartment
+common peritoneal anterior and lateral leg. 
+
+
+sciatic nerve injury = usually inferior injection or tumors. 
+
+L5 radiculopathy or peroneal neuropathy = <mark style="background: #FFF3A3A6;">foot drop</mark>
+- foot inversion vs eversion = <mark style="background: #FFF3A3A6;">to distinguish.</mark>
+- <mark style="background: #FFF3A3A6;">radiculopathy</mark> has an "i" in it and it's weakness with inversion = 
+- eversion = <mark style="background: #FFF3A3A6;">peroneal neuropathy</mark>, has an "e"
+
+peroneal neuropathy 
+- leg crossin, surgical mispositioning, extreme weight loss (loss of that fat pad near fibular head.)
+
+tarsal tunnel syndrome - makes numbness in feet radiating to toes with <mark style="background: #FFF3A3A6;">no weakness; the motor ones already branched off</mark>
+
+
+compartment syndrome
+- persistent pain/aching - > paresthetsia -> pulselessness -
+- treat with <mark style="background: #FFF3A3A6;">fasciotomy</mark>
+
+
+causes of peripheral neuropathy/toxins
+- chemotherapy 
+- colchicine
+- dapsone
+- diphtheria
+- ethanol
+- heavy metals
+- metronidazole
+- nitrofurantoin, phenytoin, too much b6. 
+
+
+neuropathy treatment - 
+- gaba , duloxetine
+- TCAs
+- visual insepction 
+
+
+statin + fibrates = <mark style="background: #FFF3A3A6;">statin myopathy cause</mark>
+muscular dystrophy 
+- <mark style="background: #FFF3A3A6;">grapefruit , niacin, cyclosporin, steroids, amiodarone, HAART. all statin myopathy , more common in pts taking drugs that interact with cyp3a4.</mark> 
+
+bells palsy - 
+- viral infection = probably HSV. 
+- steroids ? and conservative measures. 
+- nerve 7 by <mark style="background: #FFF3A3A6;">lyme, and sarcoid especially on tests.</mark>
+
+ramsey hnt vs bells palsy 
+- <mark style="background: #FFF3A3A6;">VZV see vesciles in ear and tongue!!!</mark>
+
+
+cavernous sinus thrombosis - dx with mri and treat with <mark style="background: #FFF3A3A6;">antibiotics</mark>
+- always 2/2 infection and surgical evac
+- <mark style="background: #FFF3A3A6;">internal carotid artery,, cn 3,4, V1/2, and 6(this is medial)</mark>
+- spreading bacterial infections, 
+- EOM problems
+- 3 = ptosis 
+- <mark style="background: #FFF3A3A6;">V1+2 = upper and middle face envolvement. </mark>
+- the chin is spared~!
+
+presbyopia = difficulty focusing on items at short distances 
+
+
+treat the infection first and then treat the chorea. syndham chorea. 
+
+chorea gravidarum = young pregnant pts, associated with eclampsia, only treat with severe dz. 
+
+<mark style="background: #FFF3A3A6;">head of caudate stroke = chorea. think of huntingtons.</mark>
+- and antiphospholipid syndrome. 
+
+wilson's dz - kaiser fleisher rings
+- abn copper
+- liver failure/cirrhosis in kids
+- dysarthria
+- tremor
+- parkinson but early basically 
+- <mark style="background: #FFF3A3A6;">wing flapping tremor </mark>
+- personality 
+- dx = high urine copper, high copper, ow ceruloplasmin \
+
+s. pneumo = gram poz 
+neisseria = gram neg 
+both are cocci 
+if they're hIV poz 
+- cryptococcus = fungal. more severe. 
+
+raw milk or unwashed sprouds
+- <mark style="background: #FFF3A3A6;">listeria.</mark>
+
+
