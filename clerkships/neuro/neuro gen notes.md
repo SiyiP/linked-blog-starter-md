@@ -960,4 +960,78 @@ if they're hIV poz
 raw milk or unwashed sprouds
 - <mark style="background: #FFF3A3A6;">listeria.</mark>
 
+skull fracture signs
+- battles sign,
+- raccoon eyes
+- clear rhinorrhea+ha = cSf leak 
+
+highest risk of concussion after 10 days after the lsat one. 
+
+***fluoxetine = phenytoin levels are high*** 
+
+SVT = HR above 200, palpitations, EKG show p wave 
+
+v-arrythmia - no prodrome, but suddden death in fam hx 
+
+superior cerebellar a = cerebellum and maybe superior pons
+- might be isolated ataxia or sensory loss <mark style="background: #FFF3A3A6;">without crossed signs.</mark>
+
+
+AICA = hearing loss is biggest flag. 
+pure motor = both posterior internal capsule <mark style="background: #FFF3A3A6;">or corona radiata.</mark>
+
+pituitary apoplexy 
+- mri 
+- surgical evacuation and pituitary replacement therapy (bp support etc.)
+
+porphyria 
+- <mark style="background: #FFF3A3A6;">recurrent attacks</mark>
+- red urine
+- hyponatriemia
+- painful peripheral neuropathy 
+- tachy, insomnia, dysautonomia 
+- triggered by infection, alc use, urinary porphobilinogen
+- avoid hprecipitants, do high carb diet,e tc. 
+
+methanol poisoning - homemade alc , antifreeze. 
+- methanol levels + anion gap 
+- fomepizole, **sodium bicarb to help anion gap**
+
+
+
+NMS- decreased reflexes 
+dantrolene 
+
+serotonin syndrome - hyperreflex 
+seizures 
+cyprheptidine 
+
+
+heroin/opiates = miosis, warm skin, dry mouth, resp dep....
+- a lot of cold flash, n/v, lacrimation, diarrhea and bone pain withdrawal. 
+
+TSC1 =. hamartin 
+TSC2 = tuberin 
+other organ systems = heart , kidneys, brain, skin , retinal , lung (less common)
+presenting symptoms - seizures, intellectual disability 
+dominant 
+ASD
+angiomyolipomas renal. = <mark style="background: #FFF3A3A6;">hematuria.</mark>
+antiepileptics and <mark style="background: #FFF3A3A6;">everolimus = mTOR inhibitor to treat angiomyolipomas, SEGAs, and seizures.</mark>
+
+
+remember NF2
+merlin protein 
+- bilateral neuromas
+- meningiomas for both 
+- epndymomas. 
+- 90+ have <mark style="background: #FFF3A3A6;">early cataracts..</mark>
+
+von hippel lindau AD condition in VHL
+- <mark style="background: #FFF3A3A6;">pheochromocytomas, renal cell carc, retinal angiomas, hemangioblastomas of cystic tumors with mural nodules in erebellar region</mark>
+- distinguish from pilocytic astrocytoma by assessing 
+	- family hx 
+	- age of pt 
+	- pheochromocytoma etc. 
+
 
