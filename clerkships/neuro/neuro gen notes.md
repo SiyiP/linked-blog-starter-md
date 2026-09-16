@@ -701,3 +701,24 @@ myotonic dystrophy
 - <mark style="background: #FFF3A3A6;">hatchet facial appearance, atrophy of temporalis muscle.</mark>
 
 ---
+review session 
+
+hypertensive retinopathy = <mark style="background: #FFF3A3A6;">flame hemorrhages</mark>
+- white around = <mark style="background: #FFF3A3A6;">cotton wool spots</mark> = <mark style="background: #FFF3A3A6;">fluffy, white</mark>
+optic disk edema = <mark style="background: #FFF3A3A6;">severe htn papilledema</mark>
+
+diabetic retinopathy = <mark style="background: #FFF3A3A6;">cotton wool spots, small hemorrhages, WHITE exudates, STIPPLED lesions</mark>
+
+
+papilledema = blurred disc margins , englarged BVs
+central artery occlusion = <mark style="background: #FFF3A3A6;">PALE retina, macula is a cherrry red spot.</mark>
+	other instances of cherry red spot: = childhood metabolic dz like tay sachs, niemann pick, and sandhoff dz.
+
+<mark style="background: #FFF3A3A6;">acute angle closure glaucoma = looks similar to cataract, but it's middilated, fixed pupil, corneal haziness, conjunctival along</mark>
+
+mannitol, hyppertonic saline, pentobarbital and head up and hyperventilation = good for uncal herniation. 
+- pentobarbital = overall decreases cerebral activity 
+
+monroe kelly doctrene = only thing inside skull is csf, brain, blood, and any variation of the 3 balance = not enough space. 
+
+kernohan's notch = 
