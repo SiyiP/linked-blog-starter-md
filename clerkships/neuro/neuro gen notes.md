@@ -444,7 +444,8 @@ juvenile myoclonic epilepsy
 West syndrome = infantile epileptic spasm syndrome
 - <mark style="background: #FFF3A3A6;">infants, triad developmental delay, epileptic spasms, Hypsarrhythmia(high amp, chaotic disorg pattern with multifocal epileptic spike + wave dcs</mark>
 - 10-33% mortality, 70-90% cognitive impairment moderate to severe
-- TREAT<mark style="background: #FFF3A3A6;">: ACTH or IV steroids </mark>
+- hypsarrhythmia is huge. 
+- TREAT<mark style="background: #FFF3A3A6;">: ACTH or IV steroids </mark> !!!
 - 2nd line is <mark style="background: #FFF3A3A6;">vigabatrin</mark> 
 
 
@@ -463,7 +464,7 @@ status epilepticus
 - after 5 min unlikely to resolve spontaneoulsy 
 - after 30 min of continuous seizure activity, brain shows evidence of neuronal injury/death. 
 
-5-20min -> denzodiazepines
+5-20min -> benzodiazepines
 - give either IM midazolam 10 mg > 40 kg, 5 mg 13-40 kg x 1
 - IV lorazepam .1mg/kg, max 4 mg can only repeat 1x
 - IV diazepam .15-.2 mg/kg, max 10 mg, max repeat x1 
@@ -508,7 +509,7 @@ vestibular neuronitis = acute persistent vertigo = cranial nerve part of vestibu
 - cerebellar stroke / brainstem hemorrage =
 - acute MS flares. 
 
-labyrinitis = hearing loss = vestibular neuritis. 
+labyrinitis = hearing loss; not vestibular neuritis. 
 50+% have preceding URI sx 
 
 presents with severe vertigo, usually 24-48 + hours, most have profound gait instability , many will vomit. 
@@ -829,11 +830,8 @@ horners
 - anhidrosis 
 - miosis 
 - ptosis 
-pancoast = plexopathy = hoarseness, etc. 
+**pancoast = plexopathy = hoarseness, etc.** 
 radiation injury to BP from breast cancer treatment can happen. 
-
-endometriosi 
-- 6 mon ago, paresthesias in 
 
 
 radial nerve = dorsal part of hand, 
@@ -845,7 +843,7 @@ axillary nerve= anterior shoulder dislocaiton, compare with rotator cuff injury
 
 ulnar nerve palsy in wrist - seen in <mark style="background: #FFF3A3A6;">hamate fracture = isolated sensory/motor deficis.</mark>
 
-radial neuropathy = writst drop, <mark style="background: #FFF3A3A6;">weak supination, weak triceps, and extensor sensory</mark>
+radial neuropathy = wrist drop, <mark style="background: #FFF3A3A6;">weak supination, weak triceps, and extensor sensory</mark>
 - we see saturday night palsy in axilla comparession or crutches wrong. 
 high humoral fracture. subluxation of radius 
 
@@ -863,7 +861,7 @@ meralgia paresthetica = lateral femoral cutaneous neuropathy
 
 **femoral nerve injury** 
 - distal to inguinal ligament = spare iliopsoas = normal hip flexion 
-- prox to inguinal ligement = weak iliopsoas, weak hip flexion 
+- prox to inguinal ligement = weak iliopsoas = weak hip flexion 
 
 
 inf gluteal nerve = maximus = impaired leg extension 
@@ -921,7 +919,6 @@ bells palsy -
 ramsey hnt vs bells palsy 
 - <mark style="background: #FFF3A3A6;">VZV see vesciles in ear and tongue!!!</mark>
 
-
 cavernous sinus thrombosis - dx with mri and treat with <mark style="background: #FFF3A3A6;">antibiotics</mark>
 - always 2/2 infection and surgical evac
 - <mark style="background: #FFF3A3A6;">internal carotid artery,, cn 3,4, V1/2, and 6(this is medial)</mark>
@@ -939,7 +936,7 @@ treat the infection first and then treat the chorea. syndham chorea.
 chorea gravidarum = young pregnant pts, associated with eclampsia, only treat with severe dz. 
 
 <mark style="background: #FFF3A3A6;">head of caudate stroke = chorea. think of huntingtons.</mark>
-- and antiphospholipid syndrome. 
+- and <mark style="background: #FFF3A3A6;">antiphospholipid syndrome. </mark>
 
 wilson's dz - kaiser fleisher rings
 - abn copper
@@ -987,41 +984,38 @@ pituitary apoplexy
 porphyria 
 - <mark style="background: #FFF3A3A6;">recurrent attacks</mark>
 - red urine
-- hyponatriemia
+- **hyponatriemia**
 - painful peripheral neuropathy 
 - tachy, insomnia, dysautonomia 
 - triggered by infection, alc use, urinary porphobilinogen
-- avoid hprecipitants, do high carb diet,e tc. 
+- avoid precipitants, do high carb diet,e tc. 
 
 methanol poisoning - homemade alc , antifreeze. 
 - methanol levels + anion gap 
 - fomepizole, **sodium bicarb to help anion gap**
 
 
-
-NMS- decreased reflexes 
+NMS- d**ecreased reflexes** 
 dantrolene 
 
-serotonin syndrome - hyperreflex 
+serotonin syndrome - **hyperreflex** 
 seizures 
-cyprheptidine 
-
+cyproheptadine  
 
 heroin/opiates = miosis, warm skin, dry mouth, resp dep....
 - a lot of cold flash, n/v, lacrimation, diarrhea and bone pain withdrawal. 
 
-TSC1 =. hamartin 
+TSC1 = hamartin 
 TSC2 = tuberin 
 other organ systems = heart , kidneys, brain, skin , retinal , lung (less common)
-presenting symptoms - seizures, intellectual disability 
+**presenting symptoms - seizures, intellectual disability** 
 dominant 
 ASD
 angiomyolipomas renal. = <mark style="background: #FFF3A3A6;">hematuria.</mark>
 antiepileptics and <mark style="background: #FFF3A3A6;">everolimus = mTOR inhibitor to treat angiomyolipomas, SEGAs, and seizures.</mark>
 
 
-remember NF2
-merlin protein 
+remember NF2 = merlin protein 
 - bilateral neuromas
 - meningiomas for both 
 - epndymomas. 
