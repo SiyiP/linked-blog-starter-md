@@ -1,5 +1,7 @@
 #sensorimotor #HEENT #clinics 
 
+punch biopsy 3/4 of the way in, and then cut the tissue = for a small nerve biopsy 
+
 we should watch a full hour of rehab in our pmr thing - need therapist signing saying that we have watched this. 
 learning assessments - 2 things on one worksheet. 
 
