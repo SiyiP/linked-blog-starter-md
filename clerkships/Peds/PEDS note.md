@@ -1,3 +1,24 @@
+
+2026-09-22
+ADHD
+- in a few settings - anything you can find organized church/either parent, school 
+	- multi informant approach 
+	- yours to make w/ family+pt. 
+	- scoring criteria is required but we dont always have al the data we need - encourage as many ppl to weigh in 
+	- consider differentials too . 
+	- check out developmental delay, hearing/vision , hypothyroidism
+	- many things can impact a kid. don't fit squ peg into round hole. 
+	- chaotic home environments and stuff 
+	- <mark style="background: #FFF3A3A6;">at risk of getting kicked out of school, and parent's desparate - rare instance where you get a vanderbilt and then get the single family input. very rare instance where you use single input.</mark>
+- AAP - <5 behavioral therapy 
+- if you only have to u use methylphenidate.. instant release 
+	- can go bigger than 
+	- adderall - go with half of their weight as starting dose. 
+- 6+ = medication ; extended release medication. 
+- concerta - single dagger = have to be swallowed whole 
+- 
+
+--
 first check chest -> belly 
 then touch my otoscope light!!
 in lap, let parent hold head to their shoulder 
