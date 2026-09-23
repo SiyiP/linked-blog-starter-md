@@ -3,6 +3,8 @@
 
 
 2026-09-23
+there's a cool ADHD hand out we have that allows for everyday life expectations of ADHD, 504 plans 
+
 Hepatitis weight limit for the 2 month vaccination. 
 - vaccination with the chronologic age.
 
@@ -36,6 +38,8 @@ irritation to the eyes or something
 information about the cradle cap rash? 
 info about the stork bite rash - nevus simplex very very common 
 
+10% below the birth weight - when we start to worry about failure to thrive and stuff 
+- <mark style="background: #FFF3A3A6;">2 weeks to get back onto the birthweight</mark>
 
 ----
 2026-09-22
@@ -50,17 +54,30 @@ ADHD
 	- chaotic home environments and stuff 
 	- <mark style="background: #FFF3A3A6;">at risk of getting kicked out of school, and parent's desparate - rare instance where you get a vanderbilt and then get the single family input. very rare instance where you use single input.</mark>
 	- more than 6 months too - affecting function in more than 1 domain \
-- AAP - <5 behavioral therapy 
+	- for a lot of younger people <7 yo with ADHD = <mark style="background: #FFF3A3A6;">parent child interactive therapy ; PCIT , earpiece coaching the parent over multiple weeks.</mark> = very intense. in practicing play, transitioning, etc. 
+		- very good results with parents and stuff. 
+- **AAP - <5 behavioral therapy** 
+	- there's a preschool ADHD form - if they have abnormalitites, it doesn't say dx but just higher risk. 
+	- prelmiinary dx and made to <mark style="background: #FFF3A3A6;">reassess it when they get older.</mark>
+	- send initial vanderbilt if they haven't done it in a while. 
 - if you only have to u use methylphenidate.. instant release 
 	- can go bigger than 
 	- adderall - go with half of their weight as starting dose. 
+	- start lowest and if they fail methylphenidate -> adderall 
+	- alpha agonist guanfacine/clonidine (sleep-inducing, use at night?) = for non-stimulant drugs. 
+	- stimulants - not predictable how much it impacts appetite. **always watch weight/BP.**
+	- if they have cardiac condition = <mark style="background: #FFF3A3A6;">screen for it before starting it.</mark>
+		- refer to cards/walk-in at SMP for EKG. 
+		- when we start med, come back in 3-4 wks. 
+		- esp see them in times of transitions of school or moving etc. reassess. 
+		- be careful about short acting adderal= <mark style="background: #FFF3A3A6;">diverted drug when used inappropriately</mark>
 - 6+ = medication ; extended release medication. 
 - concerta - single dagger = have to be swallowed whole 
 - 504 vs iep 
 	- 504 - only for <mark style="background: #FFF3A3A6;">adhd</mark>, <mark style="background: #FFF3A3A6;">physical disabilitieis like CP , other disabilities too</mark>
 	- IEP - specific plan the school has in place for the kid ; for <mark style="background: #FFF3A3A6;">other learning disabilitiies; any specific learning disability</mark>
 	- <mark style="background: #FFF3A3A6;">schools HAVE to do neuropsych testing.</mark>
-		- when it's clinically significant = is when it becomes a disaorder 
+		- when it's clinically significant = is when it becomes a disorder.  
 in kids who you're conceren
 --
 first check chest -> belly 
