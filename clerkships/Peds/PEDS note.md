@@ -1,4 +1,43 @@
 
+
+
+
+2026-09-23
+Hepatitis weight limit for the 2 month vaccination. 
+- vaccination with the chronologic age.
+
+when there's some interest in it or concern, get the parent heights if they say that they're short or something
+
+for oral thrust - risk factors of spitting up, reflux (seen with a lot of discomfort every time you drink etc.), and bottle popping 
+
+for gross motor - ask about sleeping arrangements like many babies get skills via crib 
+	exersaucer = don't you put them in for too long, floor time is better. for gross motor development 
+
+bartonella cat scratch dz = look out for lymphadenopathy and stuff in the genital area and axillary areas. 
+
+make sure to supplement vitamin D breast milk until 6-9 months of age 
+decreasing RFs:
+- Living at high latitudes (closer to the polar regions), particularly during winter.
+- High levels of air pollution.
+- Dense cloud covering.
+- The degree to which clothing covers the skin.
+- Use of sunscreen.
+- Darker skin types.
+-  Severe vitamin D deficiency may also be associated with hypocalcemia, which may cause tetany or seizures.
+-  Exclusively breastfed infants consuming an average of 750 mL of breast milk daily ingest only 10 to 40 international units/day (0.25 to 1 microgram/day) of vitamin D in the absence of sun exposure or supplement use
+
+and 6 months + older pt = think about fortifying their diet with iron if they're still mostly breastfed. 
+
+call them and see what's going on and see if we can make it 
+
+impetigo in babies - saw honey crusted lesions 
+not sure about the eyes - more crusty than clogged tear ducts?
+irritation to the eyes or something 
+information about the cradle cap rash? 
+info about the stork bite rash - nevus simplex very very common 
+
+
+----
 2026-09-22
 ADHD
 - in a few settings - anything you can find organized church/either parent, school 
