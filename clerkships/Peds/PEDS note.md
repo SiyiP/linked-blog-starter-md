@@ -1,7 +1,41 @@
+9/27 
+nursery orientation 
+screening 
+- look into if their kids got treated for something/how they got treated 
+
+not medically strongly about circumcision, but information on 
+- potential benefit of procedure: small chance of risk of UTIs in boys during just the first year of life, but it's pretty small 
+- risks of behavior being with most procedures 
+
+
+look for babies who are 12 hours old = getting vitamin K + peed first 
+
+x hours born at GA 
+
+f/u hip dysplasia 
+- hip US at 6 wks 
+- <mark style="background: #FFF3A3A6;">think about getting hip US if theere's breeech presentation instead.</mark>
+
+we just started taking care of cephalo babies; typically NICU but now we manage them. bby is AGA = appropriate for gestational age
+- check head circumferences for stability in cephalo babies. 
+- why get hematocrit? 
+
+kaiser score = a sepsis neonatal test 
+bilirubin deltas - look into the measurements for trending. 
+at **36 wks and younger = need kaiser test? **
+- need carseat for low birth weight, 
+- <mark style="background: #FFF3A3A6;">carseat test to see if they can safely handle semi reclined position of car seat without dangerous drops in vitals.</mark>
+what is maternal Tmax? 
+- maternal max temperature
+
+ask to pause and do a quick exam if there's an urgent worry 
+hbv given within first 24 hours of age. 
+
+bilirubin >14 for 
 
 
 
-
+---
 2026-09-23
 there's a cool ADHD hand out we have that allows for everyday life expectations of ADHD, 504 plans 
 
