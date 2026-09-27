@@ -31,9 +31,19 @@ what is maternal Tmax?
 ask to pause and do a quick exam if there's an urgent worry 
 hbv given within first 24 hours of age. 
 
-bilirubin >14 for 
+overall it's answering questions for parents. 
+scent free lotions 
 
+for the first 7 days of life 
+day 1 pee 1x, 2 2x, 3 3x and so on 
+and then will normalize by 7 days of life, typically peeing several times a day with pooping 
+pooping a lot, not a specific nujber but making sure they poop like once on their day 1 of life. 
 
+<mark style="background: #FFF3A3A6;">eyes crossed - normal til 4 months </mark>
+true eye colors ? = heard from 3-9 months? heard at least a year? 
+seeing color - variable development, after the first weeks or so i've heard. 
+
+for the baby bath = wait at least 6 hrs , 12 for preterm infants 
 
 ---
 2026-09-23
