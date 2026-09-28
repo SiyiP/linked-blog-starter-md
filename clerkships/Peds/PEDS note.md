@@ -1,3 +1,24 @@
+9/28 
+PCP - 
+rectal temp >100.4 
+lok if their eyes are yellow, if breathing is too fast? 
+skin around base of cord is red/angry loooking 
+rol down the front of diaper for cord care. clean with cloth moistened with clean water and then pat it dry .
+- falls off bt 7-14 after birth. 
+- moisture at base, slight odor, 
+
+**babies don't neeed to be bathed daily; this makes skin too dry.**
+
+wipe front to back. 
+not necessary to push foreskin back to clean uncirc penis. clean with water once a day or post bowel movement.
+- swelling on penis is normal post circ. 
+- some bleeding is norm but if >quarter, bring to ED. apply firm pressure with washcloth for several miin 
+<mark style="background: #FFF3A3A6;">during first day or so, feed at least 8 times in 24 hrs. feed on dmean.d</mark>
+- milk vol inc = hear audible swallows as feeds. milk transfer. 
+- allow to feed until satisfied like relaxed hands 
+
+room temp 4 hrs, fridge for 4 days, freezer 6 months 
+
 9/27 
 nursery orientation 
 screening 
