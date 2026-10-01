@@ -1,3 +1,10 @@
+note about sepsis 
+CRP is a very popular lab, and something to note is that it has a great Negative predictibility value, like if it's negative it's usually good indicator that nothings wrong. 
+if nothing's wrong otherwise, and it's positive it might not mean much 
+
+pro calcitonini is another possible lab to get. but it's just less popular here and the evidence is less prevalent about it being good. 
+
+
 9/28 
 PCP - 
 rectal temp >100.4 
