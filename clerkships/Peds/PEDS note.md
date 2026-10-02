@@ -4,6 +4,8 @@ if nothing's wrong otherwise, and it's positive it might not mean much
 
 pro calcitonini is another possible lab to get. but it's just less popular here and the evidence is less prevalent about it being good. 
 
+bacturia of GBS = more scary if there's bacturia bc we already know. 
+- safe- no ROM etc = planned 
 
 9/28 
 PCP - 
