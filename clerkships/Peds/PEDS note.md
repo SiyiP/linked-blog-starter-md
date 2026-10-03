@@ -7,6 +7,11 @@ pro calcitonini is another possible lab to get. but it's just less popular here 
 bacturia of GBS = more scary if there's bacturia bc we already know. 
 - safe- no ROM etc = planned 
 
+
+relatively unknown or new test - if inconclusive for fabry's - we would recheck at 24-28 days of age
+- note tat it's common for it to have an inconclusive screen with low birht weight kids 
+- 
+
 9/28 
 PCP - 
 rectal temp >100.4 
