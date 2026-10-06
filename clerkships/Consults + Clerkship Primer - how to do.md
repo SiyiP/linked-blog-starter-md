@@ -4,6 +4,8 @@ paging:
 **“This is Angel, your student. Paging about MRN #### Adams. Can we meet in room XYZ for admission / whatever? Call back 8435138949”**
 
 **- do the lowest level page the intern first and maybe they’ll have someone else call you back.** 
+I have an 11 yo F w/ cyclic vomiting syndrome dx 1 month ago presenting with acutely worsened vomiting in the absence of her clear previous triggers. Mother has 
+
 "
 I have a __ y/o [insert pertinent info here, pregnant, etc] F/M at [gestational age] p/w [insert presenting item here, can get from imaging summary]. MRN #####
 
@@ -41,3 +43,5 @@ look at prev notes that your new resident or whatever is having, and top right o
 add in dates instead of postop day etc -> to keep the date and make sure it's there to keep track. 
 
 reember outpatient vs inpatient have different structures for oral presentations. 
+
+
