@@ -26,3 +26,9 @@ i am more unsure about arrhythmias and medications to treating them
 bilirubinemias (indirect/direct review conjugation process etc?)
 
 respiratory distress pathophys - ARDS (vascular perm.) 
+
+childhood cancer identification (ALL)
+
+IBDs
+
+Gastro illnesses 
