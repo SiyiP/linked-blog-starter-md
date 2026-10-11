@@ -15,3 +15,10 @@ methemoglobinemia
 and learn how to read blood gases. 
 
 reading CSF results 
+
+respiratory illness identification ? 2x, look at 21 and 22 in nbme 4. 
+pneumonia diseases - s. aureus vs pseudomonas 
+
+RAS system and renal artery thrombosis causing overactivation 
+
+i am more unsure about arrhythmias and medications to treating them 
