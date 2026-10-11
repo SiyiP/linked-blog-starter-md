@@ -22,3 +22,7 @@ pneumonia diseases - s. aureus vs pseudomonas
 RAS system and renal artery thrombosis causing overactivation 
 
 i am more unsure about arrhythmias and medications to treating them 
+
+bilirubinemias (indirect/direct review conjugation process etc?)
+
+respiratory distress pathophys - ARDS (vascular perm.) 
