@@ -31,6 +31,7 @@ i am more unsure about arrhythmias and medications to treating them
 - myocarditis vs endocarditis: 
 	- myocarditis = think heart failure, volume overload, chest pain, pulm edema and S3. 
 	- endocarditis = think rare dz with kids underlying congenital stuff, rheumatic heart disease, or central venous catheter use, vegetations, duke criteria, FROM JANE 
+- <mark style="background: #FFF3A3A6;">just learn how to read common ekgs boss</mark>
 
 bilirubinemias (indirect/direct review conjugation process etc?)
 
