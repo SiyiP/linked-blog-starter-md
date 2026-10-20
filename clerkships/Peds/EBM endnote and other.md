@@ -58,4 +58,3 @@ pubmed has clinical queries filter, you can turn it into therapy, diagnosis, eti
 
 jed305@musc.edu
 - work with pediatric rotation teams = EBM group - 
-- 
