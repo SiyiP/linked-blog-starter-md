@@ -33,7 +33,7 @@ clerkships for medical students
 highest level - clinical practice guidelines, meta analysis/systematic review = 2ndary preappraised or filtered
 
 then for primary studies, 
-- randomized ctrl tiral
+- **randomized ctrl tiral**
 - cohort studies (observational)
 - case control studies (retrospective)
 - case report/case series , narrrative reviews, expert opinions, editorials = no design 
@@ -58,3 +58,31 @@ pubmed has clinical queries filter, you can turn it into therapy, diagnosis, eti
 
 jed305@musc.edu
 - work with pediatric rotation teams = EBM group - 
+
+
+---
+vascular inflammation - 
+{{c1::Conjunctivitis (bilateral)::**C**}}
+{{c1::Rash (polymorphous → desquamating)::**R**}}
+{{c1::Adenopathy (unilateral; cervical lymph nodes)::**A**}}
+{{c1::Strawberry tongue (oral mucositis)::**S**}}
+{{c1::Hand-foot erythema and edema::**H**}}
+{{c1::Fever ≥ 5 days::**Burn**}}
+
+inflammatory markers/crp = up, ESR 
+lymphocytosis 
+thrombocytosis but rarely consumptive coagulopathy = thrombocytopenia (inc risk of CA abnormalities/CAAs)
+anemia 
+
+45% of pts in 259 retrospecive = at least 1 abn liver function test 
+perturbations in lipids 
+
+early d and treat with ivig within 1st 10 days of illness, ideally b4 day 7 = 5-fold decrease in CAAs. 
+
+rare presentation happens in adults = consider HIV, 1/4th of adult KD cases occured 
+
+'Consider incomplete Kawasaki disease — Both infants and adults are less likely to meet formal criteria for KD, leading to delays in diagnosiIncomplete KD should be suspected in the following scenarios:
+
+●Patients less than six moths of age with unexplained fever ≥7 days, even if they have no clinical findings of KD but do have elevated inflammatory markers
+
+●Patients of any age with unexplained fever ≥5 days and only two or three clinical criteria'
