@@ -25,7 +25,7 @@ duration is 5 days likely adequate for uncomplicated dz
 
 Pharmacokinetics 
 immediate and extended release forms 
-- tmax 1-1.5 hr 
+- t-max 1-1.5 hr 
 - half life is 1.2 hr for amox, 1 hr clavulanic 
 - amox - predominantly renal 
 - clavulanate - renal and nonrenal metabolism 
@@ -33,4 +33,8 @@ immediate and extended release forms
 SEs-  
 - diarrhea - can occur 2 months + after stopped 
 - n/v often dose related 
+NIcU - 4:1 
+
+
+
 
