@@ -243,7 +243,6 @@ look at [[-FPC Child Interview_Ritchie]] more
 
 pediatrics physical exam 
 **General Appearance**: For example any obvious deformities, size appropriate for age, respiratory distress or pain, and hydration and general nutrition status. 
-
 **Head**: Normal or abnormal facies and normal or abnormal head shape. Fontanelle size if open (anterior and posterior). 
 **Eyes**: Include all positive findings on eye examination and include proptosis, sclerae, conjunctivae, strabismus, photophobia, and funduscopic exam. 
 **Ears**: Hearing, external canal, discharge, tympanic membrane appearance. 
