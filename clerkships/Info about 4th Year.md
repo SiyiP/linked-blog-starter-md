@@ -156,7 +156,7 @@ NBME Clinical science self assessment = <mark style="background: #FFF3A3A6;">we 
 
 most ppl 
 - who start block 1 on time, they take it in late june 6/16 - 30 
-- some take it in early and late july 
+- **some take it in early and late july** 
 - maybe some ppl want to get sub-is done bc LORs are biggest priority 
 - depends on how you wanna set up your schedulel. 
 - in off cycle = <mark style="background: #FFF3A3A6;">most ppl like me will take it in late july and early august.</mark>
