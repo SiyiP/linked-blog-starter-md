@@ -11,12 +11,13 @@ speak to anyone from the outside of hospital
 goals for today 
 sleep/energy/appetite 
 
+ABSMAT
 appearance - appears stated age, appropriate grooming/hygiene
 - dress, grooming, hygiene posture 
 - any distinguishing characteristics 
 behavior
 - interacting with interviewer and surroundings, eye contact, reaction to stress of interview (when we're all rounding)
-language/speech 
+speech 
 - prosody = rhythm, cadance, musicality, emotional tone
 - latency - prolonged period bt thought and verbal expression 
 - neurologic - slurring, dysarthria, aphasia, fluency, etc 
