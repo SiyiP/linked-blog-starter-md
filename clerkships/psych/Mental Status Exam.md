@@ -85,4 +85,3 @@ montreal cognitive assessment - MoCA
 - out of 30, 26+ 
 - executive fucntion huge 
 - highest edu level attained - not an iq test , conetxt of it all 
-- 
