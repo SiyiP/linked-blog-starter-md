@@ -114,7 +114,7 @@ acute dystonia (worry about airway compromise, diphenhydramine and benztropine h
 - olanzapine - metabolic
 - **quetiapine - anticholinergic, orthostatic hypotension** 
 - **ziprasidone - qtc prolongation** 
-- aripiprazole - akathisia 
+- aripiprazole - **akathisia** 
 - clozapine - **technically sga, but on multiple receptors**
 	- treatment resistent schizophrenia, after 2 failed trials 
 	- SEs: agranulocytosis, <mark style="background: #FFF3A3A6;">myocarditis! required to test for it now.</mark> guidelines are more focused on myocarditis now, but anticholinergiccs with orthostasis, constipation, sialorrhea, seizures 
